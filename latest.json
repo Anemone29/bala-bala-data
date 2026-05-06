@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-06T06:35:28.261567+00:00",
+  "generated_at": "2026-05-06T06:39:14.734429+00:00",
   "top_categories": [
     {
-      "name": "news",
-      "total": 57
+      "name": "tech",
+      "total": 64
     },
     {
-      "name": "tech",
-      "total": 41
+      "name": "news",
+      "total": 34
     },
     {
       "name": "finance",
@@ -42,8 +42,8 @@
       "category": "tech",
       "hashtags": [
         "#tech",
-        "#musk",
         "#chatgpt",
+        "#musk",
         "#arstechnica",
         "#bbcnews",
         "#bbc",
@@ -56,43 +56,7 @@
         "#worldwariii",
         "#twitter"
       ],
-      "summary": "Topik \"OpenAI\" disebut 6 kali dari 4 sumber dalam 24 jam terakhir. Momentum menguat (+20%). Sering dibahas bareng Musk, ChatGPT."
-    },
-    {
-      "id": "Trump",
-      "title": "Trump",
-      "score": 4.83,
-      "count": 4,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news",
-        "lemmy/world",
-        "mastodon/trending"
-      ],
-      "category": "finance",
-      "hashtags": [
-        "#finance",
-        "#hormuz",
-        "#strait",
-        "#bbcnews",
-        "#bbc",
-        "#lemmyworld",
-        "#lemmy",
-        "#mastodontrending",
-        "#mastodon",
-        "#projectfreedom",
-        "#man",
-        "#secretservice",
-        "#gas",
-        "#states",
-        "#medicaid",
-        "#trillion",
-        "#israel",
-        "#uae",
-        "#gaza",
-        "#sudan"
-      ],
-      "summary": "Topik \"Trump\" disebut 4 kali dari 3 sumber dalam 24 jam terakhir. Momentum stabil (+0%). Sering dibahas bareng Hormuz, Strait."
+      "summary": "Topik \"OpenAI\" disebut 6 kali dari 4 sumber dalam 24 jam terakhir. Momentum menguat (+20%). Sering dibahas bareng ChatGPT, Musk."
     },
     {
       "id": "Apple",
@@ -144,6 +108,67 @@
       "summary": "Topik \"ChatGPT\" disebut 4 kali dari 3 sumber dalam 24 jam terakhir. Momentum stabil (+0%). Sering dibahas bareng OpenAI."
     },
     {
+      "id": "Trump",
+      "title": "Trump",
+      "score": 4.83,
+      "count": 4,
+      "growth": 0.0,
+      "sources": [
+        "bbc/news",
+        "lemmy/world",
+        "mastodon/trending"
+      ],
+      "category": "finance",
+      "hashtags": [
+        "#finance",
+        "#hormuz",
+        "#strait",
+        "#bbcnews",
+        "#bbc",
+        "#lemmyworld",
+        "#lemmy",
+        "#mastodontrending",
+        "#mastodon",
+        "#projectfreedom",
+        "#man",
+        "#secretservice",
+        "#gas",
+        "#states",
+        "#medicaid",
+        "#trillion",
+        "#israel",
+        "#uae",
+        "#gaza",
+        "#sudan"
+      ],
+      "summary": "Topik \"Trump\" disebut 4 kali dari 3 sumber dalam 24 jam terakhir. Momentum stabil (+0%). Sering dibahas bareng Hormuz, Strait."
+    },
+    {
+      "id": "Meta",
+      "title": "Meta",
+      "score": 4.16,
+      "count": 3,
+      "growth": -25.0,
+      "sources": [
+        "hackernews",
+        "techcrunch",
+        "theverge"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#hackernews",
+        "#techcrunch",
+        "#theverge",
+        "#book",
+        "#zuckerberg",
+        "#personallyauthorized",
+        "#encouraged",
+        "#copyrightinfringement"
+      ],
+      "summary": "Topik \"Meta\" disebut 3 kali dari 3 sumber dalam 24 jam terakhir. Momentum menurun (-25%)."
+    },
+    {
       "id": "Israel",
       "title": "Israel",
       "score": 4.16,
@@ -177,31 +202,6 @@
       "summary": "Topik \"Israel\" disebut 3 kali dari 3 sumber dalam 24 jam terakhir. Momentum menurun (-25%)."
     },
     {
-      "id": "Meta",
-      "title": "Meta",
-      "score": 4.16,
-      "count": 3,
-      "growth": -25.0,
-      "sources": [
-        "hackernews",
-        "techcrunch",
-        "theverge"
-      ],
-      "category": "tech",
-      "hashtags": [
-        "#tech",
-        "#hackernews",
-        "#techcrunch",
-        "#theverge",
-        "#book",
-        "#zuckerberg",
-        "#personallyauthorized",
-        "#encouraged",
-        "#copyrightinfringement"
-      ],
-      "summary": "Topik \"Meta\" disebut 3 kali dari 3 sumber dalam 24 jam terakhir. Momentum menurun (-25%)."
-    },
-    {
       "id": "Musk",
       "title": "Musk",
       "score": 3.22,
@@ -228,30 +228,6 @@
       "summary": "Topik \"Musk\" disebut 4 kali dari 2 sumber dalam 24 jam terakhir. Momentum menguat (+33%). Sering dibahas bareng OpenAI, Twitter."
     },
     {
-      "id": "Strait",
-      "title": "Strait",
-      "score": 2.77,
-      "count": 3,
-      "growth": 50.0,
-      "sources": [
-        "bbc/news",
-        "lemmy/world"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#hormuz",
-        "#trump",
-        "#bbcnews",
-        "#bbc",
-        "#lemmyworld",
-        "#lemmy",
-        "#projectfreedom",
-        "#captain"
-      ],
-      "summary": "Topik \"Strait\" disebut 3 kali dari 2 sumber dalam 24 jam terakhir. Momentum menguat (+50%). Sering dibahas bareng Hormuz, Trump."
-    },
-    {
       "id": "Hormuz",
       "title": "Hormuz",
       "score": 2.77,
@@ -276,57 +252,11 @@
       "summary": "Topik \"Hormuz\" disebut 3 kali dari 2 sumber dalam 24 jam terakhir. Momentum menguat (+50%). Sering dibahas bareng Strait, Trump."
     },
     {
-      "id": "Europe",
-      "title": "Europe",
-      "score": 2.2,
-      "count": 2,
-      "growth": 0.0,
-      "sources": [
-        "arstechnica",
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#arstechnica",
-        "#bbcnews",
-        "#bbc",
-        "#arsenal",
-        "#musk",
-        "#dutch",
-        "#fsd"
-      ],
-      "summary": "Topik \"Europe\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Road",
-      "title": "Road",
-      "score": 2.2,
-      "count": 2,
-      "growth": null,
-      "sources": [
-        "bbc/news",
-        "tempo"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#tempo",
-        "#death",
-        "#ukrainian",
-        "#electriccar",
-        "#breaksdown"
-      ],
-      "summary": "Topik \"Road\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum baru muncul."
-    },
-    {
-      "id": "Oil",
-      "title": "Oil",
-      "score": 2.2,
-      "count": 2,
-      "growth": null,
+      "id": "Strait",
+      "title": "Strait",
+      "score": 2.77,
+      "count": 3,
+      "growth": 50.0,
       "sources": [
         "bbc/news",
         "lemmy/world"
@@ -334,40 +264,16 @@
       "category": "news",
       "hashtags": [
         "#news",
+        "#hormuz",
+        "#trump",
         "#bbcnews",
         "#bbc",
         "#lemmyworld",
         "#lemmy",
         "#projectfreedom",
-        "#iran",
-        "#graveyard",
-        "#dreams",
-        "#stanislawtrojanski"
+        "#captain"
       ],
-      "summary": "Topik \"Oil\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum baru muncul."
-    },
-    {
-      "id": "Met Gala",
-      "title": "Met Gala",
-      "score": 2.2,
-      "count": 2,
-      "growth": -33.3,
-      "sources": [
-        "bbc/news",
-        "tempo"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#tempo",
-        "#heidiklum",
-        "#art",
-        "#inspired",
-        "#iconiclooks"
-      ],
-      "summary": "Topik \"Met Gala\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum menurun (-33%)."
+      "summary": "Topik \"Strait\" disebut 3 kali dari 2 sumber dalam 24 jam terakhir. Momentum menguat (+50%). Sering dibahas bareng Hormuz, Trump."
     },
     {
       "id": "German",
@@ -450,6 +356,100 @@
         "#widely"
       ],
       "summary": "Topik \"Daemon Tools\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
+    },
+    {
+      "id": "Road",
+      "title": "Road",
+      "score": 2.2,
+      "count": 2,
+      "growth": null,
+      "sources": [
+        "bbc/news",
+        "tempo"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#bbcnews",
+        "#bbc",
+        "#tempo",
+        "#electriccar",
+        "#breaksdown",
+        "#death",
+        "#ukrainian"
+      ],
+      "summary": "Topik \"Road\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Met Gala",
+      "title": "Met Gala",
+      "score": 2.2,
+      "count": 2,
+      "growth": -33.3,
+      "sources": [
+        "bbc/news",
+        "tempo"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#bbcnews",
+        "#bbc",
+        "#tempo",
+        "#art",
+        "#inspired",
+        "#iconiclooks",
+        "#heidiklum"
+      ],
+      "summary": "Topik \"Met Gala\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum menurun (-33%)."
+    },
+    {
+      "id": "Europe",
+      "title": "Europe",
+      "score": 2.2,
+      "count": 2,
+      "growth": 0.0,
+      "sources": [
+        "arstechnica",
+        "bbc/news"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#arstechnica",
+        "#bbcnews",
+        "#bbc",
+        "#arsenal",
+        "#musk",
+        "#dutch",
+        "#fsd"
+      ],
+      "summary": "Topik \"Europe\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
+    },
+    {
+      "id": "Oil",
+      "title": "Oil",
+      "score": 2.2,
+      "count": 2,
+      "growth": null,
+      "sources": [
+        "bbc/news",
+        "lemmy/world"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#bbcnews",
+        "#bbc",
+        "#lemmyworld",
+        "#lemmy",
+        "#projectfreedom",
+        "#iran",
+        "#graveyard",
+        "#dreams",
+        "#stanislawtrojanski"
+      ],
+      "summary": "Topik \"Oil\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
       "id": "RFK",
@@ -535,6 +535,27 @@
       "summary": "Topik \"Gemini\" disebut 2 kali dari 2 sumber dalam 24 jam terakhir. Momentum stabil (+0%). Sering dibahas bareng Google Home."
     },
     {
+      "id": "Siram Andrie Yunus",
+      "title": "Siram Andrie Yunus",
+      "score": 1.1,
+      "count": 2,
+      "growth": null,
+      "sources": [
+        "tempo"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#tempo",
+        "#anggotabaistni",
+        "#pakaiairaki",
+        "#saksi",
+        "#terdakwalukagosong",
+        "#muka"
+      ],
+      "summary": "Topik \"Siram Andrie Yunus\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
       "id": "Project Freedom",
       "title": "Project Freedom",
       "score": 1.1,
@@ -575,6 +596,27 @@
       "summary": "Topik \"Cruise\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
     },
     {
+      "id": "Times",
+      "title": "Times",
+      "score": 1.1,
+      "count": 2,
+      "growth": null,
+      "sources": [
+        "lemmy/world"
+      ],
+      "category": "news",
+      "hashtags": [
+        "#news",
+        "#india",
+        "#indianews",
+        "#sir",
+        "#westbengal",
+        "#lemmyworld",
+        "#lemmy"
+      ],
+      "summary": "Topik \"Times\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India, India News, SIR."
+    },
+    {
       "id": "West Bengal",
       "title": "West Bengal",
       "score": 1.1,
@@ -596,8 +638,8 @@
       "summary": "Topik \"West Bengal\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India, India News, SIR."
     },
     {
-      "id": "Times",
-      "title": "Times",
+      "id": "India",
+      "title": "India",
       "score": 1.1,
       "count": 2,
       "growth": null,
@@ -607,14 +649,14 @@
       "category": "news",
       "hashtags": [
         "#news",
-        "#india",
         "#indianews",
         "#sir",
+        "#times",
         "#westbengal",
         "#lemmyworld",
         "#lemmy"
       ],
-      "summary": "Topik \"Times\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India, India News, SIR."
+      "summary": "Topik \"India\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India News, SIR, Times."
     },
     {
       "id": "India News",
@@ -659,27 +701,6 @@
       "summary": "Topik \"SIR\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India, India News, Times."
     },
     {
-      "id": "India",
-      "title": "India",
-      "score": 1.1,
-      "count": 2,
-      "growth": null,
-      "sources": [
-        "lemmy/world"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#indianews",
-        "#sir",
-        "#times",
-        "#westbengal",
-        "#lemmyworld",
-        "#lemmy"
-      ],
-      "summary": "Topik \"India\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul. Sering dibahas bareng India News, SIR, Times."
-    },
-    {
       "id": "Microsoft",
       "title": "Microsoft",
       "score": 1.1,
@@ -696,27 +717,6 @@
         "#xbox"
       ],
       "summary": "Topik \"Microsoft\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum menurun (-33%)."
-    },
-    {
-      "id": "Siram Andrie Yunus",
-      "title": "Siram Andrie Yunus",
-      "score": 1.1,
-      "count": 2,
-      "growth": null,
-      "sources": [
-        "tempo"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#tempo",
-        "#anggotabaistni",
-        "#pakaiairaki",
-        "#saksi",
-        "#terdakwalukagosong",
-        "#muka"
-      ],
-      "summary": "Topik \"Siram Andrie Yunus\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
       "id": "Twitter",
@@ -848,435 +848,402 @@
       "summary": "Topik \"Show\" disebut 2 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
     },
     {
-      "id": "Canary Islands",
-      "title": "Canary Islands",
-      "score": 0.69,
-      "count": 1,
-      "growth": -50.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#cruise"
-      ],
-      "summary": "Topik \"Canary Islands\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum menurun (-50%)."
-    },
-    {
-      "id": "Nothing",
-      "title": "Nothing",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#israel",
-        "#lebanon"
-      ],
-      "summary": "Topik \"Nothing\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Lebanon",
-      "title": "Lebanon",
-      "score": 0.69,
-      "count": 1,
-      "growth": -50.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#nothing",
-        "#israel"
-      ],
-      "summary": "Topik \"Lebanon\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum menurun (-50%)."
-    },
-    {
-      "id": "Catherine",
-      "title": "Catherine",
+      "id": "Marc Lore",
+      "title": "Marc Lore",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#italy"
+        "#tech",
+        "#techcrunch"
       ],
-      "summary": "Topik \"Catherine\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Marc Lore\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Italy",
-      "title": "Italy",
+      "id": "Uber",
+      "title": "Uber",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#catherine"
+        "#tech",
+        "#techcrunch",
+        "#nuro"
       ],
-      "summary": "Topik \"Italy\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Uber\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Britain",
-      "title": "Britain",
+      "id": "Nuro",
+      "title": "Nuro",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#campaigning"
+        "#tech",
+        "#techcrunch",
+        "#uber"
       ],
-      "summary": "Topik \"Britain\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Nuro\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Campaigning",
-      "title": "Campaigning",
+      "id": "SAP",
+      "title": "SAP",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#britain"
+        "#tech",
+        "#techcrunch",
+        "#german",
+        "#nemoclaw"
       ],
-      "summary": "Topik \"Campaigning\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"SAP\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Hate",
-      "title": "Hate",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc"
-      ],
-      "summary": "Topik \"Hate\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "BBC",
-      "title": "BBC",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#captain",
-        "#strait",
-        "#hormuz"
-      ],
-      "summary": "Topik \"BBC\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Captain",
-      "title": "Captain",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#strait",
-        "#hormuz"
-      ],
-      "summary": "Topik \"Captain\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Arsenal",
-      "title": "Arsenal",
+      "id": "NemoClaw",
+      "title": "NemoClaw",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#europe"
+        "#tech",
+        "#techcrunch",
+        "#sap",
+        "#german"
       ],
-      "summary": "Topik \"Arsenal\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"NemoClaw\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Man",
-      "title": "Man",
+      "id": "Bumble",
+      "title": "Bumble",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#trump",
-        "#secretservice"
+        "#tech",
+        "#techcrunch"
       ],
-      "summary": "Topik \"Man\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Bumble\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Secret Service",
-      "title": "Secret Service",
+      "id": "Altara",
+      "title": "Altara",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#man",
-        "#trump"
+        "#tech",
+        "#techcrunch"
       ],
-      "summary": "Topik \"Secret Service\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Altara\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Murder",
-      "title": "Murder",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc"
-      ],
-      "summary": "Topik \"Murder\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Death",
-      "title": "Death",
+      "id": "EVs",
+      "title": "EVs",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#road",
-        "#ukrainian"
+        "#tech",
+        "#techcrunch",
+        "#lucidmotors"
       ],
-      "summary": "Topik \"Death\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"EVs\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Ukrainian",
-      "title": "Ukrainian",
+      "id": "Lucid Motors",
+      "title": "Lucid Motors",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#road",
-        "#death"
+        "#tech",
+        "#techcrunch",
+        "#evs"
       ],
-      "summary": "Topik \"Ukrainian\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Lucid Motors\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Papers",
-      "title": "Papers",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#borrowing",
-        "#come"
-      ],
-      "summary": "Topik \"Papers\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Come",
-      "title": "Come",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#papers",
-        "#borrowing"
-      ],
-      "summary": "Topik \"Come\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Borrowing",
-      "title": "Borrowing",
-      "score": 0.69,
-      "count": 1,
-      "growth": 0.0,
-      "sources": [
-        "bbc/news"
-      ],
-      "category": "news",
-      "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#papers",
-        "#come"
-      ],
-      "summary": "Topik \"Borrowing\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum stabil (+0%)."
-    },
-    {
-      "id": "Soviet",
-      "title": "Soviet",
+      "id": "Choose Your Own",
+      "title": "Choose Your Own",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#finding",
-        "#tom",
-        "#solving"
+        "#tech",
+        "#techcrunch",
+        "#apple",
+        "#adventure"
       ],
-      "summary": "Topik \"Soviet\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Choose Your Own\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Tom",
-      "title": "Tom",
+      "id": "Adventure",
+      "title": "Adventure",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#finding",
-        "#solving",
-        "#soviet"
+        "#tech",
+        "#techcrunch",
+        "#apple",
+        "#chooseyourown"
       ],
-      "summary": "Topik \"Tom\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Adventure\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Finding",
-      "title": "Finding",
+      "id": "ASML CEO Christophe",
+      "title": "ASML CEO Christophe",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#tom",
-        "#solving",
-        "#soviet"
+        "#tech",
+        "#techcrunch",
+        "#fouquet"
       ],
-      "summary": "Topik \"Finding\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"ASML CEO Christophe\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     },
     {
-      "id": "Solving",
-      "title": "Solving",
+      "id": "Fouquet",
+      "title": "Fouquet",
       "score": 0.69,
       "count": 1,
       "growth": null,
       "sources": [
-        "bbc/news"
+        "techcrunch"
       ],
-      "category": "news",
+      "category": "tech",
       "hashtags": [
-        "#news",
-        "#bbcnews",
-        "#bbc",
-        "#finding",
-        "#tom",
-        "#soviet"
+        "#tech",
+        "#techcrunch",
+        "#asmlceochristophe"
       ],
-      "summary": "Topik \"Solving\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+      "summary": "Topik \"Fouquet\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Rivian",
+      "title": "Rivian",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#volkswagen",
+        "#amazon"
+      ],
+      "summary": "Topik \"Rivian\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Amazon",
+      "title": "Amazon",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#volkswagen",
+        "#rivian"
+      ],
+      "summary": "Topik \"Amazon\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Volkswagen",
+      "title": "Volkswagen",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#rivian",
+        "#amazon"
+      ],
+      "summary": "Topik \"Volkswagen\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Airbnb",
+      "title": "Airbnb",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#peterarnell"
+      ],
+      "summary": "Topik \"Airbnb\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Peter Arnell",
+      "title": "Peter Arnell",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#airbnb"
+      ],
+      "summary": "Topik \"Peter Arnell\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Pennsylvania",
+      "title": "Pennsylvania",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#character"
+      ],
+      "summary": "Topik \"Pennsylvania\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "GPT",
+      "title": "GPT",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#openai",
+        "#instant",
+        "#chatgpt"
+      ],
+      "summary": "Topik \"GPT\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Instant",
+      "title": "Instant",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#openai",
+        "#gpt",
+        "#chatgpt"
+      ],
+      "summary": "Topik \"Instant\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "PayPal",
+      "title": "PayPal",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch"
+      ],
+      "summary": "Topik \"PayPal\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
+    },
+    {
+      "id": "Etsy",
+      "title": "Etsy",
+      "score": 0.69,
+      "count": 1,
+      "growth": null,
+      "sources": [
+        "techcrunch"
+      ],
+      "category": "tech",
+      "hashtags": [
+        "#tech",
+        "#techcrunch",
+        "#chatgpt"
+      ],
+      "summary": "Topik \"Etsy\" disebut 1 kali dari 1 sumber dalam 24 jam terakhir. Momentum baru muncul."
     }
   ],
   "edges": [
@@ -1284,6 +1251,11 @@
       "from": "Hormuz",
       "to": "Strait",
       "weight": 3
+    },
+    {
+      "from": "ChatGPT",
+      "to": "OpenAI",
+      "weight": 2
     },
     {
       "from": "Hormuz",
@@ -1297,11 +1269,6 @@
     },
     {
       "from": "Musk",
-      "to": "OpenAI",
-      "weight": 2
-    },
-    {
-      "from": "ChatGPT",
       "to": "OpenAI",
       "weight": 2
     },
