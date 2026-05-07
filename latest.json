@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-05-06T11:20:18.221814+00:00",
+  "generated_at": "2026-05-07T02:06:35.592949+00:00",
   "top_sectors": [
+    {
+      "name": "Technology",
+      "total_volume": 4507363200,
+      "count": 3
+    },
     {
       "name": "Energy",
       "total_volume": 2568973200,
@@ -38,21 +43,30 @@
     },
     {
       "name": "Consumer Cyclical",
-      "total_volume": 250724000,
+      "total_volume": 250723700,
       "count": 28
     },
     {
       "name": "Healthcare",
       "total_volume": 233838300,
       "count": 17
-    },
-    {
-      "name": "Technology",
-      "total_volume": 212395904,
-      "count": 3
     }
   ],
   "stocks": [
+    {
+      "ticker": "GOTO",
+      "yahoo_ticker": "GOTO.JK",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 50.0,
+      "open": 51.0,
+      "high": 51.0,
+      "low": 50.0,
+      "volume": 4506998400,
+      "change_pct": -1.96,
+      "size_score": 19.233
+    },
     {
       "ticker": "BUMI",
       "yahoo_ticker": "BUMI.JK",
@@ -220,20 +234,6 @@
       "volume": 75977100,
       "change_pct": 9.06,
       "size_score": 16.184
-    },
-    {
-      "ticker": "GOTO",
-      "yahoo_ticker": "GOTO.JK",
-      "name": "PT GoTo Gojek Tokopedia Tbk",
-      "sector": "Technology",
-      "industry": "Software - Infrastructure",
-      "price": 50.0,
-      "open": 51.0,
-      "high": 51.0,
-      "low": 50.0,
-      "volume": 212031104,
-      "change_pct": -1.96,
-      "size_score": 16.177
     },
     {
       "ticker": "APLN",
@@ -3554,20 +3554,6 @@
       "size_score": 3.045
     },
     {
-      "ticker": "MAPB",
-      "yahoo_ticker": "MAPB.JK",
-      "name": "PT Map Boga Adiperkasa Tbk",
-      "sector": "Consumer Cyclical",
-      "industry": "Restaurants",
-      "price": 1480.0,
-      "open": 1480.0,
-      "high": 1480.0,
-      "low": 1480.0,
-      "volume": 300,
-      "change_pct": 0.0,
-      "size_score": 2.773
-    },
-    {
       "ticker": "MASB",
       "yahoo_ticker": "MASB.JK",
       "name": "PT Bank Multiarta Sentosa Tbk",
@@ -3717,6 +3703,20 @@
       "open": 18.0,
       "high": 18.0,
       "low": 18.0,
+      "volume": 0,
+      "change_pct": 0.0,
+      "size_score": 0.0
+    },
+    {
+      "ticker": "MAPB",
+      "yahoo_ticker": "MAPB.JK",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "price": 1480.0,
+      "open": 1480.0,
+      "high": 1480.0,
+      "low": 1480.0,
       "volume": 0,
       "change_pct": 0.0,
       "size_score": 0.0
