@@ -9,8 +9,8 @@
     },
     {
       "name": "Energy",
-      "total_volume": 239529800,
-      "count": 20
+      "total_volume": 240835400,
+      "count": 21
     },
     {
       "name": "Financial Services",
@@ -24,8 +24,8 @@
     },
     {
       "name": "Basic Materials",
-      "total_volume": 48464100,
-      "count": 22
+      "total_volume": 60001300,
+      "count": 25
     },
     {
       "name": "Industrials",
@@ -34,8 +34,8 @@
     },
     {
       "name": "Consumer Defensive",
-      "total_volume": 28653800,
-      "count": 35
+      "total_volume": 38095400,
+      "count": 39
     },
     {
       "name": "Real Estate",
@@ -49,25 +49,25 @@
     },
     {
       "name": "Consumer Cyclical",
-      "total_volume": 12890500,
-      "count": 17
+      "total_volume": 13847200,
+      "count": 21
     }
   ],
   "indices": [
     {
       "name": "LQ45",
-      "count": 41,
-      "avg_change": 0.54
+      "count": 44,
+      "avg_change": 0.37
     },
     {
       "name": "IDX30",
-      "count": 26,
-      "avg_change": 0.56
+      "count": 28,
+      "avg_change": 0.34
     },
     {
       "name": "JII",
-      "count": 26,
-      "avg_change": 0.33
+      "count": 28,
+      "avg_change": -0.03
     },
     {
       "name": "HiDiv20",
@@ -3584,7 +3584,7 @@
       "change_pct": 10.95,
       "size_score": 15.679,
       "volume_ratio": null,
-      "tier": "apex",
+      "tier": "surging",
       "indices": []
     },
     {
@@ -3930,6 +3930,271 @@
       "volume": 300,
       "change_pct": 0.95,
       "size_score": 2.937,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BRPT",
+      "yahoo_ticker": "BRPT.JK",
+      "name": "PT Barito Pacific Tbk",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "price": 2160,
+      "open": 2360,
+      "high": 2160,
+      "low": 2160,
+      "volume": 11182900,
+      "change_pct": -8.47,
+      "size_score": 13.234,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "JPFA",
+      "yahoo_ticker": "JPFA.JK",
+      "name": "PT Japfa Comfeed Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 2600,
+      "open": 2620,
+      "high": 2600,
+      "low": 2600,
+      "volume": 6981000,
+      "change_pct": -0.76,
+      "size_score": 12.763,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "CPIN",
+      "yahoo_ticker": "CPIN.JK",
+      "name": "PT Charoen Pokphand Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 4220,
+      "open": 4080,
+      "high": 4220,
+      "low": 4220,
+      "volume": 2040200,
+      "change_pct": 3.43,
+      "size_score": 12.055,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "IPOL",
+      "yahoo_ticker": "IPOL.JK",
+      "name": "PT Indopoly Swakarsa Industry Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "price": 138,
+      "open": 124,
+      "high": 138,
+      "low": 138,
+      "volume": 929100,
+      "change_pct": 11.29,
+      "size_score": 11.927,
+      "volume_ratio": null,
+      "tier": "apex",
+      "indices": []
+    },
+    {
+      "ticker": "CGAS",
+      "yahoo_ticker": "CGAS.JK",
+      "name": "Citra Nusantara Gemilang Tbk.",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 186,
+      "open": 176,
+      "high": 186,
+      "low": 186,
+      "volume": 1305600,
+      "change_pct": 5.68,
+      "size_score": 11.845,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "LAPD",
+      "yahoo_ticker": "LAPD.JK",
+      "name": "PT Leyand International Tbk",
+      "sector": "Other",
+      "industry": "",
+      "price": 86,
+      "open": 90,
+      "high": 86,
+      "low": 86,
+      "volume": 2126800,
+      "change_pct": -4.44,
+      "size_score": 11.574,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "GDST",
+      "yahoo_ticker": "GDST.JK",
+      "name": "PT Gunawan Dianjaya Steel Tbk",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "price": 104,
+      "open": 104,
+      "high": 104,
+      "low": 104,
+      "volume": 322400,
+      "change_pct": 0,
+      "size_score": 9.688,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "DSFI",
+      "yahoo_ticker": "DSFI.JK",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 103,
+      "open": 109,
+      "high": 103,
+      "low": 103,
+      "volume": 315600,
+      "change_pct": -5.5,
+      "size_score": 9.667,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "MAIN",
+      "yahoo_ticker": "MAIN.JK",
+      "name": "PT Malindo Feedmill Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 860,
+      "open": 865,
+      "high": 860,
+      "low": 860,
+      "volume": 104800,
+      "change_pct": -0.58,
+      "size_score": 8.564,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "KEEN",
+      "yahoo_ticker": "KEEN.JK",
+      "name": "PT Kencana Energi Lestari Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "price": 895,
+      "open": 910,
+      "high": 895,
+      "low": 895,
+      "volume": 77100,
+      "change_pct": -1.65,
+      "size_score": 8.257,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "POWR",
+      "yahoo_ticker": "POWR.JK",
+      "name": "PT Cikarang Listrindo Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "price": 740,
+      "open": 745,
+      "high": 740,
+      "low": 740,
+      "volume": 59600,
+      "change_pct": -0.67,
+      "size_score": 8,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BAJA",
+      "yahoo_ticker": "BAJA.JK",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "price": 160,
+      "open": 161,
+      "high": 160,
+      "low": 160,
+      "volume": 31900,
+      "change_pct": -0.62,
+      "size_score": 7.375,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PJAA",
+      "yahoo_ticker": "PJAA.JK",
+      "name": "PT Pembangunan Jaya Ancol Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Leisure",
+      "price": 496,
+      "open": 494,
+      "high": 496,
+      "low": 496,
+      "volume": 19200,
+      "change_pct": 0.4,
+      "size_score": 6.945,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "YPAS",
+      "yahoo_ticker": "YPAS.JK",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "price": 1110,
+      "open": 1100,
+      "high": 1110,
+      "low": 1110,
+      "volume": 8100,
+      "change_pct": 0.91,
+      "size_score": 6.173,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PICO",
+      "yahoo_ticker": "PICO.JK",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "price": 164,
+      "open": 165,
+      "high": 164,
+      "low": 164,
+      "volume": 300,
+      "change_pct": -0.61,
+      "size_score": 2.773,
       "volume_ratio": null,
       "tier": null,
       "indices": []
