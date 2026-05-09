@@ -4,13 +4,13 @@
   "top_sectors": [
     {
       "name": "Energy",
-      "total_volume": 216883900,
-      "count": 12
+      "total_volume": 226331900,
+      "count": 17
     },
     {
       "name": "Financial Services",
-      "total_volume": 64110700,
-      "count": 33
+      "total_volume": 64376500,
+      "count": 34
     },
     {
       "name": "Communication Services",
@@ -18,9 +18,14 @@
       "count": 8
     },
     {
+      "name": "Industrials",
+      "total_volume": 31525900,
+      "count": 20
+    },
+    {
       "name": "Basic Materials",
-      "total_volume": 27367500,
-      "count": 15
+      "total_volume": 31348000,
+      "count": 17
     },
     {
       "name": "Technology",
@@ -28,14 +33,14 @@
       "count": 3
     },
     {
+      "name": "Consumer Defensive",
+      "total_volume": 19515300,
+      "count": 30
+    },
+    {
       "name": "Consumer Cyclical",
       "total_volume": 15877100,
       "count": 9
-    },
-    {
-      "name": "Industrials",
-      "total_volume": 12152400,
-      "count": 17
     },
     {
       "name": "Healthcare",
@@ -43,21 +48,16 @@
       "count": 13
     },
     {
-      "name": "Consumer Defensive",
-      "total_volume": 6179400,
-      "count": 18
-    },
-    {
       "name": "Utilities",
-      "total_volume": 2017900,
-      "count": 1
+      "total_volume": 2579100,
+      "count": 2
     }
   ],
   "indices": [
     {
       "name": "LQ45",
-      "count": 33,
-      "avg_change": -0.39
+      "count": 35,
+      "avg_change": -0.37
     },
     {
       "name": "IDX30",
@@ -65,19 +65,19 @@
       "avg_change": -0.05
     },
     {
+      "name": "JII",
+      "count": 20,
+      "avg_change": -0.17
+    },
+    {
       "name": "HiDiv20",
       "count": 19,
       "avg_change": -0.07
     },
     {
-      "name": "JII",
-      "count": 18,
-      "avg_change": -0.19
-    },
-    {
       "name": "BUMN20",
-      "count": 15,
-      "avg_change": -0.45
+      "count": 16,
+      "avg_change": -0.58
     }
   ],
   "stocks": [
@@ -2441,6 +2441,422 @@
       "size_score": 3.829,
       "volume_ratio": null,
       "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BIPI",
+      "yahoo_ticker": "BIPI.JK",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "sector": "Industrials",
+      "industry": "Infrastructure Operations",
+      "price": 238,
+      "open": 246,
+      "high": 238,
+      "low": 238,
+      "volume": 18927100,
+      "change_pct": -3.25,
+      "size_score": 13.76,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BWPT",
+      "yahoo_ticker": "BWPT.JK",
+      "name": "PT Eagle High Plantations Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 133,
+      "open": 137,
+      "high": 133,
+      "low": 133,
+      "volume": 9213800,
+      "change_pct": -2.92,
+      "size_score": 13.04,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ESSA",
+      "yahoo_ticker": "ESSA.JK",
+      "name": "PT ESSA Industries Indonesia Tbk.",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "price": 880,
+      "open": 875,
+      "high": 880,
+      "low": 880,
+      "volume": 3977100,
+      "change_pct": 0.57,
+      "size_score": 12.308,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "ENRG",
+      "yahoo_ticker": "ENRG.JK",
+      "name": "PT Energi Mega Persada Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 1710,
+      "open": 1700,
+      "high": 1710,
+      "low": 1710,
+      "volume": 3077700,
+      "change_pct": 0.59,
+      "size_score": 12.056,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MEDC",
+      "yahoo_ticker": "MEDC.JK",
+      "name": "PT Medco Energi Internasional Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 1750,
+      "open": 1760,
+      "high": 1750,
+      "low": 1750,
+      "volume": 2866100,
+      "change_pct": -0.57,
+      "size_score": 11.873,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ELSA",
+      "yahoo_ticker": "ELSA.JK",
+      "name": "PT Elnusa Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "price": 765,
+      "open": 785,
+      "high": 765,
+      "low": 765,
+      "volume": 1997900,
+      "change_pct": -2.55,
+      "size_score": 11.512,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "AKRA",
+      "yahoo_ticker": "AKRA.JK",
+      "name": "PT AKR Corporindo Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 1570,
+      "open": 1580,
+      "high": 1570,
+      "low": 1570,
+      "volume": 1495700,
+      "change_pct": -0.63,
+      "size_score": 11.222,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "GZCO",
+      "yahoo_ticker": "GZCO.JK",
+      "name": "PT Gozco Plantations Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 210,
+      "open": 214,
+      "high": 210,
+      "low": 210,
+      "volume": 1315000,
+      "change_pct": -1.87,
+      "size_score": 11.094,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SIMP",
+      "yahoo_ticker": "SIMP.JK",
+      "name": "PT Salim Ivomas Pratama Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 735,
+      "open": 770,
+      "high": 735,
+      "low": 735,
+      "volume": 838800,
+      "change_pct": -4.55,
+      "size_score": 10.644,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "LSIP",
+      "yahoo_ticker": "LSIP.JK",
+      "name": "PT Perusahaan Perkebunan London Sumatra Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 1620,
+      "open": 1705,
+      "high": 1620,
+      "low": 1620,
+      "volume": 793900,
+      "change_pct": -4.99,
+      "size_score": 10.589,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "RAJA",
+      "yahoo_ticker": "RAJA.JK",
+      "name": "PT Rukun Raharja Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "price": 4160,
+      "open": 4230,
+      "high": 4160,
+      "low": 4160,
+      "volume": 561200,
+      "change_pct": -1.65,
+      "size_score": 10.242,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "DSNG",
+      "yahoo_ticker": "DSNG.JK",
+      "name": "PT Dharma Satya Nusantara Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 1750,
+      "open": 1755,
+      "high": 1750,
+      "low": 1750,
+      "volume": 494500,
+      "change_pct": -0.28,
+      "size_score": 10.116,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PALM",
+      "yahoo_ticker": "PALM.JK",
+      "name": "PT Provident Investasi Bersama Tbk",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "price": 370,
+      "open": 368,
+      "high": 370,
+      "low": 370,
+      "volume": 265800,
+      "change_pct": 0.54,
+      "size_score": 9.597,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "WINS",
+      "yahoo_ticker": "WINS.JK",
+      "name": "PT Wintermar Offshore Marine Tbk",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "price": 560,
+      "open": 570,
+      "high": 560,
+      "low": 560,
+      "volume": 291000,
+      "change_pct": -1.75,
+      "size_score": 9.585,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "JAWA",
+      "yahoo_ticker": "JAWA.JK",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 167,
+      "open": 173,
+      "high": 167,
+      "low": 167,
+      "volume": 242900,
+      "change_pct": -3.47,
+      "size_score": 9.405,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SOCI",
+      "yahoo_ticker": "SOCI.JK",
+      "name": "PT Soechi Lines Tbk",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "price": 496,
+      "open": 490,
+      "high": 496,
+      "low": 496,
+      "volume": 155400,
+      "change_pct": 1.22,
+      "size_score": 9.176,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "UNSP",
+      "yahoo_ticker": "UNSP.JK",
+      "name": "PT Bakrie Sumatera Plantations Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 370,
+      "open": 392,
+      "high": 370,
+      "low": 370,
+      "volume": 189700,
+      "change_pct": -5.61,
+      "size_score": 9.158,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "AALI",
+      "yahoo_ticker": "AALI.JK",
+      "name": "PT Astra Agro Lestari Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 8275,
+      "open": 8100,
+      "high": 8275,
+      "low": 8275,
+      "volume": 131400,
+      "change_pct": 2.16,
+      "size_score": 9.149,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "TBLA",
+      "yahoo_ticker": "TBLA.JK",
+      "name": "PT Tunas Baru Lampung Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 730,
+      "open": 735,
+      "high": 730,
+      "low": 730,
+      "volume": 72000,
+      "change_pct": -0.68,
+      "size_score": 8.189,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SSMS",
+      "yahoo_ticker": "SSMS.JK",
+      "name": "PT Sawit Sumbermas Sarana Tbk.",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 1420,
+      "open": 1395,
+      "high": 1420,
+      "low": 1420,
+      "volume": 33100,
+      "change_pct": 1.79,
+      "size_score": 7.718,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "RUIS",
+      "yahoo_ticker": "RUIS.JK",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "price": 224,
+      "open": 228,
+      "high": 224,
+      "low": 224,
+      "volume": 10600,
+      "change_pct": -1.75,
+      "size_score": 6.275,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ANJT",
+      "yahoo_ticker": "ANJT.JK",
+      "name": "PT Austindo Nusantara Jaya Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 1810,
+      "open": 1815,
+      "high": 1810,
+      "low": 1810,
+      "volume": 9300,
+      "change_pct": -0.28,
+      "size_score": 6.144,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SAMF",
+      "yahoo_ticker": "SAMF.JK",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "price": 324,
+      "open": 330,
+      "high": 324,
+      "low": 324,
+      "volume": 3400,
+      "change_pct": -1.82,
+      "size_score": 5.142,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SGRO",
+      "yahoo_ticker": "SGRO.JK",
+      "name": "PT Prime Agri Resources Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 4240,
+      "open": 4480,
+      "high": 4240,
+      "low": 4240,
+      "volume": 1500,
+      "change_pct": -5.36,
+      "size_score": 4.331,
+      "volume_ratio": null,
+      "tier": "falling",
       "indices": []
     }
   ]
