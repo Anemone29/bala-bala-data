@@ -8,14 +8,19 @@
       "count": 3
     },
     {
+      "name": "Energy",
+      "total_volume": 170374000,
+      "count": 13
+    },
+    {
       "name": "Financial Services",
       "total_volume": 109997600,
       "count": 33
     },
     {
-      "name": "Energy",
-      "total_volume": 28893500,
-      "count": 2
+      "name": "Basic Materials",
+      "total_volume": 30355700,
+      "count": 15
     },
     {
       "name": "Communication Services",
@@ -28,14 +33,9 @@
       "count": 17
     },
     {
-      "name": "Basic Materials",
-      "total_volume": 8371400,
-      "count": 7
-    },
-    {
       "name": "Industrials",
-      "total_volume": 8357000,
-      "count": 13
+      "total_volume": 9520000,
+      "count": 16
     },
     {
       "name": "Consumer Cyclical",
@@ -43,41 +43,41 @@
       "count": 8
     },
     {
+      "name": "Utilities",
+      "total_volume": 3725100,
+      "count": 1
+    },
+    {
       "name": "Healthcare",
       "total_volume": 3713100,
       "count": 14
-    },
-    {
-      "name": "Real Estate",
-      "total_volume": 263700,
-      "count": 1
     }
   ],
   "indices": [
     {
       "name": "LQ45",
-      "count": 25,
-      "avg_change": -0.29
+      "count": 33,
+      "avg_change": -0.16
     },
     {
       "name": "IDX30",
-      "count": 18,
-      "avg_change": 0.04
+      "count": 25,
+      "avg_change": -0.06
     },
     {
       "name": "HiDiv20",
-      "count": 14,
-      "avg_change": 0.26
-    },
-    {
-      "name": "BUMN20",
-      "count": 11,
-      "avg_change": 0.06
+      "count": 19,
+      "avg_change": 0.32
     },
     {
       "name": "JII",
-      "count": 11,
-      "avg_change": 0.32
+      "count": 18,
+      "avg_change": 0.3
+    },
+    {
+      "name": "BUMN20",
+      "count": 15,
+      "avg_change": 0.49
     }
   ],
   "stocks": [
@@ -1991,6 +1991,437 @@
       "volume": 25800,
       "change_pct": 0,
       "size_score": 7.163,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BUMI",
+      "yahoo_ticker": "BUMI.JK",
+      "name": "PT Bumi Resources Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 230,
+      "open": 234,
+      "high": 230,
+      "low": 230,
+      "volume": 130778700,
+      "change_pct": -1.71,
+      "size_score": 15.693,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ANTM",
+      "yahoo_ticker": "ANTM.JK",
+      "name": "PT Antam (Persero) Tbk",
+      "sector": "Basic Materials",
+      "industry": "Gold",
+      "price": 3800,
+      "open": 3730,
+      "high": 3800,
+      "low": 3800,
+      "volume": 7944500,
+      "change_pct": 1.88,
+      "size_score": 13.211,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "PSAB",
+      "yahoo_ticker": "PSAB.JK",
+      "name": "PT J Resources Asia Pasifik Tbk",
+      "sector": "Basic Materials",
+      "industry": "Gold",
+      "price": 570,
+      "open": 515,
+      "high": 570,
+      "low": 570,
+      "volume": 2721500,
+      "change_pct": 10.68,
+      "size_score": 12.964,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "ADRO",
+      "yahoo_ticker": "ADRO.JK",
+      "name": "PT Alamtri Resources Indonesia Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 2530,
+      "open": 2520,
+      "high": 2530,
+      "low": 2530,
+      "volume": 4817600,
+      "change_pct": 0.4,
+      "size_score": 12.469,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "TINS",
+      "yahoo_ticker": "TINS.JK",
+      "name": "PT TIMAH Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 3890,
+      "open": 3730,
+      "high": 3890,
+      "low": 3890,
+      "volume": 2447700,
+      "change_pct": 4.29,
+      "size_score": 12.334,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "BUMN20",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "PGAS",
+      "yahoo_ticker": "PGAS.JK",
+      "name": "PT Perusahaan Gas Negara (Persero) Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "price": 1895,
+      "open": 1880,
+      "high": 1895,
+      "low": 1895,
+      "volume": 3725100,
+      "change_pct": 0.8,
+      "size_score": 12.283,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "AMMN",
+      "yahoo_ticker": "AMMN.JK",
+      "name": "PT Amman Mineral Internasional Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Precious Metals & Mining",
+      "price": 5000,
+      "open": 5225,
+      "high": 5000,
+      "low": 5000,
+      "volume": 4069100,
+      "change_pct": -4.31,
+      "size_score": 12.223,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "MDKA",
+      "yahoo_ticker": "MDKA.JK",
+      "name": "PT Merdeka Copper Gold Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 3110,
+      "open": 3110,
+      "high": 3110,
+      "low": 3110,
+      "volume": 3757100,
+      "change_pct": 0,
+      "size_score": 12.143,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "DSSA",
+      "yahoo_ticker": "DSSA.JK",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 1480,
+      "open": 1510,
+      "high": 1480,
+      "low": 1480,
+      "volume": 3038500,
+      "change_pct": -1.99,
+      "size_score": 11.931,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PTBA",
+      "yahoo_ticker": "PTBA.JK",
+      "name": "PT Bukit Asam (Persero) Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 2930,
+      "open": 2940,
+      "high": 2930,
+      "low": 2930,
+      "volume": 1613700,
+      "change_pct": -0.34,
+      "size_score": 11.298,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "INCO",
+      "yahoo_ticker": "INCO.JK",
+      "name": "PT Vale Indonesia Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 6125,
+      "open": 6025,
+      "high": 6125,
+      "low": 6125,
+      "volume": 867200,
+      "change_pct": 1.66,
+      "size_score": 10.964,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "SSIA",
+      "yahoo_ticker": "SSIA.JK",
+      "name": "PT Surya Semesta Internusa Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 1805,
+      "open": 1870,
+      "high": 1805,
+      "low": 1805,
+      "volume": 970700,
+      "change_pct": -3.48,
+      "size_score": 10.79,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "INDY",
+      "yahoo_ticker": "INDY.JK",
+      "name": "PT. Indika Energy Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 3770,
+      "open": 3800,
+      "high": 3770,
+      "low": 3770,
+      "volume": 642300,
+      "change_pct": -0.79,
+      "size_score": 10.377,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "HRUM",
+      "yahoo_ticker": "HRUM.JK",
+      "name": "PT Harum Energy Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 985,
+      "open": 980,
+      "high": 985,
+      "low": 985,
+      "volume": 419000,
+      "change_pct": 0.51,
+      "size_score": 10.047,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "NRCA",
+      "yahoo_ticker": "NRCA.JK",
+      "name": "PT Nusa Raya Cipta Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 615,
+      "open": 625,
+      "high": 615,
+      "low": 615,
+      "volume": 172300,
+      "change_pct": -1.6,
+      "size_score": 9.061,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "NICL",
+      "yahoo_ticker": "NICL.JK",
+      "name": "PT PAM Mineral Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 850,
+      "open": 855,
+      "high": 850,
+      "low": 850,
+      "volume": 171900,
+      "change_pct": -0.58,
+      "size_score": 9.059,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ITMG",
+      "yahoo_ticker": "ITMG.JK",
+      "name": "PT Indo Tambangraya Megah Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 26175,
+      "open": 26875,
+      "high": 26175,
+      "low": 26175,
+      "volume": 151600,
+      "change_pct": -2.6,
+      "size_score": 8.933,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "DGIK",
+      "yahoo_ticker": "DGIK.JK",
+      "name": "PT Nusa Konstruksi Enjiniring Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 142,
+      "open": 141,
+      "high": 142,
+      "low": 142,
+      "volume": 20000,
+      "change_pct": 0.71,
+      "size_score": 7.041,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "KKGI",
+      "yahoo_ticker": "KKGI.JK",
+      "name": "PT Resource Alam Indonesia Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 316,
+      "open": 318,
+      "high": 316,
+      "low": 316,
+      "volume": 12800,
+      "change_pct": -0.63,
+      "size_score": 6.463,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "IFSH",
+      "yahoo_ticker": "IFSH.JK",
+      "name": "PT Ifishdeco Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 2170,
+      "open": 2170,
+      "high": 2170,
+      "low": 2170,
+      "volume": 5300,
+      "change_pct": 0,
+      "size_score": 5.583,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BSSR",
+      "yahoo_ticker": "BSSR.JK",
+      "name": "PT Baramulti Suksessarana Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 4010,
+      "open": 4020,
+      "high": 4010,
+      "low": 4010,
+      "volume": 3000,
+      "change_pct": -0.25,
+      "size_score": 5.017,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BYAN",
+      "yahoo_ticker": "BYAN.JK",
+      "name": "PT Bayan Resources Tbk.",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 11025,
+      "open": 11175,
+      "high": 11025,
+      "low": 11025,
+      "volume": 2000,
+      "change_pct": -1.34,
+      "size_score": 4.615,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "GEMS",
+      "yahoo_ticker": "GEMS.JK",
+      "name": "PT Golden Energy Mines Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 7800,
+      "open": 7900,
+      "high": 7800,
+      "low": 7800,
+      "volume": 1300,
+      "change_pct": -1.27,
+      "size_score": 4.19,
       "volume_ratio": null,
       "tier": null,
       "indices": []
