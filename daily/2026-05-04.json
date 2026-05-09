@@ -9,12 +9,22 @@
     },
     {
       "name": "Communication Services",
-      "total_volume": 51779200,
-      "count": 7
+      "total_volume": 51780000,
+      "count": 8
     },
     {
       "name": "Technology",
       "total_volume": 24546000,
+      "count": 3
+    },
+    {
+      "name": "Consumer Defensive",
+      "total_volume": 6179400,
+      "count": 18
+    },
+    {
+      "name": "Healthcare",
+      "total_volume": 6105600,
       "count": 3
     },
     {
@@ -31,28 +41,28 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 14,
-      "avg_change": 0.15
+      "count": 19,
+      "avg_change": -0.01
     },
     {
       "name": "IDX30",
-      "count": 10,
-      "avg_change": 0.72
+      "count": 14,
+      "avg_change": 0.5
     },
     {
       "name": "HiDiv20",
-      "count": 5,
-      "avg_change": 0.9
-    },
-    {
-      "name": "BUMN20",
-      "count": 5,
-      "avg_change": 0.86
+      "count": 9,
+      "avg_change": 0.38
     },
     {
       "name": "JII",
-      "count": 1,
-      "avg_change": 1.4
+      "count": 7,
+      "avg_change": 0.25
+    },
+    {
+      "name": "BUMN20",
+      "count": 6,
+      "avg_change": 0.93
     }
   ],
   "stocks": [
@@ -883,6 +893,409 @@
       "volume": 600,
       "change_pct": -1.06,
       "size_score": 3.434,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "KLBF",
+      "yahoo_ticker": "KLBF.JK",
+      "name": "PT Kalbe Farma Tbk.",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "price": 865,
+      "open": 880,
+      "high": 865,
+      "low": 865,
+      "volume": 4836600,
+      "change_pct": -1.7,
+      "size_score": 12.396,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "UNVR",
+      "yahoo_ticker": "UNVR.JK",
+      "name": "PT Unilever Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "price": 1560,
+      "open": 1560,
+      "high": 1560,
+      "low": 1560,
+      "volume": 1466800,
+      "change_pct": 0,
+      "size_score": 11.203,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "COCO",
+      "yahoo_ticker": "COCO.JK",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "price": 312,
+      "open": 322,
+      "high": 312,
+      "low": 312,
+      "volume": 1342100,
+      "change_pct": -3.11,
+      "size_score": 11.114,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SIDO",
+      "yahoo_ticker": "SIDO.JK",
+      "name": "PT Industri Jamu dan Farmasi Sido Muncul Tbk",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "price": 484,
+      "open": 494,
+      "high": 484,
+      "low": 484,
+      "volume": 1257000,
+      "change_pct": -2.02,
+      "size_score": 11.049,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "HMSP",
+      "yahoo_ticker": "HMSP.JK",
+      "name": "PT Hanjaya Mandala Sampoerna Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "price": 745,
+      "open": 750,
+      "high": 745,
+      "low": 745,
+      "volume": 1137600,
+      "change_pct": -0.67,
+      "size_score": 10.949,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "MYOR",
+      "yahoo_ticker": "MYOR.JK",
+      "name": "PT Mayora Indah Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 1770,
+      "open": 1725,
+      "high": 1770,
+      "low": 1770,
+      "volume": 447900,
+      "change_pct": 2.61,
+      "size_score": 10.437,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "JII"
+      ]
+    },
+    {
+      "ticker": "INDF",
+      "yahoo_ticker": "INDF.JK",
+      "name": "PT Indofood Sukses Makmur Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 6950,
+      "open": 6850,
+      "high": 6950,
+      "low": 6950,
+      "volume": 432700,
+      "change_pct": 1.46,
+      "size_score": 10.238,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "PSDN",
+      "yahoo_ticker": "PSDN.JK",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 194,
+      "open": 206,
+      "high": 194,
+      "low": 194,
+      "volume": 531700,
+      "change_pct": -5.83,
+      "size_score": 10.188,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "ICBP",
+      "yahoo_ticker": "ICBP.JK",
+      "name": "PT Indofood CBP Sukses Makmur Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 6800,
+      "open": 6800,
+      "high": 6800,
+      "low": 6800,
+      "volume": 259900,
+      "change_pct": 0,
+      "size_score": 9.472,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "ULTJ",
+      "yahoo_ticker": "ULTJ.JK",
+      "name": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic",
+      "price": 1595,
+      "open": 1545,
+      "high": 1595,
+      "low": 1595,
+      "volume": 122200,
+      "change_pct": 3.24,
+      "size_score": 9.217,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "AISA",
+      "yahoo_ticker": "AISA.JK",
+      "name": "PT FKS Food Sejahtera Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 121,
+      "open": 123,
+      "high": 121,
+      "low": 121,
+      "volume": 142000,
+      "change_pct": -1.63,
+      "size_score": 8.868,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ROTI",
+      "yahoo_ticker": "ROTI.JK",
+      "name": "PT Nippon Indosari Corpindo Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 615,
+      "open": 630,
+      "high": 615,
+      "low": 615,
+      "volume": 92600,
+      "change_pct": -2.38,
+      "size_score": 8.441,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "CMRY",
+      "yahoo_ticker": "CMRY.JK",
+      "name": "PT Cisarua Mountain Dairy Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 4470,
+      "open": 4320,
+      "high": 4470,
+      "low": 4470,
+      "volume": 53000,
+      "change_pct": 3.47,
+      "size_score": 8.41,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "WIIM",
+      "yahoo_ticker": "WIIM.JK",
+      "name": "PT Wismilak Inti Makmur Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "price": 1925,
+      "open": 1905,
+      "high": 1925,
+      "low": 1925,
+      "volume": 70100,
+      "change_pct": 1.05,
+      "size_score": 8.353,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "GGRM",
+      "yahoo_ticker": "GGRM.JK",
+      "name": "PT Gudang Garam Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "price": 16175,
+      "open": 16475,
+      "high": 16175,
+      "low": 16175,
+      "volume": 56600,
+      "change_pct": -1.82,
+      "size_score": 7.948,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "KAEF",
+      "yahoo_ticker": "KAEF.JK",
+      "name": "PT Kimia Farma Tbk",
+      "sector": "Healthcare",
+      "industry": "Medical Distribution",
+      "price": 488,
+      "open": 482,
+      "high": 488,
+      "low": 488,
+      "volume": 12000,
+      "change_pct": 1.24,
+      "size_score": 6.62,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "CAMP",
+      "yahoo_ticker": "CAMP.JK",
+      "name": "PT Campina Ice Cream Industry, Tbk.",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 200,
+      "open": 204,
+      "high": 200,
+      "low": 200,
+      "volume": 13900,
+      "change_pct": -1.96,
+      "size_score": 6.545,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ADES",
+      "yahoo_ticker": "ADES.JK",
+      "name": "PT Akasha Wira International Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic",
+      "price": 19850,
+      "open": 20050,
+      "high": 19850,
+      "low": 19850,
+      "volume": 5100,
+      "change_pct": -1,
+      "size_score": 5.545,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BUDI",
+      "yahoo_ticker": "BUDI.JK",
+      "name": "PT Budi Starch & Sweetener Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 212,
+      "open": 212,
+      "high": 212,
+      "low": 212,
+      "volume": 4000,
+      "change_pct": 0,
+      "size_score": 5.303,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "CEKA",
+      "yahoo_ticker": "CEKA.JK",
+      "name": "PT Wilmar Cahaya Indonesia Tbk.",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 2400,
+      "open": 2370,
+      "high": 2400,
+      "low": 2400,
+      "volume": 1000,
+      "change_pct": 1.27,
+      "size_score": 4.154,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "DMMX",
+      "yahoo_ticker": "DMMX.JK",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "price": 220,
+      "open": 220,
+      "high": 220,
+      "low": 220,
+      "volume": 800,
+      "change_pct": 0,
+      "size_score": 3.714,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MLBI",
+      "yahoo_ticker": "MLBI.JK",
+      "name": "PT Multi Bintang Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Brewers",
+      "price": 5850,
+      "open": 5850,
+      "high": 5850,
+      "low": 5850,
+      "volume": 200,
+      "change_pct": 0,
+      "size_score": 2.398,
       "volume_ratio": null,
       "tier": null,
       "indices": []
