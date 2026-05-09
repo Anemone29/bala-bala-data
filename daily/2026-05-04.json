@@ -18,24 +18,34 @@
       "count": 3
     },
     {
+      "name": "Consumer Cyclical",
+      "total_volume": 15877100,
+      "count": 9
+    },
+    {
+      "name": "Energy",
+      "total_volume": 10762900,
+      "count": 2
+    },
+    {
+      "name": "Industrials",
+      "total_volume": 10026900,
+      "count": 14
+    },
+    {
+      "name": "Basic Materials",
+      "total_volume": 7586300,
+      "count": 7
+    },
+    {
       "name": "Healthcare",
       "total_volume": 7439300,
       "count": 13
     },
     {
-      "name": "Industrials",
-      "total_volume": 6327200,
-      "count": 4
-    },
-    {
       "name": "Consumer Defensive",
       "total_volume": 6179400,
       "count": 18
-    },
-    {
-      "name": "Consumer Cyclical",
-      "total_volume": 3047300,
-      "count": 8
     },
     {
       "name": "Real Estate",
@@ -46,28 +56,28 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 21,
-      "avg_change": -0.04
+      "count": 25,
+      "avg_change": -0.14
     },
     {
       "name": "IDX30",
-      "count": 15,
-      "avg_change": 0.49
-    },
-    {
-      "name": "HiDiv20",
-      "count": 10,
+      "count": 18,
       "avg_change": 0.39
     },
     {
-      "name": "JII",
-      "count": 8,
-      "avg_change": 0.27
+      "name": "HiDiv20",
+      "count": 14,
+      "avg_change": 0.11
     },
     {
       "name": "BUMN20",
-      "count": 6,
-      "avg_change": 0.93
+      "count": 11,
+      "avg_change": -0.51
+    },
+    {
+      "name": "JII",
+      "count": 11,
+      "avg_change": -0.08
     }
   ],
   "stocks": [
@@ -1648,6 +1658,373 @@
       "volume": 200,
       "change_pct": 3.1,
       "size_score": 2.845,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "INDS",
+      "yahoo_ticker": "INDS.JK",
+      "name": "PT Indospring Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "price": 525,
+      "open": 476,
+      "high": 525,
+      "low": 525,
+      "volume": 12829800,
+      "change_pct": 10.29,
+      "size_score": 14.489,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "DEWA",
+      "yahoo_ticker": "DEWA.JK",
+      "name": "PT Darma Henwa Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 494,
+      "open": 505,
+      "high": 494,
+      "low": 494,
+      "volume": 10662600,
+      "change_pct": -2.18,
+      "size_score": 13.187,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "JKON",
+      "yahoo_ticker": "JKON.JK",
+      "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "price": 79,
+      "open": 77,
+      "high": 79,
+      "low": 79,
+      "volume": 1875400,
+      "change_pct": 2.6,
+      "size_score": 11.867,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "WSBP",
+      "yahoo_ticker": "WSBP.JK",
+      "name": "PT Waskita Beton Precast Tbk",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "price": 18,
+      "open": 19,
+      "high": 18,
+      "low": 18,
+      "volume": 2524200,
+      "change_pct": -5.26,
+      "size_score": 11.746,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "PTRO",
+      "yahoo_ticker": "PTRO.JK",
+      "name": "PT Petrosea Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 5075,
+      "open": 5175,
+      "high": 5075,
+      "low": 5075,
+      "volume": 1711700,
+      "change_pct": -1.93,
+      "size_score": 11.357,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "WTON",
+      "yahoo_ticker": "WTON.JK",
+      "name": "PT Wijaya Karya Beton Tbk",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "price": 89,
+      "open": 90,
+      "high": 89,
+      "low": 89,
+      "volume": 1472900,
+      "change_pct": -1.11,
+      "size_score": 11.207,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "SMGR",
+      "yahoo_ticker": "SMGR.JK",
+      "name": "PT Semen Indonesia (Persero) Tbk",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "price": 2020,
+      "open": 2050,
+      "high": 2020,
+      "low": 2020,
+      "volume": 987600,
+      "change_pct": -1.46,
+      "size_score": 10.807,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "PTPP",
+      "yahoo_ticker": "PTPP.JK",
+      "name": "PT PP (Persero) Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 254,
+      "open": 264,
+      "high": 254,
+      "low": 254,
+      "volume": 853900,
+      "change_pct": -3.79,
+      "size_score": 10.662,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "SMBR",
+      "yahoo_ticker": "SMBR.JK",
+      "name": "PT Semen Baturaja (Persero) Tbk",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "price": 200,
+      "open": 218,
+      "high": 200,
+      "low": 200,
+      "volume": 439800,
+      "change_pct": -8.26,
+      "size_score": 9.998,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "JSMR",
+      "yahoo_ticker": "JSMR.JK",
+      "name": "PT Jasa Marga (Persero) Tbk",
+      "sector": "Industrials",
+      "industry": "Infrastructure Operations",
+      "price": 3000,
+      "open": 2980,
+      "high": 3000,
+      "low": 3000,
+      "volume": 371100,
+      "change_pct": 0.67,
+      "size_score": 9.954,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "UNTR",
+      "yahoo_ticker": "UNTR.JK",
+      "name": "PT United Tractors Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 29100,
+      "open": 29000,
+      "high": 29100,
+      "low": 29100,
+      "volume": 374000,
+      "change_pct": 0.34,
+      "size_score": 9.902,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "ADHI",
+      "yahoo_ticker": "ADHI.JK",
+      "name": "PT Adhi Karya (Persero) Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 206,
+      "open": 218,
+      "high": 206,
+      "low": 206,
+      "volume": 234300,
+      "change_pct": -5.5,
+      "size_score": 9.369,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "ARNA",
+      "yahoo_ticker": "ARNA.JK",
+      "name": "PT Arwana Citramulia Tbk",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "price": 490,
+      "open": 490,
+      "high": 490,
+      "low": 490,
+      "volume": 151700,
+      "change_pct": 0,
+      "size_score": 8.934,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "DOID",
+      "yahoo_ticker": "DOID.JK",
+      "name": "PT Buma Internasional Grup Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 242,
+      "open": 254,
+      "high": 242,
+      "low": 242,
+      "volume": 100300,
+      "change_pct": -4.72,
+      "size_score": 8.52,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "TOTL",
+      "yahoo_ticker": "TOTL.JK",
+      "name": "PT Total Bangun Persada Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 1205,
+      "open": 1195,
+      "high": 1205,
+      "low": 1205,
+      "volume": 73800,
+      "change_pct": 0.84,
+      "size_score": 8.369,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ACST",
+      "yahoo_ticker": "ACST.JK",
+      "name": "PT Acset Indonusa Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 100,
+      "open": 100,
+      "high": 100,
+      "low": 100,
+      "volume": 81600,
+      "change_pct": 0,
+      "size_score": 8.314,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "INTP",
+      "yahoo_ticker": "INTP.JK",
+      "name": "PT Indocement Tunggal Prakarsa Tbk",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "price": 5125,
+      "open": 5225,
+      "high": 5125,
+      "low": 5125,
+      "volume": 76100,
+      "change_pct": -1.91,
+      "size_score": 8.244,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "MITI",
+      "yahoo_ticker": "MITI.JK",
+      "name": "PT Mitra Investindo Tbk",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "price": 250,
+      "open": 252,
+      "high": 250,
+      "low": 250,
+      "volume": 26000,
+      "change_pct": -0.79,
+      "size_score": 7.171,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "TOTO",
+      "yahoo_ticker": "TOTO.JK",
+      "name": "PT Surya Toto Indonesia Tbk",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "price": 262,
+      "open": 264,
+      "high": 262,
+      "low": 262,
+      "volume": 24400,
+      "change_pct": -0.76,
+      "size_score": 7.107,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "IDPR",
+      "yahoo_ticker": "IDPR.JK",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "price": 300,
+      "open": 304,
+      "high": 300,
+      "low": 300,
+      "volume": 7500,
+      "change_pct": -1.32,
+      "size_score": 5.93,
       "volume_ratio": null,
       "tier": null,
       "indices": []
