@@ -3,9 +3,14 @@
   "ihsg": null,
   "top_sectors": [
     {
+      "name": "Basic Materials",
+      "total_volume": 167535700,
+      "count": 8
+    },
+    {
       "name": "Energy",
-      "total_volume": 24278000,
-      "count": 9
+      "total_volume": 24343500,
+      "count": 10
     },
     {
       "name": "Industrials",
@@ -13,14 +18,14 @@
       "count": 6
     },
     {
+      "name": "Other",
+      "total_volume": 2573900,
+      "count": 1
+    },
+    {
       "name": "Communication Services",
       "total_volume": 1499000,
       "count": 5
-    },
-    {
-      "name": "Basic Materials",
-      "total_volume": 1419900,
-      "count": 7
     },
     {
       "name": "Consumer Cyclical",
@@ -34,40 +39,35 @@
     },
     {
       "name": "Consumer Defensive",
-      "total_volume": 197400,
-      "count": 3
+      "total_volume": 321700,
+      "count": 5
     },
     {
       "name": "Utilities",
-      "total_volume": 86100,
-      "count": 1
+      "total_volume": 105200,
+      "count": 2
     },
     {
       "name": "Healthcare",
       "total_volume": 26300,
-      "count": 1
-    },
-    {
-      "name": "Financial Services",
-      "total_volume": 600,
       "count": 1
     }
   ],
   "indices": [
     {
       "name": "LQ45",
-      "count": 11,
-      "avg_change": -0.81
+      "count": 14,
+      "avg_change": -0.98
     },
     {
       "name": "JII",
-      "count": 11,
-      "avg_change": -0.3
+      "count": 13,
+      "avg_change": -0.62
     },
     {
       "name": "IDX30",
-      "count": 5,
-      "avg_change": 0.29
+      "count": 7,
+      "avg_change": 0.14
     },
     {
       "name": "BUMN20",
@@ -214,7 +214,7 @@
       "change_pct": 8.76,
       "size_score": 8.463,
       "volume_ratio": null,
-      "tier": "apex",
+      "tier": "surging",
       "indices": [
         "IDX30",
         "LQ45",
@@ -906,6 +906,118 @@
       "volume_ratio": null,
       "tier": null,
       "indices": []
+    },
+    {
+      "ticker": "BRPT",
+      "yahoo_ticker": "BRPT.JK",
+      "name": "PT Barito Pacific Tbk",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "price": 2040,
+      "open": 2060,
+      "high": 2050,
+      "low": 2030,
+      "volume": 166115800,
+      "change_pct": -0.49,
+      "size_score": 15.932,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "LAPD",
+      "yahoo_ticker": "LAPD.JK",
+      "name": "PT Leyand International Tbk",
+      "sector": "Other",
+      "industry": "",
+      "price": 92,
+      "open": 84,
+      "high": 92,
+      "low": 90,
+      "volume": 2573900,
+      "change_pct": 9.52,
+      "size_score": 12.831,
+      "volume_ratio": null,
+      "tier": "apex",
+      "indices": []
+    },
+    {
+      "ticker": "CGAS",
+      "yahoo_ticker": "CGAS.JK",
+      "name": "Citra Nusantara Gemilang Tbk.",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 183,
+      "open": 175,
+      "high": 183,
+      "low": 181,
+      "volume": 65500,
+      "change_pct": 6.4,
+      "size_score": 8.918,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "CPIN",
+      "yahoo_ticker": "CPIN.JK",
+      "name": "PT Charoen Pokphand Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 4050,
+      "open": 4050,
+      "high": 4070,
+      "low": 4040,
+      "volume": 121100,
+      "change_pct": 0,
+      "size_score": 8.709,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "KEEN",
+      "yahoo_ticker": "KEEN.JK",
+      "name": "PT Kencana Energi Lestari Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "price": 870,
+      "open": 870,
+      "high": 870,
+      "low": 865,
+      "volume": 19100,
+      "change_pct": 0.58,
+      "size_score": 6.972,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "JPFA",
+      "yahoo_ticker": "JPFA.JK",
+      "name": "PT Japfa Comfeed Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 2440,
+      "open": 2410,
+      "high": 2440,
+      "low": 2440,
+      "volume": 3200,
+      "change_pct": -4.31,
+      "size_score": 5.081,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
     }
   ]
 }
