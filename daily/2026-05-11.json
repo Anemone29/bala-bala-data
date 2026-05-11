@@ -10,7 +10,7 @@
     {
       "name": "Industrials",
       "total_volume": 3923900,
-      "count": 2
+      "count": 4
     },
     {
       "name": "Basic Materials",
@@ -18,9 +18,14 @@
       "count": 5
     },
     {
+      "name": "Consumer Cyclical",
+      "total_volume": 943900,
+      "count": 7
+    },
+    {
       "name": "Real Estate",
-      "total_volume": 374700,
-      "count": 5
+      "total_volume": 529800,
+      "count": 6
     },
     {
       "name": "Consumer Defensive",
@@ -46,13 +51,13 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 8,
-      "avg_change": -0.91
+      "count": 9,
+      "avg_change": -0.54
     },
     {
       "name": "JII",
-      "count": 7,
-      "avg_change": -0.6
+      "count": 9,
+      "avg_change": -0.36
     },
     {
       "name": "IDX30",
@@ -544,6 +549,181 @@
         "LQ45",
         "JII"
       ]
+    },
+    {
+      "ticker": "RALS",
+      "yahoo_ticker": "RALS.JK",
+      "name": "PT Ramayana Lestari Sentosa Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "price": 464,
+      "open": 458,
+      "high": 464,
+      "low": 462,
+      "volume": 420200,
+      "change_pct": 2.2,
+      "size_score": 10.317,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ACES",
+      "yahoo_ticker": "ACES.JK",
+      "name": "PT Aspirasi Hidup Indonesia Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 386,
+      "open": 380,
+      "high": 386,
+      "low": 384,
+      "volume": 376800,
+      "change_pct": 1.58,
+      "size_score": 10.118,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BCIP",
+      "yahoo_ticker": "BCIP.JK",
+      "name": "PT Bumi Citra Permai Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Development",
+      "price": 74,
+      "open": 77,
+      "high": 75,
+      "low": 74,
+      "volume": 155100,
+      "change_pct": -2.63,
+      "size_score": 8.956,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MAPI",
+      "yahoo_ticker": "MAPI.JK",
+      "name": "PT. Mitra Adiperkasa Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "price": 1490,
+      "open": 1490,
+      "high": 1495,
+      "low": 1490,
+      "volume": 101800,
+      "change_pct": 2.41,
+      "size_score": 8.929,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "ERAA",
+      "yahoo_ticker": "ERAA.JK",
+      "name": "PT Erajaya Swasembada Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 400,
+      "open": 408,
+      "high": 400,
+      "low": 400,
+      "volume": 25600,
+      "change_pct": -1.48,
+      "size_score": 7.155,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "JII"
+      ]
+    },
+    {
+      "ticker": "HERO",
+      "yahoo_ticker": "HERO.JK",
+      "name": "PT DFI Retail Nusantara Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "price": 440,
+      "open": 478,
+      "high": 440,
+      "low": 440,
+      "volume": 16600,
+      "change_pct": -7.95,
+      "size_score": 6.723,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "MAPA",
+      "yahoo_ticker": "MAPA.JK",
+      "name": "PT Map Aktif Adiperkasa Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 655,
+      "open": 680,
+      "high": 655,
+      "low": 650,
+      "volume": 2900,
+      "change_pct": -0.76,
+      "size_score": 4.984,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "LPPF",
+      "yahoo_ticker": "LPPF.JK",
+      "name": "PT MDS Retailing Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "price": 1615,
+      "open": 1635,
+      "high": 1615,
+      "low": 1610,
+      "volume": 0,
+      "change_pct": -1.52,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SMDR",
+      "yahoo_ticker": "SMDR.JK",
+      "name": "PT Samudera Indonesia Tbk",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "price": 316,
+      "open": 332,
+      "high": 316,
+      "low": 316,
+      "volume": 0,
+      "change_pct": -4.82,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "GIAA",
+      "yahoo_ticker": "GIAA.JK",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "price": 66,
+      "open": 66,
+      "high": 66,
+      "low": 65,
+      "volume": 0,
+      "change_pct": 1.54,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
     }
   ]
 }
