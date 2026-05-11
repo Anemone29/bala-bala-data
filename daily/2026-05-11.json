@@ -1,79 +1,31 @@
 {
-  "generated_at": "2026-05-11T03:50:18.000Z",
+  "generated_at": "2026-05-11T03:50:30.000Z",
   "ihsg": null,
   "top_sectors": [
     {
-      "name": "Healthcare",
-      "total_volume": 0,
-      "count": 1
-    },
-    {
-      "name": "Industrials",
+      "name": "Basic Materials",
       "total_volume": 0,
       "count": 1
     }
   ],
-  "indices": [
-    {
-      "name": "IDX30",
-      "count": 1,
-      "avg_change": 2.15
-    },
-    {
-      "name": "LQ45",
-      "count": 1,
-      "avg_change": 2.15
-    },
-    {
-      "name": "JII",
-      "count": 1,
-      "avg_change": 2.15
-    },
-    {
-      "name": "HiDiv20",
-      "count": 1,
-      "avg_change": 2.15
-    }
-  ],
+  "indices": [],
   "stocks": [
     {
-      "ticker": "SOHO",
-      "yahoo_ticker": "SOHO.JK",
-      "name": "PT Soho Global Health Tbk",
-      "sector": "Healthcare",
-      "industry": "Medical Distribution",
-      "price": 1870,
-      "open": 1895,
-      "high": 1870,
-      "low": 1870,
+      "ticker": "PTRO",
+      "yahoo_ticker": "PTRO.JK",
+      "name": "PT Petrosea Tbk",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "price": 4910,
+      "open": 5075,
+      "high": 4910,
+      "low": 4910,
       "volume": 0,
-      "change_pct": 1.63,
+      "change_pct": -2.77,
       "size_score": 0,
       "volume_ratio": null,
       "tier": null,
       "indices": []
-    },
-    {
-      "ticker": "ASII",
-      "yahoo_ticker": "ASII.JK",
-      "name": "PT Astra International Tbk",
-      "sector": "Industrials",
-      "industry": "Conglomerates",
-      "price": 5950,
-      "open": 5900,
-      "high": 5950,
-      "low": 5950,
-      "volume": 0,
-      "change_pct": 2.15,
-      "size_score": 0,
-      "volume_ratio": null,
-      "tier": "apex",
-      "indices": [
-        "IDX30",
-        "LQ45",
-        "JII",
-        "HiDiv20"
-      ]
     }
   ]
 }
