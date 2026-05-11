@@ -19,8 +19,8 @@
     },
     {
       "name": "Other",
-      "total_volume": 2573900,
-      "count": 1
+      "total_volume": 3697400,
+      "count": 4
     },
     {
       "name": "Communication Services",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Consumer Defensive",
-      "total_volume": 321700,
-      "count": 5
+      "total_volume": 330700,
+      "count": 6
     },
     {
       "name": "Utilities",
@@ -56,8 +56,8 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 14,
-      "avg_change": -0.98
+      "count": 15,
+      "avg_change": -1.29
     },
     {
       "name": "JII",
@@ -1018,6 +1018,76 @@
         "LQ45",
         "JII"
       ]
+    },
+    {
+      "ticker": "AHAP",
+      "yahoo_ticker": "AHAP.JK",
+      "name": "AHAP",
+      "sector": "Other",
+      "industry": "",
+      "price": 109,
+      "open": 107,
+      "high": 109,
+      "low": 108,
+      "volume": 754500,
+      "change_pct": 3.81,
+      "size_score": 11.105,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ARCI",
+      "yahoo_ticker": "ARCI.JK",
+      "name": "ARCI",
+      "sector": "Other",
+      "industry": "",
+      "price": 1360,
+      "open": 1375,
+      "high": 1370,
+      "low": 1360,
+      "volume": 262400,
+      "change_pct": -1.81,
+      "size_score": 9.482,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ADMR",
+      "yahoo_ticker": "ADMR.JK",
+      "name": "ADMR",
+      "sector": "Other",
+      "industry": "",
+      "price": 1720,
+      "open": 1805,
+      "high": 1725,
+      "low": 1720,
+      "volume": 106600,
+      "change_pct": -5.75,
+      "size_score": 8.581,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "CPRO",
+      "yahoo_ticker": "CPRO.JK",
+      "name": "PT Central Proteina Prima Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 55,
+      "open": 56,
+      "high": 55,
+      "low": 55,
+      "volume": 9000,
+      "change_pct": -1.79,
+      "size_score": 6.111,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
     }
   ]
 }
