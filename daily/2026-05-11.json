@@ -4,18 +4,23 @@
   "top_sectors": [
     {
       "name": "Energy",
-      "total_volume": 24277300,
-      "count": 8
+      "total_volume": 24278000,
+      "count": 9
     },
     {
       "name": "Industrials",
       "total_volume": 3923900,
-      "count": 4
+      "count": 6
+    },
+    {
+      "name": "Communication Services",
+      "total_volume": 1499000,
+      "count": 5
     },
     {
       "name": "Basic Materials",
-      "total_volume": 1371000,
-      "count": 5
+      "total_volume": 1419900,
+      "count": 7
     },
     {
       "name": "Consumer Cyclical",
@@ -51,13 +56,13 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 9,
-      "avg_change": -0.54
+      "count": 11,
+      "avg_change": -0.81
     },
     {
       "name": "JII",
-      "count": 9,
-      "avg_change": -0.36
+      "count": 11,
+      "avg_change": -0.3
     },
     {
       "name": "IDX30",
@@ -720,6 +725,183 @@
       "low": 65,
       "volume": 0,
       "change_pct": 1.54,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MNCN",
+      "yahoo_ticker": "MNCN.JK",
+      "name": "PT. Media Nusantara Citra Tbk",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "price": 222,
+      "open": 224,
+      "high": 222,
+      "low": 222,
+      "volume": 814900,
+      "change_pct": 0,
+      "size_score": 10.615,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "JII"
+      ]
+    },
+    {
+      "ticker": "MDIA",
+      "yahoo_ticker": "MDIA.JK",
+      "name": "PT Intermedia Capital Tbk",
+      "sector": "Communication Services",
+      "industry": "Broadcasting",
+      "price": 118,
+      "open": 126,
+      "high": 118,
+      "low": 117,
+      "volume": 427600,
+      "change_pct": -9.23,
+      "size_score": 9.97,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "SCMA",
+      "yahoo_ticker": "SCMA.JK",
+      "name": "PT Surya Citra Media Tbk",
+      "sector": "Communication Services",
+      "industry": "Broadcasting",
+      "price": 240,
+      "open": 250,
+      "high": 240,
+      "low": 240,
+      "volume": 252100,
+      "change_pct": -4,
+      "size_score": 9.442,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "INKP",
+      "yahoo_ticker": "INKP.JK",
+      "name": "PT Indah Kiat Pulp & Paper Tbk",
+      "sector": "Basic Materials",
+      "industry": "Paper & Paper Products",
+      "price": 9150,
+      "open": 9075,
+      "high": 9150,
+      "low": 9125,
+      "volume": 48000,
+      "change_pct": 0,
+      "size_score": 7.784,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "FILM",
+      "yahoo_ticker": "FILM.JK",
+      "name": "PT.MD Entertainment Tbk",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "price": 2410,
+      "open": 2340,
+      "high": 2410,
+      "low": 2410,
+      "volume": 3100,
+      "change_pct": -0.41,
+      "size_score": 5.05,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MSIN",
+      "yahoo_ticker": "MSIN.JK",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "price": 695,
+      "open": 715,
+      "high": 695,
+      "low": 690,
+      "volume": 1300,
+      "change_pct": -3.47,
+      "size_score": 4.19,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "KRAS",
+      "yahoo_ticker": "KRAS.JK",
+      "name": "PT Krakatau Steel (Persero) Tbk",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "price": 270,
+      "open": 270,
+      "high": 272,
+      "low": 270,
+      "volume": 900,
+      "change_pct": -2.88,
+      "size_score": 3.829,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "IATA",
+      "yahoo_ticker": "IATA.JK",
+      "name": "PT MNC Energy Investments Tbk",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "price": 75,
+      "open": 77,
+      "high": 75,
+      "low": 75,
+      "volume": 700,
+      "change_pct": -2.6,
+      "size_score": 3.584,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "TPMA",
+      "yahoo_ticker": "TPMA.JK",
+      "name": "PT Trans Power Marine Tbk",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "price": 545,
+      "open": 555,
+      "high": 545,
+      "low": 545,
+      "volume": 0,
+      "change_pct": -1.8,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "GMFI",
+      "yahoo_ticker": "GMFI.JK",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "price": 58,
+      "open": 58,
+      "high": 59,
+      "low": 58,
+      "volume": 0,
+      "change_pct": 0,
       "size_score": 0,
       "volume_ratio": null,
       "tier": null,
