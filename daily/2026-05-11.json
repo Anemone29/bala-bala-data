@@ -1,56 +1,38 @@
 {
-  "generated_at": "2026-05-11T03:49:43.000Z",
+  "generated_at": "2026-05-11T03:50:00.000Z",
   "ihsg": null,
   "top_sectors": [
     {
-      "name": "Financial Services",
+      "name": "Consumer Cyclical",
       "total_volume": 0,
       "count": 1
     }
   ],
   "indices": [
     {
-      "name": "IDX30",
-      "count": 1,
-      "avg_change": -7.78
-    },
-    {
       "name": "LQ45",
       "count": 1,
-      "avg_change": -7.78
-    },
-    {
-      "name": "BUMN20",
-      "count": 1,
-      "avg_change": -7.78
-    },
-    {
-      "name": "HiDiv20",
-      "count": 1,
-      "avg_change": -7.78
+      "avg_change": -2.72
     }
   ],
   "stocks": [
     {
-      "ticker": "BMRI",
-      "yahoo_ticker": "BMRI.JK",
-      "name": "PT Bank Mandiri (Persero) Tbk",
-      "sector": "Financial Services",
-      "industry": "Banks - Regional",
-      "price": 4270,
-      "open": 4310,
-      "high": 4270,
-      "low": 4270,
+      "ticker": "BUKA",
+      "yahoo_ticker": "BUKA.JK",
+      "name": "PT Bukalapak.com Tbk.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "price": 143,
+      "open": 147,
+      "high": 143,
+      "low": 143,
       "volume": 0,
-      "change_pct": -7.78,
+      "change_pct": -2.72,
       "size_score": 0,
       "volume_ratio": null,
-      "tier": "falling",
+      "tier": null,
       "indices": [
-        "IDX30",
-        "LQ45",
-        "BUMN20",
-        "HiDiv20"
+        "LQ45"
       ]
     }
   ]
