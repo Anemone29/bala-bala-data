@@ -1,39 +1,48 @@
 {
-  "generated_at": "2026-05-11T03:52:24.000Z",
+  "generated_at": "2026-05-11T03:52:36.000Z",
   "ihsg": null,
   "top_sectors": [
     {
       "name": "Other",
       "total_volume": 0,
-      "count": 1
+      "count": 2
     }
   ],
-  "indices": [
-    {
-      "name": "LQ45",
-      "count": 1,
-      "avg_change": -5.21
-    }
-  ],
+  "indices": [],
   "stocks": [
     {
-      "ticker": "ADMR",
-      "yahoo_ticker": "ADMR.JK",
-      "name": "ADMR",
+      "ticker": "BREN",
+      "yahoo_ticker": "BREN.JK",
+      "name": "BREN",
       "sector": "Other",
       "industry": "",
-      "price": 1730,
-      "open": 1805,
-      "high": 1730,
-      "low": 1730,
+      "price": 3970,
+      "open": 4130,
+      "high": 3970,
+      "low": 3970,
       "volume": 0,
-      "change_pct": -5.21,
+      "change_pct": -3.17,
       "size_score": 0,
       "volume_ratio": null,
-      "tier": "falling",
-      "indices": [
-        "LQ45"
-      ]
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BRMS",
+      "yahoo_ticker": "BRMS.JK",
+      "name": "BRMS",
+      "sector": "Other",
+      "industry": "",
+      "price": 730,
+      "open": 755,
+      "high": 730,
+      "low": 730,
+      "volume": 0,
+      "change_pct": -2.67,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
     }
   ]
 }
