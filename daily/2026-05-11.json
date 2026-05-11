@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-05-11T03:51:46.000Z",
+  "generated_at": "2026-05-11T03:52:24.000Z",
   "ihsg": null,
   "top_sectors": [
-    {
-      "name": "Basic Materials",
-      "total_volume": 0,
-      "count": 1
-    },
-    {
-      "name": "Consumer Defensive",
-      "total_volume": 0,
-      "count": 1
-    },
     {
       "name": "Other",
       "total_volume": 0,
@@ -20,79 +10,30 @@
   ],
   "indices": [
     {
-      "name": "IDX30",
-      "count": 2,
-      "avg_change": 0
-    },
-    {
       "name": "LQ45",
-      "count": 2,
-      "avg_change": 0
-    },
-    {
-      "name": "JII",
       "count": 1,
-      "avg_change": 0
+      "avg_change": -5.21
     }
   ],
   "stocks": [
     {
-      "ticker": "BRPT",
-      "yahoo_ticker": "BRPT.JK",
-      "name": "PT Barito Pacific Tbk",
-      "sector": "Basic Materials",
-      "industry": "Chemicals",
-      "price": 2050,
-      "open": 2060,
-      "high": 2050,
-      "low": 2050,
-      "volume": 0,
-      "change_pct": 0,
-      "size_score": 0,
-      "volume_ratio": null,
-      "tier": null,
-      "indices": [
-        "IDX30",
-        "LQ45",
-        "JII"
-      ]
-    },
-    {
-      "ticker": "CPIN",
-      "yahoo_ticker": "CPIN.JK",
-      "name": "PT Charoen Pokphand Indonesia Tbk",
-      "sector": "Consumer Defensive",
-      "industry": "Farm Products",
-      "price": 4050,
-      "open": 4050,
-      "high": 4050,
-      "low": 4050,
-      "volume": 0,
-      "change_pct": 0,
-      "size_score": 0,
-      "volume_ratio": null,
-      "tier": null,
-      "indices": [
-        "IDX30",
-        "LQ45"
-      ]
-    },
-    {
-      "ticker": "LAPD",
-      "yahoo_ticker": "LAPD.JK",
-      "name": "PT Leyand International Tbk",
+      "ticker": "ADMR",
+      "yahoo_ticker": "ADMR.JK",
+      "name": "ADMR",
       "sector": "Other",
       "industry": "",
-      "price": 89,
-      "open": 84,
-      "high": 89,
-      "low": 89,
+      "price": 1730,
+      "open": 1805,
+      "high": 1730,
+      "low": 1730,
       "volume": 0,
-      "change_pct": 5.95,
+      "change_pct": -5.21,
       "size_score": 0,
       "volume_ratio": null,
-      "tier": "apex",
-      "indices": []
+      "tier": "falling",
+      "indices": [
+        "LQ45"
+      ]
     }
   ]
 }
