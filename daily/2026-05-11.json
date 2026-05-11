@@ -4,40 +4,55 @@
   "top_sectors": [
     {
       "name": "Energy",
-      "total_volume": 16595000,
-      "count": 4
-    },
-    {
-      "name": "Basic Materials",
-      "total_volume": 1316000,
-      "count": 4
+      "total_volume": 24277300,
+      "count": 8
     },
     {
       "name": "Industrials",
-      "total_volume": 0,
+      "total_volume": 3923900,
+      "count": 2
+    },
+    {
+      "name": "Basic Materials",
+      "total_volume": 1371000,
+      "count": 5
+    },
+    {
+      "name": "Consumer Defensive",
+      "total_volume": 197400,
+      "count": 3
+    },
+    {
+      "name": "Utilities",
+      "total_volume": 86100,
+      "count": 1
+    },
+    {
+      "name": "Financial Services",
+      "total_volume": 600,
       "count": 1
     }
   ],
   "indices": [
+    {
+      "name": "LQ45",
+      "count": 7,
+      "avg_change": -0.77
+    },
+    {
+      "name": "JII",
+      "count": 6,
+      "avg_change": -0.39
+    },
     {
       "name": "IDX30",
       "count": 5,
       "avg_change": 0.29
     },
     {
-      "name": "LQ45",
-      "count": 5,
-      "avg_change": 0.29
-    },
-    {
-      "name": "JII",
-      "count": 4,
-      "avg_change": 1.14
-    },
-    {
       "name": "BUMN20",
-      "count": 1,
-      "avg_change": 0
+      "count": 2,
+      "avg_change": -1.76
     },
     {
       "name": "HiDiv20",
@@ -216,6 +231,201 @@
       "volume": 0,
       "change_pct": -0.29,
       "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "AKRA",
+      "yahoo_ticker": "AKRA.JK",
+      "name": "PT AKR Corporindo Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 1460,
+      "open": 1490,
+      "high": 1460,
+      "low": 1455,
+      "volume": 7369700,
+      "change_pct": -2.67,
+      "size_score": 12.817,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "BIPI",
+      "yahoo_ticker": "BIPI.JK",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "sector": "Industrials",
+      "industry": "Infrastructure Operations",
+      "price": 202,
+      "open": 218,
+      "high": 204,
+      "low": 202,
+      "volume": 3923900,
+      "change_pct": -5.61,
+      "size_score": 12.187,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "SIMP",
+      "yahoo_ticker": "SIMP.JK",
+      "name": "PT Salim Ivomas Pratama Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 690,
+      "open": 670,
+      "high": 690,
+      "low": 680,
+      "volume": 185400,
+      "change_pct": 2.99,
+      "size_score": 9.603,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MEDC",
+      "yahoo_ticker": "MEDC.JK",
+      "name": "PT Medco Energi Internasional Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 1550,
+      "open": 1615,
+      "high": 1560,
+      "low": 1550,
+      "volume": 150100,
+      "change_pct": -3.12,
+      "size_score": 8.923,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ELSA",
+      "yahoo_ticker": "ELSA.JK",
+      "name": "PT Elnusa Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "price": 685,
+      "open": 720,
+      "high": 690,
+      "low": 685,
+      "volume": 96400,
+      "change_pct": -3.52,
+      "size_score": 8.481,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "RAJA",
+      "yahoo_ticker": "RAJA.JK",
+      "name": "PT Rukun Raharja Tbk",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "price": 4140,
+      "open": 4180,
+      "high": 4160,
+      "low": 4140,
+      "volume": 86100,
+      "change_pct": -0.48,
+      "size_score": 8.368,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ENRG",
+      "yahoo_ticker": "ENRG.JK",
+      "name": "PT Energi Mega Persada Tbk",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 1640,
+      "open": 1685,
+      "high": 1645,
+      "low": 1640,
+      "volume": 66100,
+      "change_pct": -2.96,
+      "size_score": 8.103,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "ESSA",
+      "yahoo_ticker": "ESSA.JK",
+      "name": "PT ESSA Industries Indonesia Tbk.",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "price": 800,
+      "open": 840,
+      "high": 805,
+      "low": 800,
+      "volume": 55000,
+      "change_pct": -4.19,
+      "size_score": 7.92,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "BWPT",
+      "yahoo_ticker": "BWPT.JK",
+      "name": "PT Eagle High Plantations Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "price": 119,
+      "open": 122,
+      "high": 120,
+      "low": 119,
+      "volume": 9000,
+      "change_pct": -2.46,
+      "size_score": 6.111,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "AALI",
+      "yahoo_ticker": "AALI.JK",
+      "name": "PT Astra Agro Lestari Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "price": 8150,
+      "open": 8050,
+      "high": 8150,
+      "low": 8150,
+      "volume": 3000,
+      "change_pct": 1.24,
+      "size_score": 5.238,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PALM",
+      "yahoo_ticker": "PALM.JK",
+      "name": "PT Provident Investasi Bersama Tbk",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "price": 362,
+      "open": 368,
+      "high": 362,
+      "low": 362,
+      "volume": 600,
+      "change_pct": -1.63,
+      "size_score": 3.434,
       "volume_ratio": null,
       "tier": null,
       "indices": []
