@@ -13,14 +13,14 @@
       "count": 10
     },
     {
+      "name": "Other",
+      "total_volume": 3973800,
+      "count": 14
+    },
+    {
       "name": "Industrials",
       "total_volume": 3923900,
       "count": 6
-    },
-    {
-      "name": "Other",
-      "total_volume": 3697400,
-      "count": 4
     },
     {
       "name": "Communication Services",
@@ -56,8 +56,8 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 15,
-      "avg_change": -1.29
+      "count": 17,
+      "avg_change": -1.47
     },
     {
       "name": "JII",
@@ -66,13 +66,13 @@
     },
     {
       "name": "IDX30",
-      "count": 7,
-      "avg_change": 0.14
+      "count": 8,
+      "avg_change": -0.34
     },
     {
       "name": "BUMN20",
-      "count": 2,
-      "avg_change": -1.76
+      "count": 3,
+      "avg_change": -2.39
     },
     {
       "name": "HiDiv20",
@@ -1085,6 +1085,182 @@
       "volume": 9000,
       "change_pct": -1.79,
       "size_score": 6.111,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BRMS",
+      "yahoo_ticker": "BRMS.JK",
+      "name": "BRMS",
+      "sector": "Other",
+      "industry": "",
+      "price": 730,
+      "open": 755,
+      "high": 735,
+      "low": 730,
+      "volume": 180100,
+      "change_pct": -2.67,
+      "size_score": 9.106,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BREN",
+      "yahoo_ticker": "BREN.JK",
+      "name": "BREN",
+      "sector": "Other",
+      "industry": "",
+      "price": 3920,
+      "open": 4130,
+      "high": 3920,
+      "low": 3910,
+      "volume": 35200,
+      "change_pct": -4.39,
+      "size_score": 7.474,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BFIN",
+      "yahoo_ticker": "BFIN.JK",
+      "name": "BFIN",
+      "sector": "Other",
+      "industry": "",
+      "price": 775,
+      "open": 795,
+      "high": 775,
+      "low": 770,
+      "volume": 24000,
+      "change_pct": -1.9,
+      "size_score": 7.091,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "CARE",
+      "yahoo_ticker": "CARE.JK",
+      "name": "CARE",
+      "sector": "Other",
+      "industry": "",
+      "price": 438,
+      "open": 418,
+      "high": 438,
+      "low": 438,
+      "volume": 10800,
+      "change_pct": 5.8,
+      "size_score": 7.063,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "FORE",
+      "yahoo_ticker": "FORE.JK",
+      "name": "FORE",
+      "sector": "Other",
+      "industry": "",
+      "price": 985,
+      "open": 1025,
+      "high": 990,
+      "low": 985,
+      "volume": 14200,
+      "change_pct": -3.9,
+      "size_score": 6.567,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BRIS",
+      "yahoo_ticker": "BRIS.JK",
+      "name": "BRIS",
+      "sector": "Other",
+      "industry": "",
+      "price": 1840,
+      "open": 1910,
+      "high": 1845,
+      "low": 1840,
+      "volume": 11400,
+      "change_pct": -3.66,
+      "size_score": 6.347,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20"
+      ]
+    },
+    {
+      "ticker": "EMDE",
+      "yahoo_ticker": "EMDE.JK",
+      "name": "EMDE",
+      "sector": "Other",
+      "industry": "",
+      "price": 76,
+      "open": 78,
+      "high": 76,
+      "low": 76,
+      "volume": 600,
+      "change_pct": 0,
+      "size_score": 3.434,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BOLT",
+      "yahoo_ticker": "BOLT.JK",
+      "name": "BOLT",
+      "sector": "Other",
+      "industry": "",
+      "price": 850,
+      "open": 855,
+      "high": 850,
+      "low": 850,
+      "volume": 100,
+      "change_pct": -0.58,
+      "size_score": 1.792,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BMTR",
+      "yahoo_ticker": "BMTR.JK",
+      "name": "BMTR",
+      "sector": "Other",
+      "industry": "",
+      "price": 147,
+      "open": 147,
+      "high": 147,
+      "low": 146,
+      "volume": 0,
+      "change_pct": -0.68,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "CMNT",
+      "yahoo_ticker": "CMNT.JK",
+      "name": "CMNT",
+      "sector": "Other",
+      "industry": "",
+      "price": 805,
+      "open": 810,
+      "high": 805,
+      "low": 805,
+      "volume": 0,
+      "change_pct": -0.62,
+      "size_score": 0,
       "volume_ratio": null,
       "tier": null,
       "indices": []
