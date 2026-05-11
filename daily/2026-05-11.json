@@ -18,6 +18,11 @@
       "count": 5
     },
     {
+      "name": "Real Estate",
+      "total_volume": 374700,
+      "count": 5
+    },
+    {
       "name": "Consumer Defensive",
       "total_volume": 197400,
       "count": 3
@@ -25,6 +30,11 @@
     {
       "name": "Utilities",
       "total_volume": 86100,
+      "count": 1
+    },
+    {
+      "name": "Healthcare",
+      "total_volume": 26300,
       "count": 1
     },
     {
@@ -36,13 +46,13 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 7,
-      "avg_change": -0.77
+      "count": 8,
+      "avg_change": -0.91
     },
     {
       "name": "JII",
-      "count": 6,
-      "avg_change": -0.39
+      "count": 7,
+      "avg_change": -0.6
     },
     {
       "name": "IDX30",
@@ -429,6 +439,111 @@
       "volume_ratio": null,
       "tier": null,
       "indices": []
+    },
+    {
+      "ticker": "DMAS",
+      "yahoo_ticker": "DMAS.JK",
+      "name": "PT Puradelta Lestari Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Development",
+      "price": 149,
+      "open": 155,
+      "high": 150,
+      "low": 149,
+      "volume": 308800,
+      "change_pct": -3.25,
+      "size_score": 9.645,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "DILD",
+      "yahoo_ticker": "DILD.JK",
+      "name": "PT Intiland Development Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Development",
+      "price": 125,
+      "open": 126,
+      "high": 126,
+      "low": 125,
+      "volume": 37400,
+      "change_pct": -0.79,
+      "size_score": 7.534,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "LPKR",
+      "yahoo_ticker": "LPKR.JK",
+      "name": "PT Lippo Karawaci Tbk",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "price": 81,
+      "open": 81,
+      "high": 81,
+      "low": 81,
+      "volume": 26300,
+      "change_pct": -1.22,
+      "size_score": 7.182,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BIPP",
+      "yahoo_ticker": "BIPP.JK",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Diversified",
+      "price": 80,
+      "open": 82,
+      "high": 81,
+      "low": 80,
+      "volume": 18600,
+      "change_pct": -3.61,
+      "size_score": 6.836,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "KIJA",
+      "yahoo_ticker": "KIJA.JK",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Development",
+      "price": 172,
+      "open": 181,
+      "high": 173,
+      "low": 172,
+      "volume": 9300,
+      "change_pct": -4.44,
+      "size_score": 6.144,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PWON",
+      "yahoo_ticker": "PWON.JK",
+      "name": "PT Pakuwon Jati Tbk",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Diversified",
+      "price": 314,
+      "open": 318,
+      "high": 316,
+      "low": 314,
+      "volume": 600,
+      "change_pct": -1.87,
+      "size_score": 3.434,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
     }
   ]
 }
