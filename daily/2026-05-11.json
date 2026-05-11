@@ -1,51 +1,31 @@
 {
-  "generated_at": "2026-05-11T03:50:44.000Z",
+  "generated_at": "2026-05-11T03:51:06.000Z",
   "ihsg": null,
   "top_sectors": [
     {
-      "name": "Energy",
+      "name": "Industrials",
       "total_volume": 0,
       "count": 1
     }
   ],
-  "indices": [
-    {
-      "name": "BUMN20",
-      "count": 1,
-      "avg_change": -1.05
-    },
-    {
-      "name": "JII",
-      "count": 1,
-      "avg_change": -1.05
-    },
-    {
-      "name": "HiDiv20",
-      "count": 1,
-      "avg_change": -1.05
-    }
-  ],
+  "indices": [],
   "stocks": [
     {
-      "ticker": "PTBA",
-      "yahoo_ticker": "PTBA.JK",
-      "name": "PT Bukit Asam (Persero) Tbk",
-      "sector": "Energy",
-      "industry": "Thermal Coal",
-      "price": 2830,
-      "open": 2860,
-      "high": 2830,
-      "low": 2830,
+      "ticker": "BIPI",
+      "yahoo_ticker": "BIPI.JK",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "sector": "Industrials",
+      "industry": "Infrastructure Operations",
+      "price": 202,
+      "open": 218,
+      "high": 202,
+      "low": 202,
       "volume": 0,
-      "change_pct": -1.05,
+      "change_pct": -5.61,
       "size_score": 0,
       "volume_ratio": null,
-      "tier": null,
-      "indices": [
-        "BUMN20",
-        "JII",
-        "HiDiv20"
-      ]
+      "tier": "falling",
+      "indices": []
     }
   ]
 }
