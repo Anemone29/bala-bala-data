@@ -3,31 +3,56 @@
   "ihsg": null,
   "top_sectors": [
     {
+      "name": "Technology",
+      "total_volume": 19480000,
+      "count": 3
+    },
+    {
       "name": "Financial Services",
-      "total_volume": 14738400,
-      "count": 20
+      "total_volume": 16053400,
+      "count": 28
+    },
+    {
+      "name": "Communication Services",
+      "total_volume": 3928500,
+      "count": 7
+    },
+    {
+      "name": "Consumer Cyclical",
+      "total_volume": 1020900,
+      "count": 2
+    },
+    {
+      "name": "Real Estate",
+      "total_volume": 780400,
+      "count": 1
     }
   ],
   "indices": [
     {
       "name": "LQ45",
-      "count": 6,
-      "avg_change": -2.22
+      "count": 14,
+      "avg_change": -1.87
     },
     {
       "name": "IDX30",
-      "count": 5,
-      "avg_change": -2.23
+      "count": 10,
+      "avg_change": -1.59
     },
     {
       "name": "BUMN20",
-      "count": 4,
-      "avg_change": -3.13
+      "count": 5,
+      "avg_change": -2.44
     },
     {
       "name": "HiDiv20",
-      "count": 4,
-      "avg_change": -2.59
+      "count": 5,
+      "avg_change": -2
+    },
+    {
+      "name": "JII",
+      "count": 1,
+      "avg_change": 0.34
     }
   ],
   "stocks": [
@@ -395,6 +420,387 @@
       "volume_ratio": null,
       "tier": null,
       "indices": []
+    },
+    {
+      "ticker": "GOTO",
+      "yahoo_ticker": "GOTO.JK",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 50,
+      "open": 50,
+      "high": 50,
+      "low": 50,
+      "volume": 19472500,
+      "change_pct": 0,
+      "size_score": 13.789,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "TLKM",
+      "yahoo_ticker": "TLKM.JK",
+      "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "price": 2970,
+      "open": 2990,
+      "high": 2980,
+      "low": 2940,
+      "volume": 2130900,
+      "change_pct": 0.34,
+      "size_score": 11.642,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45",
+        "BUMN20",
+        "JII",
+        "HiDiv20"
+      ]
+    },
+    {
+      "ticker": "BABP",
+      "yahoo_ticker": "BABP.JK",
+      "name": "PT Bank MNC Internasional Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 51,
+      "open": 51,
+      "high": 51,
+      "low": 50,
+      "volume": 829500,
+      "change_pct": 0,
+      "size_score": 10.633,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BUKA",
+      "yahoo_ticker": "BUKA.JK",
+      "name": "PT Bukalapak.com Tbk.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "price": 143,
+      "open": 147,
+      "high": 144,
+      "low": 143,
+      "volume": 805200,
+      "change_pct": -2.72,
+      "size_score": 10.603,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "TOWR",
+      "yahoo_ticker": "TOWR.JK",
+      "name": "PT Sarana Menara Nusantara Tbk.",
+      "sector": "Real Estate",
+      "industry": "Real Estate Services",
+      "price": 472,
+      "open": 474,
+      "high": 472,
+      "low": 470,
+      "volume": 780400,
+      "change_pct": -0.42,
+      "size_score": 10.572,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "EMTK",
+      "yahoo_ticker": "EMTK.JK",
+      "name": "PT Elang Mahkota Teknologi Tbk",
+      "sector": "Communication Services",
+      "industry": "Broadcasting",
+      "price": 735,
+      "open": 760,
+      "high": 740,
+      "low": 730,
+      "volume": 758000,
+      "change_pct": -3.29,
+      "size_score": 10.543,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MTEL",
+      "yahoo_ticker": "MTEL.JK",
+      "name": "PT Dayamitra Telekomunikasi Tbk.",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "price": 505,
+      "open": 510,
+      "high": 510,
+      "low": 505,
+      "volume": 628100,
+      "change_pct": -1.94,
+      "size_score": 10.355,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "AGRO",
+      "yahoo_ticker": "AGRO.JK",
+      "name": "PT Bank Raya Indonesia Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 181,
+      "open": 181,
+      "high": 182,
+      "low": 181,
+      "volume": 377700,
+      "change_pct": -0.55,
+      "size_score": 9.846,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "LUCY",
+      "yahoo_ticker": "LUCY.JK",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "price": 1440,
+      "open": 1530,
+      "high": 1440,
+      "low": 1440,
+      "volume": 215700,
+      "change_pct": -5.88,
+      "size_score": 9.286,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "NETV",
+      "yahoo_ticker": "NETV.JK",
+      "name": "PT MDTV Media Technologies Tbk",
+      "sector": "Communication Services",
+      "industry": "Broadcasting",
+      "price": 88,
+      "open": 87,
+      "high": 88,
+      "low": 86,
+      "volume": 149900,
+      "change_pct": 0,
+      "size_score": 8.922,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "EXCL",
+      "yahoo_ticker": "EXCL.JK",
+      "name": "PT XLSMART Telecom Sejahtera Tbk",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "price": 3030,
+      "open": 3050,
+      "high": 3030,
+      "low": 3010,
+      "volume": 131800,
+      "change_pct": -0.66,
+      "size_score": 8.793,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "ISAT",
+      "yahoo_ticker": "ISAT.JK",
+      "name": "PT Indosat Ooredoo Hutchison Tbk",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "price": 2150,
+      "open": 2250,
+      "high": 2160,
+      "low": 2150,
+      "volume": 129500,
+      "change_pct": -4.02,
+      "size_score": 8.776,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "PNBS",
+      "yahoo_ticker": "PNBS.JK",
+      "name": "PT Bank Panin Dubai Syariah Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 51,
+      "open": 51,
+      "high": 51,
+      "low": 50,
+      "volume": 32100,
+      "change_pct": 0,
+      "size_score": 7.382,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BCAP",
+      "yahoo_ticker": "BCAP.JK",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "sector": "Financial Services",
+      "industry": "Financial Conglomerates",
+      "price": 51,
+      "open": 50,
+      "high": 51,
+      "low": 50,
+      "volume": 22400,
+      "change_pct": 2,
+      "size_score": 7.358,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "BVIC",
+      "yahoo_ticker": "BVIC.JK",
+      "name": "PT Bank Victoria International Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 101,
+      "open": 102,
+      "high": 102,
+      "low": 101,
+      "volume": 25500,
+      "change_pct": -0.98,
+      "size_score": 7.151,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "SDRA",
+      "yahoo_ticker": "SDRA.JK",
+      "name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 262,
+      "open": 270,
+      "high": 262,
+      "low": 262,
+      "volume": 12400,
+      "change_pct": -1.5,
+      "size_score": 6.431,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "INPC",
+      "yahoo_ticker": "INPC.JK",
+      "name": "PT Bank Artha Graha Internasional Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 156,
+      "open": 156,
+      "high": 156,
+      "low": 156,
+      "volume": 10000,
+      "change_pct": -1.27,
+      "size_score": 6.217,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MTDL",
+      "yahoo_ticker": "MTDL.JK",
+      "name": "PT Metrodata Electronics Tbk",
+      "sector": "Technology",
+      "industry": "Electronics & Computer Distribution",
+      "price": 570,
+      "open": 580,
+      "high": 570,
+      "low": 570,
+      "volume": 6800,
+      "change_pct": -0.87,
+      "size_score": 5.832,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "AGRS",
+      "yahoo_ticker": "AGRS.JK",
+      "name": "PT Bank IBK Indonesia Tbk",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 68,
+      "open": 69,
+      "high": 68,
+      "low": 68,
+      "volume": 5400,
+      "change_pct": -1.45,
+      "size_score": 5.602,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MLPT",
+      "yahoo_ticker": "MLPT.JK",
+      "name": "PT Multipolar Technology Tbk",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "price": 22500,
+      "open": 21200,
+      "high": 22500,
+      "low": 22300,
+      "volume": 700,
+      "change_pct": 6.51,
+      "size_score": 4.401,
+      "volume_ratio": null,
+      "tier": "apex",
+      "indices": []
+    },
+    {
+      "ticker": "TBIG",
+      "yahoo_ticker": "TBIG.JK",
+      "name": "PT Tower Bersama Infrastructure Tbk",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "price": 1545,
+      "open": 1575,
+      "high": 1565,
+      "low": 1545,
+      "volume": 300,
+      "change_pct": -3.44,
+      "size_score": 2.773,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "LQ45"
+      ]
     }
   ]
 }
