@@ -1,27 +1,80 @@
 {
-  "generated_at": "2026-05-11T03:51:15.000Z",
+  "generated_at": "2026-05-11T03:51:24.000Z",
   "ihsg": null,
   "top_sectors": [
     {
-      "name": "Real Estate",
+      "name": "Consumer Cyclical",
+      "total_volume": 0,
+      "count": 2
+    },
+    {
+      "name": "Consumer Defensive",
       "total_volume": 0,
       "count": 1
     }
   ],
-  "indices": [],
+  "indices": [
+    {
+      "name": "LQ45",
+      "count": 1,
+      "avg_change": 2.41
+    },
+    {
+      "name": "JII",
+      "count": 1,
+      "avg_change": 2.41
+    }
+  ],
   "stocks": [
     {
-      "ticker": "BIPP",
-      "yahoo_ticker": "BIPP.JK",
-      "name": "PT Bhuwanatala Indah Permai Tbk",
-      "sector": "Real Estate",
-      "industry": "Real Estate - Diversified",
-      "price": 80,
-      "open": 82,
-      "high": 80,
-      "low": 80,
+      "ticker": "ACES",
+      "yahoo_ticker": "ACES.JK",
+      "name": "PT Aspirasi Hidup Indonesia Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 386,
+      "open": 380,
+      "high": 386,
+      "low": 386,
       "volume": 0,
-      "change_pct": -3.61,
+      "change_pct": 1.58,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MAPI",
+      "yahoo_ticker": "MAPI.JK",
+      "name": "PT. Mitra Adiperkasa Tbk",
+      "sector": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "price": 1490,
+      "open": 1490,
+      "high": 1490,
+      "low": 1490,
+      "volume": 0,
+      "change_pct": 2.41,
+      "size_score": 0,
+      "volume_ratio": null,
+      "tier": "apex",
+      "indices": [
+        "LQ45",
+        "JII"
+      ]
+    },
+    {
+      "ticker": "MIDI",
+      "yahoo_ticker": "MIDI.JK",
+      "name": "PT Midi Utama Indonesia Tbk",
+      "sector": "Consumer Defensive",
+      "industry": "Grocery Stores",
+      "price": 344,
+      "open": 348,
+      "high": 344,
+      "low": 344,
+      "volume": 0,
+      "change_pct": -1.15,
       "size_score": 0,
       "volume_ratio": null,
       "tier": null,
