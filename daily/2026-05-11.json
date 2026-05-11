@@ -3,6 +3,11 @@
   "ihsg": null,
   "top_sectors": [
     {
+      "name": "Other",
+      "total_volume": 199236100,
+      "count": 34
+    },
+    {
       "name": "Basic Materials",
       "total_volume": 167535700,
       "count": 8
@@ -11,11 +16,6 @@
       "name": "Energy",
       "total_volume": 24343500,
       "count": 10
-    },
-    {
-      "name": "Other",
-      "total_volume": 8580400,
-      "count": 24
     },
     {
       "name": "Industrials",
@@ -56,8 +56,8 @@
   "indices": [
     {
       "name": "LQ45",
-      "count": 18,
-      "avg_change": -1.43
+      "count": 19,
+      "avg_change": -1.38
     },
     {
       "name": "JII",
@@ -66,8 +66,8 @@
     },
     {
       "name": "IDX30",
-      "count": 8,
-      "avg_change": -0.34
+      "count": 9,
+      "avg_change": -0.35
     },
     {
       "name": "BUMN20",
@@ -1433,6 +1433,179 @@
       "volume": 0,
       "change_pct": 1.49,
       "size_score": 0,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PRIM",
+      "yahoo_ticker": "PRIM.JK",
+      "name": "PRIM",
+      "sector": "Other",
+      "industry": "",
+      "price": 96,
+      "open": 93,
+      "high": 97,
+      "low": 95,
+      "volume": 187848100,
+      "change_pct": 7.87,
+      "size_score": 17.001,
+      "volume_ratio": null,
+      "tier": "surging",
+      "indices": []
+    },
+    {
+      "ticker": "PNLF",
+      "yahoo_ticker": "PNLF.JK",
+      "name": "PNLF",
+      "sector": "Other",
+      "industry": "",
+      "price": 262,
+      "open": 276,
+      "high": 264,
+      "low": 260,
+      "volume": 1400200,
+      "change_pct": -3.68,
+      "size_score": 11.156,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "NIKL",
+      "yahoo_ticker": "NIKL.JK",
+      "name": "NIKL",
+      "sector": "Other",
+      "industry": "",
+      "price": 340,
+      "open": 360,
+      "high": 344,
+      "low": 340,
+      "volume": 1305800,
+      "change_pct": -15,
+      "size_score": 11.087,
+      "volume_ratio": null,
+      "tier": "falling",
+      "indices": []
+    },
+    {
+      "ticker": "OMED",
+      "yahoo_ticker": "OMED.JK",
+      "name": "OMED",
+      "sector": "Other",
+      "industry": "",
+      "price": 302,
+      "open": 304,
+      "high": 302,
+      "low": 300,
+      "volume": 31900,
+      "change_pct": 1.34,
+      "size_score": 7.613,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PGEO",
+      "yahoo_ticker": "PGEO.JK",
+      "name": "PGEO",
+      "sector": "Other",
+      "industry": "",
+      "price": 990,
+      "open": 1000,
+      "high": 995,
+      "low": 990,
+      "volume": 27600,
+      "change_pct": -0.5,
+      "size_score": 7.231,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": [
+        "IDX30",
+        "LQ45"
+      ]
+    },
+    {
+      "ticker": "POLA",
+      "yahoo_ticker": "POLA.JK",
+      "name": "POLA",
+      "sector": "Other",
+      "industry": "",
+      "price": 78,
+      "open": 77,
+      "high": 78,
+      "low": 76,
+      "volume": 24100,
+      "change_pct": 0,
+      "size_score": 7.095,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "MPMX",
+      "yahoo_ticker": "MPMX.JK",
+      "name": "MPMX",
+      "sector": "Other",
+      "industry": "",
+      "price": 1010,
+      "open": 1010,
+      "high": 1010,
+      "low": 1010,
+      "volume": 13900,
+      "change_pct": -0.49,
+      "size_score": 6.545,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "RICY",
+      "yahoo_ticker": "RICY.JK",
+      "name": "RICY",
+      "sector": "Other",
+      "industry": "",
+      "price": 101,
+      "open": 104,
+      "high": 101,
+      "low": 100,
+      "volume": 2500,
+      "change_pct": 1,
+      "size_score": 5.017,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "PTMP",
+      "yahoo_ticker": "PTMP.JK",
+      "name": "PTMP",
+      "sector": "Other",
+      "industry": "",
+      "price": 69,
+      "open": 68,
+      "high": 69,
+      "low": 69,
+      "volume": 1400,
+      "change_pct": 0,
+      "size_score": 4.263,
+      "volume_ratio": null,
+      "tier": null,
+      "indices": []
+    },
+    {
+      "ticker": "POLU",
+      "yahoo_ticker": "POLU.JK",
+      "name": "POLU",
+      "sector": "Other",
+      "industry": "",
+      "price": 13900,
+      "open": 14225,
+      "high": 13900,
+      "low": 13900,
+      "volume": 200,
+      "change_pct": -2.11,
+      "size_score": 2.398,
       "volume_ratio": null,
       "tier": null,
       "indices": []
