@@ -1,40 +1,15 @@
 {
-  "generated_at": "2026-06-03T07:00:35.928Z",
+  "generated_at": "2026-06-03T07:15:35.678Z",
   "events": [
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -96.1,
-      "label": "96% saham melemah",
-      "summary": null,
-      "drivers": {
-        "sectors": [],
-        "tickers": [
-          {
-            "ticker": "DSSA",
-            "change_pct": -0.81,
-            "contribution_pct": 0
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -14.96,
-            "contribution_pct": 0
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": -15,
-            "contribution_pct": 0
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "KEMARIN: CPI Indonesia Mei (BPS)"
-        }
-      },
-      "detected_at": "2026-06-03T07:00:35.928Z",
-      "status": "active"
+      "type": "macro_cpi_id",
+      "ticker": "CPI_ID",
+      "name": "CPI Indonesia Mei (BPS)",
+      "change_pct": 0,
+      "label": "KEMARIN: CPI Indonesia Mei (BPS)",
+      "detail": "Inflasi Mei dirilis BPS jam 11:00 WIB. CPI rendah → BI lebih leluasa cut rate.",
+      "impact": "medium",
+      "event_date": "2026-06-02"
     }
   ]
 }
