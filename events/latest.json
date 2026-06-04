@@ -9,22 +9,35 @@
       "label": "94% saham melemah",
       "summary": null,
       "drivers": {
-        "sectors": [],
+        "sectors": [
+          {
+            "name": "Communication Services",
+            "avg_change_pct": -5.61
+          },
+          {
+            "name": "Basic Materials",
+            "avg_change_pct": -5.14
+          },
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -5.08
+          }
+        ],
         "tickers": [
           {
-            "ticker": "BUMI",
-            "change_pct": -5.41,
-            "contribution_pct": 0
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -257.53
           },
           {
             "ticker": "BIPI",
             "change_pct": -12.5,
-            "contribution_pct": 0
+            "contribution_score": -227.02
           },
           {
-            "ticker": "TPIA",
-            "change_pct": -10.53,
-            "contribution_pct": 0
+            "ticker": "OASA",
+            "change_pct": -14.77,
+            "contribution_score": -221.46
           }
         ],
         "foreign_flow": null,
@@ -86,6 +99,98 @@
       },
       "detected_at": "2026-06-04T02:00:41.684Z",
       "status": "active"
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": -11.59,
+      "move_30min": -3.94,
+      "label": "DSSA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Communication Services",
+            "avg_change_pct": -5.61
+          },
+          {
+            "name": "Basic Materials",
+            "avg_change_pct": -5.14
+          },
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -5.08
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -257.53
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.5,
+            "contribution_score": -227.02
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -14.77,
+            "contribution_score": -221.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-04T07:00:39.362Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BREN",
+      "name": "BREN",
+      "change_pct": -5.53,
+      "move_30min": -3.68,
+      "label": "BREN -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Communication Services",
+            "avg_change_pct": -5.61
+          },
+          {
+            "name": "Basic Materials",
+            "avg_change_pct": -5.14
+          },
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -5.08
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -257.53
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.5,
+            "contribution_score": -227.02
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -14.77,
+            "contribution_score": -221.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-04T07:00:39.362Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
