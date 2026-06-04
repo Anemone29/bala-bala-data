@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T02:15:36.865Z",
+  "generated_at": "2026-06-04T02:30:36.941Z",
   "events": [
     {
       "type": "breadth_up",
@@ -28,32 +28,32 @@
       "type": "breadth_down",
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
-      "change_pct": -83.2,
-      "label": "83% saham melemah",
+      "change_pct": -84.2,
+      "label": "84% saham melemah",
       "summary": null,
       "drivers": {
         "sectors": [],
         "tickers": [
           {
-            "ticker": "BUMI",
-            "change_pct": -0.68,
-            "contribution_pct": 0
-          },
-          {
             "ticker": "BIPI",
-            "change_pct": -7.89,
+            "change_pct": -4.61,
             "contribution_pct": 0
           },
           {
-            "ticker": "DSSA",
-            "change_pct": -3.62,
+            "ticker": "BNBR",
+            "change_pct": -2.75,
+            "contribution_pct": 0
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": -7.12,
             "contribution_pct": 0
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-04T02:15:36.865Z",
+      "detected_at": "2026-06-04T02:30:36.941Z",
       "status": "active"
     }
   ]
