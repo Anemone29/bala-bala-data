@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-08T03:30:17.306Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -91.6,
+      "label": "90% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -14.61,
+            "contribution_score": -181.5
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.08
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -12.09,
+            "contribution_score": -175.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:30:17.306Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T02:00:19.433Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AGRS",
+      "name": "PT Bank IBK Indonesia Tbk",
+      "change_pct": -8.47,
+      "move_30min": -3.57,
+      "label": "AGRS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -14.61,
+            "contribution_score": -181.5
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.08
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -12.09,
+            "contribution_score": -175.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:30:17.306Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -9.05,
+      "move_30min": -4.98,
+      "label": "ARTA -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -14.61,
+            "contribution_score": -181.5
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.08
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -12.09,
+            "contribution_score": -175.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:30:17.306Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RDTX",
+      "name": "PT Roda Vivatex Tbk",
+      "change_pct": -7.37,
+      "move_30min": -3.3,
+      "label": "RDTX -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -14.61,
+            "contribution_score": -181.5
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.08
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -12.09,
+            "contribution_score": -175.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:30:17.306Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
