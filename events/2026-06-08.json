@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T06:30:14.483Z",
+  "generated_at": "2026-06-08T06:45:14.474Z",
   "events": [
     {
       "type": "breadth_up",
@@ -18782,48 +18782,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -88.3,
-      "label": "88% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TLKM",
-            "change_pct": -11.96,
-            "contribution_score": -188.97
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.47
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -14.04,
-            "contribution_score": -178.7
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T06:30:14.483Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "AISA",
       "name": "PT FKS Food Sejahtera Tbk",
@@ -19680,6 +19638,91 @@
         "macro_active": null
       },
       "detected_at": "2026-06-08T06:30:14.483Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -91.1,
+      "label": "91% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TLKM",
+            "change_pct": -13.41,
+            "contribution_score": -213.49
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -14.89,
+            "contribution_score": -190.67
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T06:45:14.474Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BACA",
+      "name": "PT Bank Capital Indonesia Tbk",
+      "change_pct": -6.73,
+      "move_30min": -3,
+      "label": "BACA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TLKM",
+            "change_pct": -13.41,
+            "contribution_score": -213.49
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -14.89,
+            "contribution_score": -190.67
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T06:45:14.474Z",
       "status": "active",
       "summary": null
     }
