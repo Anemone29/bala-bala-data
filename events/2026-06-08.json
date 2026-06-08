@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T03:30:17.306Z",
+  "generated_at": "2026-06-08T03:45:17.500Z",
   "events": [
     {
       "type": "breadth_up",
@@ -12505,48 +12505,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -91.6,
-      "label": "90% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "AGRS",
       "name": "PT Bank IBK Indonesia Tbk",
@@ -14268,183 +14226,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MDIA",
-      "name": "PT Intermedia Capital Tbk",
-      "change_pct": 3.33,
-      "move_30min": -4.62,
-      "label": "MDIA -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 21.79,
-            "contribution_score": 339.86
-          },
-          {
-            "ticker": "OBAT",
-            "change_pct": 17.1,
-            "contribution_score": 215.32
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": 10.34,
-            "contribution_score": 193.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BUVA",
       "name": "PT Bukit Uluwatu Villa Tbk",
       "change_pct": -7.38,
       "move_30min": -4.24,
       "label": "BUVA -4.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PTRO",
-      "name": "PT Petrosea Tbk",
-      "change_pct": -3.01,
-      "move_30min": -5.09,
-      "label": "PTRO -5.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DEFI",
-      "name": "Danasupra Erapacific Tbk.",
-      "change_pct": -4.21,
-      "move_30min": -7.14,
-      "label": "DEFI -7.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "LPKR",
-      "name": "PT Lippo Karawaci Tbk",
-      "change_pct": -4.84,
-      "move_30min": -3.28,
-      "label": "LPKR -3.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -14558,49 +14344,6 @@
             "ticker": "IMPC",
             "change_pct": -12.09,
             "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "OBAT",
-      "name": "PT Famon Awal Bros Sedaya Tbk",
-      "change_pct": 17.1,
-      "move_30min": -5.83,
-      "label": "OBAT -5.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 21.79,
-            "contribution_score": 339.86
-          },
-          {
-            "ticker": "OBAT",
-            "change_pct": 17.1,
-            "contribution_score": 215.32
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": 10.34,
-            "contribution_score": 193.14
           }
         ],
         "foreign_flow": null,
@@ -14789,49 +14532,6 @@
       "change_pct": -10.73,
       "move_30min": -5.18,
       "label": "NRCA -5.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "SOLA",
-      "name": "SOLA",
-      "change_pct": -13.33,
-      "move_30min": -3.7,
-      "label": "SOLA -3.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -15127,178 +14827,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "PBSA",
-      "name": "PT Paramita Bangun Sarana Tbk",
-      "change_pct": -7.69,
-      "move_30min": -4.76,
-      "label": "PBSA -4.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BLES",
-      "name": "PT Berkah Beton Sadaya Tbk",
-      "change_pct": -14.81,
-      "move_30min": -12.88,
-      "label": "BLES -12.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "KKGI",
-      "name": "PT Resource Alam Indonesia Tbk",
-      "change_pct": -9.02,
-      "move_30min": -4.31,
-      "label": "KKGI -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BUKK",
-      "name": "PT Bukaka Teknik Utama Tbk",
-      "change_pct": 13.7,
-      "move_30min": -3.49,
-      "label": "BUKK -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 21.79,
-            "contribution_score": 339.86
-          },
-          {
-            "ticker": "OBAT",
-            "change_pct": 17.1,
-            "contribution_score": 215.32
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": 10.34,
-            "contribution_score": 193.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "DMMX",
       "name": "PT Digital Mediatama Maxima Tbk",
@@ -15391,49 +14919,6 @@
       "change_pct": -2.19,
       "move_30min": 8.94,
       "label": "ALDO +8.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FILM",
-            "change_pct": -14.61,
-            "contribution_score": -181.5
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": -14.29,
-            "contribution_score": -181.08
-          },
-          {
-            "ticker": "IMPC",
-            "change_pct": -12.09,
-            "contribution_score": -175.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-08T03:30:17.306Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ASDM",
-      "name": "ASDM",
-      "change_pct": -6.67,
-      "move_30min": -3.92,
-      "label": "ASDM -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -15639,6 +15124,1295 @@
         "macro_active": null
       },
       "detected_at": "2026-06-08T03:30:17.306Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -92.8,
+      "label": "93% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 3.33,
+      "move_30min": -3.13,
+      "label": "MDIA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTRO",
+      "name": "PT Petrosea Tbk",
+      "change_pct": -3.56,
+      "move_30min": -3.83,
+      "label": "PTRO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": -4.21,
+      "move_30min": -3.13,
+      "label": "DEFI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPKR",
+      "name": "PT Lippo Karawaci Tbk",
+      "change_pct": -4.84,
+      "move_30min": -3.28,
+      "label": "LPKR -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": 20.21,
+      "move_30min": -3.33,
+      "label": "OBAT -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": -14.44,
+      "move_30min": -3.75,
+      "label": "SOLA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PBSA",
+      "name": "PT Paramita Bangun Sarana Tbk",
+      "change_pct": -9.23,
+      "move_30min": -4.07,
+      "label": "PBSA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLES",
+      "name": "PT Berkah Beton Sadaya Tbk",
+      "change_pct": -14.81,
+      "move_30min": -12.88,
+      "label": "BLES -12.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKGI",
+      "name": "PT Resource Alam Indonesia Tbk",
+      "change_pct": -10.66,
+      "move_30min": -3.54,
+      "label": "KKGI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": 13.7,
+      "move_30min": -6.36,
+      "label": "BUKK -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASDM",
+      "name": "ASDM",
+      "change_pct": -6.67,
+      "move_30min": -3.92,
+      "label": "ASDM -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -5.43,
+      "move_30min": -3.33,
+      "label": "BNBR -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": 18.59,
+      "move_30min": -4.15,
+      "label": "TRIN -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -1.22,
+      "move_30min": -5.81,
+      "label": "KOTA -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 0,
+      "move_30min": -4.11,
+      "label": "MEDS -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -12.5,
+      "move_30min": -3.45,
+      "label": "OASA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JPFA",
+      "name": "PT Japfa Comfeed Indonesia Tbk",
+      "change_pct": -6.2,
+      "move_30min": -3.46,
+      "label": "JPFA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FORE",
+      "name": "FORE",
+      "change_pct": 0,
+      "move_30min": -3.73,
+      "label": "FORE -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.59,
+            "contribution_score": 288.03
+          },
+          {
+            "ticker": "OBAT",
+            "change_pct": 20.21,
+            "contribution_score": 258.63
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.64,
+            "contribution_score": 238.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JKON",
+      "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
+      "change_pct": -6.15,
+      "move_30min": -3.17,
+      "label": "JKON -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TKIM",
+      "name": "PT Pabrik Kertas Tjiwi Kimia Tbk",
+      "change_pct": -2.97,
+      "move_30min": -3.17,
+      "label": "TKIM -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAYA",
+      "name": "JAYA",
+      "change_pct": -13.45,
+      "move_30min": -4.63,
+      "label": "JAYA -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSTI",
+      "name": "PT Metrodata Electronics Tbk",
+      "change_pct": -11.57,
+      "move_30min": -3.66,
+      "label": "MSTI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": -11.18,
+      "move_30min": -4.43,
+      "label": "RAAM -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIIM",
+      "name": "PT Wismilak Inti Makmur Tbk",
+      "change_pct": -7.86,
+      "move_30min": -4.44,
+      "label": "WIIM -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -1.23,
+      "move_30min": 7.33,
+      "label": "TRUK +7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -6.72,
+      "move_30min": -3.85,
+      "label": "SAMF -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -7.03,
+      "move_30min": -7.53,
+      "label": "BTON -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": -8.33,
+      "move_30min": -8.33,
+      "label": "INCI -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": -4.86,
+      "move_30min": -4.86,
+      "label": "ATIC -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": -14.29,
+            "contribution_score": -181.11
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -14.44,
+            "contribution_score": -176.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-08T03:45:17.500Z",
       "status": "active",
       "summary": null
     }
