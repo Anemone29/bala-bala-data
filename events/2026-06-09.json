@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T04:45:10.221Z",
+  "generated_at": "2026-06-09T05:00:11.013Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8290,48 +8290,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 83.4,
-      "label": "83% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "CTTH",
-            "change_pct": 27.08,
-            "contribution_score": 466.78
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 23.64,
-            "contribution_score": 420.3
-          },
-          {
-            "ticker": "AHAP",
-            "change_pct": 25.86,
-            "contribution_score": 412.39
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-09T04:45:10.221Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PICO",
       "name": "PT Pelangi Indah Canindo Tbk",
@@ -8451,49 +8409,6 @@
             "ticker": "PSDN",
             "change_pct": -6.5,
             "contribution_score": -89.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-09T04:45:10.221Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "BIPI",
-      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
-      "change_pct": 10.16,
-      "move_30min": 8.46,
-      "label": "BIPI +8.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "CTTH",
-            "change_pct": 27.08,
-            "contribution_score": 466.78
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 23.64,
-            "contribution_score": 420.3
-          },
-          {
-            "ticker": "AHAP",
-            "change_pct": 25.86,
-            "contribution_score": 412.39
           }
         ],
         "foreign_flow": null,
@@ -8805,12 +8720,97 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 85.2,
+      "label": "85% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BIPI",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "change_pct": 12.5,
+      "move_30min": 9.09,
+      "label": "BIPI +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "VINS",
       "name": "VINS",
       "change_pct": -2.61,
-      "move_30min": -6.67,
-      "label": "VINS -6.7% dalam 30 menit",
+      "move_30min": -5.88,
+      "label": "VINS -5.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8826,24 +8826,411 @@
         "tickers": [
           {
             "ticker": "MPMX",
-            "change_pct": -13.55,
-            "contribution_score": -183.97
+            "change_pct": -13.08,
+            "contribution_score": -178.69
           },
           {
-            "ticker": "ANJT",
-            "change_pct": -10.88,
-            "contribution_score": -94.82
+            "ticker": "BATA",
+            "change_pct": -9.37,
+            "contribution_score": -88.72
           },
           {
-            "ticker": "PSDN",
-            "change_pct": -6.5,
-            "contribution_score": -89.34
+            "ticker": "ASMI",
+            "change_pct": -7.14,
+            "contribution_score": -82.74
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-09T04:45:10.221Z",
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KRAS",
+      "name": "PT Krakatau Steel (Persero) Tbk",
+      "change_pct": 11.45,
+      "move_30min": 7.56,
+      "label": "KRAS +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 16.88,
+      "move_30min": 13.92,
+      "label": "SOLA +13.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PBSA",
+      "name": "PT Paramita Bangun Sarana Tbk",
+      "change_pct": 12.4,
+      "move_30min": 7.94,
+      "label": "PBSA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURI",
+      "name": "Puri Global Sukses Tbk.",
+      "change_pct": 0,
+      "move_30min": -3.17,
+      "label": "PURI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 20.69,
+      "move_30min": 17.45,
+      "label": "SMMT +17.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ANJT",
+      "name": "PT Austindo Nusantara Jaya Tbk",
+      "change_pct": -4.18,
+      "move_30min": 8.53,
+      "label": "ANJT +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MPMX",
+            "change_pct": -13.08,
+            "contribution_score": -178.69
+          },
+          {
+            "ticker": "BATA",
+            "change_pct": -9.37,
+            "contribution_score": -88.72
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -7.14,
+            "contribution_score": -82.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": -1.82,
+      "move_30min": -6.36,
+      "label": "SKLT -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MPMX",
+            "change_pct": -13.08,
+            "contribution_score": -178.69
+          },
+          {
+            "ticker": "BATA",
+            "change_pct": -9.37,
+            "contribution_score": -88.72
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -7.14,
+            "contribution_score": -82.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 12.99,
+      "move_30min": 11.11,
+      "label": "BOGA +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": 29.31,
+            "contribution_score": 472.57
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 26.04,
+            "contribution_score": 448.15
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 23.64,
+            "contribution_score": 421.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": -0.83,
+      "move_30min": -3.23,
+      "label": "GOLD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MPMX",
+            "change_pct": -13.08,
+            "contribution_score": -178.69
+          },
+          {
+            "ticker": "BATA",
+            "change_pct": -9.37,
+            "contribution_score": -88.72
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -7.14,
+            "contribution_score": -82.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-09T05:00:11.013Z",
       "status": "active",
       "summary": null
     }
