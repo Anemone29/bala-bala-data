@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-10T03:00:10.341Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 80,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSSA",
+            "change_pct": 19.26,
+            "contribution_score": 363.84
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 19.38,
+            "contribution_score": 306.22
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 15.33,
+            "contribution_score": 265.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-10T03:00:10.341Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-10T02:00:10.413Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": 19.26,
+      "move_30min": 10.27,
+      "label": "DSSA +10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSSA",
+            "change_pct": 19.26,
+            "contribution_score": 363.84
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 19.38,
+            "contribution_score": 306.22
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 15.33,
+            "contribution_score": 265.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-10T03:00:10.341Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -1.95,
+      "move_30min": -6.13,
+      "label": "TRUK -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": -10.99,
+            "contribution_score": -119.07
+          },
+          {
+            "ticker": "JTPE",
+            "change_pct": -7.26,
+            "contribution_score": -83.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -3.51,
+            "contribution_score": -50.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-10T03:00:10.341Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -5.06,
+      "move_30min": -13.33,
+      "label": "ASPI -13.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": -10.99,
+            "contribution_score": -119.07
+          },
+          {
+            "ticker": "JTPE",
+            "change_pct": -7.26,
+            "contribution_score": -83.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -3.51,
+            "contribution_score": -50.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-10T03:00:10.341Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
