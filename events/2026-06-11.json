@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T06:45:40.908Z",
+  "generated_at": "2026-06-11T07:00:45.567Z",
   "events": [
     {
       "type": "breadth_up",
@@ -10826,48 +10826,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.8,
-      "label": "75% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HRTA",
-            "change_pct": -13.94,
-            "contribution_score": -198.53
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": -12.37,
-            "contribution_score": -188.98
-          },
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.64,
-            "contribution_score": -178.87
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-11T06:45:40.908Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BAPI",
       "name": "BAPI",
@@ -11557,92 +11515,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "LPGI",
-      "name": "PT Lippo General Insurance Tbk",
-      "change_pct": 0,
-      "move_30min": -3.76,
-      "label": "LPGI -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HILL",
-            "change_pct": 23.08,
-            "contribution_score": 360.14
-          },
-          {
-            "ticker": "POLU",
-            "change_pct": 20,
-            "contribution_score": 162.2
-          },
-          {
-            "ticker": "ISAT",
-            "change_pct": 8.02,
-            "contribution_score": 119.23
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-11T06:45:40.908Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "AMAG",
-      "name": "PT Asuransi Multi Artha Guna Tbk",
-      "change_pct": -3.19,
-      "move_30min": -3.7,
-      "label": "AMAG -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HRTA",
-            "change_pct": -13.94,
-            "contribution_score": -198.53
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": -12.37,
-            "contribution_score": -188.98
-          },
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.64,
-            "contribution_score": -178.87
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-11T06:45:40.908Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "INDR",
       "name": "INDR",
       "change_pct": -3.09,
@@ -11681,6 +11553,349 @@
         "macro_active": null
       },
       "detected_at": "2026-06-11T06:45:40.908Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -13.7,
+            "contribution_score": -195.55
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -181.77
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.78,
+            "contribution_score": -155.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": 0,
+      "move_30min": -3.76,
+      "label": "LPGI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 360.14
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 162.34
+          },
+          {
+            "ticker": "IPOL",
+            "change_pct": 10.48,
+            "contribution_score": 135.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAG",
+      "name": "PT Asuransi Multi Artha Guna Tbk",
+      "change_pct": -3.19,
+      "move_30min": -3.7,
+      "label": "AMAG -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -13.7,
+            "contribution_score": -195.55
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -181.77
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.78,
+            "contribution_score": -155.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TPIA",
+      "name": "PT Chandra Asri Petrochemical Tbk",
+      "change_pct": -3.04,
+      "move_30min": 8,
+      "label": "TPIA +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -13.7,
+            "contribution_score": -195.55
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -181.77
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.78,
+            "contribution_score": -155.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "KIOS -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -13.7,
+            "contribution_score": -195.55
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -181.77
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.78,
+            "contribution_score": -155.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCK",
+      "name": "PT Sentral Mitra Informatika Tbk",
+      "change_pct": -4.9,
+      "move_30min": -3.96,
+      "label": "LUCK -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -13.7,
+            "contribution_score": -195.55
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -181.77
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.78,
+            "contribution_score": -155.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 0,
+      "move_30min": -7.69,
+      "label": "AKSI -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 360.14
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 162.34
+          },
+          {
+            "ticker": "IPOL",
+            "change_pct": 10.48,
+            "contribution_score": 135.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 4.91,
+      "move_30min": 10.33,
+      "label": "ARTA +10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 360.14
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 162.34
+          },
+          {
+            "ticker": "IPOL",
+            "change_pct": 10.48,
+            "contribution_score": 135.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T07:00:45.567Z",
       "status": "active",
       "summary": null
     }
