@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-11T02:30:42.878Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:00:46.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 19.19,
+      "move_30min": 19.19,
+      "label": "DEFI +19.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 19.19,
+            "contribution_score": 317.4
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 20,
+            "contribution_score": 180.78
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 151.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:30:42.878Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": -5.06,
+      "move_30min": -5.06,
+      "label": "DSSA -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -6.73,
+            "contribution_score": -84.07
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -5.06,
+            "contribution_score": -83.39
+          },
+          {
+            "ticker": "RAAM",
+            "change_pct": -6.67,
+            "contribution_score": -70.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:30:42.878Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 8.47,
+      "move_30min": 8.47,
+      "label": "LAPD +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 19.19,
+            "contribution_score": 317.4
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 20,
+            "contribution_score": 180.78
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 151.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:30:42.878Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDKA",
+      "name": "PT Merdeka Copper Gold Tbk",
+      "change_pct": -3.38,
+      "move_30min": -3.38,
+      "label": "MDKA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -6.73,
+            "contribution_score": -84.07
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -5.06,
+            "contribution_score": -83.39
+          },
+          {
+            "ticker": "RAAM",
+            "change_pct": -6.67,
+            "contribution_score": -70.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:30:42.878Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
