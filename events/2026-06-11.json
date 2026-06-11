@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T04:45:42.440Z",
+  "generated_at": "2026-06-11T05:00:47.814Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9623,48 +9623,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -72.5,
-      "label": "73% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ARCI",
-            "change_pct": -13.4,
-            "contribution_score": -202.3
-          },
-          {
-            "ticker": "HRTA",
-            "change_pct": -12.98,
-            "contribution_score": -179.95
-          },
-          {
-            "ticker": "DSSA",
-            "change_pct": -10.13,
-            "contribution_score": -176.51
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-11T04:45:42.440Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DEFI",
       "name": "Danasupra Erapacific Tbk.",
@@ -9838,49 +9796,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PICO",
-      "name": "PT Pelangi Indah Canindo Tbk",
-      "change_pct": -6.25,
-      "move_30min": -3.23,
-      "label": "PICO -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ARCI",
-            "change_pct": -13.4,
-            "contribution_score": -202.3
-          },
-          {
-            "ticker": "HRTA",
-            "change_pct": -12.98,
-            "contribution_score": -179.95
-          },
-          {
-            "ticker": "DSSA",
-            "change_pct": -10.13,
-            "contribution_score": -176.51
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-11T04:45:42.440Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "PZZA",
       "name": "PT Sarimelati Kencana Tbk",
       "change_pct": -3.23,
@@ -9923,6 +9838,91 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.6,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -6.25,
+      "move_30min": -3.23,
+      "label": "PICO -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "ANJT",
       "name": "PT Austindo Nusantara Jaya Tbk",
@@ -9961,7 +9961,480 @@
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-11T04:45:42.440Z",
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -6.9,
+      "move_30min": -3.57,
+      "label": "WIRG -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -7.25,
+      "move_30min": -3.03,
+      "label": "MDIA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": -5,
+      "move_30min": -3.39,
+      "label": "DOOH -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FILM",
+      "name": "PT.MD Entertainment Tbk",
+      "change_pct": 3.59,
+      "move_30min": -5.46,
+      "label": "FILM -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 0,
+      "move_30min": -3.64,
+      "label": "RODA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 0.4,
+      "move_30min": 7.3,
+      "label": "LUCY +7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -0.81,
+      "move_30min": -3.15,
+      "label": "BAJA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -2.63,
+      "move_30min": -3.48,
+      "label": "AYLS -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": -0.83,
+      "move_30min": -3.25,
+      "label": "AMAN -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": -4.07,
+      "move_30min": -3.28,
+      "label": "WOMF -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -9.09,
+      "move_30min": -3.23,
+      "label": "YPAS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRTA",
+            "change_pct": -14.18,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -12.89,
+            "contribution_score": -196.28
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.64,
+            "contribution_score": -178.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T05:00:47.814Z",
       "status": "active",
       "summary": null
     }
