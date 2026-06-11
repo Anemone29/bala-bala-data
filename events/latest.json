@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-06-11T04:45:42.440Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -72.5,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARCI",
+            "change_pct": -13.4,
+            "contribution_score": -202.3
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -12.98,
+            "contribution_score": -179.95
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -10.13,
+            "contribution_score": -176.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:45:42.440Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -175.82
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -11.78,
+            "contribution_score": -161.68
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -8.86,
+            "contribution_score": -153.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:00:44.292Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:00:46.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": 0.72,
+      "move_30min": -3.47,
+      "label": "ALDO -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:45:42.440Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": -12.54,
+      "move_30min": -11.4,
+      "label": "MPRO -11.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARCI",
+            "change_pct": -13.4,
+            "contribution_score": -202.3
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -12.98,
+            "contribution_score": -179.95
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -10.13,
+            "contribution_score": -176.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:45:42.440Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
