@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-11T04:30:42.516Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARCI",
+            "change_pct": -11.86,
+            "contribution_score": -175.82
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -11.78,
+            "contribution_score": -161.68
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -8.86,
+            "contribution_score": -153.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:00:44.292Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T02:00:46.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -8.33,
+      "label": "BLTA -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:30:42.516Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 0,
+      "move_30min": -6.67,
+      "label": "TAXI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:30:42.516Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 0,
+      "move_30min": -9.09,
+      "label": "KKES -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HILL",
+            "change_pct": 23.08,
+            "contribution_score": 355.36
+          },
+          {
+            "ticker": "WSBP",
+            "change_pct": 25,
+            "contribution_score": 344.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 12.5,
+            "contribution_score": 178.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-11T04:30:42.516Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
