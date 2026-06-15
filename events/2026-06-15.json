@@ -1,49 +1,7 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T02:30:04.455Z",
+  "generated_at": "2026-06-15T02:45:04.555Z",
   "events": [
-    {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 89.2,
-      "label": "89% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BUKK",
-            "change_pct": 24.88,
-            "contribution_score": 288.71
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 22.65,
-            "contribution_score": 261.09
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": 13.21,
-            "contribution_score": 229.21
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T02:30:04.455Z",
-      "status": "active",
-      "summary": null
-    },
     {
       "type": "rapid_up",
       "ticker": "BUMI",
@@ -734,49 +692,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "TRUK",
-      "name": "PT Guna Timur Raya Tbk",
-      "change_pct": 22.65,
-      "move_30min": 22.65,
-      "label": "TRUK +22.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BUKK",
-            "change_pct": 24.88,
-            "contribution_score": 288.71
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 22.65,
-            "contribution_score": 261.09
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": 13.21,
-            "contribution_score": 229.21
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T02:30:04.455Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "FPNI",
       "name": "PT Lotte Chemical Titan Tbk",
       "change_pct": 7.1,
@@ -1206,49 +1121,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "ROCK",
-      "name": "PT Rockfields Properti Indonesia Tbk",
-      "change_pct": 11.41,
-      "move_30min": 11.41,
-      "label": "ROCK +11.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BUKK",
-            "change_pct": 24.88,
-            "contribution_score": 288.71
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 22.65,
-            "contribution_score": 261.09
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": 13.21,
-            "contribution_score": 229.21
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T02:30:04.455Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "POLI",
       "name": "POLI",
@@ -1335,12 +1207,11 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "LIFE",
-      "name": "LIFE",
-      "change_pct": 11.84,
-      "move_30min": 11.84,
-      "label": "LIFE +11.8% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 89.6,
+      "label": "90% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -1357,23 +1228,711 @@
           {
             "ticker": "BUKK",
             "change_pct": 24.88,
-            "contribution_score": 288.71
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 22.65,
-            "contribution_score": 261.09
+            "contribution_score": 289.18
           },
           {
             "ticker": "BRMS",
-            "change_pct": 13.21,
-            "contribution_score": 229.21
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T02:30:04.455Z",
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": 22.65,
+      "move_30min": 14.74,
+      "label": "TRUK +14.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 24.83,
+      "move_30min": 21.57,
+      "label": "ROCK +21.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": 12.28,
+      "move_30min": 12.28,
+      "label": "LIFE +12.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 2.74,
+      "move_30min": -5.06,
+      "label": "MEDS -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": 9.15,
+      "move_30min": 11.88,
+      "label": "OBMD +11.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 0,
+      "move_30min": -3.51,
+      "label": "POLA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": 10.75,
+      "move_30min": 10.16,
+      "label": "RUIS +10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NELY",
+      "name": "PT Pelayaran Nelly Dwi Putri Tbk",
+      "change_pct": 1.03,
+      "move_30min": -7.94,
+      "label": "NELY -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": 9.12,
+      "move_30min": 10.46,
+      "label": "BLUE +10.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 0.82,
+      "move_30min": -3.91,
+      "label": "PEHA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSRA",
+      "name": "CSRA",
+      "change_pct": 3.18,
+      "move_30min": -3.57,
+      "label": "CSRA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": -0.84,
+      "move_30min": -4.84,
+      "label": "DEPO -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": -5.45,
+            "contribution_score": -49.49
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -4.32,
+            "contribution_score": -45.43
+          },
+          {
+            "ticker": "VICI",
+            "change_pct": -3.12,
+            "contribution_score": -30.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 2.46,
+      "move_30min": -3.1,
+      "label": "CCSI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": 0,
+      "move_30min": -4.46,
+      "label": "SAME -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": 0.46,
+      "move_30min": -7.95,
+      "label": "BPII -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASBI",
+      "name": "ASBI",
+      "change_pct": 0.5,
+      "move_30min": -8.68,
+      "label": "ASBI -8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKK",
+            "change_pct": 24.88,
+            "contribution_score": 289.18
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 15.09,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.83,
+            "contribution_score": 262.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T02:45:04.555Z",
       "status": "active",
       "summary": null
     }
