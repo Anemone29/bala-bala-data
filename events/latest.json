@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-06-15T04:45:59.858Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 90.5,
+      "label": "90% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.16
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 21.82,
+            "contribution_score": 427.21
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 368.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:45:59.858Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": -1.96,
+      "move_30min": -3.85,
+      "label": "TFAS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDLN",
+            "change_pct": -3.85,
+            "contribution_score": -50.78
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -2.83,
+            "contribution_score": -37.75
+          },
+          {
+            "ticker": "TBIG",
+            "change_pct": -3.11,
+            "contribution_score": -36.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:45:59.858Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASS",
+      "name": "PT Cahaya Aero Services Tbk",
+      "change_pct": 9.24,
+      "move_30min": 9.55,
+      "label": "CASS +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.16
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 21.82,
+            "contribution_score": 427.21
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 368.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:45:59.858Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 15.64,
+      "move_30min": 15.64,
+      "label": "BOGA +15.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.16
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 21.82,
+            "contribution_score": 427.21
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 368.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:45:59.858Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MREI",
+      "name": "MREI",
+      "change_pct": -3.05,
+      "move_30min": -3.54,
+      "label": "MREI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDLN",
+            "change_pct": -3.85,
+            "contribution_score": -50.78
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -2.83,
+            "contribution_score": -37.75
+          },
+          {
+            "ticker": "TBIG",
+            "change_pct": -3.11,
+            "contribution_score": -36.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:45:59.858Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
