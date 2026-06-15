@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T04:45:59.858Z",
+  "generated_at": "2026-06-15T05:00:35.133Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4131,48 +4131,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 90.5,
-      "label": "90% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": 24.53,
-            "contribution_score": 468.16
-          },
-          {
-            "ticker": "DEWA",
-            "change_pct": 21.82,
-            "contribution_score": 427.21
-          },
-          {
-            "ticker": "BUMI",
-            "change_pct": 18.47,
-            "contribution_score": 368.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T04:45:59.858Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TFAS",
       "name": "PT Telefast Indonesia Tbk",
@@ -4259,49 +4217,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BOGA",
-      "name": "Apollo Global Interactive Tbk.",
-      "change_pct": 15.64,
-      "move_30min": 15.64,
-      "label": "BOGA +15.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": 24.53,
-            "contribution_score": 468.16
-          },
-          {
-            "ticker": "DEWA",
-            "change_pct": 21.82,
-            "contribution_score": 427.21
-          },
-          {
-            "ticker": "BUMI",
-            "change_pct": 18.47,
-            "contribution_score": 368.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T04:45:59.858Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MREI",
       "name": "MREI",
@@ -4345,12 +4260,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INDR",
-      "name": "INDR",
-      "change_pct": 4.71,
-      "move_30min": -4.3,
-      "label": "INDR -4.3% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 90.5,
+      "label": "89% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -4367,23 +4281,109 @@
           {
             "ticker": "BRMS",
             "change_pct": 24.53,
-            "contribution_score": 468.16
+            "contribution_score": 468.47
           },
           {
             "ticker": "DEWA",
-            "change_pct": 21.82,
-            "contribution_score": 427.21
+            "change_pct": 19.39,
+            "contribution_score": 379.15
           },
           {
             "ticker": "BUMI",
             "change_pct": 18.47,
-            "contribution_score": 368.66
+            "contribution_score": 377.88
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T04:45:59.858Z",
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 22.75,
+      "move_30min": 22.75,
+      "label": "BOGA +22.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": 8.03,
+      "move_30min": -7.14,
+      "label": "INDR -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
       "status": "active",
       "summary": null
     },
@@ -4408,25 +4408,283 @@
         ],
         "tickers": [
           {
-            "ticker": "MDLN",
-            "change_pct": -3.85,
-            "contribution_score": -50.78
+            "ticker": "BCIC",
+            "change_pct": -5.45,
+            "contribution_score": -59.5
+          },
+          {
+            "ticker": "VICI",
+            "change_pct": -3.91,
+            "contribution_score": -41.74
           },
           {
             "ticker": "MSIN",
             "change_pct": -2.83,
-            "contribution_score": -37.75
-          },
-          {
-            "ticker": "TBIG",
-            "change_pct": -3.11,
-            "contribution_score": -36.29
+            "contribution_score": -38.39
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T04:45:59.858Z",
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": 6.57,
+      "move_30min": -3.31,
+      "label": "CTTH -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -3.09,
+      "move_30min": -3.09,
+      "label": "SAFE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": -5.45,
+            "contribution_score": -59.5
+          },
+          {
+            "ticker": "VICI",
+            "change_pct": -3.91,
+            "contribution_score": -41.74
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -2.83,
+            "contribution_score": -38.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 2.82,
+      "move_30min": -5.21,
+      "label": "ESTA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": 2.06,
+      "move_30min": -7.48,
+      "label": "MCAS -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 10.75,
+      "move_30min": 10.75,
+      "label": "CASA +10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": 12.86,
+      "move_30min": 12.46,
+      "label": "MPRO +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 24.53,
+            "contribution_score": 468.47
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 19.39,
+            "contribution_score": 379.15
+          },
+          {
+            "ticker": "BUMI",
+            "change_pct": 18.47,
+            "contribution_score": 377.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T05:00:35.133Z",
       "status": "active",
       "summary": null
     }
