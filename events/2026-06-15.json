@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T03:45:04.318Z",
+  "generated_at": "2026-06-15T04:00:04.321Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3357,48 +3357,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 90.2,
-      "label": "90% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": 22.64,
-            "contribution_score": 424
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 18.06,
-            "contribution_score": 324.68
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": 18.97,
-            "contribution_score": 314.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T03:45:04.318Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "KOTA",
       "name": "KOTA",
@@ -3485,12 +3443,11 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "KICI",
-      "name": "PT Kedaung Indah Can Tbk",
-      "change_pct": 16.76,
-      "move_30min": 14.77,
-      "label": "KICI +14.8% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 90.2,
+      "label": "90% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -3507,23 +3464,66 @@
           {
             "ticker": "BRMS",
             "change_pct": 22.64,
-            "contribution_score": 424
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 18.06,
-            "contribution_score": 324.68
+            "contribution_score": 425.84
           },
           {
             "ticker": "ARCI",
-            "change_pct": 18.97,
-            "contribution_score": 314.92
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T03:45:04.318Z",
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 16.76,
+      "move_30min": 8.47,
+      "label": "KICI +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
       "status": "active",
       "summary": null
     },
@@ -3531,9 +3531,9 @@
       "type": "rapid_up",
       "ticker": "LIFE",
       "name": "LIFE",
-      "change_pct": 11.4,
-      "move_30min": 8.55,
-      "label": "LIFE +8.5% dalam 30 menit",
+      "change_pct": 11.84,
+      "move_30min": 8.97,
+      "label": "LIFE +9.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3550,23 +3550,23 @@
           {
             "ticker": "BRMS",
             "change_pct": 22.64,
-            "contribution_score": 424
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 18.06,
-            "contribution_score": 324.68
+            "contribution_score": 425.84
           },
           {
             "ticker": "ARCI",
-            "change_pct": 18.97,
-            "contribution_score": 314.92
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T03:45:04.318Z",
+      "detected_at": "2026-06-15T04:00:04.321Z",
       "status": "active",
       "summary": null
     },
@@ -3593,23 +3593,367 @@
           {
             "ticker": "BRMS",
             "change_pct": 22.64,
-            "contribution_score": 424
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 18.06,
-            "contribution_score": 324.68
+            "contribution_score": 425.84
           },
           {
             "ticker": "ARCI",
-            "change_pct": 18.97,
-            "contribution_score": 314.92
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T03:45:04.318Z",
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURI",
+      "name": "Puri Global Sukses Tbk.",
+      "change_pct": 15.08,
+      "move_30min": -3.33,
+      "label": "PURI -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 3.39,
+      "move_30min": -3.17,
+      "label": "SLIS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SNLK",
+      "name": "Sunter Lakeside Hotel Tbk.",
+      "change_pct": 0.85,
+      "move_30min": -3.28,
+      "label": "SNLK -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 10.61,
+      "move_30min": -3.31,
+      "label": "CITY -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 20.13,
+      "move_30min": -3.76,
+      "label": "ROCK -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -3.87,
+      "move_30min": -3.25,
+      "label": "PUDP -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": -4.55,
+            "contribution_score": -49.13
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -3.7,
+            "contribution_score": -39.95
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": -3.76,
+            "contribution_score": -37.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 7.52,
+      "move_30min": 7.52,
+      "label": "TRUS +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 22.64,
+            "contribution_score": 425.84
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20.51,
+            "contribution_score": 343.54
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 17.42,
+            "contribution_score": 314.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -4.85,
+      "move_30min": -3.68,
+      "label": "POLI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": -4.55,
+            "contribution_score": -49.13
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -3.7,
+            "contribution_score": -39.95
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": -3.76,
+            "contribution_score": -37.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:00:04.321Z",
       "status": "active",
       "summary": null
     }
