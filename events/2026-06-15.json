@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T04:00:04.321Z",
+  "generated_at": "2026-06-15T04:15:59.901Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3443,48 +3443,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 90.2,
-      "label": "90% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": 22.64,
-            "contribution_score": 425.84
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": 20.51,
-            "contribution_score": 343.54
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 17.42,
-            "contribution_score": 314.12
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-15T04:00:04.321Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "KICI",
       "name": "PT Kedaung Indah Can Tbk",
@@ -3872,6 +3830,48 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 90.2,
+      "label": "90% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 23.58,
+            "contribution_score": 445.94
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20,
+            "contribution_score": 336.54
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 16.97,
+            "contribution_score": 324.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:15:59.901Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "TRUS",
       "name": "Trust Finance Indonesia Tbk",
@@ -3893,24 +3893,24 @@
         "tickers": [
           {
             "ticker": "BRMS",
-            "change_pct": 22.64,
-            "contribution_score": 425.84
+            "change_pct": 23.58,
+            "contribution_score": 445.94
           },
           {
             "ticker": "ARCI",
-            "change_pct": 20.51,
-            "contribution_score": 343.54
+            "change_pct": 20,
+            "contribution_score": 336.54
           },
           {
-            "ticker": "BUVA",
-            "change_pct": 17.42,
-            "contribution_score": 314.12
+            "ticker": "DEWA",
+            "change_pct": 16.97,
+            "contribution_score": 324.31
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T04:00:04.321Z",
+      "detected_at": "2026-06-15T04:15:59.901Z",
       "status": "active",
       "summary": null
     },
@@ -3919,8 +3919,8 @@
       "ticker": "POLI",
       "name": "POLI",
       "change_pct": -4.85,
-      "move_30min": -3.68,
-      "label": "POLI -3.7% dalam 30 menit",
+      "move_30min": -3.07,
+      "label": "POLI -3.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3935,25 +3935,111 @@
         ],
         "tickers": [
           {
-            "ticker": "BCIC",
-            "change_pct": -4.55,
-            "contribution_score": -49.13
-          },
-          {
             "ticker": "SAFE",
             "change_pct": -3.7,
             "contribution_score": -39.95
           },
           {
-            "ticker": "AKPI",
-            "change_pct": -3.76,
-            "contribution_score": -37.83
+            "ticker": "BCIC",
+            "change_pct": -3.64,
+            "contribution_score": -39.31
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -2.83,
+            "contribution_score": -37.4
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-15T04:00:04.321Z",
+      "detected_at": "2026-06-15T04:15:59.901Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 1.82,
+      "move_30min": -6.67,
+      "label": "EMDE -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 23.58,
+            "contribution_score": 445.94
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20,
+            "contribution_score": 336.54
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 16.97,
+            "contribution_score": 324.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:15:59.901Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FOOD",
+      "name": "FOOD",
+      "change_pct": 9.94,
+      "move_30min": 9.94,
+      "label": "FOOD +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": 23.58,
+            "contribution_score": 445.94
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 20,
+            "contribution_score": 336.54
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 16.97,
+            "contribution_score": 324.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-15T04:15:59.901Z",
       "status": "active",
       "summary": null
     }
