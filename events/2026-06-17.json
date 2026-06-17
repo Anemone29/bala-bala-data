@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T04:45:34.975Z",
+  "generated_at": "2026-06-17T05:00:35.208Z",
   "events": [
     {
       "type": "rapid_up",
@@ -6350,52 +6350,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "IFII",
-      "name": "PT Indonesia Fibreboard Industry Tbk",
-      "change_pct": -1.8,
-      "move_30min": -4.39,
-      "label": "IFII -4.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BREN",
-            "change_pct": -9.65,
-            "contribution_score": -139.63
-          },
-          {
-            "ticker": "GHON",
-            "change_pct": -14.81,
-            "contribution_score": -136.93
-          },
-          {
-            "ticker": "OASA",
-            "change_pct": -6.77,
-            "contribution_score": -97.85
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T04:45:34.975Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "ANJT",
       "name": "PT Austindo Nusantara Jaya Tbk",
@@ -6443,11 +6397,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "VINS",
-      "name": "VINS",
-      "change_pct": -7.14,
-      "move_30min": -4.41,
-      "label": "VINS -4.4% dalam 30 menit",
+      "ticker": "IFII",
+      "name": "PT Indonesia Fibreboard Industry Tbk",
+      "change_pct": -1.8,
+      "move_30min": -4.39,
+      "label": "IFII -4.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -6463,18 +6417,18 @@
         "tickers": [
           {
             "ticker": "BREN",
-            "change_pct": -9.65,
-            "contribution_score": -139.63
+            "change_pct": -10.82,
+            "contribution_score": -157.2
           },
           {
             "ticker": "GHON",
             "change_pct": -14.81,
-            "contribution_score": -136.93
+            "contribution_score": -136.95
           },
           {
-            "ticker": "OASA",
-            "change_pct": -6.77,
-            "contribution_score": -97.85
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
           }
         ],
         "foreign_flow": null,
@@ -6483,7 +6437,53 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T04:45:34.975Z",
+      "detected_at": "2026-06-17T05:00:35.208Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VINS",
+      "name": "VINS",
+      "change_pct": -7.14,
+      "move_30min": -4.32,
+      "label": "VINS -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -10.82,
+            "contribution_score": -157.2
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.95
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T05:00:35.208Z",
       "status": "active",
       "summary": null
     },
@@ -6509,18 +6509,18 @@
         "tickers": [
           {
             "ticker": "BREN",
-            "change_pct": -9.65,
-            "contribution_score": -139.63
+            "change_pct": -10.82,
+            "contribution_score": -157.2
           },
           {
             "ticker": "GHON",
             "change_pct": -14.81,
-            "contribution_score": -136.93
+            "contribution_score": -136.95
           },
           {
-            "ticker": "OASA",
-            "change_pct": -6.77,
-            "contribution_score": -97.85
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
           }
         ],
         "foreign_flow": null,
@@ -6529,7 +6529,7 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T04:45:34.975Z",
+      "detected_at": "2026-06-17T05:00:35.208Z",
       "status": "active",
       "summary": null
     },
@@ -6555,18 +6555,18 @@
         "tickers": [
           {
             "ticker": "BREN",
-            "change_pct": -9.65,
-            "contribution_score": -139.63
+            "change_pct": -10.82,
+            "contribution_score": -157.2
           },
           {
             "ticker": "GHON",
             "change_pct": -14.81,
-            "contribution_score": -136.93
+            "contribution_score": -136.95
           },
           {
-            "ticker": "OASA",
-            "change_pct": -6.77,
-            "contribution_score": -97.85
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
           }
         ],
         "foreign_flow": null,
@@ -6575,7 +6575,191 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T04:45:34.975Z",
+      "detected_at": "2026-06-17T05:00:35.208Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AHAP",
+      "name": "AHAP",
+      "change_pct": 4.49,
+      "move_30min": -3.13,
+      "label": "AHAP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 521.88
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 30.96,
+            "contribution_score": 455.67
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": 19.23,
+            "contribution_score": 317.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T05:00:35.208Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FPNI",
+      "name": "PT Lotte Chemical Titan Tbk",
+      "change_pct": 1.18,
+      "move_30min": -3.37,
+      "label": "FPNI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 521.88
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 30.96,
+            "contribution_score": 455.67
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": 19.23,
+            "contribution_score": 317.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T05:00:35.208Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -4.89,
+      "move_30min": -3.95,
+      "label": "LUCY -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -10.82,
+            "contribution_score": -157.2
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.95
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T05:00:35.208Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -3.52,
+      "move_30min": -6.16,
+      "label": "YPAS -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -10.82,
+            "contribution_score": -157.2
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.95
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -6.13,
+            "contribution_score": -106.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T05:00:35.208Z",
       "status": "active",
       "summary": null
     }
