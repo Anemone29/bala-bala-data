@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T06:45:35.147Z",
+  "generated_at": "2026-06-17T07:00:35.300Z",
   "events": [
     {
       "type": "rapid_up",
@@ -7224,98 +7224,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MCAS",
-      "name": "PT M Cash Integrasi Tbk",
-      "change_pct": 16.75,
-      "move_30min": 20.42,
-      "label": "MCAS +20.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BCIC",
-            "change_pct": 35,
-            "contribution_score": 532.11
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 457.93
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 17.78,
-            "contribution_score": 328.49
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:45:35.147Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "OBAT",
-      "name": "PT Famon Awal Bros Sedaya Tbk",
-      "change_pct": 0,
-      "move_30min": -5.51,
-      "label": "OBAT -5.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BCIC",
-            "change_pct": 35,
-            "contribution_score": 532.11
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 457.93
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 17.78,
-            "contribution_score": 328.49
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:45:35.147Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ROCK",
       "name": "PT Rockfields Properti Indonesia Tbk",
@@ -7363,11 +7271,11 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "LUCY",
-      "name": "PT Lima Dua Lima Tiga Tbk",
-      "change_pct": 4.23,
-      "move_30min": 9.59,
-      "label": "LUCY +9.6% dalam 30 menit",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": 19.8,
+      "move_30min": 20.41,
+      "label": "MCAS +20.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -7384,17 +7292,17 @@
           {
             "ticker": "BCIC",
             "change_pct": 35,
-            "contribution_score": 532.11
+            "contribution_score": 532.21
           },
           {
             "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 457.93
+            "change_pct": 32.99,
+            "contribution_score": 490.73
           },
           {
-            "ticker": "KOTA",
-            "change_pct": 17.78,
-            "contribution_score": 328.49
+            "ticker": "PAMG",
+            "change_pct": 21.15,
+            "contribution_score": 354.43
           }
         ],
         "foreign_flow": null,
@@ -7403,7 +7311,99 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T06:45:35.147Z",
+      "detected_at": "2026-06-17T07:00:35.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": -1.67,
+      "move_30min": -7.09,
+      "label": "OBAT -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -11.53,
+            "contribution_score": -169.73
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -137.36
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -114.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:00:35.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 4.56,
+      "move_30min": 9.93,
+      "label": "LUCY +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 532.21
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 32.99,
+            "contribution_score": 490.73
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": 21.15,
+            "contribution_score": 354.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:00:35.300Z",
       "status": "active",
       "summary": null
     },
@@ -7429,13 +7429,13 @@
         "tickers": [
           {
             "ticker": "BREN",
-            "change_pct": -10.59,
-            "contribution_score": -154.25
+            "change_pct": -11.53,
+            "contribution_score": -169.73
           },
           {
             "ticker": "GHON",
             "change_pct": -14.81,
-            "contribution_score": -137.19
+            "contribution_score": -137.36
           },
           {
             "ticker": "BTEK",
@@ -7449,7 +7449,145 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T06:45:35.147Z",
+      "detected_at": "2026-06-17T07:00:35.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 8.08,
+      "move_30min": -5.31,
+      "label": "TRON -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 532.21
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 32.99,
+            "contribution_score": 490.73
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": 21.15,
+            "contribution_score": 354.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:00:35.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPFI",
+      "name": "BPFI",
+      "change_pct": -5.97,
+      "move_30min": -3.08,
+      "label": "BPFI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -11.53,
+            "contribution_score": -169.73
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -137.36
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -114.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:00:35.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -13.1,
+      "move_30min": -5.53,
+      "label": "POLU -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -11.53,
+            "contribution_score": -169.73
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -137.36
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -114.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:00:35.300Z",
       "status": "active",
       "summary": null
     }
