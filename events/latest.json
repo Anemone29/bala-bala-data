@@ -2,24 +2,233 @@
   "generated_at": "2026-06-17T03:30:35.386Z",
   "events": [
     {
-      "type": "macro_bi_rate",
-      "ticker": "BI_RATE",
-      "name": "BI Rate Decision Juni 2026",
-      "change_pct": 0,
-      "label": "BESOK: BI Rate Decision Juni 2026",
-      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
-      "impact": "high",
-      "event_date": "2026-06-18"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 23.86,
+            "contribution_score": 287.08
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 15.15,
+            "contribution_score": 241.08
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 17.53,
+            "contribution_score": 209.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T02:45:35.070Z",
+      "status": "active",
+      "summary": null
     },
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "BESOK: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
-      "impact": "high",
-      "event_date": "2026-06-18"
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -8.01,
+      "move_30min": -5.54,
+      "label": "POLU -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -135.69
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -6.59,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.02,
+            "contribution_score": -85.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T03:30:35.386Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 10.81,
+      "move_30min": -3.53,
+      "label": "GSMF -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 487.3
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.16,
+            "contribution_score": 262.54
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 260
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T03:30:35.386Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "VIVA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -135.69
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -6.59,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.02,
+            "contribution_score": -85.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T03:30:35.386Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IBFN",
+      "name": "IBFN",
+      "change_pct": 9.52,
+      "move_30min": 9.52,
+      "label": "IBFN +9.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 487.3
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.16,
+            "contribution_score": 262.54
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 260
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T03:30:35.386Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
