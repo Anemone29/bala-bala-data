@@ -1,234 +1,25 @@
 {
-  "generated_at": "2026-06-17T03:00:35.466Z",
+  "generated_at": "2026-06-17T03:15:35.261Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "70% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 23.86,
-            "contribution_score": 287.08
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 15.15,
-            "contribution_score": 241.08
-          },
-          {
-            "ticker": "BUKK",
-            "change_pct": 17.53,
-            "contribution_score": 209.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T02:45:35.070Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_bi_rate",
+      "ticker": "BI_RATE",
+      "name": "BI Rate Decision Juni 2026",
+      "change_pct": 0,
+      "label": "BESOK: BI Rate Decision Juni 2026",
+      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     },
     {
-      "type": "rapid_down",
-      "ticker": "TRON",
-      "name": "TRON",
-      "change_pct": 15.15,
-      "move_30min": -5.04,
-      "label": "TRON -5.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 424.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 14.14,
-            "contribution_score": 226.03
-          },
-          {
-            "ticker": "GSMF",
-            "change_pct": 14.86,
-            "contribution_score": 225.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:00:35.466Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "AKSI",
-      "name": "AKSI",
-      "change_pct": 30.96,
-      "move_30min": 24.04,
-      "label": "AKSI +24.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 424.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 14.14,
-            "contribution_score": 226.03
-          },
-          {
-            "ticker": "GSMF",
-            "change_pct": 14.86,
-            "contribution_score": 225.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:00:35.466Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BUKK",
-      "name": "PT Bukaka Teknik Utama Tbk",
-      "change_pct": 17.53,
-      "move_30min": -3.7,
-      "label": "BUKK -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 424.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 14.14,
-            "contribution_score": 226.03
-          },
-          {
-            "ticker": "GSMF",
-            "change_pct": 14.86,
-            "contribution_score": 225.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:00:35.466Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ROCK",
-      "name": "PT Rockfields Properti Indonesia Tbk",
-      "change_pct": 15.05,
-      "move_30min": -5.19,
-      "label": "ROCK -5.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 424.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 14.14,
-            "contribution_score": 226.03
-          },
-          {
-            "ticker": "GSMF",
-            "change_pct": 14.86,
-            "contribution_score": 225.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:00:35.466Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "BESOK: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     }
   ]
 }
