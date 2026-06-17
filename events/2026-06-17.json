@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T03:45:35.043Z",
+  "generated_at": "2026-06-17T04:00:35.367Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4879,98 +4879,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "KOTA",
-      "name": "KOTA",
-      "change_pct": 10,
-      "move_30min": 8.79,
-      "label": "KOTA +8.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 448.77
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": 15.32,
-            "contribution_score": 264.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 16.16,
-            "contribution_score": 262.89
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:45:35.043Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "MDIA",
-      "name": "PT Intermedia Capital Tbk",
-      "change_pct": 5.56,
-      "move_30min": 10.14,
-      "label": "MDIA +10.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 448.77
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": 15.32,
-            "contribution_score": 264.24
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 16.16,
-            "contribution_score": 262.89
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T03:45:35.043Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "BAJA",
       "name": "PT Saranacentral Bajatama Tbk",
       "change_pct": 4.94,
@@ -5062,12 +4970,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "PNSE",
-      "name": "Pudjiadi & Sons Tbk.",
-      "change_pct": 0.9,
-      "move_30min": -11.11,
-      "label": "PNSE -11.1% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 13.33,
+      "move_30min": 10.87,
+      "label": "KOTA +10.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5083,18 +4991,18 @@
         "tickers": [
           {
             "ticker": "AKSI",
-            "change_pct": 30.96,
-            "contribution_score": 448.77
+            "change_pct": 34.01,
+            "contribution_score": 497.67
           },
           {
             "ticker": "DEFI",
             "change_pct": 15.32,
-            "contribution_score": 264.24
+            "contribution_score": 265.36
           },
           {
-            "ticker": "TRON",
-            "change_pct": 16.16,
-            "contribution_score": 262.89
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
           }
         ],
         "foreign_flow": null,
@@ -5103,7 +5011,421 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T03:45:35.043Z",
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 5.56,
+      "move_30min": 8.57,
+      "label": "MDIA +8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": 0.9,
+      "move_30min": -11.29,
+      "label": "PNSE -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.28
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -8.71,
+            "contribution_score": -123.67
+          },
+          {
+            "ticker": "POLI",
+            "change_pct": -10.88,
+            "contribution_score": -88.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "LAND +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 10.71,
+      "move_30min": 12.73,
+      "label": "RODA +12.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 7.02,
+      "move_30min": 10.91,
+      "label": "BIPP +10.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": -1.67,
+      "move_30min": -3.28,
+      "label": "SLIS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.28
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -8.71,
+            "contribution_score": -123.67
+          },
+          {
+            "ticker": "POLI",
+            "change_pct": -10.88,
+            "contribution_score": -88.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": -1,
+      "move_30min": -3.88,
+      "label": "BCIC -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.28
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -8.71,
+            "contribution_score": -123.67
+          },
+          {
+            "ticker": "POLI",
+            "change_pct": -10.88,
+            "contribution_score": -88.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": -2.44,
+      "move_30min": -3.23,
+      "label": "FAST -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.28
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -8.71,
+            "contribution_score": -123.67
+          },
+          {
+            "ticker": "POLI",
+            "change_pct": -10.88,
+            "contribution_score": -88.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MREI",
+      "name": "MREI",
+      "change_pct": 0.52,
+      "move_30min": -3.03,
+      "label": "MREI -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
       "status": "active",
       "summary": null
     }

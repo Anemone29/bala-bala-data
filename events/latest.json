@@ -2,24 +2,233 @@
   "generated_at": "2026-06-17T04:00:35.367Z",
   "events": [
     {
-      "type": "macro_bi_rate",
-      "ticker": "BI_RATE",
-      "name": "BI Rate Decision Juni 2026",
-      "change_pct": 0,
-      "label": "BESOK: BI Rate Decision Juni 2026",
-      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
-      "impact": "high",
-      "event_date": "2026-06-18"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 23.86,
+            "contribution_score": 287.08
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 15.15,
+            "contribution_score": 241.08
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 17.53,
+            "contribution_score": 209.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T02:45:35.070Z",
+      "status": "active",
+      "summary": null
     },
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "BESOK: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
-      "impact": "high",
-      "event_date": "2026-06-18"
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 13.33,
+      "move_30min": 10.87,
+      "label": "KOTA +10.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 5.56,
+      "move_30min": 8.57,
+      "label": "MDIA +8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": 0.9,
+      "move_30min": -11.29,
+      "label": "PNSE -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -136.28
+          },
+          {
+            "ticker": "BREN",
+            "change_pct": -8.71,
+            "contribution_score": -123.67
+          },
+          {
+            "ticker": "POLI",
+            "change_pct": -10.88,
+            "contribution_score": -88.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "LAND +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 34.01,
+            "contribution_score": 497.67
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 15.32,
+            "contribution_score": 265.36
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.33,
+            "contribution_score": 237.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T04:00:35.367Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
