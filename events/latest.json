@@ -1,234 +1,25 @@
 {
-  "generated_at": "2026-06-17T06:30:35.027Z",
+  "generated_at": "2026-06-17T06:45:35.147Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "70% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKSI",
-            "change_pct": 23.86,
-            "contribution_score": 287.08
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 15.15,
-            "contribution_score": 241.08
-          },
-          {
-            "ticker": "BUKK",
-            "change_pct": 17.53,
-            "contribution_score": 209.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T02:45:35.070Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -7.69,
-      "move_30min": -7.69,
-      "label": "BTEK -7.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BREN",
-            "change_pct": -10.59,
-            "contribution_score": -154
-          },
-          {
-            "ticker": "GHON",
-            "change_pct": -14.81,
-            "contribution_score": -136.95
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -7.69,
-            "contribution_score": -114.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:30:35.027Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "AHAP",
-      "name": "AHAP",
-      "change_pct": 3.37,
-      "move_30min": -5.15,
-      "label": "AHAP -5.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BCIC",
-            "change_pct": 35,
-            "contribution_score": 523.88
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 34.01,
-            "contribution_score": 505.01
-          },
-          {
-            "ticker": "PAMG",
-            "change_pct": 17.31,
-            "contribution_score": 285.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:30:35.027Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WSBP",
-      "name": "PT Waskita Beton Precast Tbk",
+      "type": "macro_bi_rate",
+      "ticker": "BI_RATE",
+      "name": "BI Rate Decision Juni 2026",
       "change_pct": 0,
-      "move_30min": -5.88,
-      "label": "WSBP -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BCIC",
-            "change_pct": 35,
-            "contribution_score": 523.88
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 34.01,
-            "contribution_score": 505.01
-          },
-          {
-            "ticker": "PAMG",
-            "change_pct": 17.31,
-            "contribution_score": 285.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:30:35.027Z",
-      "status": "active",
-      "summary": null
+      "label": "BESOK: BI Rate Decision Juni 2026",
+      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     },
     {
-      "type": "rapid_down",
-      "ticker": "TAXI",
-      "name": "PT Express Transindo Utama Tbk",
-      "change_pct": -6.67,
-      "move_30min": -6.67,
-      "label": "TAXI -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BREN",
-            "change_pct": -10.59,
-            "contribution_score": -154
-          },
-          {
-            "ticker": "GHON",
-            "change_pct": -14.81,
-            "contribution_score": -136.95
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -7.69,
-            "contribution_score": -114.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T06:30:35.027Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "BESOK: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     }
   ]
 }
