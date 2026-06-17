@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T07:30:34.988Z",
+  "generated_at": "2026-06-17T07:45:35.138Z",
   "events": [
     {
       "type": "rapid_up",
@@ -7915,103 +7915,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "AKSI",
-      "name": "AKSI",
-      "change_pct": 27.92,
-      "move_30min": -3.82,
-      "label": "AKSI -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BCIC",
-            "change_pct": 35,
-            "contribution_score": 533.15
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 27.92,
-            "contribution_score": 413.94
-          },
-          {
-            "ticker": "PAMG",
-            "change_pct": 21.15,
-            "contribution_score": 360.25
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T07:30:34.988Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "WGSH",
       "name": "WGSH",
       "change_pct": -6.14,
       "move_30min": -3.6,
       "label": "WGSH -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BREN",
-            "change_pct": -12.24,
-            "contribution_score": -181.52
-          },
-          {
-            "ticker": "GHON",
-            "change_pct": -14.81,
-            "contribution_score": -137.41
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -7.69,
-            "contribution_score": -114.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-17T07:30:34.988Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BYAN",
-      "name": "PT Bayan Resources Tbk.",
-      "change_pct": -6.65,
-      "move_30min": -6.41,
-      "label": "BYAN -6.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8099,11 +8007,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ABDA",
-      "name": "PT Asuransi Bina Dana Arta Tbk",
-      "change_pct": 7.97,
-      "move_30min": -6.88,
-      "label": "ABDA -6.9% dalam 30 menit",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 27.92,
+      "move_30min": -4.55,
+      "label": "AKSI -4.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8120,17 +8028,17 @@
           {
             "ticker": "BCIC",
             "change_pct": 35,
-            "contribution_score": 533.15
+            "contribution_score": 534.17
           },
           {
             "ticker": "AKSI",
             "change_pct": 27.92,
-            "contribution_score": 413.94
+            "contribution_score": 415.34
           },
           {
-            "ticker": "PAMG",
-            "change_pct": 21.15,
-            "contribution_score": 360.25
+            "ticker": "DEFI",
+            "change_pct": 20.72,
+            "contribution_score": 374.06
           }
         ],
         "foreign_flow": null,
@@ -8139,7 +8047,283 @@
           "label": "BESOK: BI Rate Decision Juni 2026"
         }
       },
-      "detected_at": "2026-06-17T07:30:34.988Z",
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -6.65,
+      "move_30min": -5.88,
+      "label": "BYAN -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -12.71,
+            "contribution_score": -189.1
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -137.78
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -114.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 8.31,
+      "move_30min": -6.59,
+      "label": "ABDA -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 534.17
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 27.92,
+            "contribution_score": 415.34
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 20.72,
+            "contribution_score": 374.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 6.06,
+      "move_30min": -4.55,
+      "label": "TRON -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 534.17
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 27.92,
+            "contribution_score": 415.34
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 20.72,
+            "contribution_score": 374.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 5.36,
+      "move_30min": -3.28,
+      "label": "LAND -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 534.17
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 27.92,
+            "contribution_score": 415.34
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 20.72,
+            "contribution_score": 374.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VINS",
+      "name": "VINS",
+      "change_pct": -6.43,
+      "move_30min": -3.68,
+      "label": "VINS -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BREN",
+            "change_pct": -12.71,
+            "contribution_score": -189.1
+          },
+          {
+            "ticker": "GHON",
+            "change_pct": -14.81,
+            "contribution_score": -137.78
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -114.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": 2.94,
+      "move_30min": 9.66,
+      "label": "INDR +9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCIC",
+            "change_pct": 35,
+            "contribution_score": 534.17
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 27.92,
+            "contribution_score": 415.34
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 20.72,
+            "contribution_score": 374.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-17T07:45:35.138Z",
       "status": "active",
       "summary": null
     }
