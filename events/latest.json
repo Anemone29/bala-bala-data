@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-06-18T02:00:35.448Z",
+  "generated_at": "2026-06-18T02:15:35.184Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "100% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:00:35.448Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_bi_rate",
+      "ticker": "BI_RATE",
+      "name": "BI Rate Decision Juni 2026",
+      "change_pct": 0,
+      "label": "HARI INI: BI Rate Decision Juni 2026",
+      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
+      "impact": "high",
+      "event_date": "2026-06-18"
+    },
+    {
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "HARI INI: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     }
   ]
 }
