@@ -1,223 +1,25 @@
 {
-  "generated_at": "2026-06-18T04:00:35.172Z",
+  "generated_at": "2026-06-18T04:15:35.167Z",
   "events": [
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -82.3,
-      "label": "71% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -14.48,
-            "contribution_score": -231.59
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -8.49,
-            "contribution_score": -139.21
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -7.89,
-            "contribution_score": -119.87
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T03:30:35.387Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_bi_rate",
+      "ticker": "BI_RATE",
+      "name": "BI Rate Decision Juni 2026",
+      "change_pct": 0,
+      "label": "HARI INI: BI Rate Decision Juni 2026",
+      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "100% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:00:35.448Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "MSIN",
-      "name": "PT MNC Digital Entertainment Tbk",
-      "change_pct": 5.31,
-      "move_30min": -10.16,
-      "label": "MSIN -10.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JECC",
-            "change_pct": 24.59,
-            "contribution_score": 296.9
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 20.57,
-            "contribution_score": 225.02
-          },
-          {
-            "ticker": "UNSP",
-            "change_pct": 9.17,
-            "contribution_score": 108.41
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T04:00:35.172Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BCIC",
-      "name": "BCIC",
-      "change_pct": 5.19,
-      "move_30min": -4.14,
-      "label": "BCIC -4.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JECC",
-            "change_pct": 24.59,
-            "contribution_score": 296.9
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 20.57,
-            "contribution_score": 225.02
-          },
-          {
-            "ticker": "UNSP",
-            "change_pct": 9.17,
-            "contribution_score": 108.41
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T04:00:35.172Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "NELY",
-      "name": "PT Pelayaran Nelly Dwi Putri Tbk",
-      "change_pct": 1.01,
-      "move_30min": -3.4,
-      "label": "NELY -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JECC",
-            "change_pct": 24.59,
-            "contribution_score": 296.9
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 20.57,
-            "contribution_score": 225.02
-          },
-          {
-            "ticker": "UNSP",
-            "change_pct": 9.17,
-            "contribution_score": 108.41
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T04:00:35.172Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "HARI INI: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB. Hawkish = USD strengthening = rupiah weak + outflow EM. Dovish = sebaliknya.",
+      "impact": "high",
+      "event_date": "2026-06-18"
     }
   ]
 }
