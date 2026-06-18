@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T02:45:35.163Z",
+  "generated_at": "2026-06-18T03:00:35.342Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1602,51 +1602,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.7,
-      "label": "77% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "KOTA",
       "name": "KOTA",
@@ -2246,52 +2201,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "COCO",
-      "name": "PT Wahana Interfood Nusantara Tbk",
-      "change_pct": -4.46,
-      "move_30min": -3.5,
-      "label": "COCO -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "PRDA",
       "name": "PT Prodia Widyahusada Tbk",
       "change_pct": 3.73,
@@ -2338,103 +2247,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BAJA",
-      "name": "PT Saranacentral Bajatama Tbk",
-      "change_pct": -3.59,
-      "move_30min": -4.73,
-      "label": "BAJA -4.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "FILM",
       "name": "PT.MD Entertainment Tbk",
       "change_pct": -5.06,
       "move_30min": -3.15,
       "label": "FILM -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "MCAS",
-      "name": "PT M Cash Integrasi Tbk",
-      "change_pct": -5.29,
-      "move_30min": -7.08,
-      "label": "MCAS -7.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2522,241 +2339,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "CSAP",
-      "name": "CSAP",
-      "change_pct": 1.4,
-      "move_30min": -14.2,
-      "label": "CSAP -14.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JECC",
-            "change_pct": 24.59,
-            "contribution_score": 265.97
-          },
-          {
-            "ticker": "BCIC",
-            "change_pct": 12.59,
-            "contribution_score": 200.53
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": 9.31,
-            "contribution_score": 96.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "AYLS",
-      "name": "Arkayana Lestari Grup Tbk.",
-      "change_pct": -5.43,
-      "move_30min": -3.94,
-      "label": "AYLS -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "AWAN",
       "name": "Era Digital Media Tbk.",
       "change_pct": -5.63,
       "move_30min": -5.63,
       "label": "AWAN -5.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BLUE",
-      "name": "Berkah Prima Perkasa Tbk.",
-      "change_pct": -7.2,
-      "move_30min": -4.56,
-      "label": "BLUE -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "VRNA",
-      "name": "PT Verena Multi Finance Tbk",
-      "change_pct": -1.37,
-      "move_30min": -6.49,
-      "label": "VRNA -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ECII",
-      "name": "PT Electronic City Indonesia Tbk",
-      "change_pct": -3.1,
-      "move_30min": -3.85,
-      "label": "ECII -3.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2981,98 +2568,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INDR",
-      "name": "INDR",
-      "change_pct": -6.54,
-      "move_30min": -6.54,
-      "label": "INDR -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "POLU",
-      "name": "POLU",
-      "change_pct": -3.28,
-      "move_30min": -3.11,
-      "label": "POLU -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": -13.1,
-            "contribution_score": -201.95
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -9.43,
-            "contribution_score": -151.79
-          },
-          {
-            "ticker": "TLKM",
-            "change_pct": -8.11,
-            "contribution_score": -120
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juni 2026"
-        }
-      },
-      "detected_at": "2026-06-18T02:45:35.163Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "LIFE",
       "name": "LIFE",
@@ -3161,6 +2656,1707 @@
         }
       },
       "detected_at": "2026-06-18T02:45:35.163Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.3,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -4.95,
+      "move_30min": -3.03,
+      "label": "COCO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -3.59,
+      "move_30min": -3.01,
+      "label": "BAJA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -9.13,
+      "move_30min": -6.44,
+      "label": "MCAS -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": -2.8,
+      "move_30min": -6.71,
+      "label": "CSAP -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -6.2,
+      "move_30min": -5.47,
+      "label": "AYLS -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -7.48,
+      "move_30min": -5.38,
+      "label": "BLUE -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": -2.74,
+      "move_30min": -5.33,
+      "label": "VRNA -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": -4.65,
+      "move_30min": -4.65,
+      "label": "ECII -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -6.54,
+      "move_30min": -6.54,
+      "label": "INDR -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -3.28,
+      "move_30min": -3.11,
+      "label": "POLU -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": 7.41,
+      "move_30min": -12.65,
+      "label": "BCIC -12.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 24.59,
+            "contribution_score": 296.73
+          },
+          {
+            "ticker": "BCIC",
+            "change_pct": 7.41,
+            "contribution_score": 115.83
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 6.91,
+            "contribution_score": 73.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "MEDS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 24.59,
+            "contribution_score": 296.73
+          },
+          {
+            "ticker": "BCIC",
+            "change_pct": 7.41,
+            "contribution_score": 115.83
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 6.91,
+            "contribution_score": 73.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BREN",
+      "name": "BREN",
+      "change_pct": 2.67,
+      "move_30min": -3.03,
+      "label": "BREN -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 24.59,
+            "contribution_score": 296.73
+          },
+          {
+            "ticker": "BCIC",
+            "change_pct": 7.41,
+            "contribution_score": 115.83
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 6.91,
+            "contribution_score": 73.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": -4.62,
+      "move_30min": -3.13,
+      "label": "IATA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -5.65,
+      "move_30min": -3.31,
+      "label": "OASA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": -1.82,
+      "move_30min": -3.57,
+      "label": "BBKP -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -5.08,
+      "move_30min": -3.45,
+      "label": "GIAA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": -7.34,
+      "move_30min": -4.72,
+      "label": "PYFA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMTK",
+      "name": "PT Elang Mahkota Teknologi Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "EMTK -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": -4.9,
+      "move_30min": -3,
+      "label": "TRON -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JMAS",
+      "name": "JMAS",
+      "change_pct": -7.63,
+      "move_30min": -7.63,
+      "label": "JMAS -7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": -7.3,
+      "move_30min": -5.93,
+      "label": "CTTH -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HEAL",
+      "name": "PT Medikaloka Hermina Tbk",
+      "change_pct": -2.82,
+      "move_30min": -3.91,
+      "label": "HEAL -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": -2,
+      "move_30min": -3.92,
+      "label": "BBRM -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -3.66,
+      "move_30min": -7.06,
+      "label": "SAFE -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VICI",
+      "name": "PT Victoria Care Indonesia Tbk",
+      "change_pct": -4,
+      "move_30min": -3.23,
+      "label": "VICI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GDST",
+      "name": "PT Gunawan Dianjaya Steel Tbk",
+      "change_pct": -4.82,
+      "move_30min": -3.66,
+      "label": "GDST -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KAEF",
+      "name": "PT Kimia Farma Tbk",
+      "change_pct": -3.11,
+      "move_30min": -3.11,
+      "label": "KAEF -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -0.92,
+      "move_30min": -5.26,
+      "label": "TRIM -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": -4.8,
+      "move_30min": -6.3,
+      "label": "OBAT -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": -3.35,
+      "move_30min": -3.35,
+      "label": "DMMX -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": -1.67,
+      "move_30min": -4.45,
+      "label": "AKPI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -2.5,
+      "move_30min": -4.1,
+      "label": "BRNA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": -6.02,
+      "move_30min": -6.02,
+      "label": "DAYA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -2.05,
+      "move_30min": -3.38,
+      "label": "BSIM -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -5.63,
+      "move_30min": -5.63,
+      "label": "SIPD -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -12.41,
+            "contribution_score": -193.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.49,
+            "contribution_score": -138.6
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": -7.77,
+            "contribution_score": -115.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juni 2026"
+        }
+      },
+      "detected_at": "2026-06-18T03:00:35.342Z",
       "status": "active",
       "summary": null
     }
