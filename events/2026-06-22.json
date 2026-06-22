@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T07:15:18.007Z",
+  "generated_at": "2026-06-22T07:30:18.996Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6828,92 +6828,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "RICY",
-      "name": "RICY",
-      "change_pct": 20.27,
-      "move_30min": 23.61,
-      "label": "RICY +23.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "EMDE",
-            "change_pct": 29.82,
-            "contribution_score": 513.8
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.77,
-            "contribution_score": 350.02
-          },
-          {
-            "ticker": "KIOS",
-            "change_pct": 18.39,
-            "contribution_score": 306.56
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T07:15:18.007Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "YPAS",
-      "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": 0.73,
-      "move_30min": -4.17,
-      "label": "YPAS -4.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "EMDE",
-            "change_pct": 29.82,
-            "contribution_score": 513.8
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.77,
-            "contribution_score": 350.02
-          },
-          {
-            "ticker": "KIOS",
-            "change_pct": 18.39,
-            "contribution_score": 306.56
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T07:15:18.007Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ARII",
       "name": "PT Atlas Resources Tbk",
@@ -6947,49 +6861,6 @@
             "ticker": "KIOS",
             "change_pct": 18.39,
             "contribution_score": 306.56
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T07:15:18.007Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "IFII",
-      "name": "PT Indonesia Fibreboard Industry Tbk",
-      "change_pct": -2.75,
-      "move_30min": -5.36,
-      "label": "IFII -5.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -130.6
-          },
-          {
-            "ticker": "ACES",
-            "change_pct": -8.74,
-            "contribution_score": -125.03
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -7.94,
-            "contribution_score": -116.35
           }
         ],
         "foreign_flow": null,
@@ -7043,6 +6914,135 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "RICY",
+      "name": "RICY",
+      "change_pct": 20.27,
+      "move_30min": 16,
+      "label": "RICY +16.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 28.07,
+            "contribution_score": 483.45
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 350.02
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.39,
+            "contribution_score": 308.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -2.19,
+      "move_30min": -4.96,
+      "label": "YPAS -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -130.6
+          },
+          {
+            "ticker": "ACES",
+            "change_pct": -7.65,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -7.14,
+            "contribution_score": -104.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFII",
+      "name": "PT Indonesia Fibreboard Industry Tbk",
+      "change_pct": -2.75,
+      "move_30min": -4.5,
+      "label": "IFII -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -130.6
+          },
+          {
+            "ticker": "ACES",
+            "change_pct": -7.65,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -7.14,
+            "contribution_score": -104.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "POLU",
       "name": "POLU",
@@ -7064,8 +7064,8 @@
         "tickers": [
           {
             "ticker": "EMDE",
-            "change_pct": 29.82,
-            "contribution_score": 513.8
+            "change_pct": 28.07,
+            "contribution_score": 483.45
           },
           {
             "ticker": "ZONE",
@@ -7075,13 +7075,228 @@
           {
             "ticker": "KIOS",
             "change_pct": 18.39,
-            "contribution_score": 306.56
+            "contribution_score": 308.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-22T07:15:18.007Z",
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INDX",
+      "name": "Tanah Laut Tbk",
+      "change_pct": 10.77,
+      "move_30min": 10.77,
+      "label": "INDX +10.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 28.07,
+            "contribution_score": 483.45
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 350.02
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.39,
+            "contribution_score": 308.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": 0.92,
+      "move_30min": 7.84,
+      "label": "RAAM +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 28.07,
+            "contribution_score": 483.45
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 350.02
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.39,
+            "contribution_score": 308.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASBI",
+      "name": "ASBI",
+      "change_pct": -3.38,
+      "move_30min": -6.98,
+      "label": "ASBI -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -130.6
+          },
+          {
+            "ticker": "ACES",
+            "change_pct": -7.65,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -7.14,
+            "contribution_score": -104.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -2.44,
+      "move_30min": -3.03,
+      "label": "LION -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -130.6
+          },
+          {
+            "ticker": "ACES",
+            "change_pct": -7.65,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -7.14,
+            "contribution_score": -104.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAG",
+      "name": "PT Asuransi Multi Artha Guna Tbk",
+      "change_pct": 0,
+      "move_30min": -3.5,
+      "label": "AMAG -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 28.07,
+            "contribution_score": 483.45
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 350.02
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.39,
+            "contribution_score": 308.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T07:30:18.996Z",
       "status": "active",
       "summary": null
     }
