@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T04:30:16.690Z",
+  "generated_at": "2026-06-22T04:45:16.654Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4808,48 +4808,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -75.9,
-      "label": "71% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ACES",
-            "change_pct": -8.74,
-            "contribution_score": -124.34
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -7.14,
-            "contribution_score": -104.11
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -5.97,
-            "contribution_score": -94.44
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T04:30:16.690Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ANDI",
       "name": "PT Andira Agro, Tbk",
@@ -5152,49 +5110,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "NFCX",
-      "name": "PT NFC Indonesia Tbk",
-      "change_pct": -3.9,
-      "move_30min": -4.19,
-      "label": "NFCX -4.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ACES",
-            "change_pct": -8.74,
-            "contribution_score": -124.34
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -7.14,
-            "contribution_score": -104.11
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -5.97,
-            "contribution_score": -94.44
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T04:30:16.690Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "POLI",
       "name": "POLI",
       "change_pct": -9.37,
@@ -5237,6 +5152,91 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.9,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -124.38
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -3.9,
+      "move_30min": -4.19,
+      "label": "NFCX -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -124.38
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "DEPO",
       "name": "PT Caturkarda Depo Bangunan Tbk",
@@ -5259,23 +5259,23 @@
           {
             "ticker": "ACES",
             "change_pct": -8.74,
-            "contribution_score": -124.34
+            "contribution_score": -124.38
           },
           {
-            "ticker": "MSIN",
-            "change_pct": -7.14,
-            "contribution_score": -104.11
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
           },
           {
-            "ticker": "BRMS",
-            "change_pct": -5.97,
-            "contribution_score": -94.44
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-22T04:30:16.690Z",
+      "detected_at": "2026-06-22T04:45:16.654Z",
       "status": "active",
       "summary": null
     },
@@ -5301,24 +5301,282 @@
         "tickers": [
           {
             "ticker": "EMDE",
-            "change_pct": 21.05,
-            "contribution_score": 352.02
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.77,
-            "contribution_score": 323.92
+            "change_pct": 22.81,
+            "contribution_score": 383.39
           },
           {
             "ticker": "MLPT",
             "change_pct": 15.93,
-            "contribution_score": 160.16
+            "contribution_score": 160.26
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 14.77,
+            "contribution_score": 157.65
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-22T04:30:16.690Z",
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": 0,
+      "move_30min": -19.85,
+      "label": "ZONE -19.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 22.81,
+            "contribution_score": 383.39
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 15.93,
+            "contribution_score": 160.26
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 14.77,
+            "contribution_score": 157.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPC",
+      "name": "PT Bank Artha Graha Internasional Tbk",
+      "change_pct": -5.22,
+      "move_30min": -3.79,
+      "label": "INPC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -124.38
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": 1.36,
+      "move_30min": -3.04,
+      "label": "BYAN -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 22.81,
+            "contribution_score": 383.39
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 15.93,
+            "contribution_score": 160.26
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 14.77,
+            "contribution_score": 157.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -1.13,
+      "move_30min": -3.57,
+      "label": "ROCK -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -124.38
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IMAS",
+      "name": "PT Indomobil Sukses Internasional Tbk",
+      "change_pct": -3.49,
+      "move_30min": -5.14,
+      "label": "IMAS -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -124.38
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.32,
+            "contribution_score": -95.95
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.97,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASBI",
+      "name": "ASBI",
+      "change_pct": 9.66,
+      "move_30min": 12.94,
+      "label": "ASBI +12.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 22.81,
+            "contribution_score": 383.39
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 15.93,
+            "contribution_score": 160.26
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 14.77,
+            "contribution_score": 157.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T04:45:16.654Z",
       "status": "active",
       "summary": null
     }
