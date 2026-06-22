@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-22T03:45:16.350Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.1,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T02:00:17.070Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 5.42,
+      "move_30min": -3.74,
+      "label": "JARR -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 304.94
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.54,
+            "contribution_score": 288.6
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 16.29,
+            "contribution_score": 173.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": -5.26,
+      "move_30min": -7.22,
+      "label": "SKLT -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": -4.14,
+      "move_30min": -4.14,
+      "label": "CSAP -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

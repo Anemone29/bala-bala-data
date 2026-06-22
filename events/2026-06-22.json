@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T03:30:16.643Z",
+  "generated_at": "2026-06-22T03:45:16.350Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2916,49 +2916,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "JARR",
-      "name": "Jhonlin Agro Raya Tbk.",
-      "change_pct": 5.42,
-      "move_30min": -4.63,
-      "label": "JARR -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "EMDE",
-            "change_pct": 22.81,
-            "contribution_score": 377.03
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.77,
-            "contribution_score": 304.77
-          },
-          {
-            "ticker": "ADES",
-            "change_pct": 17.33,
-            "contribution_score": 182.36
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-22T03:30:16.643Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "IBFN",
       "name": "IBFN",
@@ -3476,11 +3433,54 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 5.42,
+      "move_30min": -3.74,
+      "label": "JARR -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 304.94
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.54,
+            "contribution_score": 288.6
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 16.29,
+            "contribution_score": 173.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "SKLT",
       "name": "PT Sekar Laut Tbk",
-      "change_pct": -2.11,
-      "move_30min": -4.12,
-      "label": "SKLT -4.1% dalam 30 menit",
+      "change_pct": -5.26,
+      "move_30min": -7.22,
+      "label": "SKLT -7.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3497,23 +3497,23 @@
           {
             "ticker": "ACES",
             "change_pct": -8.74,
-            "contribution_score": -120.07
-          },
-          {
-            "ticker": "MYOR",
-            "change_pct": -6.78,
-            "contribution_score": -82.44
+            "contribution_score": -121.77
           },
           {
             "ticker": "IMPC",
-            "change_pct": -6.21,
-            "contribution_score": -80.26
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-22T03:30:16.643Z",
+      "detected_at": "2026-06-22T03:45:16.350Z",
       "status": "active",
       "summary": null
     },
@@ -3540,23 +3540,366 @@
           {
             "ticker": "ACES",
             "change_pct": -8.74,
-            "contribution_score": -120.07
-          },
-          {
-            "ticker": "MYOR",
-            "change_pct": -6.78,
-            "contribution_score": -82.44
+            "contribution_score": -121.77
           },
           {
             "ticker": "IMPC",
-            "change_pct": -6.21,
-            "contribution_score": -80.26
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-22T03:30:16.643Z",
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.1,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 17.54,
+      "move_30min": -5.63,
+      "label": "EMDE -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.77,
+            "contribution_score": 304.94
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.54,
+            "contribution_score": 288.6
+          },
+          {
+            "ticker": "ADES",
+            "change_pct": 16.29,
+            "contribution_score": 173.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": -0.71,
+      "move_30min": -3.45,
+      "label": "CTTH -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": -1.59,
+      "move_30min": -3.13,
+      "label": "LAPD -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": -6.42,
+      "move_30min": -3.77,
+      "label": "RAAM -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BACA",
+      "name": "PT Bank Capital Indonesia Tbk",
+      "change_pct": -1.75,
+      "move_30min": -4.27,
+      "label": "BACA -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": -0.79,
+      "move_30min": -4.55,
+      "label": "PEHA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASRM",
+      "name": "ASRM",
+      "change_pct": -2.54,
+      "move_30min": -4.17,
+      "label": "ASRM -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ACES",
+            "change_pct": -8.74,
+            "contribution_score": -121.77
+          },
+          {
+            "ticker": "IMPC",
+            "change_pct": -7.1,
+            "contribution_score": -93.05
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.35,
+            "contribution_score": -92.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-22T03:45:16.350Z",
       "status": "active",
       "summary": null
     }
