@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T07:00:25.566Z",
+  "generated_at": "2026-06-23T07:15:17.468Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5453,48 +5453,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -73,
-      "label": "73% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -196.23
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": -12.5,
-            "contribution_score": -156.99
-          },
-          {
-            "ticker": "CEKA",
-            "change_pct": -12.89,
-            "contribution_score": -129.07
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-23T07:00:25.566Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "KOTA",
       "name": "KOTA",
@@ -5587,92 +5545,6 @@
       "change_pct": -5.16,
       "move_30min": -3.92,
       "label": "ASPI -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -196.23
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": -12.5,
-            "contribution_score": -156.99
-          },
-          {
-            "ticker": "CEKA",
-            "change_pct": -12.89,
-            "contribution_score": -129.07
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-23T07:00:25.566Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "JMAS",
-      "name": "JMAS",
-      "change_pct": -4.17,
-      "move_30min": -3.36,
-      "label": "JMAS -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -196.23
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": -12.5,
-            "contribution_score": -156.99
-          },
-          {
-            "ticker": "CEKA",
-            "change_pct": -12.89,
-            "contribution_score": -129.07
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-23T07:00:25.566Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BTON",
-      "name": "BTON",
-      "change_pct": -4.37,
-      "move_30min": -7.41,
-      "label": "BTON -7.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5839,6 +5711,134 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JMAS",
+      "name": "JMAS",
+      "change_pct": -4.17,
+      "move_30min": -3.36,
+      "label": "JMAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -5.46,
+      "move_30min": -12.18,
+      "label": "BTON -12.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "AMAG",
       "name": "PT Asuransi Multi Artha Guna Tbk",
@@ -5860,24 +5860,24 @@
         "tickers": [
           {
             "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -196.23
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": -12.5,
-            "contribution_score": -156.99
+            "change_pct": -13.89,
+            "contribution_score": -210.56
           },
           {
             "ticker": "CEKA",
-            "change_pct": -12.89,
-            "contribution_score": -129.07
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T07:00:25.566Z",
+      "detected_at": "2026-06-23T07:15:17.468Z",
       "status": "active",
       "summary": null
     },
@@ -5903,24 +5903,24 @@
         "tickers": [
           {
             "ticker": "JAWA",
-            "change_pct": 24.59,
-            "contribution_score": 397.57
+            "change_pct": 27.05,
+            "contribution_score": 446.57
           },
           {
             "ticker": "KLBF",
-            "change_pct": 9.56,
-            "contribution_score": 161.47
+            "change_pct": 10.29,
+            "contribution_score": 174.88
           },
           {
             "ticker": "BCIC",
             "change_pct": 5.76,
-            "contribution_score": 87.72
+            "contribution_score": 87.74
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T07:00:25.566Z",
+      "detected_at": "2026-06-23T07:15:17.468Z",
       "status": "active",
       "summary": null
     },
@@ -5946,24 +5946,239 @@
         "tickers": [
           {
             "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -196.23
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": -12.5,
-            "contribution_score": -156.99
+            "change_pct": -13.89,
+            "contribution_score": -210.56
           },
           {
             "ticker": "CEKA",
-            "change_pct": -12.89,
-            "contribution_score": -129.07
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T07:00:25.566Z",
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": -4.41,
+      "move_30min": 10.17,
+      "label": "ZONE +10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": -3.5,
+      "move_30min": -3.02,
+      "label": "TFAS -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.45,
+      "move_30min": 7.06,
+      "label": "CASA +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ITIC",
+      "name": "PT Indonesian Tobacco Tbk",
+      "change_pct": -2.91,
+      "move_30min": -3.85,
+      "label": "ITIC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -8.46,
+      "move_30min": -8.46,
+      "label": "NFCX -8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
       "status": "active",
       "summary": null
     }
