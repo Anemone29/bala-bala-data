@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T08:45:17.717Z",
+  "generated_at": "2026-06-23T09:00:18.948Z",
   "events": [
     {
       "type": "breadth_up",
@@ -7304,9 +7304,9 @@
       "type": "rapid_up",
       "ticker": "SRAJ",
       "name": "PT Sejahteraraya Anugrahjaya Tbk",
-      "change_pct": 7.86,
-      "move_30min": 11.14,
-      "label": "SRAJ +11.1% dalam 30 menit",
+      "change_pct": 10.81,
+      "move_30min": 8.94,
+      "label": "SRAJ +8.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -7321,25 +7321,25 @@
         ],
         "tickers": [
           {
-            "ticker": "JAWA",
-            "change_pct": 21.31,
-            "contribution_score": 357.35
-          },
-          {
             "ticker": "KLBF",
-            "change_pct": 11.76,
-            "contribution_score": 204.55
+            "change_pct": 11.03,
+            "contribution_score": 191.87
           },
           {
             "ticker": "RAJA",
-            "change_pct": 11.5,
-            "contribution_score": 181.31
+            "change_pct": 10.96,
+            "contribution_score": 173.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 7.02,
+            "contribution_score": 121.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T08:45:17.717Z",
+      "detected_at": "2026-06-23T09:00:18.948Z",
       "status": "active",
       "summary": null
     },
@@ -7365,24 +7365,325 @@
         "tickers": [
           {
             "ticker": "KIOS",
-            "change_pct": -12.96,
-            "contribution_score": -197.41
+            "change_pct": -13.89,
+            "contribution_score": -212.11
           },
           {
             "ticker": "ZONE",
-            "change_pct": -11.03,
-            "contribution_score": -139.36
+            "change_pct": -12.5,
+            "contribution_score": -158.1
           },
           {
             "ticker": "CEKA",
             "change_pct": -13.67,
-            "contribution_score": -138.63
+            "contribution_score": -138.72
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T08:45:17.717Z",
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": 6.56,
+      "move_30min": -15.03,
+      "label": "JAWA -15.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 191.87
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 10.96,
+            "contribution_score": 173.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 7.02,
+            "contribution_score": 121.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "JAST -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -158.1
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.67,
+            "contribution_score": -138.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": -4.22,
+      "move_30min": -3.05,
+      "label": "CITY -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -158.1
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.67,
+            "contribution_score": -138.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BPFI",
+      "name": "BPFI",
+      "change_pct": 0,
+      "move_30min": 9.38,
+      "label": "BPFI +9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 191.87
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 10.96,
+            "contribution_score": 173.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 7.02,
+            "contribution_score": 121.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": -3.1,
+      "move_30min": -6.02,
+      "label": "WOMF -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -158.1
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.67,
+            "contribution_score": -138.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": -5.18,
+      "move_30min": -3.68,
+      "label": "BBHI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -158.1
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.67,
+            "contribution_score": -138.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": 2.89,
+      "move_30min": -3.11,
+      "label": "BUKK -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 191.87
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 10.96,
+            "contribution_score": 173.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": 7.02,
+            "contribution_score": 121.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T09:00:18.948Z",
       "status": "active",
       "summary": null
     }
