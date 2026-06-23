@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T06:45:16.867Z",
+  "generated_at": "2026-06-23T07:00:25.566Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5389,23 +5389,23 @@
           {
             "ticker": "KIOS",
             "change_pct": -12.96,
-            "contribution_score": -195.16
-          },
-          {
-            "ticker": "DSSA",
-            "change_pct": -10,
-            "contribution_score": -181.04
+            "contribution_score": -196.23
           },
           {
             "ticker": "ZONE",
-            "change_pct": -13.24,
-            "contribution_score": -166
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T06:45:16.867Z",
+      "detected_at": "2026-06-23T07:00:25.566Z",
       "status": "active",
       "summary": null
     },
@@ -5432,23 +5432,538 @@
           {
             "ticker": "KIOS",
             "change_pct": -12.96,
-            "contribution_score": -195.16
-          },
-          {
-            "ticker": "DSSA",
-            "change_pct": -10,
-            "contribution_score": -181.04
+            "contribution_score": -196.23
           },
           {
             "ticker": "ZONE",
-            "change_pct": -13.24,
-            "contribution_score": -166
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T06:45:16.867Z",
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -6.86,
+      "move_30min": -3.06,
+      "label": "KOTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARCI",
+      "name": "ARCI",
+      "change_pct": 5.29,
+      "move_30min": 7.35,
+      "label": "ARCI +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 397.57
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 9.56,
+            "contribution_score": 161.47
+          },
+          {
+            "ticker": "BCIC",
+            "change_pct": 5.76,
+            "contribution_score": 87.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -5.16,
+      "move_30min": -3.92,
+      "label": "ASPI -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JMAS",
+      "name": "JMAS",
+      "change_pct": -4.17,
+      "move_30min": -3.36,
+      "label": "JMAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -4.37,
+      "move_30min": -7.41,
+      "label": "BTON -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -13.64,
+      "move_30min": -3.8,
+      "label": "BYAN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": -3.8,
+      "move_30min": -3.28,
+      "label": "ESTA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -5.96,
+      "move_30min": -5.53,
+      "label": "TRUK -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAG",
+      "name": "PT Asuransi Multi Artha Guna Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.52,
+      "label": "AMAG -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 1.45,
+      "move_30min": -4.11,
+      "label": "OMRE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 397.57
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 9.56,
+            "contribution_score": 161.47
+          },
+          {
+            "ticker": "BCIC",
+            "change_pct": 5.76,
+            "contribution_score": 87.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.81,
+      "move_30min": -3.81,
+      "label": "RANC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -196.23
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -12.5,
+            "contribution_score": -156.99
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:00:25.566Z",
       "status": "active",
       "summary": null
     }
