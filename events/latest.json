@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-23T08:00:19.573Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -13.89,
+            "contribution_score": -210.56
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -13.28,
+            "contribution_score": -133.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T07:15:17.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T02:00:18.027Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": -6.34,
+      "move_30min": -5.67,
+      "label": "CSAP -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -197.03
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -10.29,
+            "contribution_score": -129.91
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MYOH",
+      "name": "MYOH",
+      "change_pct": -3.74,
+      "move_30min": -4.63,
+      "label": "MYOH -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -197.03
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -10.29,
+            "contribution_score": -129.91
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": 24.59,
+      "move_30min": -3.18,
+      "label": "JAWA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 411.29
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 190
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 13.75,
+            "contribution_score": 147.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

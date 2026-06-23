@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T07:45:21.312Z",
+  "generated_at": "2026-06-23T08:00:19.573Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6548,24 +6548,24 @@
         "tickers": [
           {
             "ticker": "KIOS",
-            "change_pct": -12.04,
-            "contribution_score": -183
+            "change_pct": -12.96,
+            "contribution_score": -197.03
           },
           {
             "ticker": "ZONE",
             "change_pct": -10.29,
-            "contribution_score": -129.86
+            "contribution_score": -129.91
           },
           {
             "ticker": "CEKA",
             "change_pct": -12.89,
-            "contribution_score": -129.4
+            "contribution_score": -129.48
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T07:45:21.312Z",
+      "detected_at": "2026-06-23T08:00:19.573Z",
       "status": "active",
       "summary": null
     },
@@ -6591,24 +6591,239 @@
         "tickers": [
           {
             "ticker": "KIOS",
-            "change_pct": -12.04,
-            "contribution_score": -183
+            "change_pct": -12.96,
+            "contribution_score": -197.03
           },
           {
             "ticker": "ZONE",
             "change_pct": -10.29,
-            "contribution_score": -129.86
+            "contribution_score": -129.91
           },
           {
             "ticker": "CEKA",
             "change_pct": -12.89,
-            "contribution_score": -129.4
+            "contribution_score": -129.48
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-23T07:45:21.312Z",
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": 24.59,
+      "move_30min": -3.18,
+      "label": "JAWA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 411.29
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 190
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 13.75,
+            "contribution_score": 147.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": 13.75,
+      "move_30min": 13.75,
+      "label": "LION +13.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 411.29
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 190
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 13.75,
+            "contribution_score": 147.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -3.76,
+      "move_30min": -4.48,
+      "label": "JECC -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -197.03
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -10.29,
+            "contribution_score": -129.91
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IGAR",
+      "name": "PT Champion Pacific Indonesia Tbk",
+      "change_pct": 0.49,
+      "move_30min": -5.56,
+      "label": "IGAR -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAWA",
+            "change_pct": 24.59,
+            "contribution_score": 411.29
+          },
+          {
+            "ticker": "KLBF",
+            "change_pct": 11.03,
+            "contribution_score": 190
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 13.75,
+            "contribution_score": 147.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -8.94,
+      "move_30min": -4.59,
+      "label": "POLU -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": -12.96,
+            "contribution_score": -197.03
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -10.29,
+            "contribution_score": -129.91
+          },
+          {
+            "ticker": "CEKA",
+            "change_pct": -12.89,
+            "contribution_score": -129.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-23T08:00:19.573Z",
       "status": "active",
       "summary": null
     }
