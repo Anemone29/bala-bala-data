@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T06:45:16.665Z",
+  "generated_at": "2026-06-24T07:00:17.005Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4335,48 +4335,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -71.9,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": -10.16,
-            "contribution_score": -167.37
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -9.26,
-            "contribution_score": -132.63
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -7.1,
-            "contribution_score": -118.95
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T06:45:16.665Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ASLC",
       "name": "PT Autopedia Sukses Lestari Tbk",
@@ -4463,6 +4421,48 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.9,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "VINS",
       "name": "VINS",
@@ -4484,24 +4484,24 @@
         "tickers": [
           {
             "ticker": "EMDE",
-            "change_pct": 21.88,
-            "contribution_score": 377.01
+            "change_pct": 17.19,
+            "contribution_score": 293.69
           },
           {
             "ticker": "BOGA",
-            "change_pct": 23.51,
-            "contribution_score": 248.81
+            "change_pct": 24.91,
+            "contribution_score": 271.72
           },
           {
             "ticker": "CITY",
-            "change_pct": 13.21,
-            "contribution_score": 195.38
+            "change_pct": 12.58,
+            "contribution_score": 185.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-24T06:45:16.665Z",
+      "detected_at": "2026-06-24T07:00:17.005Z",
       "status": "active",
       "summary": null
     },
@@ -4526,25 +4526,498 @@
         ],
         "tickers": [
           {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
             "ticker": "BRMS",
             "change_pct": -10.16,
-            "contribution_score": -167.37
+            "contribution_score": -168.09
           },
           {
-            "ticker": "ENRG",
-            "change_pct": -9.26,
-            "contribution_score": -132.63
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -7.1,
-            "contribution_score": -118.95
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-24T06:45:16.665Z",
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 17.19,
+      "move_30min": -3.85,
+      "label": "EMDE -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.19,
+            "contribution_score": 293.69
+          },
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 271.72
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 12.58,
+            "contribution_score": 185.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SCMA",
+      "name": "PT Surya Citra Media Tbk",
+      "change_pct": 8.08,
+      "move_30min": -3.6,
+      "label": "SCMA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.19,
+            "contribution_score": 293.69
+          },
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 271.72
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 12.58,
+            "contribution_score": 185.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -7,
+      "move_30min": -3.13,
+      "label": "KOTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 2.12,
+      "move_30min": -3.5,
+      "label": "COCO -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.19,
+            "contribution_score": 293.69
+          },
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 271.72
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 12.58,
+            "contribution_score": 185.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -7.91,
+      "move_30min": -3.03,
+      "label": "OASA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": -3.91,
+      "move_30min": -3.91,
+      "label": "JAWA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURI",
+      "name": "Puri Global Sukses Tbk.",
+      "change_pct": 1.49,
+      "move_30min": -6.85,
+      "label": "PURI -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.19,
+            "contribution_score": 293.69
+          },
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 271.72
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 12.58,
+            "contribution_score": 185.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JIHD",
+      "name": "JIHD",
+      "change_pct": 2.31,
+      "move_30min": -3.49,
+      "label": "JIHD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 17.19,
+            "contribution_score": 293.69
+          },
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 271.72
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 12.58,
+            "contribution_score": 185.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": -2.78,
+      "move_30min": -3.45,
+      "label": "ARII -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": -2.31,
+      "move_30min": -3.05,
+      "label": "NICE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": -7.83,
+      "move_30min": -7.83,
+      "label": "SAPX -7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.85,
+            "contribution_score": -171.9
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -168.09
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -8.6,
+            "contribution_score": -139.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:00:17.005Z",
       "status": "active",
       "summary": null
     }
