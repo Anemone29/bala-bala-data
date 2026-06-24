@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-24T07:30:16.880Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.5,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.96,
+            "contribution_score": -190.65
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -11.29,
+            "contribution_score": -184.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -169.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:30:16.880Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:00:16.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 17.19,
+      "move_30min": -8,
+      "label": "EMDE -8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BOGA",
+            "change_pct": 24.91,
+            "contribution_score": 276.43
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 144.39
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 7.81,
+            "contribution_score": 129.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:30:16.880Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -7.14,
+      "move_30min": -5.45,
+      "label": "WIRG -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.96,
+            "contribution_score": -190.65
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -11.29,
+            "contribution_score": -184.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -169.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:30:16.880Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": -10.08,
+      "move_30min": -4.46,
+      "label": "DEFI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.96,
+            "contribution_score": -190.65
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -11.29,
+            "contribution_score": -184.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.16,
+            "contribution_score": -169.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T07:30:16.880Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
