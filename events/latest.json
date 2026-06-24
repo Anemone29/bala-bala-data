@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-24T03:45:16.351Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:00:16.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADES",
+      "name": "PT Akasha Wira International Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.83,
+      "label": "ADES -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBNI",
+            "change_pct": -9.65,
+            "contribution_score": -137.25
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -7.03,
+            "contribution_score": -110.65
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -8.47,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:45:16.351Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 0,
+      "move_30min": -4.49,
+      "label": "ASPI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 344.23
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 14.47,
+            "contribution_score": 212.3
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 12.12,
+            "contribution_score": 203.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:45:16.351Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -4.41,
+      "move_30min": -5.11,
+      "label": "SIPD -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBNI",
+            "change_pct": -9.65,
+            "contribution_score": -137.25
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -7.03,
+            "contribution_score": -110.65
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -8.47,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:45:16.351Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.98,
+      "move_30min": -7.27,
+      "label": "CASA -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBNI",
+            "change_pct": -9.65,
+            "contribution_score": -137.25
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -7.03,
+            "contribution_score": -110.65
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -8.47,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:45:16.351Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
