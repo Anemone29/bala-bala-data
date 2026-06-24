@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T02:30:16.378Z",
+  "generated_at": "2026-06-24T02:45:16.458Z",
   "events": [
     {
       "type": "breadth_up",
@@ -31,49 +31,6 @@
         "macro_active": null
       },
       "detected_at": "2026-06-24T02:00:16.794Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "EMDE",
-      "name": "EMDE",
-      "change_pct": 18.75,
-      "move_30min": 18.75,
-      "label": "EMDE +18.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "EMDE",
-            "change_pct": 18.75,
-            "contribution_score": 303.23
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": 16.35,
-            "contribution_score": 234.95
-          },
-          {
-            "ticker": "TUGU",
-            "change_pct": 6.41,
-            "contribution_score": 78.25
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T02:30:16.378Z",
       "status": "active",
       "summary": null
     },
@@ -552,92 +509,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PEHA",
-      "name": "PT Phapros Tbk",
-      "change_pct": -5.04,
-      "move_30min": -5.04,
-      "label": "PEHA -5.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.84,
-            "contribution_score": -89.41
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -5.47,
-            "contribution_score": -80.44
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": -3.76,
-            "contribution_score": -57.75
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T02:30:16.378Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "JECC",
-      "name": "JECC",
-      "change_pct": -4.62,
-      "move_30min": -4.62,
-      "label": "JECC -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.84,
-            "contribution_score": -89.41
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -5.47,
-            "contribution_score": -80.44
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": -3.76,
-            "contribution_score": -57.75
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T02:30:16.378Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BPFI",
       "name": "BPFI",
       "change_pct": -5.8,
@@ -767,49 +638,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PORT",
-      "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": -4.49,
-      "move_30min": -4.49,
-      "label": "PORT -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.84,
-            "contribution_score": -89.41
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -5.47,
-            "contribution_score": -80.44
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": -3.76,
-            "contribution_score": -57.75
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T02:30:16.378Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "GMTD",
       "name": "PT Gowa Makassar Tourism Development Tbk",
       "change_pct": -3.8,
@@ -848,6 +676,479 @@
         "macro_active": null
       },
       "detected_at": "2026-06-24T02:30:16.378Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 20.31,
+      "move_30min": 10,
+      "label": "EMDE +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 338.08
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 10.69,
+            "contribution_score": 152.25
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 6.06,
+            "contribution_score": 87.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": -5.04,
+      "move_30min": -6.29,
+      "label": "PEHA -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -4.62,
+      "move_30min": -3.79,
+      "label": "JECC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": -4.49,
+      "move_30min": -3.93,
+      "label": "PORT -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": -1.25,
+      "move_30min": -3.66,
+      "label": "BWPT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "JAWA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 338.08
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 10.69,
+            "contribution_score": 152.25
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 6.06,
+            "contribution_score": 87.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 4.72,
+      "move_30min": -3.62,
+      "label": "YPAS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 338.08
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 10.69,
+            "contribution_score": 152.25
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 6.06,
+            "contribution_score": 87.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 0.88,
+      "move_30min": -3.39,
+      "label": "BBLD -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 338.08
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 10.69,
+            "contribution_score": 152.25
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 6.06,
+            "contribution_score": 87.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SDPC",
+      "name": "SDPC",
+      "change_pct": -1.09,
+      "move_30min": -4.21,
+      "label": "SDPC -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -1.45,
+      "move_30min": -3.55,
+      "label": "AWAN -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.29
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -3.91,
+            "contribution_score": -58.84
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.07,
+            "contribution_score": -53.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3,
+      "label": "ROCK -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 20.31,
+            "contribution_score": 338.08
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 10.69,
+            "contribution_score": 152.25
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 6.06,
+            "contribution_score": 87.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:45:16.458Z",
       "status": "active",
       "summary": null
     }
