@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-24T04:00:16.738Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:00:16.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -7.19,
+      "move_30min": -7.19,
+      "label": "POLI -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": -8.59,
+            "contribution_score": -136.54
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -8.73,
+            "contribution_score": -107.39
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -95.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T04:00:16.738Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "DMND -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": -8.59,
+            "contribution_score": -136.54
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -8.73,
+            "contribution_score": -107.39
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -95.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T04:00:16.738Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRMS",
+      "name": "BRMS",
+      "change_pct": -8.59,
+      "move_30min": -3.31,
+      "label": "BRMS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": -8.59,
+            "contribution_score": -136.54
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -8.73,
+            "contribution_score": -107.39
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -95.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T04:00:16.738Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 0.79,
+      "move_30min": -3.03,
+      "label": "YPAS -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 23.44,
+            "contribution_score": 402.65
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 14.47,
+            "contribution_score": 213.69
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 12.12,
+            "contribution_score": 204.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T04:00:16.738Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
