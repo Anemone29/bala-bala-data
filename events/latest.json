@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-24T03:00:16.659Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:00:16.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 11.95,
+      "move_30min": -3.78,
+      "label": "CITY -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 23.44,
+            "contribution_score": 396.37
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 11.95,
+            "contribution_score": 171.59
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 7.94,
+            "contribution_score": 117.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:00:16.659Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 0.81,
+      "move_30min": -3.13,
+      "label": "ESTI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 23.44,
+            "contribution_score": 396.37
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 11.95,
+            "contribution_score": 171.59
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 7.94,
+            "contribution_score": 117.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:00:16.659Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -1.71,
+      "move_30min": -3.36,
+      "label": "BRNA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.84,
+            "contribution_score": -91.25
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -4.69,
+            "contribution_score": -70.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -4.81,
+            "contribution_score": -64.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:00:16.659Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": 1.75,
+      "move_30min": -3.33,
+      "label": "BTON -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 23.44,
+            "contribution_score": 396.37
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 11.95,
+            "contribution_score": 171.59
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 7.94,
+            "contribution_score": 117.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T03:00:16.659Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
