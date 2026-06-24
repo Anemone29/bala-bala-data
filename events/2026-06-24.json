@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T07:45:16.815Z",
+  "generated_at": "2026-06-24T08:00:17.720Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5754,48 +5754,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -84.8,
-      "label": "85% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ENRG",
-            "change_pct": -12.59,
-            "contribution_score": -187.75
-          },
-          {
-            "ticker": "BRMS",
-            "change_pct": -10.16,
-            "contribution_score": -170.14
-          },
-          {
-            "ticker": "BUMI",
-            "change_pct": -8.38,
-            "contribution_score": -157.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T07:45:16.815Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "WIRG",
       "name": "WIRG",
@@ -6399,49 +6357,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BOGA",
-      "name": "Apollo Global Interactive Tbk.",
-      "change_pct": 9.82,
-      "move_30min": -12.08,
-      "label": "BOGA -12.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SCMA",
-            "change_pct": 10.1,
-            "contribution_score": 174.84
-          },
-          {
-            "ticker": "EMDE",
-            "change_pct": 9.38,
-            "contribution_score": 157.35
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 10,
-            "contribution_score": 144.39
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-24T07:45:16.815Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MCAS",
       "name": "PT M Cash Integrasi Tbk",
       "change_pct": -4.1,
@@ -6613,6 +6528,91 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -84.8,
+      "label": "85% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 10.88,
+      "move_30min": -11.24,
+      "label": "BOGA -11.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 144.39
+          },
+          {
+            "ticker": "SCMA",
+            "change_pct": 8.08,
+            "contribution_score": 138.91
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 7.81,
+            "contribution_score": 130.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "TRUS",
       "name": "Trust Finance Indonesia Tbk",
@@ -6634,24 +6634,411 @@
         "tickers": [
           {
             "ticker": "ENRG",
-            "change_pct": -12.59,
-            "contribution_score": -187.75
+            "change_pct": -14.44,
+            "contribution_score": -216.56
           },
           {
             "ticker": "BRMS",
-            "change_pct": -10.16,
-            "contribution_score": -170.14
+            "change_pct": -10.94,
+            "contribution_score": -183.7
           },
           {
-            "ticker": "BUMI",
-            "change_pct": -8.38,
-            "contribution_score": -157.34
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-24T07:45:16.815Z",
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIP",
+      "name": "PT Bumi Citra Permai Tbk",
+      "change_pct": -1.69,
+      "move_30min": -3.33,
+      "label": "BCIP -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -6.1,
+      "move_30min": -4.94,
+      "label": "JAST -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HALO",
+      "name": "Haloni Jane Tbk.",
+      "change_pct": -4.76,
+      "move_30min": -3.23,
+      "label": "HALO -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -3.66,
+      "move_30min": -3.07,
+      "label": "BAJA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPCK",
+      "name": "PT Lippo Cikarang Tbk",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "LPCK -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": -5.65,
+      "move_30min": -5.65,
+      "label": "DART -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": -2.14,
+      "move_30min": -3.68,
+      "label": "SKLT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -4.51,
+      "move_30min": -6.01,
+      "label": "CASA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": -3.31,
+      "move_30min": -3.31,
+      "label": "DEPO -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.44,
+            "contribution_score": -216.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.94,
+            "contribution_score": -183.7
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -10.32,
+            "contribution_score": -177.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:00:17.720Z",
       "status": "active",
       "summary": null
     }
