@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-06-24T08:45:16.888Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -87.6,
+      "label": "88% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.81,
+            "contribution_score": -226.61
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -13.28,
+            "contribution_score": -225.28
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.9,
+            "contribution_score": -224.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:45:16.888Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T02:00:16.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNIQ",
+      "name": "UNIQ",
+      "change_pct": -7.84,
+      "move_30min": -4.08,
+      "label": "UNIQ -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.81,
+            "contribution_score": -226.61
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -13.28,
+            "contribution_score": -225.28
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.9,
+            "contribution_score": -224.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:45:16.888Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOOD",
+      "name": "PT Integra Indocabinet Tbk",
+      "change_pct": -5.26,
+      "move_30min": -3.57,
+      "label": "WOOD -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.81,
+            "contribution_score": -226.61
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -13.28,
+            "contribution_score": -225.28
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.9,
+            "contribution_score": -224.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:45:16.888Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -3.75,
+      "move_30min": -3.75,
+      "label": "NFCX -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -14.81,
+            "contribution_score": -226.61
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -13.28,
+            "contribution_score": -225.28
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -12.9,
+            "contribution_score": -224.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-24T08:45:16.888Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
