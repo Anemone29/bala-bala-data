@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T07:45:16.878Z",
+  "generated_at": "2026-06-25T08:00:17.993Z",
   "events": [
     {
       "type": "rapid_up",
@@ -5334,48 +5334,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 79.9,
-      "label": "76% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 21.5,
-            "contribution_score": 416.2
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 20.22,
-            "contribution_score": 319.56
-          },
-          {
-            "ticker": "BANK",
-            "change_pct": 17.69,
-            "contribution_score": 315.93
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T07:45:16.878Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SDPC",
       "name": "SDPC",
@@ -5452,49 +5410,6 @@
             "ticker": "DMAS",
             "change_pct": -6.62,
             "contribution_score": -107.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T07:45:16.878Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ZONE",
-      "name": "Mega Perintis Tbk.",
-      "change_pct": 18.81,
-      "move_30min": -4.76,
-      "label": "ZONE -4.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 21.5,
-            "contribution_score": 416.2
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 20.22,
-            "contribution_score": 319.56
-          },
-          {
-            "ticker": "BANK",
-            "change_pct": 17.69,
-            "contribution_score": 315.93
           }
         ],
         "foreign_flow": null,
@@ -5591,12 +5506,97 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 79.9,
+      "label": "77% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 23.88,
+            "contribution_score": 465.04
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 19.1,
+            "contribution_score": 301.82
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 16.83,
+            "contribution_score": 227.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T08:00:17.993Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": 18.81,
+      "move_30min": -6.35,
+      "label": "ZONE -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 23.88,
+            "contribution_score": 465.04
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 19.1,
+            "contribution_score": 301.82
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 16.83,
+            "contribution_score": 227.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T08:00:17.993Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "AMAN",
       "name": "Makmur Berkah Amanda Tbk.",
-      "change_pct": -0.77,
-      "move_30min": -4.44,
-      "label": "AMAN -4.4% dalam 30 menit",
+      "change_pct": -2.31,
+      "move_30min": -4.51,
+      "label": "AMAN -4.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5616,20 +5616,20 @@
             "contribution_score": -141.9
           },
           {
-            "ticker": "BSSR",
-            "change_pct": -9.56,
-            "contribution_score": -113.62
+            "ticker": "DMAS",
+            "change_pct": -7.28,
+            "contribution_score": -117.99
           },
           {
-            "ticker": "DMAS",
-            "change_pct": -6.62,
-            "contribution_score": -107.14
+            "ticker": "BSSR",
+            "change_pct": -9.78,
+            "contribution_score": -116.42
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T07:45:16.878Z",
+      "detected_at": "2026-06-25T08:00:17.993Z",
       "status": "active",
       "summary": null
     },
@@ -5637,9 +5637,9 @@
       "type": "rapid_down",
       "ticker": "BBHI",
       "name": "PT Allo Bank Indonesia Tbk",
-      "change_pct": 3.26,
-      "move_30min": -4.52,
-      "label": "BBHI -4.5% dalam 30 menit",
+      "change_pct": 4.89,
+      "move_30min": -3.02,
+      "label": "BBHI -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5655,24 +5655,110 @@
         "tickers": [
           {
             "ticker": "BNBR",
-            "change_pct": 21.5,
-            "contribution_score": 416.2
+            "change_pct": 23.88,
+            "contribution_score": 465.04
           },
           {
             "ticker": "TRON",
-            "change_pct": 20.22,
-            "contribution_score": 319.56
+            "change_pct": 19.1,
+            "contribution_score": 301.82
           },
           {
-            "ticker": "BANK",
-            "change_pct": 17.69,
-            "contribution_score": 315.93
+            "ticker": "ZONE",
+            "change_pct": 16.83,
+            "contribution_score": 227.56
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T07:45:16.878Z",
+      "detected_at": "2026-06-25T08:00:17.993Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BANK",
+      "name": "PT Bank Aladin Syariah Tbk",
+      "change_pct": 10.77,
+      "move_30min": -4,
+      "label": "BANK -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 23.88,
+            "contribution_score": 465.04
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 19.1,
+            "contribution_score": 301.82
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 16.83,
+            "contribution_score": 227.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T08:00:17.993Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "SAPX -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 23.88,
+            "contribution_score": 465.04
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 19.1,
+            "contribution_score": 301.82
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 16.83,
+            "contribution_score": 227.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T08:00:17.993Z",
       "status": "active",
       "summary": null
     }
