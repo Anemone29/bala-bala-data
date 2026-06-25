@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T03:45:16.371Z",
+  "generated_at": "2026-06-25T04:00:16.817Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2583,48 +2583,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "75% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 25.07,
-            "contribution_score": 481.17
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.75,
-            "contribution_score": 315.64
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 15.73,
-            "contribution_score": 235.9
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T03:45:16.371Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "INDX",
       "name": "Tanah Laut Tbk",
@@ -2840,49 +2798,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "DEPO",
-      "name": "PT Caturkarda Depo Bangunan Tbk",
-      "change_pct": -3.33,
-      "move_30min": -3.33,
-      "label": "DEPO -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PPRO",
-            "change_pct": -10.53,
-            "contribution_score": -136.26
-          },
-          {
-            "ticker": "HRTA",
-            "change_pct": -10.24,
-            "contribution_score": -132.62
-          },
-          {
-            "ticker": "BSSR",
-            "change_pct": -10,
-            "contribution_score": -115.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T03:45:16.371Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "ASBI",
       "name": "ASBI",
@@ -2922,6 +2837,220 @@
         "macro_active": null
       },
       "detected_at": "2026-06-25T03:45:16.371Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 23.88,
+            "contribution_score": 457.78
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.75,
+            "contribution_score": 315.83
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 15.06,
+            "contribution_score": 203.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:00:16.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "DEPO -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -136.26
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -10.24,
+            "contribution_score": -133.04
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -125.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:00:16.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": -2.33,
+      "move_30min": -3.08,
+      "label": "NICE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -136.26
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -10.24,
+            "contribution_score": -133.04
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -125.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:00:16.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -7.96,
+      "move_30min": -5.45,
+      "label": "BUKK -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -136.26
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -10.24,
+            "contribution_score": -133.04
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -125.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:00:16.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -1.49,
+      "move_30min": -4.35,
+      "label": "LPGI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -136.26
+          },
+          {
+            "ticker": "HRTA",
+            "change_pct": -10.24,
+            "contribution_score": -133.04
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -125.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:00:16.817Z",
       "status": "active",
       "summary": null
     }
