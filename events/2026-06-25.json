@@ -1,13 +1,13 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T02:00:16.546Z",
+  "generated_at": "2026-06-25T02:30:16.300Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "73% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -23,19 +23,841 @@
         "tickers": [
           {
             "ticker": "BNBR",
-            "change_pct": 19.12,
-            "contribution_score": 372.15
+            "change_pct": 17.93,
+            "contribution_score": 318.33
           },
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "DEFI",
+            "change_pct": 9.71,
+            "contribution_score": 146.85
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 7.87,
+            "contribution_score": 121.42
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T02:00:16.546Z",
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BUKA",
+      "name": "PT Bukalapak.com Tbk.",
+      "change_pct": 7.07,
+      "move_30min": 7.07,
+      "label": "BUKA +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 17.93,
+            "contribution_score": 318.33
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 9.71,
+            "contribution_score": 146.85
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 7.87,
+            "contribution_score": 121.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 7.87,
+      "move_30min": 7.87,
+      "label": "KOTA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 17.93,
+            "contribution_score": 318.33
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 9.71,
+            "contribution_score": 146.85
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 7.87,
+            "contribution_score": 121.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 9.71,
+      "move_30min": 9.71,
+      "label": "DEFI +9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 17.93,
+            "contribution_score": 318.33
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 9.71,
+            "contribution_score": 146.85
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 7.87,
+            "contribution_score": 121.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMAS",
+      "name": "PT Puradelta Lestari Tbk",
+      "change_pct": -7.95,
+      "move_30min": -7.95,
+      "label": "DMAS -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADMR",
+      "name": "ADMR",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "ADMR -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDY",
+      "name": "PT. Indika Energy Tbk",
+      "change_pct": -3.02,
+      "move_30min": -3.02,
+      "label": "INDY -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AHAP",
+      "name": "AHAP",
+      "change_pct": 8.75,
+      "move_30min": 8.75,
+      "label": "AHAP +8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 17.93,
+            "contribution_score": 318.33
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 9.71,
+            "contribution_score": 146.85
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 7.87,
+            "contribution_score": 121.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRTA",
+      "name": "HRTA",
+      "change_pct": -4.88,
+      "move_30min": -4.88,
+      "label": "HRTA -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURI",
+      "name": "Puri Global Sukses Tbk.",
+      "change_pct": -6.29,
+      "move_30min": -6.29,
+      "label": "PURI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSSR",
+      "name": "PT Baramulti Suksessarana Tbk",
+      "change_pct": -11.33,
+      "move_30min": -11.33,
+      "label": "BSSR -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -6.36,
+      "move_30min": -6.36,
+      "label": "LUCY -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": -4.02,
+      "move_30min": -4.02,
+      "label": "SAME -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBA",
+      "name": "PT Bank Bumi Arta Tbk",
+      "change_pct": -3.31,
+      "move_30min": -3.31,
+      "label": "BNBA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMHS",
+      "name": "PT Bundamedik Tbk",
+      "change_pct": -3.31,
+      "move_30min": -3.31,
+      "label": "BMHS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADES",
+      "name": "PT Akasha Wira International Tbk",
+      "change_pct": -3.31,
+      "move_30min": -3.31,
+      "label": "ADES -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -3.04,
+      "move_30min": -3.04,
+      "label": "SONA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -5.14,
+      "move_30min": -5.14,
+      "label": "BTON -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": -4.03,
+      "move_30min": -4.03,
+      "label": "DART -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.37,
+      "move_30min": -3.37,
+      "label": "RANC -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSSR",
+            "change_pct": -11.33,
+            "contribution_score": -124.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -7.95,
+            "contribution_score": -119.89
+          },
+          {
+            "ticker": "PURI",
+            "change_pct": -6.29,
+            "contribution_score": -69.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T02:30:16.300Z",
       "status": "active",
       "summary": null
     }
