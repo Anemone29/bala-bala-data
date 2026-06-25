@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T04:30:16.449Z",
+  "generated_at": "2026-06-25T04:45:16.505Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3400,48 +3400,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "74% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 23.88,
-            "contribution_score": 458.42
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 24.75,
-            "contribution_score": 316.16
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": 16.03,
-            "contribution_score": 220.22
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T04:30:16.449Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BLTA",
       "name": "PT Berlian Laju Tanker Tbk",
@@ -3743,12 +3701,54 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "79% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 25.07,
+            "contribution_score": 483.75
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.75,
+            "contribution_score": 316.31
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.67,
+            "contribution_score": 231.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:45:16.505Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
       "change_pct": -6.43,
-      "move_30min": -4.76,
-      "label": "PORT -4.8% dalam 30 menit",
+      "move_30min": -4.19,
+      "label": "PORT -4.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3769,19 +3769,19 @@
           },
           {
             "ticker": "DMAS",
-            "change_pct": -7.28,
-            "contribution_score": -115.24
+            "change_pct": -7.95,
+            "contribution_score": -125.96
           },
           {
             "ticker": "BSSR",
             "change_pct": -9.78,
-            "contribution_score": -114.16
+            "contribution_score": -114.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T04:30:16.449Z",
+      "detected_at": "2026-06-25T04:45:16.505Z",
       "status": "active",
       "summary": null
     },
@@ -3789,9 +3789,9 @@
       "type": "rapid_down",
       "ticker": "DAYA",
       "name": "PT Duta Intidaya Tbk",
-      "change_pct": -3.29,
-      "move_30min": -5.5,
-      "label": "DAYA -5.5% dalam 30 menit",
+      "change_pct": -7.98,
+      "move_30min": -10.09,
+      "label": "DAYA -10.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3812,19 +3812,19 @@
           },
           {
             "ticker": "DMAS",
-            "change_pct": -7.28,
-            "contribution_score": -115.24
+            "change_pct": -7.95,
+            "contribution_score": -125.96
           },
           {
             "ticker": "BSSR",
             "change_pct": -9.78,
-            "contribution_score": -114.16
+            "contribution_score": -114.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T04:30:16.449Z",
+      "detected_at": "2026-06-25T04:45:16.505Z",
       "status": "active",
       "summary": null
     },
@@ -3850,24 +3850,24 @@
         "tickers": [
           {
             "ticker": "BNBR",
-            "change_pct": 23.88,
-            "contribution_score": 458.42
+            "change_pct": 25.07,
+            "contribution_score": 483.75
           },
           {
             "ticker": "ZONE",
             "change_pct": 24.75,
-            "contribution_score": 316.16
+            "contribution_score": 316.31
           },
           {
             "ticker": "FILM",
-            "change_pct": 16.03,
-            "contribution_score": 220.22
+            "change_pct": 16.67,
+            "contribution_score": 231.58
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T04:30:16.449Z",
+      "detected_at": "2026-06-25T04:45:16.505Z",
       "status": "active",
       "summary": null
     },
@@ -3898,19 +3898,105 @@
           },
           {
             "ticker": "DMAS",
-            "change_pct": -7.28,
-            "contribution_score": -115.24
+            "change_pct": -7.95,
+            "contribution_score": -125.96
           },
           {
             "ticker": "BSSR",
             "change_pct": -9.78,
-            "contribution_score": -114.16
+            "contribution_score": -114.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T04:30:16.449Z",
+      "detected_at": "2026-06-25T04:45:16.505Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": 3.25,
+      "move_30min": -3.05,
+      "label": "LION -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 25.07,
+            "contribution_score": 483.75
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.75,
+            "contribution_score": 316.31
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.67,
+            "contribution_score": 231.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:45:16.505Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 0,
+      "move_30min": 13.11,
+      "label": "OMRE +13.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 25.07,
+            "contribution_score": 483.75
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.75,
+            "contribution_score": 316.31
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.67,
+            "contribution_score": 231.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T04:45:16.505Z",
       "status": "active",
       "summary": null
     }
