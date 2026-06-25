@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T08:45:17.112Z",
+  "generated_at": "2026-06-25T09:00:18.424Z",
   "events": [
     {
       "type": "rapid_up",
@@ -6151,48 +6151,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 79.9,
-      "label": "77% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 21.5,
-            "contribution_score": 417.94
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 19.8,
-            "contribution_score": 273.77
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 13.48,
-            "contribution_score": 211.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T08:45:17.112Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ESTA",
       "name": "Esta Multi Usaha Tbk.",
@@ -6365,12 +6323,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "BBHI",
-      "name": "PT Allo Bank Indonesia Tbk",
-      "change_pct": 3.26,
-      "move_30min": -3.06,
-      "label": "BBHI -3.1% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 79.9,
+      "label": "78% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -6387,23 +6344,367 @@
           {
             "ticker": "BNBR",
             "change_pct": 21.5,
-            "contribution_score": 417.94
+            "contribution_score": 418.67
           },
           {
             "ticker": "ZONE",
-            "change_pct": 19.8,
-            "contribution_score": 273.77
+            "change_pct": 21.78,
+            "contribution_score": 303.37
           },
           {
             "ticker": "TRON",
-            "change_pct": 13.48,
-            "contribution_score": 211.6
+            "change_pct": 12.36,
+            "contribution_score": 193.59
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-25T08:45:17.112Z",
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": 3.26,
+      "move_30min": -5.58,
+      "label": "BBHI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 21.5,
+            "contribution_score": 418.67
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 303.37
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 12.36,
+            "contribution_score": 193.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -3.7,
+      "move_30min": -5.45,
+      "label": "GIAA -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -143.45
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -9.78,
+            "contribution_score": -117.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -7.43,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": -7.43,
+      "move_30min": -6.16,
+      "label": "BEEF -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -143.45
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -9.78,
+            "contribution_score": -117.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -7.43,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": 5.75,
+      "move_30min": 7.6,
+      "label": "SAME +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 21.5,
+            "contribution_score": 418.67
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 303.37
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 12.36,
+            "contribution_score": 193.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JMAS",
+      "name": "JMAS",
+      "change_pct": 8.85,
+      "move_30min": 7.89,
+      "label": "JMAS +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 21.5,
+            "contribution_score": 418.67
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 303.37
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 12.36,
+            "contribution_score": 193.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSSI",
+      "name": "PSSI",
+      "change_pct": 0.72,
+      "move_30min": -4.76,
+      "label": "PSSI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 21.5,
+            "contribution_score": 418.67
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 303.37
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 12.36,
+            "contribution_score": 193.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -3.97,
+      "move_30min": -3.97,
+      "label": "CCSI -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -143.45
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -9.78,
+            "contribution_score": -117.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -7.43,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": -7.58,
+      "move_30min": -3.94,
+      "label": "GOLD -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -143.45
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -9.78,
+            "contribution_score": -117.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -7.43,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T09:00:18.424Z",
       "status": "active",
       "summary": null
     }
