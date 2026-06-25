@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T06:45:16.757Z",
+  "generated_at": "2026-06-25T07:00:18.101Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4431,48 +4431,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 79.9,
-      "label": "80% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": 22.69,
-            "contribution_score": 437.67
-          },
-          {
-            "ticker": "BANK",
-            "change_pct": 14.62,
-            "contribution_score": 258.17
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": 14.61,
-            "contribution_score": 221.62
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T06:45:16.757Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ZONE",
       "name": "Mega Perintis Tbk.",
@@ -4689,49 +4647,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SHID",
-      "name": "SHID",
-      "change_pct": -6.45,
-      "move_30min": -3.33,
-      "label": "SHID -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PPRO",
-            "change_pct": -10.53,
-            "contribution_score": -141.9
-          },
-          {
-            "ticker": "BSSR",
-            "change_pct": -10,
-            "contribution_score": -117.73
-          },
-          {
-            "ticker": "DMAS",
-            "change_pct": -5.96,
-            "contribution_score": -95.53
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-25T06:45:16.757Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SRAJ",
       "name": "PT Sejahteraraya Anugrahjaya Tbk",
       "change_pct": -6.82,
@@ -4813,6 +4728,220 @@
         "macro_active": null
       },
       "detected_at": "2026-06-25T06:45:16.757Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 79.9,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 22.69,
+            "contribution_score": 438.64
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 290.07
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.85,
+            "contribution_score": 244.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T07:00:18.101Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -6.45,
+      "move_30min": -3.33,
+      "label": "SHID -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -141.9
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -10,
+            "contribution_score": -117.81
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.62,
+            "contribution_score": -106.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T07:00:18.101Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": 21.78,
+      "move_30min": 7.89,
+      "label": "ZONE +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 22.69,
+            "contribution_score": 438.64
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 290.07
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.85,
+            "contribution_score": 244.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T07:00:18.101Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 0.67,
+      "move_30min": -3.23,
+      "label": "BOGA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": 22.69,
+            "contribution_score": 438.64
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 21.78,
+            "contribution_score": 290.07
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.85,
+            "contribution_score": 244.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T07:00:18.101Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -4.55,
+      "move_30min": -3.08,
+      "label": "JECC -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -10.53,
+            "contribution_score": -141.9
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": -10,
+            "contribution_score": -117.81
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.62,
+            "contribution_score": -106.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-25T07:00:18.101Z",
       "status": "active",
       "summary": null
     }
