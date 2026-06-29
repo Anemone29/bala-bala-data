@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-29T04:00:16.710Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:00:16.762Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -6.67,
+      "move_30min": -3.42,
+      "label": "SHID -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -12.5,
+            "contribution_score": -176.78
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -12.7,
+            "contribution_score": -160.36
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -117.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T04:00:16.710Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -4.76,
+      "move_30min": -9.09,
+      "label": "PNSE -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -12.5,
+            "contribution_score": -176.78
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -12.7,
+            "contribution_score": -160.36
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -117.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T04:00:16.710Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 6.38,
+      "move_30min": 8.7,
+      "label": "TRON +8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 313.41
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 14.47,
+            "contribution_score": 205.94
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 153.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T04:00:16.710Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BACA",
+      "name": "PT Bank Capital Indonesia Tbk",
+      "change_pct": -4.76,
+      "move_30min": -3.85,
+      "label": "BACA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -12.5,
+            "contribution_score": -176.78
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -12.7,
+            "contribution_score": -160.36
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -117.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T04:00:16.710Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
