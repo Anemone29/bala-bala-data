@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T04:45:16.431Z",
+  "generated_at": "2026-06-29T05:00:16.721Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4553,8 +4553,8 @@
       "type": "rapid_down",
       "ticker": "WGSH",
       "name": "WGSH",
-      "change_pct": 0,
-      "move_30min": -4.17,
+      "change_pct": -0.87,
+      "move_30min": -4.2,
       "label": "WGSH -4.2% dalam 30 menit",
       "drivers": {
         "sectors": [
@@ -4570,25 +4570,25 @@
         ],
         "tickers": [
           {
-            "ticker": "TRUS",
-            "change_pct": 24.57,
-            "contribution_score": 314.84
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -199.82
           },
           {
-            "ticker": "BTEK",
-            "change_pct": 11.11,
-            "contribution_score": 166.53
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -168.6
           },
           {
-            "ticker": "BAJA",
-            "change_pct": 8.55,
-            "contribution_score": 119.92
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -123.26
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-29T04:45:16.431Z",
+      "detected_at": "2026-06-29T05:00:16.721Z",
       "status": "active",
       "summary": null
     },
@@ -4614,24 +4614,24 @@
         "tickers": [
           {
             "ticker": "BBRM",
-            "change_pct": -14.84,
-            "contribution_score": -210.79
+            "change_pct": -14.06,
+            "contribution_score": -199.82
           },
           {
             "ticker": "CFIN",
             "change_pct": -13.23,
-            "contribution_score": -168.46
+            "contribution_score": -168.6
           },
           {
             "ticker": "BIRD",
-            "change_pct": -9.79,
-            "contribution_score": -115.48
+            "change_pct": -10.39,
+            "contribution_score": -123.26
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-29T04:45:16.431Z",
+      "detected_at": "2026-06-29T05:00:16.721Z",
       "status": "active",
       "summary": null
     },
@@ -4640,8 +4640,8 @@
       "ticker": "BBHI",
       "name": "PT Allo Bank Indonesia Tbk",
       "change_pct": -6.45,
-      "move_30min": -4.4,
-      "label": "BBHI -4.4% dalam 30 menit",
+      "move_30min": -3.85,
+      "label": "BBHI -3.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4657,24 +4657,196 @@
         "tickers": [
           {
             "ticker": "BBRM",
-            "change_pct": -14.84,
-            "contribution_score": -210.79
+            "change_pct": -14.06,
+            "contribution_score": -199.82
           },
           {
             "ticker": "CFIN",
             "change_pct": -13.23,
-            "contribution_score": -168.46
+            "contribution_score": -168.6
           },
           {
             "ticker": "BIRD",
-            "change_pct": -9.79,
-            "contribution_score": -115.48
+            "change_pct": -10.39,
+            "contribution_score": -123.26
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-29T04:45:16.431Z",
+      "detected_at": "2026-06-29T05:00:16.721Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 10.26,
+      "move_30min": 8.86,
+      "label": "GSMF +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 315.21
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 166.53
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 10.26,
+            "contribution_score": 144.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T05:00:16.721Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -3.77,
+      "move_30min": -3.77,
+      "label": "WIRG -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -199.82
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -168.6
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -123.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T05:00:16.721Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -3.53,
+      "move_30min": -5.2,
+      "label": "COCO -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -199.82
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -168.6
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -123.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T05:00:16.721Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": -7.61,
+      "move_30min": -7.61,
+      "label": "RUIS -7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -199.82
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -168.6
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -123.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T05:00:16.721Z",
       "status": "active",
       "summary": null
     }
