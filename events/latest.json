@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-29T07:15:17.570Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:00:16.762Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": 32.09,
+      "move_30min": 9.4,
+      "label": "AWAN +9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 21.64,
+            "contribution_score": 316.44
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 20.57,
+            "contribution_score": 269.32
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 17.8,
+            "contribution_score": 251.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:15:17.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "BNBR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -200.24
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -170.1
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -8.82,
+            "contribution_score": -120.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:15:17.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": 17.8,
+      "move_30min": 19.83,
+      "label": "AYLS +19.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 21.64,
+            "contribution_score": 316.44
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 20.57,
+            "contribution_score": 269.32
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 17.8,
+            "contribution_score": 251.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:15:17.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 20.57,
+      "move_30min": -3.21,
+      "label": "TRUS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 21.64,
+            "contribution_score": 316.44
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 20.57,
+            "contribution_score": 269.32
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 17.8,
+            "contribution_score": 251.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:15:17.570Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
