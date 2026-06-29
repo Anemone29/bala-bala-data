@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-29T02:30:16.390Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:00:16.762Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESSA",
+      "name": "PT ESSA Industries Indonesia Tbk.",
+      "change_pct": -5.65,
+      "move_30min": -5.65,
+      "label": "ESSA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -180.93
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.76,
+            "contribution_score": -159.93
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -117.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:30:16.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": -13.28,
+      "move_30min": -13.28,
+      "label": "BBRM -13.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -180.93
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.76,
+            "contribution_score": -159.93
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -117.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:30:16.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PGAS",
+      "name": "PT Perusahaan Gas Negara (Persero) Tbk",
+      "change_pct": -4.93,
+      "move_30min": -4.93,
+      "label": "PGAS -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -180.93
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.76,
+            "contribution_score": -159.93
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.39,
+            "contribution_score": -117.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:30:16.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 8.7,
+      "move_30min": 8.7,
+      "label": "ESTI +8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 20.57,
+            "contribution_score": 244.37
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 8.7,
+            "contribution_score": 115.1
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": 6.25,
+            "contribution_score": 92.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:30:16.390Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
