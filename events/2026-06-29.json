@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T03:30:16.406Z",
+  "generated_at": "2026-06-29T03:45:16.407Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3260,49 +3260,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BAJA",
-      "name": "PT Saranacentral Bajatama Tbk",
-      "change_pct": 9.21,
-      "move_30min": 9.93,
-      "label": "BAJA +9.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUS",
-            "change_pct": 24.57,
-            "contribution_score": 312.8
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 11.11,
-            "contribution_score": 153.06
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 9.21,
-            "contribution_score": 107.78
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-29T03:30:16.406Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RSCH",
       "name": "Charlie Hospital Semarang Tbk.",
@@ -3389,6 +3346,49 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 17.11,
+      "move_30min": 16.34,
+      "label": "BAJA +16.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 312.85
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.11,
+            "contribution_score": 242.48
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 153.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "RANC",
       "name": "RANC",
@@ -3410,24 +3410,239 @@
         "tickers": [
           {
             "ticker": "BBRM",
-            "change_pct": -12.5,
-            "contribution_score": -176.11
+            "change_pct": -13.28,
+            "contribution_score": -187.43
           },
           {
             "ticker": "CFIN",
-            "change_pct": -13.76,
-            "contribution_score": -172.12
+            "change_pct": -13.23,
+            "contribution_score": -166.37
           },
           {
             "ticker": "BIRD",
             "change_pct": -10.09,
-            "contribution_score": -116.26
+            "contribution_score": -116.41
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-29T03:30:16.406Z",
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAYA",
+      "name": "PT Bank Mayapada Internasional Tbk",
+      "change_pct": 0.53,
+      "move_30min": -4.04,
+      "label": "MAYA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 312.85
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.11,
+            "contribution_score": 242.48
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 153.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -0.75,
+      "move_30min": 10,
+      "label": "ARTA +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -6.67,
+      "move_30min": -5.88,
+      "label": "SHID -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -0.76,
+      "move_30min": -4.41,
+      "label": "POLI -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -4.76,
+      "move_30min": -9.09,
+      "label": "PNSE -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
       "status": "active",
       "summary": null
     }

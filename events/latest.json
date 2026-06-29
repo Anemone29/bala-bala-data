@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-06-29T03:45:16.407Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T02:00:16.762Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 17.11,
+      "move_30min": 16.34,
+      "label": "BAJA +16.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 312.85
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.11,
+            "contribution_score": 242.48
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 153.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.77,
+      "move_30min": -3.77,
+      "label": "RANC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAYA",
+      "name": "PT Bank Mayapada Internasional Tbk",
+      "change_pct": 0.53,
+      "move_30min": -4.04,
+      "label": "MAYA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 312.85
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.11,
+            "contribution_score": 242.48
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 11.11,
+            "contribution_score": 153.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -0.75,
+      "move_30min": 10,
+      "label": "ARTA +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -13.28,
+            "contribution_score": -187.43
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -13.23,
+            "contribution_score": -166.37
+          },
+          {
+            "ticker": "BIRD",
+            "change_pct": -10.09,
+            "contribution_score": -116.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T03:45:16.407Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
