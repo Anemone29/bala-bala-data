@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T06:45:16.600Z",
+  "generated_at": "2026-06-29T07:00:17.282Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5024,49 +5024,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "COCO",
-      "name": "PT Wahana Interfood Nusantara Tbk",
-      "change_pct": -6.47,
-      "move_30min": -3.05,
-      "label": "COCO -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BBRM",
-            "change_pct": -14.06,
-            "contribution_score": -200.06
-          },
-          {
-            "ticker": "CFIN",
-            "change_pct": -13.23,
-            "contribution_score": -169.01
-          },
-          {
-            "ticker": "BIRD",
-            "change_pct": -9.79,
-            "contribution_score": -116.43
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-29T06:45:16.600Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "WSBP",
       "name": "PT Waskita Beton Precast Tbk",
       "change_pct": -7.14,
@@ -5410,49 +5367,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "TRJA",
-      "name": "TRJA",
-      "change_pct": 16.35,
-      "move_30min": 16.35,
-      "label": "TRJA +16.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUS",
-            "change_pct": 24.57,
-            "contribution_score": 315.92
-          },
-          {
-            "ticker": "TRJA",
-            "change_pct": 16.35,
-            "contribution_score": 201.43
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 11.11,
-            "contribution_score": 167.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-06-29T06:45:16.600Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SDRA",
       "name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
@@ -5497,6 +5411,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -9.41,
+      "move_30min": -3.75,
+      "label": "COCO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBRM",
+            "change_pct": -14.06,
+            "contribution_score": -200.14
+          },
+          {
+            "ticker": "CFIN",
+            "change_pct": -12.7,
+            "contribution_score": -162.71
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.41,
+            "contribution_score": -127.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:00:17.282Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": 22.12,
+      "move_30min": 22.12,
+      "label": "TRJA +22.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 32.09,
+            "contribution_score": 460.59
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 316.07
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 22.12,
+            "contribution_score": 306.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:00:17.282Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "MYOH",
       "name": "MYOH",
       "change_pct": -1.44,
@@ -5518,23 +5518,109 @@
           {
             "ticker": "BBRM",
             "change_pct": -14.06,
-            "contribution_score": -200.06
+            "contribution_score": -200.14
           },
           {
             "ticker": "CFIN",
-            "change_pct": -13.23,
-            "contribution_score": -169.01
+            "change_pct": -12.7,
+            "contribution_score": -162.71
           },
           {
-            "ticker": "BIRD",
-            "change_pct": -9.79,
-            "contribution_score": -116.43
+            "ticker": "COCO",
+            "change_pct": -9.41,
+            "contribution_score": -127.84
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-06-29T06:45:16.600Z",
+      "detected_at": "2026-06-29T07:00:17.282Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": 32.09,
+      "move_30min": 25.53,
+      "label": "AWAN +25.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 32.09,
+            "contribution_score": 460.59
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 316.07
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 22.12,
+            "contribution_score": 306.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:00:17.282Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MTLA",
+      "name": "PT Metropolitan Land Tbk",
+      "change_pct": 4.55,
+      "move_30min": -4.96,
+      "label": "MTLA -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": 32.09,
+            "contribution_score": 460.59
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 24.57,
+            "contribution_score": 316.07
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 22.12,
+            "contribution_score": 306.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-06-29T07:00:17.282Z",
       "status": "active",
       "summary": null
     }
