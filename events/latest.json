@@ -1,40 +1,15 @@
 {
-  "generated_at": "2026-06-30T02:00:16.454Z",
+  "generated_at": "2026-06-30T02:15:16.326Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "100% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T02:00:16.454Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_cpi_id",
+      "ticker": "CPI_ID",
+      "name": "CPI Indonesia Juni (BPS)",
+      "change_pct": 0,
+      "label": "BESOK: CPI Indonesia Juni (BPS)",
+      "detail": "Inflasi Juni dirilis BPS jam 11:00 WIB.",
+      "impact": "medium",
+      "event_date": "2026-07-01"
     }
   ]
 }
