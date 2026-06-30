@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T04:45:16.579Z",
+  "generated_at": "2026-06-30T05:00:16.781Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9744,51 +9744,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -89.9,
-      "label": "87% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -219.26
-          },
-          {
-            "ticker": "SAME",
-            "change_pct": -14.9,
-            "contribution_score": -197.63
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -11.66,
-            "contribution_score": -174.75
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T04:45:16.579Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PEGE",
       "name": "PT Panca Global Kapital Tbk",
@@ -10020,52 +9975,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PICO",
-      "name": "PT Pelangi Indah Canindo Tbk",
-      "change_pct": -8.33,
-      "move_30min": -6.78,
-      "label": "PICO -6.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -219.26
-          },
-          {
-            "ticker": "SAME",
-            "change_pct": -14.9,
-            "contribution_score": -197.63
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -11.66,
-            "contribution_score": -174.75
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T04:45:16.579Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BLES",
       "name": "PT Berkah Beton Sadaya Tbk",
       "change_pct": -4.26,
@@ -10111,12 +10020,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "ECII",
-      "name": "PT Electronic City Indonesia Tbk",
-      "change_pct": 0,
-      "move_30min": -3.39,
-      "label": "ECII -3.4% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -89.9,
+      "label": "87% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -10131,19 +10039,19 @@
         ],
         "tickers": [
           {
-            "ticker": "PEGE",
-            "change_pct": 34.29,
-            "contribution_score": 556.87
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -219.37
           },
           {
-            "ticker": "AYLS",
-            "change_pct": 29.71,
-            "contribution_score": 484.9
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -197.9
           },
           {
-            "ticker": "ASPI",
-            "change_pct": 14.44,
-            "contribution_score": 193.58
+            "ticker": "RSCH",
+            "change_pct": -13.73,
+            "contribution_score": -178.57
           }
         ],
         "foreign_flow": null,
@@ -10152,7 +10060,145 @@
           "label": "BESOK: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-06-30T04:45:16.579Z",
+      "detected_at": "2026-06-30T05:00:16.781Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -8.33,
+      "move_30min": -3.45,
+      "label": "PICO -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -219.37
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -197.9
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -13.73,
+            "contribution_score": -178.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T05:00:16.781Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": -1.75,
+      "move_30min": -6.67,
+      "label": "ECII -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -219.37
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -197.9
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -13.73,
+            "contribution_score": -178.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T05:00:16.781Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -3.21,
+      "move_30min": -3.21,
+      "label": "LION -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -219.37
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -197.9
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -13.73,
+            "contribution_score": -178.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T05:00:16.781Z",
       "status": "active",
       "summary": null
     }
