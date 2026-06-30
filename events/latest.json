@@ -2,14 +2,221 @@
   "generated_at": "2026-06-30T09:00:17.586Z",
   "events": [
     {
-      "type": "macro_cpi_id",
-      "ticker": "CPI_ID",
-      "name": "CPI Indonesia Juni (BPS)",
-      "change_pct": 0,
-      "label": "BESOK: CPI Indonesia Juni (BPS)",
-      "detail": "Inflasi Juni dirilis BPS jam 11:00 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-01"
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -85.5,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": -11.81,
+            "contribution_score": -205.13
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -202.64
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -14.38,
+            "contribution_score": -191.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T09:00:17.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -89.9,
+      "label": "87% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -219.37
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -197.9
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -13.73,
+            "contribution_score": -178.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T05:00:16.781Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T02:00:16.454Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KAEF",
+      "name": "PT Kimia Farma Tbk",
+      "change_pct": -9.82,
+      "move_30min": -4.27,
+      "label": "KAEF -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": -11.81,
+            "contribution_score": -205.13
+          },
+          {
+            "ticker": "SAME",
+            "change_pct": -14.9,
+            "contribution_score": -202.64
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -14.38,
+            "contribution_score": -191.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T09:00:17.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 20.69,
+      "move_30min": 21.39,
+      "label": "ESTA +21.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PEGE",
+            "change_pct": 34.29,
+            "contribution_score": 560.16
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 27.54,
+            "contribution_score": 458.18
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": 20.69,
+            "contribution_score": 263.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T09:00:17.586Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
