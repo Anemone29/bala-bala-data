@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T03:30:16.670Z",
+  "generated_at": "2026-06-30T03:45:16.598Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6800,51 +6800,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -89.9,
-      "label": "88% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -217.52
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
-          },
-          {
-            "ticker": "PANS",
-            "change_pct": -14.78,
-            "contribution_score": -169.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T03:30:16.670Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SLIS",
       "name": "Gaya Abadi Sempurna Tbk.",
@@ -7720,98 +7675,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAME",
-      "name": "PT Sarana Meditama Metropolitan Tbk",
-      "change_pct": -12.5,
-      "move_30min": -6.19,
-      "label": "SAME -6.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -217.52
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
-          },
-          {
-            "ticker": "PANS",
-            "change_pct": -14.78,
-            "contribution_score": -169.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T03:30:16.670Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "BEEF",
-      "name": "PT Estika Tata Tiara Tbk",
-      "change_pct": 3.82,
-      "move_30min": 7.09,
-      "label": "BEEF +7.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AYLS",
-            "change_pct": 26.09,
-            "contribution_score": 416.06
-          },
-          {
-            "ticker": "ASPI",
-            "change_pct": 13.89,
-            "contribution_score": 185.25
-          },
-          {
-            "ticker": "DEPO",
-            "change_pct": 13.21,
-            "contribution_score": 157.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T03:30:16.670Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MEDS",
       "name": "MEDS",
       "change_pct": -7.35,
@@ -8042,103 +7905,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "OBMD",
-      "name": "OBM Drilchem Tbk.",
-      "change_pct": -2.45,
-      "move_30min": -3.05,
-      "label": "OBMD -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -217.52
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
-          },
-          {
-            "ticker": "PANS",
-            "change_pct": -14.78,
-            "contribution_score": -169.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T03:30:16.670Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "YPAS",
       "name": "PT Yanaprima Hastapersada Tbk",
       "change_pct": -7.44,
       "move_30min": -3.45,
       "label": "YPAS -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -14.48,
-            "contribution_score": -217.52
-          },
-          {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
-          },
-          {
-            "ticker": "PANS",
-            "change_pct": -14.78,
-            "contribution_score": -169.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "BESOK: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-06-30T03:30:16.670Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "INCI",
-      "name": "PT Intanwijaya Internasional Tbk",
-      "change_pct": -7.63,
-      "move_30min": -7.63,
-      "label": "INCI -7.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8225,6 +7996,235 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -89.9,
+      "label": "88% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": -12.5,
+      "move_30min": -4.15,
+      "label": "SAME -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 6.11,
+      "move_30min": 8.59,
+      "label": "BEEF +8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.36,
+            "contribution_score": 403.96
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 13.89,
+            "contribution_score": 185.33
+          },
+          {
+            "ticker": "DEPO",
+            "change_pct": 12.26,
+            "contribution_score": 146.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": -2.45,
+      "move_30min": -3.05,
+      "label": "OBMD -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": -7.63,
+      "move_30min": -7.63,
+      "label": "INCI -7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "RANC",
       "name": "RANC",
@@ -8246,18 +8246,18 @@
         "tickers": [
           {
             "ticker": "AYLS",
-            "change_pct": 26.09,
-            "contribution_score": 416.06
+            "change_pct": 25.36,
+            "contribution_score": 403.96
           },
           {
             "ticker": "ASPI",
             "change_pct": 13.89,
-            "contribution_score": 185.25
+            "contribution_score": 185.33
           },
           {
             "ticker": "DEPO",
-            "change_pct": 13.21,
-            "contribution_score": 157.16
+            "change_pct": 12.26,
+            "contribution_score": 146.49
           }
         ],
         "foreign_flow": null,
@@ -8266,7 +8266,7 @@
           "label": "BESOK: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-06-30T03:30:16.670Z",
+      "detected_at": "2026-06-30T03:45:16.598Z",
       "status": "active",
       "summary": null
     },
@@ -8293,17 +8293,17 @@
           {
             "ticker": "COCO",
             "change_pct": -14.48,
-            "contribution_score": -217.52
+            "contribution_score": -218.07
           },
           {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
           },
           {
             "ticker": "PANS",
             "change_pct": -14.78,
-            "contribution_score": -169.67
+            "contribution_score": -170.06
           }
         ],
         "foreign_flow": null,
@@ -8312,7 +8312,7 @@
           "label": "BESOK: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-06-30T03:30:16.670Z",
+      "detected_at": "2026-06-30T03:45:16.598Z",
       "status": "active",
       "summary": null
     },
@@ -8339,17 +8339,17 @@
           {
             "ticker": "COCO",
             "change_pct": -14.48,
-            "contribution_score": -217.52
+            "contribution_score": -218.07
           },
           {
-            "ticker": "BIPI",
-            "change_pct": -10.24,
-            "contribution_score": -170.02
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
           },
           {
             "ticker": "PANS",
             "change_pct": -14.78,
-            "contribution_score": -169.67
+            "contribution_score": -170.06
           }
         ],
         "foreign_flow": null,
@@ -8358,7 +8358,375 @@
           "label": "BESOK: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-06-30T03:30:16.670Z",
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBA",
+      "name": "PT Bank Bumi Arta Tbk",
+      "change_pct": 2.86,
+      "move_30min": -4,
+      "label": "BNBA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.36,
+            "contribution_score": 403.96
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 13.89,
+            "contribution_score": 185.33
+          },
+          {
+            "ticker": "DEPO",
+            "change_pct": 12.26,
+            "contribution_score": 146.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BANK",
+      "name": "PT Bank Aladin Syariah Tbk",
+      "change_pct": -6.11,
+      "move_30min": -3.91,
+      "label": "BANK -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": -4.46,
+      "move_30min": -3.6,
+      "label": "JAWA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -14.35,
+      "move_30min": -3.24,
+      "label": "TRUS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": -6.45,
+      "move_30min": -7.2,
+      "label": "PEHA -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -2.8,
+      "move_30min": -5.44,
+      "label": "NIRO -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": -4.76,
+      "move_30min": -4.31,
+      "label": "DAYA -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -14.48,
+            "contribution_score": -218.07
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -11.66,
+            "contribution_score": -172.64
+          },
+          {
+            "ticker": "PANS",
+            "change_pct": -14.78,
+            "contribution_score": -170.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 2.14,
+      "move_30min": 8.33,
+      "label": "STAR +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.36,
+            "contribution_score": 403.96
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 13.89,
+            "contribution_score": 185.33
+          },
+          {
+            "ticker": "DEPO",
+            "change_pct": 12.26,
+            "contribution_score": 146.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "BESOK: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-06-30T03:45:16.598Z",
       "status": "active",
       "summary": null
     }
