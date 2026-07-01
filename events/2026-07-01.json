@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T03:45:16.530Z",
+  "generated_at": "2026-07-01T04:00:16.882Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4546,52 +4546,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "COCO",
-      "name": "PT Wahana Interfood Nusantara Tbk",
-      "change_pct": 24.22,
-      "move_30min": 16.06,
-      "label": "COCO +16.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 24.22,
-            "contribution_score": 417.84
-          },
-          {
-            "ticker": "KIOS",
-            "change_pct": 16.88,
-            "contribution_score": 283.82
-          },
-          {
-            "ticker": "SHIP",
-            "change_pct": 22.15,
-            "contribution_score": 243.96
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "HARI INI: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-01T03:45:16.530Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TRUS",
       "name": "Trust Finance Indonesia Tbk",
@@ -5098,12 +5052,58 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 34.38,
+      "move_30min": 25.55,
+      "label": "COCO +25.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 615.81
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 16.88,
+            "contribution_score": 284.48
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 22.15,
+            "contribution_score": 246.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "PSSI",
       "name": "PSSI",
       "change_pct": -5.48,
-      "move_30min": -4.17,
-      "label": "PSSI -4.2% dalam 30 menit",
+      "move_30min": -3.5,
+      "label": "PSSI -3.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5128,9 +5128,9 @@
             "contribution_score": -119.18
           },
           {
-            "ticker": "MTEL",
-            "change_pct": -7.78,
-            "contribution_score": -107.08
+            "ticker": "MTLA",
+            "change_pct": -11.02,
+            "contribution_score": -94.76
           }
         ],
         "foreign_flow": null,
@@ -5139,7 +5139,237 @@
           "label": "HARI INI: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-07-01T03:45:16.530Z",
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BRMS",
+      "name": "BRMS",
+      "change_pct": 7.59,
+      "move_30min": 8.05,
+      "label": "BRMS +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 615.81
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 16.88,
+            "contribution_score": 284.48
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 22.15,
+            "contribution_score": 246.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 1.97,
+      "move_30min": -3.73,
+      "label": "CITY -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 615.81
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 16.88,
+            "contribution_score": 284.48
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 22.15,
+            "contribution_score": 246.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MTLA",
+      "name": "PT Metropolitan Land Tbk",
+      "change_pct": -11.02,
+      "move_30min": -3.67,
+      "label": "MTLA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -12.5,
+            "contribution_score": -143.2
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -119.18
+          },
+          {
+            "ticker": "MTLA",
+            "change_pct": -11.02,
+            "contribution_score": -94.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -11.37,
+      "move_30min": -3,
+      "label": "ARTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -12.5,
+            "contribution_score": -143.2
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -119.18
+          },
+          {
+            "ticker": "MTLA",
+            "change_pct": -11.02,
+            "contribution_score": -94.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 0,
+      "move_30min": 7.41,
+      "label": "YPAS +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 615.81
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 16.88,
+            "contribution_score": 284.48
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 22.15,
+            "contribution_score": 246.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T04:00:16.882Z",
       "status": "active",
       "summary": null
     }
