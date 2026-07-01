@@ -2,14 +2,223 @@
   "generated_at": "2026-07-01T06:30:17.315Z",
   "events": [
     {
-      "type": "macro_cpi_id",
-      "ticker": "CPI_ID",
-      "name": "CPI Indonesia Juni (BPS)",
-      "change_pct": 0,
-      "label": "HARI INI: CPI Indonesia Juni (BPS)",
-      "detail": "Inflasi Juni dirilis BPS jam 11:00 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-01"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T02:00:16.874Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": 25.74,
+      "move_30min": 15.45,
+      "label": "BBRM +15.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 619.94
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 25.74,
+            "contribution_score": 420.57
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.18,
+            "contribution_score": 308.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T06:30:17.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -11.36,
+      "move_30min": -7.69,
+      "label": "AYLS -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.13
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -12.5,
+            "contribution_score": -150.28
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -133.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T06:30:17.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "TAXI +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 619.94
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 25.74,
+            "contribution_score": 420.57
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 18.18,
+            "contribution_score": 308.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T06:30:17.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -12.5,
+      "move_30min": -6.67,
+      "label": "BAPI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.13
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -12.5,
+            "contribution_score": -150.28
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -133.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T06:30:17.315Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
