@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T08:30:17.871Z",
+  "generated_at": "2026-07-01T08:45:17.310Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9008,52 +9008,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BEEF",
-      "name": "PT Estika Tata Tiara Tbk",
-      "change_pct": 19.69,
-      "move_30min": 19.69,
-      "label": "BEEF +19.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 34.38,
-            "contribution_score": 620.8
-          },
-          {
-            "ticker": "BBRM",
-            "change_pct": 23.76,
-            "contribution_score": 397.15
-          },
-          {
-            "ticker": "BEEF",
-            "change_pct": 19.69,
-            "contribution_score": 311.08
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "HARI INI: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-01T08:30:17.871Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MDIA",
       "name": "PT Intermedia Capital Tbk",
@@ -9152,52 +9106,6 @@
       "change_pct": -3.45,
       "move_30min": -4.27,
       "label": "PEHA -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AYLS",
-            "change_pct": -10.23,
-            "contribution_score": -148.49
-          },
-          {
-            "ticker": "ANDI",
-            "change_pct": -11.11,
-            "contribution_score": -142.89
-          },
-          {
-            "ticker": "HOKI",
-            "change_pct": -7.41,
-            "contribution_score": -111.45
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "HARI INI: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-01T08:30:17.871Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BLUE",
-      "name": "Berkah Prima Perkasa Tbk.",
-      "change_pct": -2.02,
-      "move_30min": -3,
-      "label": "BLUE -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -9372,6 +9280,374 @@
         }
       },
       "detected_at": "2026-07-01T08:30:17.871Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 20.47,
+      "move_30min": 18.6,
+      "label": "BEEF +18.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 620.8
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 22.77,
+            "contribution_score": 391.6
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 20.47,
+            "contribution_score": 328.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -2.02,
+      "move_30min": -3,
+      "label": "BLUE -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.97
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -142.89
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -10.1,
+            "contribution_score": -118.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 14.85,
+      "move_30min": -3.33,
+      "label": "FAST -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 620.8
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 22.77,
+            "contribution_score": 391.6
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 20.47,
+            "contribution_score": 328.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": 16.46,
+      "move_30min": 7.6,
+      "label": "SHIP +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 620.8
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 22.77,
+            "contribution_score": 391.6
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 20.47,
+            "contribution_score": 328.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -5.62,
+      "move_30min": -3.82,
+      "label": "AWAN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.97
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -142.89
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -10.1,
+            "contribution_score": -118.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -1.68,
+      "move_30min": -5.65,
+      "label": "CCSI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.97
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -142.89
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -10.1,
+            "contribution_score": -118.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IGAR",
+      "name": "PT Champion Pacific Indonesia Tbk",
+      "change_pct": -1.48,
+      "move_30min": -3.38,
+      "label": "IGAR -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": -11.36,
+            "contribution_score": -164.97
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -11.11,
+            "contribution_score": -142.89
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -10.1,
+            "contribution_score": -118.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DVLA",
+      "name": "PT Darya-Varia Laboratoria Tbk",
+      "change_pct": 0,
+      "move_30min": -3.17,
+      "label": "DVLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.38,
+            "contribution_score": 620.8
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 22.77,
+            "contribution_score": 391.6
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 20.47,
+            "contribution_score": 328.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T08:45:17.310Z",
       "status": "active",
       "summary": null
     }
