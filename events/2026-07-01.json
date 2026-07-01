@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T02:45:17.347Z",
+  "generated_at": "2026-07-01T03:00:16.761Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1695,52 +1695,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PEGE",
-      "name": "PT Panca Global Kapital Tbk",
-      "change_pct": -4.96,
-      "move_30min": -19.28,
-      "label": "PEGE -19.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SAME",
-            "change_pct": -9.04,
-            "contribution_score": -103.2
-          },
-          {
-            "ticker": "CCSI",
-            "change_pct": -14.29,
-            "contribution_score": -102.47
-          },
-          {
-            "ticker": "ESTA",
-            "change_pct": -9.62,
-            "contribution_score": -100.43
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "HARI INI: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-01T02:45:17.347Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KOTA",
       "name": "KOTA",
       "change_pct": 0,
@@ -3121,52 +3075,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MMLP",
-      "name": "PT Mega Manunggal Property Tbk",
-      "change_pct": 0,
-      "move_30min": -3.42,
-      "label": "MMLP -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIOS",
-            "change_pct": 19.48,
-            "contribution_score": 319.9
-          },
-          {
-            "ticker": "SHIP",
-            "change_pct": 23.42,
-            "contribution_score": 250.2
-          },
-          {
-            "ticker": "TRUS",
-            "change_pct": 17.44,
-            "contribution_score": 214.63
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "HARI INI: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-01T02:45:17.347Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BLUE",
       "name": "Berkah Prima Perkasa Tbk.",
       "change_pct": -3.03,
@@ -3484,6 +3392,558 @@
         }
       },
       "detected_at": "2026-07-01T02:45:17.347Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEGE",
+      "name": "PT Panca Global Kapital Tbk",
+      "change_pct": -4.96,
+      "move_30min": -5.48,
+      "label": "PEGE -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MMLP",
+      "name": "PT Mega Manunggal Property Tbk",
+      "change_pct": 0,
+      "move_30min": -3.42,
+      "label": "MMLP -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": 20.78,
+            "contribution_score": 347.07
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 19.3,
+            "contribution_score": 205.66
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 13.33,
+            "contribution_score": 163.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": -1.04,
+      "move_30min": -5,
+      "label": "PSDN -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": -1.75,
+      "move_30min": -3.45,
+      "label": "LAPD -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": -4.41,
+      "move_30min": -5.8,
+      "label": "DSFI -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DNAR",
+      "name": "PT Bank Oke Indonesia Tbk",
+      "change_pct": -2.83,
+      "move_30min": -6.36,
+      "label": "DNAR -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -5.83,
+      "move_30min": -5.83,
+      "label": "BRNA -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMHS",
+      "name": "PT Bundamedik Tbk",
+      "change_pct": -3.39,
+      "move_30min": -4.47,
+      "label": "BMHS -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MBAP",
+      "name": "PT Mitrabara Adiperdana Tbk",
+      "change_pct": -3.62,
+      "move_30min": -5,
+      "label": "MBAP -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -7.76,
+      "move_30min": -4.46,
+      "label": "YPAS -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CAMP",
+      "name": "PT Campina Ice Cream Industry, Tbk.",
+      "change_pct": 1.2,
+      "move_30min": -4.52,
+      "label": "CAMP -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIOS",
+            "change_pct": 20.78,
+            "contribution_score": 347.07
+          },
+          {
+            "ticker": "SHIP",
+            "change_pct": 19.3,
+            "contribution_score": 205.66
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": 13.33,
+            "contribution_score": 163.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -5.15,
+      "move_30min": -4.44,
+      "label": "LPGI -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTA",
+            "change_pct": -9.62,
+            "contribution_score": -110.16
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -7.41,
+            "contribution_score": -100.04
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": -8.84,
+            "contribution_score": -99.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "HARI INI: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-01T03:00:16.761Z",
       "status": "active",
       "summary": null
     }
