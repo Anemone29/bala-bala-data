@@ -2,14 +2,233 @@
   "generated_at": "2026-07-02T02:30:17.325Z",
   "events": [
     {
-      "type": "macro_cpi_id",
-      "ticker": "CPI_ID",
-      "name": "CPI Indonesia Juni (BPS)",
-      "change_pct": 0,
-      "label": "KEMARIN: CPI Indonesia Juni (BPS)",
-      "detail": "Inflasi Juni dirilis BPS jam 11:00 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-01"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 74.4,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 32.56,
+            "contribution_score": 578.46
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 10.91,
+            "contribution_score": 155.01
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.19,
+            "contribution_score": 138.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T02:30:17.325Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 32.56,
+      "move_30min": 32.56,
+      "label": "COCO +32.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 32.56,
+            "contribution_score": 578.46
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 10.91,
+            "contribution_score": 155.01
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.19,
+            "contribution_score": 138.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T02:30:17.325Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": 7.78,
+      "move_30min": 7.78,
+      "label": "BNBR +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 32.56,
+            "contribution_score": 578.46
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 10.91,
+            "contribution_score": 155.01
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.19,
+            "contribution_score": 138.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T02:30:17.325Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BRMS",
+      "name": "BRMS",
+      "change_pct": 8.19,
+      "move_30min": 8.19,
+      "label": "BRMS +8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 32.56,
+            "contribution_score": 578.46
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 10.91,
+            "contribution_score": 155.01
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.19,
+            "contribution_score": 138.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T02:30:17.325Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 8.13,
+      "move_30min": 8.13,
+      "label": "BEEF +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 32.56,
+            "contribution_score": 578.46
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 10.91,
+            "contribution_score": 155.01
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.19,
+            "contribution_score": 138.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T02:30:17.325Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
