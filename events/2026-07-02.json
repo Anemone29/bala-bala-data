@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T04:45:16.820Z",
+  "generated_at": "2026-07-02T05:00:17.879Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3588,52 +3588,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BEEF",
-      "name": "PT Estika Tata Tiara Tbk",
-      "change_pct": 23.13,
-      "move_30min": 13.22,
-      "label": "BEEF +13.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 34.88,
-            "contribution_score": 628.61
-          },
-          {
-            "ticker": "BEEF",
-            "change_pct": 23.13,
-            "contribution_score": 385.39
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": 16.67,
-            "contribution_score": 328.13
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-02T04:45:16.820Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RICY",
       "name": "RICY",
@@ -3722,6 +3676,98 @@
         }
       },
       "detected_at": "2026-07-02T04:45:16.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 23.13,
+      "move_30min": 10.86,
+      "label": "BEEF +10.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.61
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 21.25,
+            "contribution_score": 357.15
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 16.67,
+            "contribution_score": 328.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T05:00:17.879Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -2.65,
+      "move_30min": -4.35,
+      "label": "TRIM -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.36
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -89.56
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7.64,
+            "contribution_score": -86.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T05:00:17.879Z",
       "status": "active",
       "summary": null
     }
