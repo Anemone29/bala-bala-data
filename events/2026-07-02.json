@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T03:45:16.554Z",
+  "generated_at": "2026-07-02T04:00:17.743Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2965,19 +2965,19 @@
         ],
         "tickers": [
           {
-            "ticker": "LUCY",
-            "change_pct": -8.33,
-            "contribution_score": -92.93
-          },
-          {
             "ticker": "BKDP",
             "change_pct": -9.8,
             "contribution_score": -88.38
           },
           {
-            "ticker": "TRUK",
-            "change_pct": -6.6,
-            "contribution_score": -51.15
+            "ticker": "LUCY",
+            "change_pct": -7.64,
+            "contribution_score": -85.96
+          },
+          {
+            "ticker": "IPCM",
+            "change_pct": -4.94,
+            "contribution_score": -57.39
           }
         ],
         "foreign_flow": null,
@@ -2986,7 +2986,191 @@
           "label": "KEMARIN: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-07-02T03:45:16.554Z",
+      "detected_at": "2026-07-02T04:00:17.743Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 3.91,
+      "move_30min": -6.34,
+      "label": "NIRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.43
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 304.28
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 11.96,
+            "contribution_score": 208.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:00:17.743Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -1.72,
+      "move_30min": -3.39,
+      "label": "KICI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7.64,
+            "contribution_score": -85.96
+          },
+          {
+            "ticker": "IPCM",
+            "change_pct": -4.94,
+            "contribution_score": -57.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:00:17.743Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": -1.42,
+      "move_30min": -3.61,
+      "label": "SMMT -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7.64,
+            "contribution_score": -85.96
+          },
+          {
+            "ticker": "IPCM",
+            "change_pct": -4.94,
+            "contribution_score": -57.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:00:17.743Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMFG",
+      "name": "AMFG",
+      "change_pct": -4.23,
+      "move_30min": -4.23,
+      "label": "AMFG -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7.64,
+            "contribution_score": -85.96
+          },
+          {
+            "ticker": "IPCM",
+            "change_pct": -4.94,
+            "contribution_score": -57.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:00:17.743Z",
       "status": "active",
       "summary": null
     }
