@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T04:30:17.317Z",
+  "generated_at": "2026-07-02T04:45:16.820Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3546,7 +3546,7 @@
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
-      "change_pct": 71,
+      "change_pct": 71.2,
       "label": "71% saham menguat",
       "drivers": {
         "sectors": [
@@ -3564,17 +3564,17 @@
           {
             "ticker": "COCO",
             "change_pct": 34.88,
-            "contribution_score": 628.57
+            "contribution_score": 628.61
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 23.13,
+            "contribution_score": 385.39
           },
           {
             "ticker": "BNBR",
-            "change_pct": 14.44,
-            "contribution_score": 282.23
-          },
-          {
-            "ticker": "BRPT",
-            "change_pct": 11.23,
-            "contribution_score": 196.29
+            "change_pct": 16.67,
+            "contribution_score": 328.13
           }
         ],
         "foreign_flow": null,
@@ -3583,7 +3583,145 @@
           "label": "KEMARIN: CPI Indonesia Juni (BPS)"
         }
       },
-      "detected_at": "2026-07-02T04:30:17.317Z",
+      "detected_at": "2026-07-02T04:45:16.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 23.13,
+      "move_30min": 13.22,
+      "label": "BEEF +13.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.61
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 23.13,
+            "contribution_score": 385.39
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 16.67,
+            "contribution_score": 328.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:45:16.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RICY",
+      "name": "RICY",
+      "change_pct": 4,
+      "move_30min": -3.7,
+      "label": "RICY -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.61
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 23.13,
+            "contribution_score": 385.39
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 16.67,
+            "contribution_score": 328.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:45:16.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 1.79,
+      "move_30min": -3.39,
+      "label": "LAPD -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.61
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 23.13,
+            "contribution_score": 385.39
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 16.67,
+            "contribution_score": 328.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T04:45:16.820Z",
       "status": "active",
       "summary": null
     }
