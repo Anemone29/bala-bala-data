@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T03:30:16.855Z",
+  "generated_at": "2026-07-02T03:45:16.554Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1980,51 +1980,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 73.4,
-      "label": "73% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 34.88,
-            "contribution_score": 628.22
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": 14.44,
-            "contribution_score": 280.09
-          },
-          {
-            "ticker": "PYFA",
-            "change_pct": 13.79,
-            "contribution_score": 196.15
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-02T03:30:16.855Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BAUT",
       "name": "PT Mitra Pinasthika Mustika Tbk",
@@ -2302,98 +2257,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "NICE",
-      "name": "NICE",
-      "change_pct": 0.81,
-      "move_30min": -3.1,
-      "label": "NICE -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 34.88,
-            "contribution_score": 628.22
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": 14.44,
-            "contribution_score": 280.09
-          },
-          {
-            "ticker": "PYFA",
-            "change_pct": 13.79,
-            "contribution_score": 196.15
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-02T03:30:16.855Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "SIPD",
-      "name": "PT Sreeya Sewu Indonesia Tbk",
-      "change_pct": 5.19,
-      "move_30min": 9.23,
-      "label": "SIPD +9.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 34.88,
-            "contribution_score": 628.22
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": 14.44,
-            "contribution_score": 280.09
-          },
-          {
-            "ticker": "PYFA",
-            "change_pct": 13.79,
-            "contribution_score": 196.15
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_cpi_id",
-          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
-        }
-      },
-      "detected_at": "2026-07-02T03:30:16.855Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "CSRA",
       "name": "CSRA",
       "change_pct": -1.32,
@@ -2527,6 +2390,603 @@
         }
       },
       "detected_at": "2026-07-02T03:30:16.855Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.4,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": 0.81,
+      "move_30min": -3.85,
+      "label": "NICE -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": 5.19,
+      "move_30min": 7.63,
+      "label": "SIPD +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": -1.54,
+      "move_30min": -3.03,
+      "label": "BBRM -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -92.93
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.6,
+            "contribution_score": -51.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FPNI",
+      "name": "PT Lotte Chemical Titan Tbk",
+      "change_pct": 1.27,
+      "move_30min": -4.79,
+      "label": "FPNI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 0,
+      "move_30min": -3.64,
+      "label": "POLA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JKON",
+      "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "JKON -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 10.94,
+      "move_30min": 7.58,
+      "label": "NIRO +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 4.35,
+      "move_30min": -4,
+      "label": "YPAS -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -6.6,
+      "move_30min": -3.88,
+      "label": "TRUK -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -92.93
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.6,
+            "contribution_score": -51.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 6.79,
+      "move_30min": -6.49,
+      "label": "ROCK -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 34.88,
+            "contribution_score": 628.29
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 15.56,
+            "contribution_score": 303.82
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.14,
+            "contribution_score": 173.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -3.6,
+      "move_30min": -3.6,
+      "label": "STAR -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -92.93
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.6,
+            "contribution_score": -51.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBSI",
+      "name": "PT Bank Bisnis Internasional Tbk",
+      "change_pct": -4.21,
+      "move_30min": -4.21,
+      "label": "BBSI -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -92.93
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -88.38
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.6,
+            "contribution_score": -51.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_cpi_id",
+          "label": "KEMARIN: CPI Indonesia Juni (BPS)"
+        }
+      },
+      "detected_at": "2026-07-02T03:45:16.554Z",
       "status": "active",
       "summary": null
     }
