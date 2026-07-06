@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-06T03:00:52.439Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PJAA",
+      "name": "PT Pembangunan Jaya Ancol Tbk",
+      "change_pct": 10.27,
+      "move_30min": 7.89,
+      "label": "PJAA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 29.31,
+            "contribution_score": 520.37
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 16.98,
+            "contribution_score": 295.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:00:52.439Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 3.65,
+      "move_30min": 8.4,
+      "label": "STAR +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 29.31,
+            "contribution_score": 520.37
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 16.98,
+            "contribution_score": 295.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:00:52.439Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -4.03,
+      "move_30min": -6.76,
+      "label": "ARTA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -80.01
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -5.39,
+            "contribution_score": -71.5
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -5.88,
+            "contribution_score": -71.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:00:52.439Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAYU",
+      "name": "PT Bayu Buana Tbk",
+      "change_pct": -2.65,
+      "move_30min": -3.51,
+      "label": "BAYU -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -80.01
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": -5.39,
+            "contribution_score": -71.5
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -5.88,
+            "contribution_score": -71.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:00:52.439Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
