@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-06T03:45:51.948Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -5.31,
+      "move_30min": -3.6,
+      "label": "SHIP -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -7.84,
+            "contribution_score": -96.28
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:45:51.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBA",
+      "name": "PT Bank Bumi Arta Tbk",
+      "change_pct": -7.24,
+      "move_30min": -5.92,
+      "label": "BNBA -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -7.84,
+            "contribution_score": -96.28
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:45:51.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -3.65,
+      "move_30min": -6.38,
+      "label": "STAR -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -7.84,
+            "contribution_score": -96.28
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:45:51.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": 13.21,
+      "move_30min": -3.23,
+      "label": "PTMP -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 29.31,
+            "contribution_score": 524.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 14.48,
+            "contribution_score": 260.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 18.36,
+            "contribution_score": 249.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T03:45:51.948Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
