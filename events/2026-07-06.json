@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T03:45:51.948Z",
+  "generated_at": "2026-07-06T04:00:51.805Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2368,49 +2368,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "APLN",
-      "name": "PT Agung Podomoro Land Tbk",
-      "change_pct": -2.8,
-      "move_30min": -3.7,
-      "label": "APLN -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -120.84
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": -7.84,
-            "contribution_score": -96.28
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": -7.69,
-            "contribution_score": -95.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T03:45:51.948Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "LPKR",
       "name": "PT Lippo Karawaci Tbk",
       "change_pct": -3.28,
@@ -2502,49 +2459,6 @@
       "change_pct": -0.71,
       "move_30min": -4.11,
       "label": "RSCH -4.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -120.84
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": -7.84,
-            "contribution_score": -96.28
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": -7.69,
-            "contribution_score": -95.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T03:45:51.948Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WOOD",
-      "name": "PT Integra Indocabinet Tbk",
-      "change_pct": -5.5,
-      "move_30min": -8.04,
-      "label": "WOOD -8.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2712,6 +2626,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "APLN",
+      "name": "PT Agung Podomoro Land Tbk",
+      "change_pct": -2.8,
+      "move_30min": -3.7,
+      "label": "APLN -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": -10.46,
+            "contribution_score": -129.44
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOOD",
+      "name": "PT Integra Indocabinet Tbk",
+      "change_pct": -5.5,
+      "move_30min": -7.14,
+      "label": "WOOD -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": -10.46,
+            "contribution_score": -129.44
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "CASS",
       "name": "PT Cahaya Aero Services Tbk",
       "change_pct": 0,
@@ -2732,24 +2732,196 @@
         "tickers": [
           {
             "ticker": "LAPD",
-            "change_pct": 29.31,
-            "contribution_score": 524.18
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": 14.48,
-            "contribution_score": 260.45
+            "change_pct": 27.59,
+            "contribution_score": 492.87
           },
           {
             "ticker": "ASPI",
-            "change_pct": 18.36,
-            "contribution_score": 249.35
+            "change_pct": 19.32,
+            "contribution_score": 263.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 13.79,
+            "contribution_score": 248.3
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-06T03:45:51.948Z",
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 7.14,
+      "move_30min": -4.76,
+      "label": "SLIS -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 27.59,
+            "contribution_score": 492.87
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.32,
+            "contribution_score": 263.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 13.79,
+            "contribution_score": 248.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": -10.46,
+      "move_30min": -3.52,
+      "label": "ECII -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": -10.46,
+            "contribution_score": -129.44
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": 0,
+      "move_30min": -4.21,
+      "label": "RUIS -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 27.59,
+            "contribution_score": 492.87
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.32,
+            "contribution_score": 263.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 13.79,
+            "contribution_score": 248.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": -2.69,
+      "move_30min": -3.21,
+      "label": "BBHI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": -10.46,
+            "contribution_score": -129.44
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -120.84
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T04:00:51.805Z",
       "status": "active",
       "summary": null
     }
