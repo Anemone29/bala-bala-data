@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T06:30:51.731Z",
+  "generated_at": "2026-07-06T07:00:52.560Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3481,6 +3481,92 @@
         "macro_active": null
       },
       "detected_at": "2026-07-06T06:30:51.731Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": 0,
+      "move_30min": -3.38,
+      "label": "DEPO -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.48,
+            "contribution_score": 629.78
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 15.09,
+            "contribution_score": 264.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 14.48,
+            "contribution_score": 262.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T07:00:52.560Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 2.78,
+      "move_30min": -3.14,
+      "label": "ESTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.48,
+            "contribution_score": 629.78
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 15.09,
+            "contribution_score": 264.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 14.48,
+            "contribution_score": 262.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T07:00:52.560Z",
       "status": "active",
       "summary": null
     }

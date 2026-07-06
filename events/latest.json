@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-06T07:00:52.560Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": 0,
+      "move_30min": -3.38,
+      "label": "DEPO -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.48,
+            "contribution_score": 629.78
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 15.09,
+            "contribution_score": 264.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 14.48,
+            "contribution_score": 262.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T07:00:52.560Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 2.78,
+      "move_30min": -3.14,
+      "label": "ESTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.48,
+            "contribution_score": 629.78
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 15.09,
+            "contribution_score": 264.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 14.48,
+            "contribution_score": 262.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T07:00:52.560Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 0,
+      "move_30min": -5.56,
+      "label": "BAPI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 27.59,
+            "contribution_score": 493.92
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 17.54,
+            "contribution_score": 285.04
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 15.09,
+            "contribution_score": 264.09
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T06:30:51.731Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "PURA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.92
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -7.19,
+            "contribution_score": -90.64
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -5.63,
+            "contribution_score": -85.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T06:30:51.731Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
