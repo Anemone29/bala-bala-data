@@ -1,49 +1,7 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T02:30:52.592Z",
+  "generated_at": "2026-07-06T02:45:52.142Z",
   "events": [
-    {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "72% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 22.41,
-            "contribution_score": 365.71
-          },
-          {
-            "ticker": "PTMP",
-            "change_pct": 18.87,
-            "contribution_score": 320.64
-          },
-          {
-            "ticker": "ASPI",
-            "change_pct": 21.98,
-            "contribution_score": 295.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T02:30:52.592Z",
-      "status": "active",
-      "summary": null
-    },
     {
       "type": "rapid_up",
       "ticker": "COCO",
@@ -51,135 +9,6 @@
       "change_pct": 10.34,
       "move_30min": 10.34,
       "label": "COCO +10.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 22.41,
-            "contribution_score": 365.71
-          },
-          {
-            "ticker": "PTMP",
-            "change_pct": 18.87,
-            "contribution_score": 320.64
-          },
-          {
-            "ticker": "ASPI",
-            "change_pct": 21.98,
-            "contribution_score": 295.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T02:30:52.592Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "PTMP",
-      "name": "PTMP",
-      "change_pct": 18.87,
-      "move_30min": 18.87,
-      "label": "PTMP +18.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 22.41,
-            "contribution_score": 365.71
-          },
-          {
-            "ticker": "PTMP",
-            "change_pct": 18.87,
-            "contribution_score": 320.64
-          },
-          {
-            "ticker": "ASPI",
-            "change_pct": 21.98,
-            "contribution_score": 295.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T02:30:52.592Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "LAPD",
-      "name": "PT Leyand International Tbk",
-      "change_pct": 22.41,
-      "move_30min": 22.41,
-      "label": "LAPD +22.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 22.41,
-            "contribution_score": 365.71
-          },
-          {
-            "ticker": "PTMP",
-            "change_pct": 18.87,
-            "contribution_score": 320.64
-          },
-          {
-            "ticker": "ASPI",
-            "change_pct": 21.98,
-            "contribution_score": 295.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T02:30:52.592Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "DEPO",
-      "name": "PT Caturkarda Depo Bangunan Tbk",
-      "change_pct": 15.38,
-      "move_30min": 15.38,
-      "label": "DEPO +15.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -293,49 +122,6 @@
             "ticker": "ASPI",
             "change_pct": 21.98,
             "contribution_score": 295.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-06T02:30:52.592Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BEEF",
-      "name": "PT Estika Tata Tiara Tbk",
-      "change_pct": -3.43,
-      "move_30min": -3.43,
-      "label": "BEEF -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DLTA",
-            "change_pct": -7.87,
-            "contribution_score": -72.91
-          },
-          {
-            "ticker": "LSIP",
-            "change_pct": -5.64,
-            "contribution_score": -63.21
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": -3.92,
-            "contribution_score": -46.64
           }
         ],
         "foreign_flow": null,
@@ -686,6 +472,650 @@
         "macro_active": null
       },
       "detected_at": "2026-07-06T02:30:52.592Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": 18.87,
+      "move_30min": 8.62,
+      "label": "PTMP +8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 24.14,
+      "move_30min": 16.13,
+      "label": "LAPD +16.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": 15.38,
+      "move_30min": 7.19,
+      "label": "DEPO +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": -3.43,
+      "move_30min": -3.43,
+      "label": "BEEF -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -78.98
+          },
+          {
+            "ticker": "LSIP",
+            "change_pct": -5.64,
+            "contribution_score": -65.77
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -3.92,
+            "contribution_score": -47.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEGE",
+      "name": "PT Panca Global Kapital Tbk",
+      "change_pct": -2.27,
+      "move_30min": -6.52,
+      "label": "PEGE -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -78.98
+          },
+          {
+            "ticker": "LSIP",
+            "change_pct": -5.64,
+            "contribution_score": -65.77
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -3.92,
+            "contribution_score": -47.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 10.56,
+      "move_30min": -5.24,
+      "label": "ESTA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPC",
+      "name": "PT Bank Artha Graha Internasional Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.76,
+      "label": "INPC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -78.98
+          },
+          {
+            "ticker": "LSIP",
+            "change_pct": -5.64,
+            "contribution_score": -65.77
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -3.92,
+            "contribution_score": -47.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": 2.11,
+      "move_30min": -3.33,
+      "label": "AWAN -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PJAA",
+      "name": "PT Pembangunan Jaya Ancol Tbk",
+      "change_pct": 10.27,
+      "move_30min": 10.27,
+      "label": "PJAA +10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 3.65,
+      "move_30min": 10.08,
+      "label": "STAR +10.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": 4.39,
+      "move_30min": 8.18,
+      "label": "SHID +8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MMLP",
+      "name": "PT Mega Manunggal Property Tbk",
+      "change_pct": -2.04,
+      "move_30min": -3.36,
+      "label": "MMLP -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -78.98
+          },
+          {
+            "ticker": "LSIP",
+            "change_pct": -5.64,
+            "contribution_score": -65.77
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -3.92,
+            "contribution_score": -47.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 1.47,
+      "move_30min": -5.46,
+      "label": "ARTA -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 24.14,
+            "contribution_score": 418.15
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.87,
+            "contribution_score": 328.13
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 21.98,
+            "contribution_score": 296.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAYU",
+      "name": "PT Bayu Buana Tbk",
+      "change_pct": -2.65,
+      "move_30min": -3.51,
+      "label": "BAYU -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DLTA",
+            "change_pct": -7.87,
+            "contribution_score": -78.98
+          },
+          {
+            "ticker": "LSIP",
+            "change_pct": -5.64,
+            "contribution_score": -65.77
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -3.92,
+            "contribution_score": -47.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-06T02:45:52.142Z",
       "status": "active",
       "summary": null
     }
