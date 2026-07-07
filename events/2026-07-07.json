@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T03:30:47.613Z",
+  "generated_at": "2026-07-07T03:45:45.771Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1975,49 +1975,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "NETV",
-      "name": "PT MDTV Media Technologies Tbk",
-      "change_pct": 10,
-      "move_30min": 10,
-      "label": "NETV +10.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAND",
-            "change_pct": 28.85,
-            "contribution_score": 527.58
-          },
-          {
-            "ticker": "RODA",
-            "change_pct": 25,
-            "contribution_score": 433.45
-          },
-          {
-            "ticker": "PTMP",
-            "change_pct": 17.24,
-            "contribution_score": 308.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-07T03:30:47.613Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SKLT",
       "name": "PT Sekar Laut Tbk",
@@ -2105,6 +2062,49 @@
     },
     {
       "type": "rapid_up",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 10,
+      "move_30min": 8,
+      "label": "NETV +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 648.29
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 30.77,
+            "contribution_score": 545.55
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
       "ticker": "RDTX",
       "name": "PT Roda Vivatex Tbk",
       "change_pct": 9.89,
@@ -2125,24 +2125,239 @@
         "tickers": [
           {
             "ticker": "LAND",
-            "change_pct": 28.85,
-            "contribution_score": 527.58
+            "change_pct": 34.62,
+            "contribution_score": 648.29
           },
           {
             "ticker": "RODA",
-            "change_pct": 25,
-            "contribution_score": 433.45
+            "change_pct": 30.77,
+            "contribution_score": 545.55
           },
           {
-            "ticker": "PTMP",
-            "change_pct": 17.24,
-            "contribution_score": 308.34
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-07T03:30:47.613Z",
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": 10.34,
+      "move_30min": -7.25,
+      "label": "PTMP -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 648.29
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 30.77,
+            "contribution_score": 545.55
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": 2.7,
+      "move_30min": -3.8,
+      "label": "VRNA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 648.29
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 30.77,
+            "contribution_score": 545.55
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 0.79,
+      "move_30min": -3.03,
+      "label": "JECC -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 648.29
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 30.77,
+            "contribution_score": 545.55
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.43,
+      "label": "TFAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 648.29
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 30.77,
+            "contribution_score": 545.55
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.37,
+            "contribution_score": 344.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -4.31,
+      "move_30min": -4.31,
+      "label": "BUKK -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -124.19
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.09,
+            "contribution_score": -91.91
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.88,
+            "contribution_score": -79.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:45:45.771Z",
       "status": "active",
       "summary": null
     }
