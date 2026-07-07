@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T06:45:47.383Z",
+  "generated_at": "2026-07-07T07:15:00.000Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4207,6 +4207,43 @@
         "macro_active": null
       },
       "detected_at": "2026-07-07T06:45:47.383Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 90,
+      "label": "90% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": 1.7
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARTO",
+            "change_pct": 7.89,
+            "contribution_score": 107.86
+          },
+          {
+            "ticker": "BBNI",
+            "change_pct": 3.96,
+            "contribution_score": 58.87
+          },
+          {
+            "ticker": "BBRI",
+            "change_pct": 3.23,
+            "contribution_score": 52.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T07:15:00.000Z",
       "status": "active",
       "summary": null
     }
