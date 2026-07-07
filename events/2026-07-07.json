@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T04:15:47.814Z",
+  "generated_at": "2026-07-07T04:30:46.848Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2578,97 +2578,11 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "APLN",
-      "name": "PT Agung Podomoro Land Tbk",
-      "change_pct": 29.25,
-      "move_30min": 19.13,
-      "label": "APLN +19.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAND",
-            "change_pct": 34.62,
-            "contribution_score": 651.89
-          },
-          {
-            "ticker": "APLN",
-            "change_pct": 29.25,
-            "contribution_score": 514.42
-          },
-          {
-            "ticker": "RODA",
-            "change_pct": 28.85,
-            "contribution_score": 512.52
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-07T04:15:47.814Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "MSIN",
       "name": "PT MNC Digital Entertainment Tbk",
       "change_pct": 10.87,
       "move_30min": 8.05,
       "label": "MSIN +8.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAND",
-            "change_pct": 34.62,
-            "contribution_score": 651.89
-          },
-          {
-            "ticker": "APLN",
-            "change_pct": 29.25,
-            "contribution_score": 514.42
-          },
-          {
-            "ticker": "RODA",
-            "change_pct": 28.85,
-            "contribution_score": 512.52
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-07T04:15:47.814Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "ASRI",
-      "name": "PT Alam Sutera Realty Tbk",
-      "change_pct": 13.08,
-      "move_30min": 9.01,
-      "label": "ASRI +9.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2878,6 +2792,92 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "APLN",
+      "name": "PT Agung Podomoro Land Tbk",
+      "change_pct": 29.25,
+      "move_30min": 10.74,
+      "label": "APLN +10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASRI",
+      "name": "PT Alam Sutera Realty Tbk",
+      "change_pct": 15.89,
+      "move_30min": 8.77,
+      "label": "ASRI +8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "SAMF",
       "name": "PT Saraswanti Anugerah Makmur, Tbk",
@@ -2899,24 +2899,368 @@
         "tickers": [
           {
             "ticker": "COCO",
-            "change_pct": -10.37,
-            "contribution_score": -172.4
+            "change_pct": -10.98,
+            "contribution_score": -183.22
           },
           {
             "ticker": "LAPD",
-            "change_pct": -8.97,
-            "contribution_score": -145.12
+            "change_pct": -6.41,
+            "contribution_score": -103.78
           },
           {
             "ticker": "TRUS",
             "change_pct": -9.09,
-            "contribution_score": -92.76
+            "contribution_score": -92.96
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-07T04:15:47.814Z",
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": 10.34,
+      "move_30min": -3.03,
+      "label": "PTMP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 25,
+      "move_30min": -4.41,
+      "label": "RODA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LPKR",
+      "name": "PT Lippo Karawaci Tbk",
+      "change_pct": 8.2,
+      "move_30min": 8.2,
+      "label": "LPKR +8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 7.14,
+      "move_30min": -3.23,
+      "label": "POLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -3.68,
+      "move_30min": -4.38,
+      "label": "POLI -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -10.98,
+            "contribution_score": -183.22
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -6.41,
+            "contribution_score": -103.78
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.09,
+            "contribution_score": -92.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": -2.86,
+      "move_30min": -3.77,
+      "label": "SAPX -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -10.98,
+            "contribution_score": -183.22
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -6.41,
+            "contribution_score": -103.78
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.09,
+            "contribution_score": -92.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 7.81,
+      "move_30min": 7.81,
+      "label": "ABDA +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 34.62,
+            "contribution_score": 652
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 26.42,
+            "contribution_score": 467.34
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 25,
+            "contribution_score": 441.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -10.64,
+      "move_30min": -10.64,
+      "label": "SIPD -10.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -10.98,
+            "contribution_score": -183.22
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -6.41,
+            "contribution_score": -103.78
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.09,
+            "contribution_score": -92.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T04:30:46.848Z",
       "status": "active",
       "summary": null
     }
