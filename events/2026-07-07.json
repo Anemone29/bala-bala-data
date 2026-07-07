@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T03:00:50.675Z",
+  "generated_at": "2026-07-07T03:15:48.133Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1373,49 +1373,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INDR",
-      "name": "INDR",
-      "change_pct": -3.33,
-      "move_30min": -5.14,
-      "label": "INDR -5.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": -7.69,
-            "contribution_score": -123.62
-          },
-          {
-            "ticker": "TRUS",
-            "change_pct": -9.09,
-            "contribution_score": -90.14
-          },
-          {
-            "ticker": "CTRA",
-            "change_pct": -4.39,
-            "contribution_score": -58.43
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-07T03:00:50.675Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PSSI",
       "name": "PSSI",
@@ -1503,6 +1460,49 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -3.33,
+      "move_30min": -8.97,
+      "label": "INDR -9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "POLI",
       "name": "POLI",
       "change_pct": -2.94,
@@ -1524,23 +1524,453 @@
           {
             "ticker": "LAPD",
             "change_pct": -7.69,
-            "contribution_score": -123.62
+            "contribution_score": -123.82
           },
           {
             "ticker": "TRUS",
-            "change_pct": -9.09,
-            "contribution_score": -90.14
+            "change_pct": -9.92,
+            "contribution_score": -99.21
           },
           {
-            "ticker": "CTRA",
-            "change_pct": -4.39,
-            "contribution_score": -58.43
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-07T03:00:50.675Z",
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": 18.97,
+      "move_30min": 13.11,
+      "label": "PTMP +13.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 28.85,
+            "contribution_score": 524.26
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 23.08,
+            "contribution_score": 397.76
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.97,
+            "contribution_score": 336.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "TAXI +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 28.85,
+            "contribution_score": 524.26
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 23.08,
+            "contribution_score": 397.76
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.97,
+            "contribution_score": 336.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "BAPI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -2.33,
+      "move_30min": -3.08,
+      "label": "LUCY -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "BLTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "BKDP -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": 16.29,
+      "move_30min": 15.77,
+      "label": "SOHO +15.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 28.85,
+            "contribution_score": 524.26
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 23.08,
+            "contribution_score": 397.76
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.97,
+            "contribution_score": 336.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": 0,
+      "move_30min": -4.03,
+      "label": "WOMF -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 28.85,
+            "contribution_score": 524.26
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 23.08,
+            "contribution_score": 397.76
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.97,
+            "contribution_score": 336.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "TARA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -7.69,
+            "contribution_score": -123.82
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -9.92,
+            "contribution_score": -99.21
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -69.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 0.77,
+      "move_30min": -4.04,
+      "label": "ARTA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": 28.85,
+            "contribution_score": 524.26
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 23.08,
+            "contribution_score": 397.76
+          },
+          {
+            "ticker": "PTMP",
+            "change_pct": 18.97,
+            "contribution_score": 336.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-07T03:15:48.133Z",
       "status": "active",
       "summary": null
     }
