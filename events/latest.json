@@ -1,4 +1,213 @@
 {
   "generated_at": "2026-07-08T03:00:46.513Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -78.2,
+      "label": "77% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -217.88
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -205.09
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": -11.94,
+            "contribution_score": -174.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T03:00:46.513Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PEGE",
+            "change_pct": 4.9,
+            "contribution_score": 74.91
+          },
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T02:00:49.510Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 25,
+      "move_30min": 7.14,
+      "label": "MEDS +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 25,
+            "contribution_score": 448.13
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 18.52,
+            "contribution_score": 210.33
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 12.5,
+            "contribution_score": 198.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T03:00:46.513Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -7.14,
+      "move_30min": -3.7,
+      "label": "NETV -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -217.88
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -205.09
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": -11.94,
+            "contribution_score": -174.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T03:00:46.513Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -8.26,
+      "move_30min": -6.64,
+      "label": "BUKK -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -217.88
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -205.09
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": -11.94,
+            "contribution_score": -174.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T03:00:46.513Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
