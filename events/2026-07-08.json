@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T07:30:46.962Z",
+  "generated_at": "2026-07-08T07:45:45.895Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5889,9 +5889,9 @@
       "type": "rapid_down",
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": -3.98,
-      "move_30min": -4.52,
-      "label": "PORT -4.5% dalam 30 menit",
+      "change_pct": -4.55,
+      "move_30min": -5.08,
+      "label": "PORT -5.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5906,25 +5906,154 @@
         ],
         "tickers": [
           {
-            "ticker": "LAND",
-            "change_pct": -14.29,
-            "contribution_score": -230.37
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.3
           },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -207.47
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -12.86,
+            "contribution_score": -187.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T07:45:45.895Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AGRO",
+      "name": "PT Bank Raya Indonesia Tbk",
+      "change_pct": 5.59,
+      "move_30min": 7.09,
+      "label": "AGRO +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 550.5
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 16.18,
+            "contribution_score": 252.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 17.78,
+            "contribution_score": 227.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T07:45:45.895Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLES",
+      "name": "PT Berkah Beton Sadaya Tbk",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "BLES -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 550.5
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 16.18,
+            "contribution_score": 252.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 17.78,
+            "contribution_score": 227.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T07:45:45.895Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSSI",
+      "name": "PSSI",
+      "change_pct": -0.7,
+      "move_30min": -4.05,
+      "label": "PSSI -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
           {
             "ticker": "BAPA",
             "change_pct": -14.98,
             "contribution_score": -224.3
           },
           {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -207.47
+          },
+          {
             "ticker": "BIPP",
             "change_pct": -12.86,
-            "contribution_score": -187.11
+            "contribution_score": -187.27
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-08T07:30:46.962Z",
+      "detected_at": "2026-07-08T07:45:45.895Z",
       "status": "active",
       "summary": null
     }
