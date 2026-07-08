@@ -1,4 +1,212 @@
 {
   "generated_at": "2026-07-08T07:30:46.962Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73.1,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -14.29,
+            "contribution_score": -229.54
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.24
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -12.86,
+            "contribution_score": -186.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T06:45:46.299Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -78.2,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.22
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.45
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": -13.43,
+            "contribution_score": -197.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T05:00:46.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PEGE",
+            "change_pct": 4.9,
+            "contribution_score": 74.91
+          },
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T02:00:49.510Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WGSH",
+      "name": "WGSH",
+      "change_pct": -9.93,
+      "move_30min": -6.62,
+      "label": "WGSH -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -14.29,
+            "contribution_score": -230.37
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.3
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -12.86,
+            "contribution_score": -187.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T07:30:46.962Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -8.57,
+      "move_30min": -4.19,
+      "label": "TRIN -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -14.29,
+            "contribution_score": -230.37
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.3
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -12.86,
+            "contribution_score": -187.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T07:30:46.962Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
