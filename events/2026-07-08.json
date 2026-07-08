@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T04:15:46.138Z",
+  "generated_at": "2026-07-08T04:30:45.777Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4297,48 +4297,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -78.2,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAND",
-            "change_pct": -14.29,
-            "contribution_score": -229.13
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -14.98,
-            "contribution_score": -224.15
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -12.86,
-            "contribution_score": -183.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-08T04:15:46.138Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "HALO",
       "name": "Haloni Jane Tbk.",
@@ -4372,92 +4330,6 @@
             "ticker": "PIPA",
             "change_pct": 11.11,
             "contribution_score": 181.38
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-08T04:15:46.138Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": 0,
-      "move_30min": -3.03,
-      "label": "BLTA -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MEDS",
-            "change_pct": 19.44,
-            "contribution_score": 352.58
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": 21.48,
-            "contribution_score": 262.57
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": 11.11,
-            "contribution_score": 181.38
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-08T04:15:46.138Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "TRUS",
-      "name": "Trust Finance Indonesia Tbk",
-      "change_pct": -2.83,
-      "move_30min": -6.36,
-      "label": "TRUS -6.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAND",
-            "change_pct": -14.29,
-            "contribution_score": -229.13
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -14.98,
-            "contribution_score": -224.15
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -12.86,
-            "contribution_score": -183.92
           }
         ],
         "foreign_flow": null,
@@ -4511,6 +4383,134 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -78.2,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.16
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.29
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -11.43,
+            "contribution_score": -164
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.44,
+            "contribution_score": 353.57
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.44,
+            "contribution_score": 305.72
+          },
+          {
+            "ticker": "KAEF",
+            "change_pct": 10.67,
+            "contribution_score": 149.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -3.77,
+      "move_30min": -4.67,
+      "label": "TRUS -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.16
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.29
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -11.43,
+            "contribution_score": -164
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "PUDP",
       "name": "PUDP",
@@ -4531,25 +4531,240 @@
         ],
         "tickers": [
           {
-            "ticker": "LAND",
-            "change_pct": -14.29,
-            "contribution_score": -229.13
-          },
-          {
             "ticker": "BAPA",
             "change_pct": -14.98,
-            "contribution_score": -224.15
+            "contribution_score": -224.16
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.29
           },
           {
             "ticker": "BIPP",
-            "change_pct": -12.86,
-            "contribution_score": -183.92
+            "change_pct": -11.43,
+            "contribution_score": -164
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-08T04:15:46.138Z",
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PIPA",
+      "name": "Multi Makmur Lemindo Tbk.",
+      "change_pct": 5.13,
+      "move_30min": -3.15,
+      "label": "PIPA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.44,
+            "contribution_score": 353.57
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.44,
+            "contribution_score": 305.72
+          },
+          {
+            "ticker": "KAEF",
+            "change_pct": 10.67,
+            "contribution_score": 149.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": -1.67,
+      "move_30min": -10.61,
+      "label": "POLA -10.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.16
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.29
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -11.43,
+            "contribution_score": -164
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 24.44,
+      "move_30min": 7.01,
+      "label": "STAR +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.44,
+            "contribution_score": 353.57
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.44,
+            "contribution_score": 305.72
+          },
+          {
+            "ticker": "KAEF",
+            "change_pct": 10.67,
+            "contribution_score": 149.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": 7.58,
+      "move_30min": -5.42,
+      "label": "BPII -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.44,
+            "contribution_score": 353.57
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.44,
+            "contribution_score": 305.72
+          },
+          {
+            "ticker": "KAEF",
+            "change_pct": 10.67,
+            "contribution_score": 149.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -3.57,
+      "move_30min": -4.93,
+      "label": "SIPD -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.98,
+            "contribution_score": -224.16
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -12.86,
+            "contribution_score": -206.29
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -11.43,
+            "contribution_score": -164
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-08T04:30:45.777Z",
       "status": "active",
       "summary": null
     }
