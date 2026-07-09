@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T06:30:45.748Z",
+  "generated_at": "2026-07-09T06:45:46.067Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3937,23 +3937,109 @@
           {
             "ticker": "BAPA",
             "change_pct": -14.51,
-            "contribution_score": -172.83
+            "contribution_score": -173.03
           },
           {
             "ticker": "MEDS",
-            "change_pct": -9.52,
-            "contribution_score": -146.11
+            "change_pct": -10.71,
+            "contribution_score": -164.47
           },
           {
             "ticker": "PEGE",
             "change_pct": -9.59,
-            "contribution_score": -130.27
+            "contribution_score": -130.38
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-09T06:30:45.748Z",
+      "detected_at": "2026-07-09T06:45:46.067Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ENRG",
+      "name": "PT Energi Mega Persada Tbk",
+      "change_pct": 4.68,
+      "move_30min": -3.15,
+      "label": "ENRG -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 20.78,
+            "contribution_score": 350.54
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 15.99,
+            "contribution_score": 303.35
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 12.75,
+            "contribution_score": 241.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T06:45:46.067Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 2.44,
+      "move_30min": -3.08,
+      "label": "PEHA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 20.78,
+            "contribution_score": 350.54
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 15.99,
+            "contribution_score": 303.35
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 12.75,
+            "contribution_score": 241.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T06:45:46.067Z",
       "status": "active",
       "summary": null
     }
