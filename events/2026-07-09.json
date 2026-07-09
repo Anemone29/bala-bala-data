@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T03:30:45.645Z",
+  "generated_at": "2026-07-09T03:45:45.833Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2282,49 +2282,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "SOCI",
-      "name": "PT Soechi Lines Tbk",
-      "change_pct": 22.88,
-      "move_30min": 16.77,
-      "label": "SOCI +16.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 35.42,
-            "contribution_score": 666.07
-          },
-          {
-            "ticker": "SOCI",
-            "change_pct": 22.88,
-            "contribution_score": 374
-          },
-          {
-            "ticker": "JAST",
-            "change_pct": 18.18,
-            "contribution_score": 293.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-09T03:30:45.645Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "BBRM",
       "name": "BBRM",
       "change_pct": 10.62,
@@ -2454,49 +2411,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PUDP",
-      "name": "PUDP",
-      "change_pct": 4.86,
-      "move_30min": -9.58,
-      "label": "PUDP -9.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 35.42,
-            "contribution_score": 666.07
-          },
-          {
-            "ticker": "SOCI",
-            "change_pct": 22.88,
-            "contribution_score": 374
-          },
-          {
-            "ticker": "JAST",
-            "change_pct": 18.18,
-            "contribution_score": 293.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-09T03:30:45.645Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
       "change_pct": 8.77,
@@ -2578,6 +2492,221 @@
         "macro_active": null
       },
       "detected_at": "2026-07-09T03:30:45.645Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOCI",
+      "name": "PT Soechi Lines Tbk",
+      "change_pct": 22.88,
+      "move_30min": 7.56,
+      "label": "SOCI +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 35.42,
+            "contribution_score": 666.43
+          },
+          {
+            "ticker": "SOCI",
+            "change_pct": 20.92,
+            "contribution_score": 343.84
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 16.88,
+            "contribution_score": 271.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T03:45:45.833Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": 4.86,
+      "move_30min": -4.64,
+      "label": "PUDP -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 35.42,
+            "contribution_score": 666.43
+          },
+          {
+            "ticker": "SOCI",
+            "change_pct": 20.92,
+            "contribution_score": 343.84
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 16.88,
+            "contribution_score": 271.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T03:45:45.833Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SPMA",
+      "name": "PT Suparma Tbk",
+      "change_pct": -1.04,
+      "move_30min": -3.43,
+      "label": "SPMA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.58
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -8.33,
+            "contribution_score": -126.85
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": -10.78,
+            "contribution_score": -117.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T03:45:45.833Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -3.66,
+      "move_30min": -3.66,
+      "label": "TRIN -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.58
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -8.33,
+            "contribution_score": -126.85
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": -10.78,
+            "contribution_score": -117.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T03:45:45.833Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOOD",
+      "name": "PT Integra Indocabinet Tbk",
+      "change_pct": -3.02,
+      "move_30min": -3.5,
+      "label": "WOOD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.58
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -8.33,
+            "contribution_score": -126.85
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": -10.78,
+            "contribution_score": -117.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T03:45:45.833Z",
       "status": "active",
       "summary": null
     }
