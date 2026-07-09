@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-09T04:45:45.948Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 74.29,
+            "contribution_score": 1435.43
+          },
+          {
+            "ticker": "SPMA",
+            "change_pct": 30,
+            "contribution_score": 411.09
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": 17.5,
+            "contribution_score": 333.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T02:00:46.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 30.41,
+      "move_30min": -6.73,
+      "label": "COCO -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": 21.63,
+            "contribution_score": 410.34
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 19.48,
+            "contribution_score": 319.1
+          },
+          {
+            "ticker": "SOCI",
+            "change_pct": 16.99,
+            "contribution_score": 280.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T04:45:45.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": -2.82,
+      "move_30min": -5.48,
+      "label": "DSFI -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.6
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -10.71,
+            "contribution_score": -164.16
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -8.89,
+            "contribution_score": -122.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T04:45:45.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": -6.87,
+      "move_30min": -3.17,
+      "label": "DEPO -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.6
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -10.71,
+            "contribution_score": -164.16
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -8.89,
+            "contribution_score": -122.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T04:45:45.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DGIK",
+      "name": "PT Nusa Konstruksi Enjiniring Tbk",
+      "change_pct": -2.44,
+      "move_30min": -4,
+      "label": "DGIK -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.51,
+            "contribution_score": -172.6
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -10.71,
+            "contribution_score": -164.16
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -8.89,
+            "contribution_score": -122.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T04:45:45.948Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
