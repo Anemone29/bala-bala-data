@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T04:45:45.948Z",
+  "generated_at": "2026-07-09T05:00:45.538Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3443,49 +3443,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "COCO",
-      "name": "PT Wahana Interfood Nusantara Tbk",
-      "change_pct": 30.41,
-      "move_30min": -6.73,
-      "label": "COCO -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": 21.63,
-            "contribution_score": 410.34
-          },
-          {
-            "ticker": "JAST",
-            "change_pct": 19.48,
-            "contribution_score": 319.1
-          },
-          {
-            "ticker": "SOCI",
-            "change_pct": 16.99,
-            "contribution_score": 280.28
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-09T04:45:45.948Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "DSFI",
       "name": "PT Dharma Samudera Fishing Industries Tbk",
       "change_pct": -2.82,
@@ -3739,6 +3696,49 @@
         "macro_active": null
       },
       "detected_at": "2026-07-09T04:45:45.948Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 30.41,
+      "move_30min": -3.09,
+      "label": "COCO -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 23.38,
+            "contribution_score": 391.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": 17.87,
+            "contribution_score": 339.28
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 14.77,
+            "contribution_score": 280.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-09T05:00:45.538Z",
       "status": "active",
       "summary": null
     }
