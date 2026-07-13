@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-07-13T04:45:49.763Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:00:43.296Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": -3.42,
+      "move_30min": -3.42,
+      "label": "CSAP -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.79,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -6.52,
+      "move_30min": -3.62,
+      "label": "LPGI -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.79,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 12.09,
+      "move_30min": 12.09,
+      "label": "KICI +12.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 31.07,
+            "contribution_score": 537.82
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 411.56
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 11.86,
+            "contribution_score": 201.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -1.57,
+      "move_30min": -3.1,
+      "label": "ESTI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.79,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T04:30:47.010Z",
+  "generated_at": "2026-07-13T04:45:49.763Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3065,25 +3065,25 @@
         ],
         "tickers": [
           {
-            "ticker": "BAPA",
-            "change_pct": -9.22,
-            "contribution_score": -134.84
-          },
-          {
             "ticker": "LUCY",
             "change_pct": -9.26,
-            "contribution_score": -111.96
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
           },
           {
             "ticker": "COCO",
             "change_pct": -4.79,
-            "contribution_score": -77.39
+            "contribution_score": -77.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T04:30:47.010Z",
+      "detected_at": "2026-07-13T04:45:49.763Z",
       "status": "active",
       "summary": null
     },
@@ -3092,8 +3092,8 @@
       "ticker": "LPGI",
       "name": "PT Lippo General Insurance Tbk",
       "change_pct": -6.52,
-      "move_30min": -6.52,
-      "label": "LPGI -6.5% dalam 30 menit",
+      "move_30min": -3.62,
+      "label": "LPGI -3.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3108,25 +3108,111 @@
         ],
         "tickers": [
           {
-            "ticker": "BAPA",
-            "change_pct": -9.22,
-            "contribution_score": -134.84
-          },
-          {
             "ticker": "LUCY",
             "change_pct": -9.26,
-            "contribution_score": -111.96
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
           },
           {
             "ticker": "COCO",
             "change_pct": -4.79,
-            "contribution_score": -77.39
+            "contribution_score": -77.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T04:30:47.010Z",
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 12.09,
+      "move_30min": 12.09,
+      "label": "KICI +12.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 31.07,
+            "contribution_score": 537.82
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 411.56
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 11.86,
+            "contribution_score": 201.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -1.57,
+      "move_30min": -3.1,
+      "label": "ESTI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -112.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.09,
+            "contribution_score": -103.76
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.79,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:45:49.763Z",
       "status": "active",
       "summary": null
     }
