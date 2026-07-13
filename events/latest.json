@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-07-13T02:30:43.225Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:00:43.296Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 17.46,
+      "move_30min": 17.46,
+      "label": "LAND +17.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 20.39,
+            "contribution_score": 319.59
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.46,
+            "contribution_score": 295.23
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 6.9,
+            "contribution_score": 101.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:30:43.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 20.39,
+      "move_30min": 20.39,
+      "label": "BKDP +20.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 20.39,
+            "contribution_score": 319.59
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.46,
+            "contribution_score": 295.23
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 6.9,
+            "contribution_score": 101.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:30:43.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -5.99,
+      "move_30min": -5.99,
+      "label": "COCO -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.51,
+            "contribution_score": -119.87
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -89.25
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -6.48,
+            "contribution_score": -69.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:30:43.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -3.19,
+      "move_30min": -3.19,
+      "label": "KOTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.51,
+            "contribution_score": -119.87
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -89.25
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -6.48,
+            "contribution_score": -69.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:30:43.225Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
