@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T03:45:44.540Z",
+  "generated_at": "2026-07-13T04:00:48.166Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2142,49 +2142,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BKDP",
-      "name": "Bukit Darmo Property Tbk",
-      "change_pct": 34.95,
-      "move_30min": 16.81,
-      "label": "BKDP +16.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BKDP",
-            "change_pct": 34.95,
-            "contribution_score": 597.05
-          },
-          {
-            "ticker": "LAND",
-            "change_pct": 15.87,
-            "contribution_score": 283.3
-          },
-          {
-            "ticker": "KKES",
-            "change_pct": 9.84,
-            "contribution_score": 132.13
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-13T03:45:44.540Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
@@ -2357,12 +2314,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "SHIP",
-      "name": "PT Sillo Maritime Perdana Tbk",
-      "change_pct": 0,
-      "move_30min": -4.23,
-      "label": "SHIP -4.2% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 34.95,
+      "move_30min": 13.22,
+      "label": "BKDP +13.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2378,24 +2335,325 @@
         "tickers": [
           {
             "ticker": "BKDP",
-            "change_pct": 34.95,
-            "contribution_score": 597.05
+            "change_pct": 33.01,
+            "contribution_score": 567.74
           },
           {
             "ticker": "LAND",
-            "change_pct": 15.87,
-            "contribution_score": 283.3
+            "change_pct": 23.81,
+            "contribution_score": 438.58
           },
           {
-            "ticker": "KKES",
-            "change_pct": 9.84,
-            "contribution_score": 132.13
+            "ticker": "BIPP",
+            "change_pct": 11.11,
+            "contribution_score": 178.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T03:45:44.540Z",
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": 0.59,
+      "move_30min": -3.66,
+      "label": "SHIP -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 33.01,
+            "contribution_score": 567.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 23.81,
+            "contribution_score": 438.58
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 11.11,
+            "contribution_score": 178.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 23.81,
+      "move_30min": 8.33,
+      "label": "LAND +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 33.01,
+            "contribution_score": 567.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 23.81,
+            "contribution_score": 438.58
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 11.11,
+            "contribution_score": 178.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": -3.28,
+      "move_30min": -3.28,
+      "label": "POLA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.22,
+            "contribution_score": -134.73
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": -6.34,
+            "contribution_score": -58.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAYA",
+      "name": "PT Bank Mayapada Internasional Tbk",
+      "change_pct": -2.12,
+      "move_30min": -3.65,
+      "label": "MAYA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.22,
+            "contribution_score": -134.73
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": -6.34,
+            "contribution_score": -58.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PALM",
+      "name": "PT Provident Investasi Bersama Tbk",
+      "change_pct": -2.76,
+      "move_30min": -4.08,
+      "label": "PALM -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.22,
+            "contribution_score": -134.73
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": -6.34,
+            "contribution_score": -58.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": -2.78,
+      "move_30min": -3.67,
+      "label": "AKSI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.22,
+            "contribution_score": -134.73
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": -6.34,
+            "contribution_score": -58.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -7.5,
+      "move_30min": -7.04,
+      "label": "CASA -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.22,
+            "contribution_score": -134.73
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -8.33,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": -6.34,
+            "contribution_score": -58.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:00:48.166Z",
       "status": "active",
       "summary": null
     }
