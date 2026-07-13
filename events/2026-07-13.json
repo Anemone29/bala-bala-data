@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T04:00:48.166Z",
+  "generated_at": "2026-07-13T04:15:44.049Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2550,24 +2550,24 @@
         "tickers": [
           {
             "ticker": "BAPA",
-            "change_pct": -9.22,
-            "contribution_score": -134.73
+            "change_pct": -7.8,
+            "contribution_score": -114.04
           },
           {
             "ticker": "LUCY",
-            "change_pct": -8.33,
-            "contribution_score": -97.57
+            "change_pct": -9.26,
+            "contribution_score": -111.18
           },
           {
-            "ticker": "NIRO",
-            "change_pct": -6.34,
-            "contribution_score": -58.19
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T04:00:48.166Z",
+      "detected_at": "2026-07-13T04:15:44.049Z",
       "status": "active",
       "summary": null
     },
@@ -2593,24 +2593,24 @@
         "tickers": [
           {
             "ticker": "BAPA",
-            "change_pct": -9.22,
-            "contribution_score": -134.73
+            "change_pct": -7.8,
+            "contribution_score": -114.04
           },
           {
             "ticker": "LUCY",
-            "change_pct": -8.33,
-            "contribution_score": -97.57
+            "change_pct": -9.26,
+            "contribution_score": -111.18
           },
           {
-            "ticker": "NIRO",
-            "change_pct": -6.34,
-            "contribution_score": -58.19
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T04:00:48.166Z",
+      "detected_at": "2026-07-13T04:15:44.049Z",
       "status": "active",
       "summary": null
     },
@@ -2619,8 +2619,8 @@
       "ticker": "CASA",
       "name": "Capital Financial Indonesia Tbk",
       "change_pct": -7.5,
-      "move_30min": -7.04,
-      "label": "CASA -7.0% dalam 30 menit",
+      "move_30min": -6.28,
+      "label": "CASA -6.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2636,24 +2636,411 @@
         "tickers": [
           {
             "ticker": "BAPA",
-            "change_pct": -9.22,
-            "contribution_score": -134.73
+            "change_pct": -7.8,
+            "contribution_score": -114.04
           },
           {
             "ticker": "LUCY",
-            "change_pct": -8.33,
-            "contribution_score": -97.57
+            "change_pct": -9.26,
+            "contribution_score": -111.18
           },
           {
-            "ticker": "NIRO",
-            "change_pct": -6.34,
-            "contribution_score": -58.19
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T04:00:48.166Z",
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 27.18,
+      "move_30min": -5.76,
+      "label": "BKDP -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 27.18,
+            "contribution_score": 465.48
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 410.51
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 9.52,
+            "contribution_score": 152.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -5.99,
+      "move_30min": -5.42,
+      "label": "COCO -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 27.18,
+            "contribution_score": 465.48
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 410.51
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 9.52,
+            "contribution_score": 152.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "PPRO -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "ANDI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -3.45,
+      "label": "BAUT -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 27.18,
+            "contribution_score": 465.48
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 410.51
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 9.52,
+            "contribution_score": 152.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -5.6,
+      "move_30min": -8.53,
+      "label": "YPAS -8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -3.43,
+      "move_30min": -3.43,
+      "label": "BTON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DUTI",
+      "name": "PT Duta Pertiwi Tbk",
+      "change_pct": -3.41,
+      "move_30min": -3.41,
+      "label": "DUTI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
       "status": "active",
       "summary": null
     }

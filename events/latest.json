@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-07-13T04:15:44.049Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T02:00:43.296Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PALM",
+      "name": "PT Provident Investasi Bersama Tbk",
+      "change_pct": -2.76,
+      "move_30min": -4.08,
+      "label": "PALM -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": -2.78,
+      "move_30min": -3.67,
+      "label": "AKSI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -7.5,
+      "move_30min": -6.28,
+      "label": "CASA -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -114.04
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.99,
+            "contribution_score": -96.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 27.18,
+      "move_30min": -5.76,
+      "label": "BKDP -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 27.18,
+            "contribution_score": 465.48
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 22.22,
+            "contribution_score": 410.51
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 9.52,
+            "contribution_score": 152.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T04:15:44.049Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
