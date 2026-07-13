@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T06:45:50.408Z",
+  "generated_at": "2026-07-13T07:00:46.764Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3538,25 +3538,25 @@
         ],
         "tickers": [
           {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -115.08
+          },
+          {
             "ticker": "LUCY",
-            "change_pct": -8.8,
-            "contribution_score": -107.83
+            "change_pct": -9.26,
+            "contribution_score": -114.43
           },
           {
             "ticker": "IATA",
             "change_pct": -6.45,
-            "contribution_score": -100.65
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.38,
-            "contribution_score": -93.94
+            "contribution_score": -101.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T06:45:50.408Z",
+      "detected_at": "2026-07-13T07:00:46.764Z",
       "status": "active",
       "summary": null
     },
@@ -3581,25 +3581,25 @@
         ],
         "tickers": [
           {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -115.08
+          },
+          {
             "ticker": "LUCY",
-            "change_pct": -8.8,
-            "contribution_score": -107.83
+            "change_pct": -9.26,
+            "contribution_score": -114.43
           },
           {
             "ticker": "IATA",
             "change_pct": -6.45,
-            "contribution_score": -100.65
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.38,
-            "contribution_score": -93.94
+            "contribution_score": -101.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T06:45:50.408Z",
+      "detected_at": "2026-07-13T07:00:46.764Z",
       "status": "active",
       "summary": null
     },
@@ -3624,25 +3624,154 @@
         ],
         "tickers": [
           {
+            "ticker": "BAPA",
+            "change_pct": -7.8,
+            "contribution_score": -115.08
+          },
+          {
             "ticker": "LUCY",
-            "change_pct": -8.8,
-            "contribution_score": -107.83
+            "change_pct": -9.26,
+            "contribution_score": -114.43
           },
           {
             "ticker": "IATA",
             "change_pct": -6.45,
-            "contribution_score": -100.65
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.38,
-            "contribution_score": -93.94
+            "contribution_score": -101.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-13T06:45:50.408Z",
+      "detected_at": "2026-07-13T07:00:46.764Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 4.4,
+      "move_30min": -5.94,
+      "label": "KICI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 33.01,
+            "contribution_score": 575.27
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 28.57,
+            "contribution_score": 539.83
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 364.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T07:00:46.764Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": 0,
+      "move_30min": -4.11,
+      "label": "DSFI -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 33.01,
+            "contribution_score": 575.27
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 28.57,
+            "contribution_score": 539.83
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 364.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T07:00:46.764Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 7,
+      "move_30min": 12.63,
+      "label": "CASA +12.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": 33.01,
+            "contribution_score": 575.27
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 28.57,
+            "contribution_score": 539.83
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 364.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-13T07:00:46.764Z",
       "status": "active",
       "summary": null
     }
