@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T04:45:40.424Z",
+  "generated_at": "2026-07-14T05:00:40.205Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2442,49 +2442,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "OBMD",
-      "name": "OBM Drilchem Tbk.",
-      "change_pct": 4.6,
-      "move_30min": -3.7,
-      "label": "OBMD -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRNA",
-            "change_pct": 16.81,
-            "contribution_score": 212.76
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": 11.95,
-            "contribution_score": 201.05
-          },
-          {
-            "ticker": "KKES",
-            "change_pct": 13.11,
-            "contribution_score": 172.48
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-14T04:45:40.424Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BBMD",
       "name": "PT Bank Mestika Dharma Tbk",
       "change_pct": -3.52,
@@ -2523,6 +2480,135 @@
         "macro_active": null
       },
       "detected_at": "2026-07-14T04:45:40.424Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": 4.6,
+      "move_30min": -7.33,
+      "label": "OBMD -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRNA",
+            "change_pct": 18.58,
+            "contribution_score": 236.88
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": 11.95,
+            "contribution_score": 201.27
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 13.11,
+            "contribution_score": 172.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T05:00:40.205Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -1.83,
+      "move_30min": -4.46,
+      "label": "TRUS -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -156.78
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -6.9,
+            "contribution_score": -81.21
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -4.3,
+            "contribution_score": -75.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T05:00:40.205Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 2.42,
+      "move_30min": 9.84,
+      "label": "CASA +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRNA",
+            "change_pct": 18.58,
+            "contribution_score": 236.88
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": 11.95,
+            "contribution_score": 201.27
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 13.11,
+            "contribution_score": 172.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T05:00:40.205Z",
       "status": "active",
       "summary": null
     }
