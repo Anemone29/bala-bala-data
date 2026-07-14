@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T04:15:39.995Z",
+  "generated_at": "2026-07-14T04:30:40.168Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1988,25 +1988,25 @@
         ],
         "tickers": [
           {
-            "ticker": "BRNA",
-            "change_pct": 16.81,
-            "contribution_score": 211.25
-          },
-          {
             "ticker": "ENRG",
             "change_pct": 12.35,
-            "contribution_score": 207.47
+            "contribution_score": 207.97
           },
           {
             "ticker": "KKES",
             "change_pct": 13.11,
             "contribution_score": 172.48
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 13.27,
+            "contribution_score": 165.36
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-14T04:15:39.995Z",
+      "detected_at": "2026-07-14T04:30:40.168Z",
       "status": "active",
       "summary": null
     },
@@ -2031,25 +2031,25 @@
         ],
         "tickers": [
           {
-            "ticker": "BRNA",
-            "change_pct": 16.81,
-            "contribution_score": 211.25
-          },
-          {
             "ticker": "ENRG",
             "change_pct": 12.35,
-            "contribution_score": 207.47
+            "contribution_score": 207.97
           },
           {
             "ticker": "KKES",
             "change_pct": 13.11,
             "contribution_score": 172.48
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 13.27,
+            "contribution_score": 165.36
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-14T04:15:39.995Z",
+      "detected_at": "2026-07-14T04:30:40.168Z",
       "status": "active",
       "summary": null
     },
@@ -2075,8 +2075,8 @@
         "tickers": [
           {
             "ticker": "COCO",
-            "change_pct": -9.68,
-            "contribution_score": -155.47
+            "change_pct": -10.32,
+            "contribution_score": -165.99
           },
           {
             "ticker": "BAUT",
@@ -2084,15 +2084,15 @@
             "contribution_score": -81.21
           },
           {
-            "ticker": "BKDP",
-            "change_pct": -5.93,
-            "contribution_score": -80.1
+            "ticker": "BNBR",
+            "change_pct": -4.3,
+            "contribution_score": -75.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-14T04:15:39.995Z",
+      "detected_at": "2026-07-14T04:30:40.168Z",
       "status": "active",
       "summary": null
     },
@@ -2118,8 +2118,8 @@
         "tickers": [
           {
             "ticker": "COCO",
-            "change_pct": -9.68,
-            "contribution_score": -155.47
+            "change_pct": -10.32,
+            "contribution_score": -165.99
           },
           {
             "ticker": "BAUT",
@@ -2127,15 +2127,187 @@
             "contribution_score": -81.21
           },
           {
-            "ticker": "BKDP",
-            "change_pct": -5.93,
-            "contribution_score": -80.1
+            "ticker": "BNBR",
+            "change_pct": -4.3,
+            "contribution_score": -75.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-14T04:15:39.995Z",
+      "detected_at": "2026-07-14T04:30:40.168Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": 13.27,
+      "move_30min": -3.03,
+      "label": "BRNA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": 12.35,
+            "contribution_score": 207.97
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 13.11,
+            "contribution_score": 172.48
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 13.27,
+            "contribution_score": 165.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T04:30:40.168Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -1.56,
+      "move_30min": -3.08,
+      "label": "PICO -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -10.32,
+            "contribution_score": -165.99
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -6.9,
+            "contribution_score": -81.21
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -4.3,
+            "contribution_score": -75.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T04:30:40.168Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 2.75,
+      "move_30min": 7.18,
+      "label": "TRUS +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": 12.35,
+            "contribution_score": 207.97
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 13.11,
+            "contribution_score": 172.48
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 13.27,
+            "contribution_score": 165.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T04:30:40.168Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 0,
+      "move_30min": -4.37,
+      "label": "ARTA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": 12.35,
+            "contribution_score": 207.97
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 13.11,
+            "contribution_score": 172.48
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 13.27,
+            "contribution_score": 165.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T04:30:40.168Z",
       "status": "active",
       "summary": null
     }
