@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T02:30:40.519Z",
+  "generated_at": "2026-07-14T02:45:40.157Z",
   "events": [
     {
       "type": "breadth_up",
@@ -111,49 +111,6 @@
             "ticker": "DSFI",
             "change_pct": 7.04,
             "contribution_score": 98.97
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-14T02:30:40.519Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "COCO",
-      "name": "PT Wahana Interfood Nusantara Tbk",
-      "change_pct": -9.03,
-      "move_30min": -9.03,
-      "label": "COCO -9.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -9.03,
-            "contribution_score": -136.71
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": -6.67,
-            "contribution_score": -87.12
-          },
-          {
-            "ticker": "LAND",
-            "change_pct": -5.06,
-            "contribution_score": -73.66
           }
         ],
         "foreign_flow": null,
@@ -379,49 +336,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "BKDP",
-      "name": "Bukit Darmo Property Tbk",
-      "change_pct": -6.67,
-      "move_30min": -6.67,
-      "label": "BKDP -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "COCO",
-            "change_pct": -9.03,
-            "contribution_score": -136.71
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": -6.67,
-            "contribution_score": -87.12
-          },
-          {
-            "ticker": "LAND",
-            "change_pct": -5.06,
-            "contribution_score": -73.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-14T02:30:40.519Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
@@ -590,6 +504,264 @@
         "macro_active": null
       },
       "detected_at": "2026-07-14T02:30:40.519Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -9.68,
+      "move_30min": -6.04,
+      "label": "COCO -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -150.16
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5,
+            "contribution_score": -66.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -4.44,
+            "contribution_score": -58.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -6.67,
+      "move_30min": -4.44,
+      "label": "BKDP -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -150.16
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5,
+            "contribution_score": -66.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -4.44,
+            "contribution_score": -58.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -3.74,
+      "move_30min": -6.36,
+      "label": "ASPI -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -150.16
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5,
+            "contribution_score": -66.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -4.44,
+            "contribution_score": -58.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": -2.36,
+      "move_30min": -3.88,
+      "label": "WOMF -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -150.16
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5,
+            "contribution_score": -66.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -4.44,
+            "contribution_score": -58.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PSSI",
+      "name": "PSSI",
+      "change_pct": 1.94,
+      "move_30min": 10.49,
+      "label": "PSSI +10.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRNA",
+            "change_pct": 24.78,
+            "contribution_score": 289.36
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": 11.55,
+            "contribution_score": 185.16
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": 7.66,
+            "contribution_score": 108.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": -5.02,
+      "move_30min": -4.62,
+      "label": "LIFE -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.68,
+            "contribution_score": -150.16
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5,
+            "contribution_score": -66.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -4.44,
+            "contribution_score": -58.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T02:45:40.157Z",
       "status": "active",
       "summary": null
     }
