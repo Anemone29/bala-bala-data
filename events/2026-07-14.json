@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T03:30:40.143Z",
+  "generated_at": "2026-07-14T03:45:40.369Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1371,8 +1371,8 @@
       "ticker": "STTP",
       "name": "PT Siantar Top Tbk",
       "change_pct": -4.13,
-      "move_30min": -4.13,
-      "label": "STTP -4.1% dalam 30 menit",
+      "move_30min": -3.64,
+      "label": "STTP -3.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1389,23 +1389,238 @@
           {
             "ticker": "COCO",
             "change_pct": -9.03,
-            "contribution_score": -143.97
+            "contribution_score": -144.34
           },
           {
             "ticker": "BKDP",
-            "change_pct": -8.89,
-            "contribution_score": -117.95
+            "change_pct": -9.63,
+            "contribution_score": -128.18
           },
           {
             "ticker": "LAND",
-            "change_pct": -5.06,
-            "contribution_score": -75.72
+            "change_pct": -6.33,
+            "contribution_score": -95.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-14T03:30:40.143Z",
+      "detected_at": "2026-07-14T03:45:40.369Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -9.63,
+      "move_30min": -3.17,
+      "label": "BKDP -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.03,
+            "contribution_score": -144.34
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.63,
+            "contribution_score": -128.18
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -6.33,
+            "contribution_score": -95.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T03:45:40.369Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBA",
+      "name": "PT Bank Bumi Arta Tbk",
+      "change_pct": 1.37,
+      "move_30min": -5.73,
+      "label": "BNBA -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": 14.34,
+            "contribution_score": 240.85
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 17.7,
+            "contribution_score": 222.44
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.49,
+            "contribution_score": 151.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T03:45:40.369Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -2.56,
+      "move_30min": -3.39,
+      "label": "TYRE -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.03,
+            "contribution_score": -144.34
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.63,
+            "contribution_score": -128.18
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -6.33,
+            "contribution_score": -95.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T03:45:40.369Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": 3,
+      "move_30min": -4.63,
+      "label": "ZONE -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": 14.34,
+            "contribution_score": 240.85
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 17.7,
+            "contribution_score": 222.44
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": 8.49,
+            "contribution_score": 151.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T03:45:40.369Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MBAP",
+      "name": "PT Mitrabara Adiperdana Tbk",
+      "change_pct": -0.37,
+      "move_30min": -3.93,
+      "label": "MBAP -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.03,
+            "contribution_score": -144.34
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.63,
+            "contribution_score": -128.18
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -6.33,
+            "contribution_score": -95.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-14T03:45:40.369Z",
       "status": "active",
       "summary": null
     }
