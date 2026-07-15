@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T04:31:01.003Z",
+  "generated_at": "2026-07-15T04:46:00.791Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2614,52 +2614,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "CASA",
-      "name": "Capital Financial Indonesia Tbk",
-      "change_pct": -7.89,
-      "move_30min": -4.74,
-      "label": "CASA -4.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -8.6,
-            "contribution_score": -146.42
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": -6.29,
-            "contribution_score": -103.89
-          },
-          {
-            "ticker": "BAPI",
-            "change_pct": -5.88,
-            "contribution_score": -76.03
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juli 2026"
-        }
-      },
-      "detected_at": "2026-07-15T04:31:01.003Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -2978,6 +2932,144 @@
         }
       },
       "detected_at": "2026-07-15T04:31:01.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -7.89,
+      "move_30min": -4.4,
+      "label": "CASA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.99,
+            "contribution_score": -115.56
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -7.14,
+            "contribution_score": -97.56
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -76.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:46:00.791Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 10.83,
+      "move_30min": 8.13,
+      "label": "DART +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 347.83
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 320.31
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 285.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:46:00.791Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPCK",
+      "name": "PT Lippo Cikarang Tbk",
+      "change_pct": 0,
+      "move_30min": -3.81,
+      "label": "LPCK -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 347.83
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 320.31
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 285.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:46:00.791Z",
       "status": "active",
       "summary": null
     }
