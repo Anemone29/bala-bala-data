@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T03:01:01.698Z",
+  "generated_at": "2026-07-15T03:16:00.717Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1322,6 +1322,604 @@
         }
       },
       "detected_at": "2026-07-15T03:01:01.698Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": 10.34,
+      "move_30min": 11.3,
+      "label": "BCIC +11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 346.11
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 17.21,
+            "contribution_score": 221.97
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 162.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": 17.21,
+      "move_30min": -4.03,
+      "label": "GOLD -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 346.11
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 17.21,
+            "contribution_score": 221.97
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 162.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "BAPI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "TAXI +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 346.11
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 17.21,
+            "contribution_score": 221.97
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 162.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RSCH",
+      "name": "Charlie Hospital Semarang Tbk.",
+      "change_pct": -5.19,
+      "move_30min": -5.19,
+      "label": "RSCH -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "PURA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "IPTV -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -3.67,
+      "move_30min": -6.25,
+      "label": "BBLD -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": -2.96,
+      "move_30min": -5.07,
+      "label": "NICE -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 0,
+      "move_30min": -4.64,
+      "label": "POLI -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 346.11
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 17.21,
+            "contribution_score": 221.97
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 162.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "OMRE -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": 9.9,
+      "move_30min": 9.9,
+      "label": "MAPB +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 346.11
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 17.21,
+            "contribution_score": 221.97
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 162.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TGKA",
+      "name": "PT Tigaraksa Satria Tbk",
+      "change_pct": -3.86,
+      "move_30min": -3.47,
+      "label": "TGKA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -124.41
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -5.14,
+            "contribution_score": -76.97
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:16:00.717Z",
       "status": "active",
       "summary": null
     }
