@@ -2,14 +2,223 @@
   "generated_at": "2026-07-15T06:46:01.244Z",
   "events": [
     {
-      "type": "macro_bi_rate",
-      "ticker": "BI_RATE",
-      "name": "BI Rate Decision Juli 2026",
-      "change_pct": 0,
-      "label": "BESOK: BI Rate Decision Juli 2026",
-      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-16"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T02:01:01.443Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASLC",
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "ASLC +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 21.95,
+            "contribution_score": 370.54
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 320.81
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 285.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T06:46:01.244Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "TAXI +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 21.95,
+            "contribution_score": 370.54
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 320.81
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 285.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T06:46:01.244Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -5.88,
+      "move_30min": -9.43,
+      "label": "HRME -9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -8.6,
+            "contribution_score": -148.37
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -127.59
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -8.22,
+            "contribution_score": -100.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T06:46:01.244Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -8.22,
+      "move_30min": -10.67,
+      "label": "KKES -10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -8.6,
+            "contribution_score": -148.37
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -127.59
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -8.22,
+            "contribution_score": -100.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T06:46:01.244Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
