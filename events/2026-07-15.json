@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T03:46:00.969Z",
+  "generated_at": "2026-07-15T04:01:02.501Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2338,52 +2338,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "LION",
-      "name": "PT Lion Metal Works Tbk",
-      "change_pct": 11.11,
-      "move_30min": 8.97,
-      "label": "LION +9.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "GDST",
-            "change_pct": 21.95,
-            "contribution_score": 368.65
-          },
-          {
-            "ticker": "GOLD",
-            "change_pct": 20.49,
-            "contribution_score": 270.28
-          },
-          {
-            "ticker": "APLN",
-            "change_pct": 11.9,
-            "contribution_score": 206.93
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "BESOK: BI Rate Decision Juli 2026"
-        }
-      },
-      "detected_at": "2026-07-15T03:46:00.969Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DNAR",
       "name": "PT Bank Oke Indonesia Tbk",
@@ -2430,12 +2384,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "CASA",
-      "name": "Capital Financial Indonesia Tbk",
-      "change_pct": -2.8,
-      "move_30min": -5.91,
-      "label": "CASA -5.9% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": 24.84,
+      "move_30min": 22.44,
+      "label": "LION +22.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2450,19 +2404,19 @@
         ],
         "tickers": [
           {
-            "ticker": "COCO",
-            "change_pct": -6.29,
-            "contribution_score": -103.45
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 347.48
           },
           {
-            "ticker": "RSCH",
-            "change_pct": -7.14,
-            "contribution_score": -85.67
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 311.64
           },
           {
-            "ticker": "PEGE",
-            "change_pct": -5.56,
-            "contribution_score": -78.82
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 283.23
           }
         ],
         "foreign_flow": null,
@@ -2471,7 +2425,145 @@
           "label": "BESOK: BI Rate Decision Juli 2026"
         }
       },
-      "detected_at": "2026-07-15T03:46:00.969Z",
+      "detected_at": "2026-07-15T04:01:02.501Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.31,
+      "move_30min": -11.21,
+      "label": "CASA -11.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -8.6,
+            "contribution_score": -145.8
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.99,
+            "contribution_score": -115.22
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:01:02.501Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 0,
+      "move_30min": -6.03,
+      "label": "BBLD -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 20.73,
+            "contribution_score": 347.48
+          },
+          {
+            "ticker": "LION",
+            "change_pct": 24.84,
+            "contribution_score": 311.64
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 21.31,
+            "contribution_score": 283.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:01:02.501Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SRAJ",
+      "name": "PT Sejahteraraya Anugrahjaya Tbk",
+      "change_pct": -3.02,
+      "move_30min": -4.05,
+      "label": "SRAJ -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -8.6,
+            "contribution_score": -145.8
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.99,
+            "contribution_score": -115.22
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.88,
+            "contribution_score": -71.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T04:01:02.501Z",
       "status": "active",
       "summary": null
     }
