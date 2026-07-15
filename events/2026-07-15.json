@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T02:46:00.686Z",
+  "generated_at": "2026-07-15T03:01:01.698Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1184,6 +1184,144 @@
         }
       },
       "detected_at": "2026-07-15T02:46:00.686Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARTO",
+      "name": "PT Bank Jago Tbk",
+      "change_pct": 9.48,
+      "move_30min": 8.55,
+      "label": "ARTO +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 19.51,
+            "contribution_score": 323.98
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 22.13,
+            "contribution_score": 286.96
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 161.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:01:01.698Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -1.56,
+      "move_30min": -3.08,
+      "label": "BRNA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.69,
+            "contribution_score": -122.13
+          },
+          {
+            "ticker": "PEGE",
+            "change_pct": -5.56,
+            "contribution_score": -78.29
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -3.77,
+            "contribution_score": -55.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:01:01.698Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 0.25,
+      "move_30min": -3.9,
+      "label": "CASA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GDST",
+            "change_pct": 19.51,
+            "contribution_score": 323.98
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 22.13,
+            "contribution_score": 286.96
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 9.52,
+            "contribution_score": 161.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "BESOK: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-15T03:01:01.698Z",
       "status": "active",
       "summary": null
     }
