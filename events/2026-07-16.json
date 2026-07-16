@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T06:46:00.854Z",
+  "generated_at": "2026-07-16T07:01:02.056Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2779,7 +2779,7 @@
           {
             "ticker": "BAPA",
             "change_pct": -14.74,
-            "contribution_score": -221.5
+            "contribution_score": -221.51
           },
           {
             "ticker": "KKES",
@@ -2798,7 +2798,99 @@
           "label": "HARI INI: BI Rate Decision Juli 2026"
         }
       },
-      "detected_at": "2026-07-16T06:46:00.854Z",
+      "detected_at": "2026-07-16T07:01:02.056Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": 22.02,
+      "move_30min": 7.26,
+      "label": "PSDN +7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PSDN",
+            "change_pct": 22.02,
+            "contribution_score": 363.97
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 20.27,
+            "contribution_score": 337.94
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 17.65,
+            "contribution_score": 253.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T07:01:02.056Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -4.3,
+      "move_30min": -3.26,
+      "label": "LUCY -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.51
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -110.47
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -109.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T07:01:02.056Z",
       "status": "active",
       "summary": null
     }
