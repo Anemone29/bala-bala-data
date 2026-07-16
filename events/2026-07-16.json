@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T02:46:00.679Z",
+  "generated_at": "2026-07-16T03:01:00.820Z",
   "events": [
     {
       "type": "breadth_up",
@@ -871,52 +871,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MLPL",
-      "name": "MLPL",
-      "change_pct": 12.2,
-      "move_30min": 9.52,
-      "label": "MLPL +9.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "NIRO",
-            "change_pct": 15.49,
-            "contribution_score": 213.92
-          },
-          {
-            "ticker": "MLPT",
-            "change_pct": 19.98,
-            "contribution_score": 202.7
-          },
-          {
-            "ticker": "MLPL",
-            "change_pct": 12.2,
-            "contribution_score": 193.64
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juli 2026"
-        }
-      },
-      "detected_at": "2026-07-16T02:46:00.679Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DEWA",
       "name": "PT Darma Henwa Tbk",
@@ -1010,52 +964,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BBLD",
-      "name": "BBLD",
-      "change_pct": 2.8,
-      "move_30min": -4.35,
-      "label": "BBLD -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "NIRO",
-            "change_pct": 15.49,
-            "contribution_score": 213.92
-          },
-          {
-            "ticker": "MLPT",
-            "change_pct": 19.98,
-            "contribution_score": 202.7
-          },
-          {
-            "ticker": "MLPL",
-            "change_pct": 12.2,
-            "contribution_score": 193.64
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_bi_rate",
-          "label": "HARI INI: BI Rate Decision Juli 2026"
-        }
-      },
-      "detected_at": "2026-07-16T02:46:00.679Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "HERO",
       "name": "PT DFI Retail Nusantara Tbk",
       "change_pct": 3.03,
@@ -1097,6 +1005,282 @@
         }
       },
       "detected_at": "2026-07-16T02:46:00.679Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MLPL",
+      "name": "MLPL",
+      "change_pct": 12.2,
+      "move_30min": 9.64,
+      "label": "MLPL +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 16.2,
+            "contribution_score": 226.15
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 202.86
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 10.98,
+            "contribution_score": 176.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 3.74,
+      "move_30min": -7.5,
+      "label": "BBLD -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 16.2,
+            "contribution_score": 226.15
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 202.86
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 10.98,
+            "contribution_score": 176.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 11.48,
+      "move_30min": 7.94,
+      "label": "DOOH +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 16.2,
+            "contribution_score": 226.15
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 202.86
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 10.98,
+            "contribution_score": 176.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 16.2,
+      "move_30min": -5.17,
+      "label": "NIRO -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 16.2,
+            "contribution_score": 226.15
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 202.86
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 10.98,
+            "contribution_score": 176.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTPP",
+      "name": "PT PP (Persero) Tbk",
+      "change_pct": -2.86,
+      "move_30min": -3.77,
+      "label": "PTPP -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -220.05
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -6.74,
+            "contribution_score": -113.77
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -5.94,
+            "contribution_score": -76.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SRAJ",
+      "name": "PT Sejahteraraya Anugrahjaya Tbk",
+      "change_pct": 0.23,
+      "move_30min": -3.5,
+      "label": "SRAJ -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 16.2,
+            "contribution_score": 226.15
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 202.86
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 10.98,
+            "contribution_score": 176.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:01:00.820Z",
       "status": "active",
       "summary": null
     }
