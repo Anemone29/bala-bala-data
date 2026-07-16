@@ -2,14 +2,228 @@
   "generated_at": "2026-07-16T03:16:00.741Z",
   "events": [
     {
-      "type": "macro_bi_rate",
-      "ticker": "BI_RATE",
-      "name": "BI Rate Decision Juli 2026",
-      "change_pct": 0,
-      "label": "HARI INI: BI Rate Decision Juli 2026",
-      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-16"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "RAJA",
+            "change_pct": 400,
+            "contribution_score": 7618.4
+          },
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T02:01:00.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 15.57,
+      "move_30min": 10.16,
+      "label": "DOOH +10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 20.42,
+            "contribution_score": 289.54
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.57,
+            "contribution_score": 248.78
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 203.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:16:00.741Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTPP",
+      "name": "PT PP (Persero) Tbk",
+      "change_pct": -2.86,
+      "move_30min": -3.77,
+      "label": "PTPP -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.2
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -6.98,
+            "contribution_score": -120.83
+          },
+          {
+            "ticker": "PEGE",
+            "change_pct": -7.62,
+            "contribution_score": -105.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:16:00.741Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -6.98,
+      "move_30min": -3.61,
+      "label": "BNBR -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.2
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -6.98,
+            "contribution_score": -120.83
+          },
+          {
+            "ticker": "PEGE",
+            "change_pct": -7.62,
+            "contribution_score": -105.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:16:00.741Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 20.42,
+            "contribution_score": 289.54
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.57,
+            "contribution_score": 248.78
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 203.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T03:16:00.741Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
