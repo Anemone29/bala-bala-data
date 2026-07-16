@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T03:46:00.664Z",
+  "generated_at": "2026-07-16T04:01:00.958Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1879,6 +1879,98 @@
         }
       },
       "detected_at": "2026-07-16T03:46:00.664Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 12.3,
+      "move_30min": -4.2,
+      "label": "DOOH -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 18.31,
+            "contribution_score": 263.08
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 205.07
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.3,
+            "contribution_score": 203.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:01:00.958Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 4.67,
+      "move_30min": -3.45,
+      "label": "BBLD -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NIRO",
+            "change_pct": 18.31,
+            "contribution_score": 263.08
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.98,
+            "contribution_score": 205.07
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.3,
+            "contribution_score": 203.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:01:00.958Z",
       "status": "active",
       "summary": null
     }
