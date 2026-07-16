@@ -2,14 +2,228 @@
   "generated_at": "2026-07-16T04:31:00.905Z",
   "events": [
     {
-      "type": "macro_bi_rate",
-      "ticker": "BI_RATE",
-      "name": "BI Rate Decision Juli 2026",
-      "change_pct": 0,
-      "label": "HARI INI: BI Rate Decision Juli 2026",
-      "detail": "Pengumuman BI 7DRRR jam 14:30 WIB.",
-      "impact": "medium",
-      "event_date": "2026-07-16"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "RAJA",
+            "change_pct": 400,
+            "contribution_score": 7618.4
+          },
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T02:01:00.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -9.09,
+      "move_30min": -3.23,
+      "label": "KKES -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.41
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -109.4
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -108.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:31:00.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": -8.62,
+      "move_30min": -10.17,
+      "label": "INPS -10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.41
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -109.4
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -108.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:31:00.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRAM",
+      "name": "PT Indo Kordsa Tbk",
+      "change_pct": -6.15,
+      "move_30min": -6.15,
+      "label": "BRAM -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.41
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -109.4
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -108.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:31:00.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RICY",
+      "name": "RICY",
+      "change_pct": -1.27,
+      "move_30min": -4.88,
+      "label": "RICY -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.41
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -109.4
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -108.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T04:31:00.905Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
