@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T07:01:02.056Z",
+  "generated_at": "2026-07-16T07:16:00.879Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2852,9 +2852,9 @@
       "type": "rapid_down",
       "ticker": "LUCY",
       "name": "PT Lima Dua Lima Tiga Tbk",
-      "change_pct": -4.3,
-      "move_30min": -3.26,
-      "label": "LUCY -3.3% dalam 30 menit",
+      "change_pct": -4.84,
+      "move_30min": -3.8,
+      "label": "LUCY -3.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2890,7 +2890,99 @@
           "label": "HARI INI: BI Rate Decision Juli 2026"
         }
       },
-      "detected_at": "2026-07-16T07:01:02.056Z",
+      "detected_at": "2026-07-16T07:16:00.879Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -4.03,
+      "move_30min": -5.3,
+      "label": "PUDP -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -14.74,
+            "contribution_score": -221.51
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -9.09,
+            "contribution_score": -110.47
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.7,
+            "contribution_score": -109.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T07:16:00.879Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 0,
+      "move_30min": -3.22,
+      "label": "SMMT -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PSDN",
+            "change_pct": 21.1,
+            "contribution_score": 350.37
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 17.65,
+            "contribution_score": 253.08
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 14.86,
+            "contribution_score": 249.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_bi_rate",
+          "label": "HARI INI: BI Rate Decision Juli 2026"
+        }
+      },
+      "detected_at": "2026-07-16T07:16:00.879Z",
       "status": "active",
       "summary": null
     }
