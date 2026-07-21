@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-21T03:45:29.260Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": 9.68,
+            "contribution_score": 172
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 10.31,
+            "contribution_score": 130.68
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.33,
+            "contribution_score": 101.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:15:29.216Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 10,
+      "move_30min": -7.07,
+      "label": "GSMF -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 361.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 12.59,
+            "contribution_score": 196.86
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 8.54,
+            "contribution_score": 163.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:45:29.260Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEWA",
+      "name": "PT Darma Henwa Tbk",
+      "change_pct": 8.54,
+      "move_30min": -3.14,
+      "label": "DEWA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 361.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 12.59,
+            "contribution_score": 196.86
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 8.54,
+            "contribution_score": 163.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:45:29.260Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": 7.41,
+      "move_30min": -3.33,
+      "label": "WIRG -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 361.26
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 12.59,
+            "contribution_score": 196.86
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": 8.54,
+            "contribution_score": 163.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:45:29.260Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": -0.84,
+      "move_30min": -3.28,
+      "label": "DIVA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -115.63
+          },
+          {
+            "ticker": "OMRE",
+            "change_pct": -13.03,
+            "contribution_score": -115.13
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.62,
+            "contribution_score": -110.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:45:29.260Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
