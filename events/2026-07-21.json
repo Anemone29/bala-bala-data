@@ -1,13 +1,13 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T02:00:29.297Z",
+  "generated_at": "2026-07-21T02:15:29.216Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "71% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,20 +22,25 @@
         ],
         "tickers": [
           {
-            "ticker": "MLPT",
-            "change_pct": 2400,
-            "contribution_score": 36782.4
+            "ticker": "BIPI",
+            "change_pct": 9.68,
+            "contribution_score": 172
           },
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "MLPT",
+            "change_pct": 10.31,
+            "contribution_score": 130.68
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.33,
+            "contribution_score": 101.32
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-21T02:00:29.297Z",
+      "detected_at": "2026-07-21T02:15:29.216Z",
       "status": "active",
       "summary": null
     }
