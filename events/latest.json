@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-21T06:45:29.467Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": 9.68,
+            "contribution_score": 172
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 10.31,
+            "contribution_score": 130.68
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.33,
+            "contribution_score": 101.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:15:29.216Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "BAPI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OMRE",
+            "change_pct": -13.41,
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.93,
+            "contribution_score": -104.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "IPTV -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OMRE",
+            "change_pct": -13.41,
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.93,
+            "contribution_score": -104.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "TARA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OMRE",
+            "change_pct": -13.41,
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.93,
+            "contribution_score": -104.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 20.95,
+      "move_30min": 7.63,
+      "label": "TRON +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.95,
+            "contribution_score": 346.03
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 12.68,
+            "contribution_score": 230.23
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 14.07,
+            "contribution_score": 223.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

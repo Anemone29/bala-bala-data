@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T06:30:29.476Z",
+  "generated_at": "2026-07-21T06:45:29.467Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2430,25 +2430,25 @@
         ],
         "tickers": [
           {
-            "ticker": "PAMG",
-            "change_pct": -9.52,
-            "contribution_score": -139.82
-          },
-          {
             "ticker": "OMRE",
             "change_pct": -13.41,
-            "contribution_score": -121.13
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
           },
           {
             "ticker": "FILM",
-            "change_pct": -8.28,
-            "contribution_score": -109.24
+            "change_pct": -7.93,
+            "contribution_score": -104.73
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-21T06:30:29.476Z",
+      "detected_at": "2026-07-21T06:45:29.467Z",
       "status": "active",
       "summary": null
     },
@@ -2473,25 +2473,25 @@
         ],
         "tickers": [
           {
-            "ticker": "PAMG",
-            "change_pct": -9.52,
-            "contribution_score": -139.82
-          },
-          {
             "ticker": "OMRE",
             "change_pct": -13.41,
-            "contribution_score": -121.13
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
           },
           {
             "ticker": "FILM",
-            "change_pct": -8.28,
-            "contribution_score": -109.24
+            "change_pct": -7.93,
+            "contribution_score": -104.73
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-21T06:30:29.476Z",
+      "detected_at": "2026-07-21T06:45:29.467Z",
       "status": "active",
       "summary": null
     },
@@ -2516,25 +2516,111 @@
         ],
         "tickers": [
           {
-            "ticker": "PAMG",
-            "change_pct": -9.52,
-            "contribution_score": -139.82
-          },
-          {
             "ticker": "OMRE",
             "change_pct": -13.41,
-            "contribution_score": -121.13
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -116.75
           },
           {
             "ticker": "FILM",
-            "change_pct": -8.28,
-            "contribution_score": -109.24
+            "change_pct": -7.93,
+            "contribution_score": -104.73
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-21T06:30:29.476Z",
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 20.95,
+      "move_30min": 7.63,
+      "label": "TRON +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.95,
+            "contribution_score": 346.03
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 12.68,
+            "contribution_score": 230.23
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 14.07,
+            "contribution_score": 223.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MLPT",
+      "name": "PT Multipolar Technology Tbk",
+      "change_pct": 15.13,
+      "move_30min": -8.08,
+      "label": "MLPT -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.95,
+            "contribution_score": 346.03
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 12.68,
+            "contribution_score": 230.23
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 14.07,
+            "contribution_score": 223.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T06:45:29.467Z",
       "status": "active",
       "summary": null
     }
