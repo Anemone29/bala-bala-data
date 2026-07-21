@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-21T03:00:29.305Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": 9.68,
+            "contribution_score": 172
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 10.31,
+            "contribution_score": 130.68
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.33,
+            "contribution_score": 101.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:15:29.216Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEWA",
+      "name": "PT Darma Henwa Tbk",
+      "change_pct": 7.54,
+      "move_30min": 7.54,
+      "label": "DEWA +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 22.22,
+            "contribution_score": 390.67
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 360.5
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 194.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:00:29.305Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": 11.11,
+      "move_30min": -3.23,
+      "label": "WIRG -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 22.22,
+            "contribution_score": 390.67
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 360.5
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 194.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:00:29.305Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 2.02,
+      "move_30min": -8.18,
+      "label": "VOKS -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 22.22,
+            "contribution_score": 390.67
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 360.5
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 194.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:00:29.305Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 0.4,
+      "move_30min": -4.21,
+      "label": "ARTA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 22.22,
+            "contribution_score": 390.67
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 360.5
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 194.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T03:00:29.305Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
