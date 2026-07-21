@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-07-21T02:45:29.225Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": 9.68,
+            "contribution_score": 172
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 10.31,
+            "contribution_score": 130.68
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.33,
+            "contribution_score": 101.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:15:29.216Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 14.44,
+      "move_30min": 11.96,
+      "label": "GSMF +12.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 359.14
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 14.44,
+            "contribution_score": 242.32
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 193.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:45:29.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 11.11,
+      "move_30min": 8.08,
+      "label": "VOKS +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 359.14
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 14.44,
+            "contribution_score": 242.32
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.11,
+            "contribution_score": 193.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:45:29.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -6.31,
+      "move_30min": -4.15,
+      "label": "TRUS -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -112.5
+          },
+          {
+            "ticker": "OMRE",
+            "change_pct": -10.34,
+            "contribution_score": -85.51
+          },
+          {
+            "ticker": "ARTO",
+            "change_pct": -5.02,
+            "contribution_score": -63.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:45:29.225Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -5.68,
+      "move_30min": -5.68,
+      "label": "NFCX -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -7.94,
+            "contribution_score": -112.5
+          },
+          {
+            "ticker": "OMRE",
+            "change_pct": -10.34,
+            "contribution_score": -85.51
+          },
+          {
+            "ticker": "ARTO",
+            "change_pct": -5.02,
+            "contribution_score": -63.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T02:45:29.225Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
