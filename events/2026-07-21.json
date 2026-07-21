@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T04:30:29.252Z",
+  "generated_at": "2026-07-21T04:45:29.324Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2196,49 +2196,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "INDS",
-      "name": "PT Indospring Tbk",
-      "change_pct": 14.39,
-      "move_30min": 10.22,
-      "label": "INDS +10.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MLPT",
-            "change_pct": 25.24,
-            "contribution_score": 362.8
-          },
-          {
-            "ticker": "BEEF",
-            "change_pct": 14.81,
-            "contribution_score": 234.72
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 12.68,
-            "contribution_score": 226.48
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-21T04:30:29.252Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "GMTD",
       "name": "PT Gowa Makassar Tourism Development Tbk",
       "change_pct": 14.34,
@@ -2277,6 +2234,92 @@
         "macro_active": null
       },
       "detected_at": "2026-07-21T04:30:29.252Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INDS",
+      "name": "PT Indospring Tbk",
+      "change_pct": 14.39,
+      "move_30min": 7.3,
+      "label": "INDS +7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 362.98
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 14.81,
+            "contribution_score": 234.93
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 13.33,
+            "contribution_score": 209.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T04:45:29.324Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 5.38,
+      "move_30min": 7.87,
+      "label": "COCO +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25.24,
+            "contribution_score": 362.98
+          },
+          {
+            "ticker": "BEEF",
+            "change_pct": 14.81,
+            "contribution_score": 234.93
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 13.33,
+            "contribution_score": 209.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-21T04:45:29.324Z",
       "status": "active",
       "summary": null
     }
