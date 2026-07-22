@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-07-22T04:30:29.234Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T02:00:29.520Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "BAPI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.62
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.29,
+            "contribution_score": 333.92
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 23.61,
+            "contribution_score": 298.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:30:29.234Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": 9.9,
+      "move_30min": 9.9,
+      "label": "RAAM +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.62
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.29,
+            "contribution_score": 333.92
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 23.61,
+            "contribution_score": 298.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:30:29.234Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -3.08,
+      "move_30min": -3.08,
+      "label": "KKES -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -13.53,
+            "contribution_score": -208.01
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -122.17
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.26,
+            "contribution_score": -108.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:30:29.234Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 5.3,
+      "move_30min": -3.47,
+      "label": "ESTI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.62
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.29,
+            "contribution_score": 333.92
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 23.61,
+            "contribution_score": 298.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:30:29.234Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
