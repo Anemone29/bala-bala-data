@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T04:00:29.387Z",
+  "generated_at": "2026-07-22T04:15:29.407Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2830,49 +2830,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MDIA",
-      "name": "PT Intermedia Capital Tbk",
-      "change_pct": 18.29,
-      "move_30min": 16.87,
-      "label": "MDIA +16.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MLPT",
-            "change_pct": 23.85,
-            "contribution_score": 382.55
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 18.29,
-            "contribution_score": 330.79
-          },
-          {
-            "ticker": "ALDO",
-            "change_pct": 25,
-            "contribution_score": 313.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-22T04:00:29.387Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "KICI",
       "name": "PT Kedaung Indah Can Tbk",
@@ -2916,12 +2873,55 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 18.29,
+      "move_30min": 11.63,
+      "label": "MDIA +11.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.23,
+            "contribution_score": 389.33
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 313.6
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 309.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:15:29.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "OMRE",
       "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": -4.74,
-      "move_30min": -3.49,
-      "label": "OMRE -3.5% dalam 30 menit",
+      "change_pct": -5.17,
+      "move_30min": -3.93,
+      "label": "OMRE -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2937,24 +2937,196 @@
         "tickers": [
           {
             "ticker": "TRON",
-            "change_pct": -14.29,
-            "contribution_score": -219.01
+            "change_pct": -13.53,
+            "contribution_score": -207.79
           },
           {
             "ticker": "ASMI",
             "change_pct": -10,
-            "contribution_score": -115.96
+            "contribution_score": -122.17
           },
           {
             "ticker": "PIPA",
-            "change_pct": -7.26,
-            "contribution_score": -106.36
+            "change_pct": -6.45,
+            "contribution_score": -95.81
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-22T04:00:29.387Z",
+      "detected_at": "2026-07-22T04:15:29.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -1.69,
+      "move_30min": -3.33,
+      "label": "WIRG -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -13.53,
+            "contribution_score": -207.79
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -122.17
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -6.45,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:15:29.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "BAPI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.23,
+            "contribution_score": 389.33
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 313.6
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 309.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:15:29.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": 5.94,
+      "move_30min": 7,
+      "label": "RAAM +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.23,
+            "contribution_score": 389.33
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 313.6
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 309.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:15:29.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -3.08,
+      "move_30min": -3.08,
+      "label": "KKES -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -13.53,
+            "contribution_score": -207.79
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -122.17
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -6.45,
+            "contribution_score": -95.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:15:29.407Z",
       "status": "active",
       "summary": null
     }
