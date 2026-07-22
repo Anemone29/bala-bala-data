@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T04:45:29.283Z",
+  "generated_at": "2026-07-22T05:00:29.378Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3170,6 +3170,92 @@
         "macro_active": null
       },
       "detected_at": "2026-07-22T04:45:29.283Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AGRS",
+      "name": "PT Bank IBK Indonesia Tbk",
+      "change_pct": -1.61,
+      "move_30min": -3.17,
+      "label": "AGRS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -13.53,
+            "contribution_score": -208.52
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -122.17
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -9.13,
+            "contribution_score": -121.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T05:00:29.378Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ITIC",
+      "name": "PT Indonesian Tobacco Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "ITIC -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -13.53,
+            "contribution_score": -208.52
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -122.17
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -9.13,
+            "contribution_score": -121.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T05:00:29.378Z",
       "status": "active",
       "summary": null
     }
