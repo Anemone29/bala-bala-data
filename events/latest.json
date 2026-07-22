@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-07-22T06:30:29.577Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T02:00:29.520Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 19.51,
+      "move_30min": -3.92,
+      "label": "MDIA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 24,
+            "contribution_score": 481.82
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.83
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 19.51,
+            "contribution_score": 364.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T06:30:29.577Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": 9.9,
+      "move_30min": -3.48,
+      "label": "RAAM -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 24,
+            "contribution_score": 481.82
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.83
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 19.51,
+            "contribution_score": 364.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T06:30:29.577Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "PPRO -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -220.29
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -132.77
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -9.13,
+            "contribution_score": -122.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T06:30:29.577Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "TARA -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -220.29
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -132.77
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -9.13,
+            "contribution_score": -122.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T06:30:29.577Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
