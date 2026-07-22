@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T03:30:29.436Z",
+  "generated_at": "2026-07-22T03:45:29.270Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2697,6 +2697,92 @@
         "macro_active": null
       },
       "detected_at": "2026-07-22T03:30:29.436Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": -14.29,
+      "move_30min": -3.39,
+      "label": "TRON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -14.29,
+            "contribution_score": -218.24
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -115.96
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.86,
+            "contribution_score": -82.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T03:45:29.270Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PBSA",
+      "name": "PT Paramita Bangun Sarana Tbk",
+      "change_pct": 3.25,
+      "move_30min": -4.22,
+      "label": "PBSA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.23,
+            "contribution_score": 388.38
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 313.28
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.67,
+            "contribution_score": 211.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T03:45:29.270Z",
       "status": "active",
       "summary": null
     }
