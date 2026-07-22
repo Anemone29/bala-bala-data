@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T04:30:29.234Z",
+  "generated_at": "2026-07-22T04:45:29.283Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3045,49 +3045,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "RAAM",
-      "name": "Tripar Multivision Plus Tbk.",
-      "change_pct": 9.9,
-      "move_30min": 9.9,
-      "label": "RAAM +9.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MLPT",
-            "change_pct": 25,
-            "contribution_score": 404.62
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 18.29,
-            "contribution_score": 333.92
-          },
-          {
-            "ticker": "ALDO",
-            "change_pct": 23.61,
-            "contribution_score": 298.97
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-22T04:30:29.234Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "KKES",
       "name": "Kusuma Kemindo Sentosa Tbk.",
@@ -3170,6 +3127,49 @@
         "macro_active": null
       },
       "detected_at": "2026-07-22T04:30:29.234Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": 13.86,
+      "move_30min": 7.48,
+      "label": "RAAM +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 24.39,
+            "contribution_score": 456.24
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 25,
+            "contribution_score": 404.68
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 16,
+            "contribution_score": 312.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-22T04:45:29.283Z",
       "status": "active",
       "summary": null
     }
