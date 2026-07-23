@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T02:30:29.259Z",
+  "generated_at": "2026-07-23T02:45:29.257Z",
   "events": [
     {
       "type": "breadth_up",
@@ -383,8 +383,8 @@
       "ticker": "LPGI",
       "name": "PT Lippo General Insurance Tbk",
       "change_pct": -3.76,
-      "move_30min": -3.76,
-      "label": "LPGI -3.8% dalam 30 menit",
+      "move_30min": -5.84,
+      "label": "LPGI -5.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -399,25 +399,411 @@
         ],
         "tickers": [
           {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
             "ticker": "NETV",
             "change_pct": -3.64,
-            "contribution_score": -50.41
+            "contribution_score": -53.12
           },
           {
-            "ticker": "MSIN",
-            "change_pct": -3.74,
-            "contribution_score": -47.31
-          },
-          {
-            "ticker": "BTON",
-            "change_pct": -4.81,
-            "contribution_score": -35.15
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-23T02:30:29.259Z",
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 70.1,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 26.92,
+            "contribution_score": 499.42
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.92,
+            "contribution_score": 386.14
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 9.18,
+            "contribution_score": 152.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCK",
+      "name": "PT Sentral Mitra Informatika Tbk",
+      "change_pct": -2.52,
+      "move_30min": -8.66,
+      "label": "LUCK -8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.12
+          },
+          {
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": 3.33,
+      "move_30min": -6.53,
+      "label": "ALDO -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 26.92,
+            "contribution_score": 499.42
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.92,
+            "contribution_score": 386.14
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 9.18,
+            "contribution_score": 152.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": -1.64,
+      "move_30min": -3.23,
+      "label": "POLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.12
+          },
+          {
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": 0,
+      "move_30min": -4.31,
+      "label": "TYRE -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 26.92,
+            "contribution_score": 499.42
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.92,
+            "contribution_score": 386.14
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 9.18,
+            "contribution_score": 152.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -1.56,
+      "move_30min": -3.82,
+      "label": "JECC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.12
+          },
+          {
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -3.31,
+      "move_30min": -3.31,
+      "label": "YPAS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.12
+          },
+          {
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 2.29,
+      "move_30min": 8.48,
+      "label": "PORT +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 26.92,
+            "contribution_score": 499.42
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.92,
+            "contribution_score": 386.14
+          },
+          {
+            "ticker": "MLPL",
+            "change_pct": 9.18,
+            "contribution_score": 152.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.64,
+      "move_30min": -3.64,
+      "label": "CASA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.21,
+            "contribution_score": -54.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.12
+          },
+          {
+            "ticker": "LUCK",
+            "change_pct": -2.52,
+            "contribution_score": -35.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:45:29.257Z",
       "status": "active",
       "summary": null
     }
