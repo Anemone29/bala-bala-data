@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T04:30:29.314Z",
+  "generated_at": "2026-07-23T04:45:29.256Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1712,48 +1712,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 76,
-      "label": "75% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "VIVA",
-            "change_pct": 28.13,
-            "contribution_score": 445.64
-          },
-          {
-            "ticker": "MLPT",
-            "change_pct": 23.69,
-            "contribution_score": 381.39
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 19.23,
-            "contribution_score": 362.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-07-23T04:30:29.314Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BAPI",
       "name": "BAPI",
@@ -1969,6 +1927,48 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 28.13,
+            "contribution_score": 445.64
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.31,
+            "contribution_score": 392.22
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 16.35,
+            "contribution_score": 306.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T04:45:29.256Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "WMUU",
       "name": "Widodo Makmur Unggas Tbk.",
@@ -1991,7 +1991,7 @@
           {
             "ticker": "MSIN",
             "change_pct": -8.93,
-            "contribution_score": -123.79
+            "contribution_score": -124.73
           },
           {
             "ticker": "ASMI",
@@ -1999,15 +1999,144 @@
             "contribution_score": -73.69
           },
           {
-            "ticker": "MITI",
-            "change_pct": -4.65,
-            "contribution_score": -56.21
+            "ticker": "TRJA",
+            "change_pct": -3.45,
+            "contribution_score": -41.29
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-07-23T04:30:29.314Z",
+      "detected_at": "2026-07-23T04:45:29.256Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 7.6,
+      "move_30min": 7.6,
+      "label": "DOOH +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 28.13,
+            "contribution_score": 445.64
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.31,
+            "contribution_score": 392.22
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 16.35,
+            "contribution_score": 306.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T04:45:29.256Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": 17.76,
+      "move_30min": 14.74,
+      "label": "MCAS +14.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 28.13,
+            "contribution_score": 445.64
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.31,
+            "contribution_score": 392.22
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 16.35,
+            "contribution_score": 306.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T04:45:29.256Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": 10.15,
+      "move_30min": 7.59,
+      "label": "MPRO +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 28.13,
+            "contribution_score": 445.64
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 24.31,
+            "contribution_score": 392.22
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 16.35,
+            "contribution_score": 306.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T04:45:29.256Z",
       "status": "active",
       "summary": null
     }
