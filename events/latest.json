@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-07-23T03:15:29.458Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.3,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 25,
+            "contribution_score": 470.47
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 22.77,
+            "contribution_score": 359.88
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.41,
+            "contribution_score": 270.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T03:15:29.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T02:00:29.483Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 14.41,
+      "move_30min": 9.48,
+      "label": "KOTA +9.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 25,
+            "contribution_score": 470.47
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 22.77,
+            "contribution_score": 359.88
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.41,
+            "contribution_score": 270.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T03:15:29.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": -4.31,
+      "move_30min": -3.48,
+      "label": "TRJA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -8.93,
+            "contribution_score": -120.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -5.26,
+            "contribution_score": -69.63
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -3.64,
+            "contribution_score": -53.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T03:15:29.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 10.06,
+      "move_30min": 9.71,
+      "label": "BOGA +9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 25,
+            "contribution_score": 470.47
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 22.77,
+            "contribution_score": 359.88
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.41,
+            "contribution_score": 270.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-07-23T03:15:29.458Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
