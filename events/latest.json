@@ -2,14 +2,223 @@
   "generated_at": "2026-07-27T06:46:03.836Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:01:05.448Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 9.09,
+      "move_30min": 9.09,
+      "label": "BTEK +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 35,
+            "contribution_score": 531.4
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 23.89,
+            "contribution_score": 408.4
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 24.3,
+            "contribution_score": 379.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T06:46:03.836Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -7.14,
+      "move_30min": -3.7,
+      "label": "BAUT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.5,
+            "contribution_score": -132.75
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -9.83,
+            "contribution_score": -128.7
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -7.14,
+            "contribution_score": -78.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T06:46:03.836Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
       "change_pct": 0,
-      "label": "BESOK: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "move_30min": -3.23,
+      "label": "PURA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 35,
+            "contribution_score": 531.4
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 23.89,
+            "contribution_score": 408.4
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 24.3,
+            "contribution_score": 379.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T06:46:03.836Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -7.5,
+      "move_30min": -7.5,
+      "label": "IFSH -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.5,
+            "contribution_score": -132.75
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -9.83,
+            "contribution_score": -128.7
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -7.14,
+            "contribution_score": -78.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T06:46:03.836Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
