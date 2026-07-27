@@ -2,14 +2,223 @@
   "generated_at": "2026-07-27T02:31:03.828Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
-      "change_pct": 0,
-      "label": "BESOK: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:01:05.448Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -9.17,
+      "move_30min": -9.17,
+      "label": "COCO -9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.17,
+            "contribution_score": -154.7
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.09,
+            "contribution_score": -120.15
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.08,
+            "contribution_score": -86.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:31:03.828Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": 18.85,
+      "move_30min": 18.85,
+      "label": "PSDN +18.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 32.5,
+            "contribution_score": 475.93
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 24.3,
+            "contribution_score": 378.59
+          },
+          {
+            "ticker": "PSDN",
+            "change_pct": 18.85,
+            "contribution_score": 312.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:31:03.828Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -3.15,
+      "move_30min": -3.15,
+      "label": "MDIA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -9.17,
+            "contribution_score": -154.7
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -9.09,
+            "contribution_score": -120.15
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.08,
+            "contribution_score": -86.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:31:03.828Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 7.47,
+      "move_30min": 7.47,
+      "label": "DOOH +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 32.5,
+            "contribution_score": 475.93
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 24.3,
+            "contribution_score": 378.59
+          },
+          {
+            "ticker": "PSDN",
+            "change_pct": 18.85,
+            "contribution_score": 312.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:31:03.828Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
