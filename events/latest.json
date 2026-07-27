@@ -2,14 +2,223 @@
   "generated_at": "2026-07-27T04:16:03.368Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
-      "change_pct": 0,
-      "label": "BESOK: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:01:05.448Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 6.56,
+      "move_30min": -3.08,
+      "label": "SLIS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 35,
+            "contribution_score": 529.16
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 25.66,
+            "contribution_score": 434.55
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 24.3,
+            "contribution_score": 379.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T04:16:03.368Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -2.43,
+      "move_30min": -3.81,
+      "label": "ASPI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.67,
+            "contribution_score": -116.68
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -7.58,
+            "contribution_score": -98.4
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.42,
+            "contribution_score": -87.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T04:16:03.368Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -3.83,
+      "move_30min": -3.83,
+      "label": "BTON -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.67,
+            "contribution_score": -116.68
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -7.58,
+            "contribution_score": -98.4
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.42,
+            "contribution_score": -87.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T04:16:03.368Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -6.43,
+      "move_30min": -6.05,
+      "label": "PNSE -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.67,
+            "contribution_score": -116.68
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -7.58,
+            "contribution_score": -98.4
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.42,
+            "contribution_score": -87.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T04:16:03.368Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
