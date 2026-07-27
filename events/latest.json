@@ -2,14 +2,223 @@
   "generated_at": "2026-07-27T03:31:04.218Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
-      "change_pct": 0,
-      "label": "BESOK: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T02:01:05.448Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 19.31,
+      "move_30min": -7.26,
+      "label": "ECII -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 35,
+            "contribution_score": 528.47
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 27.47,
+            "contribution_score": 399.66
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 23.01,
+            "contribution_score": 382.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T03:31:04.218Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 27.47,
+      "move_30min": 11.54,
+      "label": "TFAS +11.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 35,
+            "contribution_score": 528.47
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 27.47,
+            "contribution_score": 399.66
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 23.01,
+            "contribution_score": 382.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T03:31:04.218Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -1.25,
+      "move_30min": -3.07,
+      "label": "ALDO -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": -7.02,
+            "contribution_score": -88.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5.88,
+            "contribution_score": -79.53
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.17,
+            "contribution_score": -72.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T03:31:04.218Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "TARA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MLPT",
+            "change_pct": -7.02,
+            "contribution_score": -88.43
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -5.88,
+            "contribution_score": -79.53
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -4.17,
+            "contribution_score": -72.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "BESOK: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-27T03:31:04.218Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
