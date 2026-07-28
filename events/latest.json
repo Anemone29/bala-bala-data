@@ -2,14 +2,223 @@
   "generated_at": "2026-07-28T03:31:03.297Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
-      "change_pct": 0,
-      "label": "HARI INI: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:01:05.782Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": 13.89,
+      "move_30min": -4.88,
+      "label": "DMMX -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24.32,
+            "contribution_score": 399.8
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 19.55,
+            "contribution_score": 320.87
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.6,
+            "contribution_score": 320.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T03:31:03.297Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -8.33,
+      "move_30min": -8.33,
+      "label": "BTEK -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -115.15
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -102.62
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T03:31:03.297Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -7.69,
+      "move_30min": -7.69,
+      "label": "TAXI -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -115.15
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -102.62
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T03:31:03.297Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "ASMI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -115.15
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -102.62
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T03:31:03.297Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
