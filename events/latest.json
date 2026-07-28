@@ -2,14 +2,223 @@
   "generated_at": "2026-07-28T02:46:03.500Z",
   "events": [
     {
-      "type": "macro_earnings_season",
-      "ticker": "EARNINGS_SEASON",
-      "name": "Mulai Earnings Season Q2 2026",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:01:05.782Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -4.27,
+      "move_30min": -4.27,
+      "label": "TRIM -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -5.92,
+            "contribution_score": -70.29
+          },
+          {
+            "ticker": "PRIM",
+            "change_pct": -3.74,
+            "contribution_score": -46.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:46:03.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.22,
+      "move_30min": -3.22,
+      "label": "CASA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -5.92,
+            "contribution_score": -70.29
+          },
+          {
+            "ticker": "PRIM",
+            "change_pct": -3.74,
+            "contribution_score": -46.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:46:03.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPKR",
+      "name": "PT Lippo Karawaci Tbk",
       "change_pct": 0,
-      "label": "HARI INI: Mulai Earnings Season Q2 2026",
-      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
-      "impact": "medium",
-      "event_date": "2026-07-28"
+      "move_30min": -3.17,
+      "label": "LPKR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24.32,
+            "contribution_score": 399.48
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 21.8,
+            "contribution_score": 357
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 24.6,
+            "contribution_score": 309.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:46:03.500Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": -3.23,
+      "move_30min": -4,
+      "label": "PSDN -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -4.76,
+            "contribution_score": -73
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -5.92,
+            "contribution_score": -70.29
+          },
+          {
+            "ticker": "PRIM",
+            "change_pct": -3.74,
+            "contribution_score": -46.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T02:46:03.500Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
