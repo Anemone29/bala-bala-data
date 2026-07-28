@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T06:46:03.731Z",
+  "generated_at": "2026-07-28T07:01:07.808Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2932,6 +2932,98 @@
         }
       },
       "detected_at": "2026-07-28T06:46:03.731Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ITIC",
+      "name": "PT Indonesian Tobacco Tbk",
+      "change_pct": 16.35,
+      "move_30min": 10,
+      "label": "ITIC +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AISA",
+            "change_pct": 29.52,
+            "contribution_score": 517.72
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 24.32,
+            "contribution_score": 401.64
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 23.31,
+            "contribution_score": 390.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T07:01:07.808Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BVIC",
+      "name": "PT Bank Victoria International Tbk",
+      "change_pct": 2.17,
+      "move_30min": -3.09,
+      "label": "BVIC -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AISA",
+            "change_pct": 29.52,
+            "contribution_score": 517.72
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 24.32,
+            "contribution_score": 401.64
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 23.31,
+            "contribution_score": 390.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_earnings_season",
+          "label": "HARI INI: Mulai Earnings Season Q2 2026"
+        }
+      },
+      "detected_at": "2026-07-28T07:01:07.808Z",
       "status": "active",
       "summary": null
     }
