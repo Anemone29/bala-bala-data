@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T02:31:03.422Z",
+  "generated_at": "2026-07-29T02:46:03.391Z",
   "events": [
     {
       "type": "breadth_up",
@@ -603,9 +603,9 @@
       "type": "rapid_down",
       "ticker": "MPRO",
       "name": "Maha Properti Indonesia Tbk.",
-      "change_pct": -6.31,
-      "move_30min": -6.31,
-      "label": "MPRO -6.3% dalam 30 menit",
+      "change_pct": -6.72,
+      "move_30min": -6.53,
+      "label": "MPRO -6.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -620,19 +620,19 @@
         ],
         "tickers": [
           {
-            "ticker": "MCAS",
-            "change_pct": -12.35,
-            "contribution_score": -158.51
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
           },
           {
-            "ticker": "BAJA",
-            "change_pct": -10.71,
-            "contribution_score": -146.43
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
           },
           {
             "ticker": "BNBR",
-            "change_pct": -3.77,
-            "contribution_score": -63.61
+            "change_pct": -5.77,
+            "contribution_score": -103.96
           }
         ],
         "foreign_flow": null,
@@ -641,7 +641,835 @@
           "label": "BESOK: FOMC Decision (US Fed)"
         }
       },
-      "detected_at": "2026-07-29T02:31:03.422Z",
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -5.77,
+      "move_30min": -7.55,
+      "label": "BNBR -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 1.56,
+      "move_30min": -4.41,
+      "label": "KOTA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -3.82,
+      "move_30min": -5.26,
+      "label": "MDIA -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AISA",
+      "name": "PT FKS Food Sejahtera Tbk",
+      "change_pct": 11.57,
+      "move_30min": 8.87,
+      "label": "AISA +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPI",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "change_pct": -1.41,
+      "move_30min": -3.45,
+      "label": "BIPI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -1.79,
+      "move_30min": -4.35,
+      "label": "COCO -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 11.18,
+      "move_30min": -5.59,
+      "label": "ECII -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 21.77,
+      "move_30min": 17.97,
+      "label": "DART +18.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INET",
+      "name": "PT Sumber Cipta Multiniaga Tbk",
+      "change_pct": -0.91,
+      "move_30min": -3.54,
+      "label": "INET -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 7.22,
+      "move_30min": -11.11,
+      "label": "TFAS -11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIKL",
+      "name": "NIKL",
+      "change_pct": -0.54,
+      "move_30min": -3.68,
+      "label": "NIKL -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": 1.96,
+      "move_30min": -12.36,
+      "label": "ZONE -12.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": -2.46,
+      "move_30min": -4.03,
+      "label": "CTTH -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": 4.05,
+      "move_30min": -8.63,
+      "label": "ALDO -8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SRAJ",
+      "name": "PT Sejahteraraya Anugrahjaya Tbk",
+      "change_pct": -1.14,
+      "move_30min": -7.05,
+      "label": "SRAJ -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.2,
+      "label": "BMAS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 21.77,
+            "contribution_score": 313.07
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 11.57,
+            "contribution_score": 187.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 13.33,
+            "contribution_score": 176.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -2.01,
+      "move_30min": -3.37,
+      "label": "PNSE -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": -5.64,
+      "move_30min": -5.64,
+      "label": "DAYA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -172.63
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.49,
+            "contribution_score": -136.59
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.77,
+            "contribution_score": -103.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T02:46:03.391Z",
       "status": "active",
       "summary": null
     }
