@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T04:01:05.609Z",
+  "generated_at": "2026-07-29T04:16:03.343Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5016,97 +5016,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -83.5,
-      "label": "79% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -212.11
-          },
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.57
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -187.37
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T04:01:05.609Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "TFAS",
-      "name": "PT Telefast Indonesia Tbk",
-      "change_pct": 14.43,
-      "move_30min": 12.12,
-      "label": "TFAS +12.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TFAS",
-            "change_pct": 14.43,
-            "contribution_score": 207.34
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": 11.18,
-            "contribution_score": 172.52
-          },
-          {
-            "ticker": "AISA",
-            "change_pct": 5.79,
-            "contribution_score": 94.85
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T04:01:05.609Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GOLD",
       "name": "GOLD",
@@ -5195,6 +5104,465 @@
         }
       },
       "detected_at": "2026-07-29T04:01:05.609Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.5,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 14.43,
+      "move_30min": 9,
+      "label": "TFAS +9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": 13.16,
+            "contribution_score": 204.93
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 12.37,
+            "contribution_score": 176.71
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": 10.07,
+            "contribution_score": 114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": 13.16,
+            "contribution_score": 204.93
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 12.37,
+            "contribution_score": 176.71
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": 10.07,
+            "contribution_score": 114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "ANDI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -9.09,
+      "move_30min": -4.76,
+      "label": "HRME -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 10.07,
+      "move_30min": 9.29,
+      "label": "NIRO +9.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ECII",
+            "change_pct": 13.16,
+            "contribution_score": 204.93
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 12.37,
+            "contribution_score": 176.71
+          },
+          {
+            "ticker": "NIRO",
+            "change_pct": 10.07,
+            "contribution_score": 114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -5.88,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASJT",
+      "name": "ASJT",
+      "change_pct": -5.06,
+      "move_30min": -3.85,
+      "label": "ASJT -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": -3.03,
+      "move_30min": -3.76,
+      "label": "INPS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.6
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -12.5,
+            "contribution_score": -175.17
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -140.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:16:03.343Z",
       "status": "active",
       "summary": null
     }
