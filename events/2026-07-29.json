@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T03:46:03.376Z",
+  "generated_at": "2026-07-29T04:01:05.609Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4786,51 +4786,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -83.5,
-      "label": "78% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -212.11
-          },
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.51
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -187.09
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T03:46:03.376Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "WGSH",
       "name": "WGSH",
@@ -5057,6 +5012,189 @@
         }
       },
       "detected_at": "2026-07-29T03:46:03.376Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.5,
+      "label": "79% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.57
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.39,
+            "contribution_score": -187.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:01:05.609Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 14.43,
+      "move_30min": 12.12,
+      "label": "TFAS +12.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TFAS",
+            "change_pct": 14.43,
+            "contribution_score": 207.34
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 11.18,
+            "contribution_score": 172.52
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 5.79,
+            "contribution_score": 94.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:01:05.609Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": 0.75,
+      "move_30min": -4.29,
+      "label": "GOLD -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TFAS",
+            "change_pct": 14.43,
+            "contribution_score": 207.34
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 11.18,
+            "contribution_score": 172.52
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 5.79,
+            "contribution_score": 94.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:01:05.609Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -8.09,
+      "move_30min": -3.64,
+      "label": "ALDO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -212.11
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.57
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.39,
+            "contribution_score": -187.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:01:05.609Z",
       "status": "active",
       "summary": null
     }
