@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T04:31:04.026Z",
+  "generated_at": "2026-07-29T04:46:03.458Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5154,51 +5154,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -83.5,
-      "label": "75% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.67
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -12.5,
-            "contribution_score": -175.36
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -8.65,
-            "contribution_score": -163.73
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T04:31:04.026Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -5701,6 +5656,143 @@
         }
       },
       "detected_at": "2026-07-29T04:31:04.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.5,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.68
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.39,
+            "contribution_score": -188.01
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -9.62,
+            "contribution_score": -182.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:46:03.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -9.62,
+      "move_30min": -3.09,
+      "label": "BNBR -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.68
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.39,
+            "contribution_score": -188.01
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -9.62,
+            "contribution_score": -182.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:46:03.458Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEGA",
+      "name": "PT Bank Mega Tbk",
+      "change_pct": -11.84,
+      "move_30min": -11.17,
+      "label": "MEGA -11.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -14.81,
+            "contribution_score": -197.68
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.39,
+            "contribution_score": -188.01
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -9.62,
+            "contribution_score": -182.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "BESOK: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-29T04:46:03.458Z",
       "status": "active",
       "summary": null
     }
