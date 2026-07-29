@@ -1,233 +1,25 @@
 {
-  "generated_at": "2026-07-29T03:01:06.774Z",
+  "generated_at": "2026-07-29T03:16:03.396Z",
   "events": [
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -72,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.14
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -186.04
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -7.69,
-            "contribution_score": -141.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T03:01:06.774Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "BESOK: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
+      "impact": "high",
+      "event_date": "2026-07-30"
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "70% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ECII",
-            "change_pct": 19.08,
-            "contribution_score": 293.43
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 16.19,
-            "contribution_score": 214
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": 9.59,
-            "contribution_score": 137.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "MPRO",
-      "name": "Maha Properti Indonesia Tbk.",
-      "change_pct": -10.59,
-      "move_30min": -4.57,
-      "label": "MPRO -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.14
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -186.04
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -7.69,
-            "contribution_score": -141.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T03:01:06.774Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BNBR",
-      "name": "PT Bakrie & Brothers Tbk",
-      "change_pct": -7.69,
-      "move_30min": -5.88,
-      "label": "BNBR -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.14
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -186.04
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -7.69,
-            "contribution_score": -141.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T03:01:06.774Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "KOTA",
-      "name": "KOTA",
-      "change_pct": 1.56,
-      "move_30min": -3.79,
-      "label": "KOTA -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -14.81,
-            "contribution_score": -197.14
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -13.39,
-            "contribution_score": -186.04
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -7.69,
-            "contribution_score": -141.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T03:01:06.774Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_earnings_season",
+      "ticker": "EARNINGS_SEASON",
+      "name": "Mulai Earnings Season Q2 2026",
+      "change_pct": 0,
+      "label": "KEMARIN: Mulai Earnings Season Q2 2026",
+      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
+      "impact": "medium",
+      "event_date": "2026-07-28"
     }
   ]
 }
