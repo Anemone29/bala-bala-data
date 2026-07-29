@@ -1,13 +1,13 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T02:01:05.764Z",
+  "generated_at": "2026-07-29T02:16:03.496Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "73% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,9 +22,19 @@
         ],
         "tickers": [
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "TFAS",
+            "change_pct": 20.62,
+            "contribution_score": 281.96
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 17.76,
+            "contribution_score": 227.52
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": 16.34,
+            "contribution_score": 194.27
           }
         ],
         "foreign_flow": null,
@@ -33,7 +43,7 @@
           "label": "BESOK: FOMC Decision (US Fed)"
         }
       },
-      "detected_at": "2026-07-29T02:01:05.764Z",
+      "detected_at": "2026-07-29T02:16:03.496Z",
       "status": "active",
       "summary": null
     }
