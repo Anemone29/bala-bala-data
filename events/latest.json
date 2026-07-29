@@ -1,224 +1,25 @@
 {
-  "generated_at": "2026-07-28T07:46:03.651Z",
+  "generated_at": "2026-07-29T02:01:05.764Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "100% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_earnings_season",
-          "label": "HARI INI: Mulai Earnings Season Q2 2026"
-        }
-      },
-      "detected_at": "2026-07-28T02:01:05.782Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "BESOK: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
+      "impact": "high",
+      "event_date": "2026-07-30"
     },
     {
-      "type": "rapid_down",
-      "ticker": "BAJA",
-      "name": "PT Saranacentral Bajatama Tbk",
-      "change_pct": 18.92,
-      "move_30min": -3.65,
-      "label": "BAJA -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AISA",
-            "change_pct": 26.67,
-            "contribution_score": 469.18
-          },
-          {
-            "ticker": "MCAS",
-            "change_pct": 21.05,
-            "contribution_score": 351.05
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 18.92,
-            "contribution_score": 315.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_earnings_season",
-          "label": "HARI INI: Mulai Earnings Season Q2 2026"
-        }
-      },
-      "detected_at": "2026-07-28T07:46:03.651Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ITIC",
-      "name": "PT Indonesian Tobacco Tbk",
-      "change_pct": 5.77,
-      "move_30min": -7.56,
-      "label": "ITIC -7.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AISA",
-            "change_pct": 26.67,
-            "contribution_score": 469.18
-          },
-          {
-            "ticker": "MCAS",
-            "change_pct": 21.05,
-            "contribution_score": 351.05
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 18.92,
-            "contribution_score": 315.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_earnings_season",
-          "label": "HARI INI: Mulai Earnings Season Q2 2026"
-        }
-      },
-      "detected_at": "2026-07-28T07:46:03.651Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "LUCY",
-      "name": "PT Lima Dua Lima Tiga Tbk",
-      "change_pct": -7.25,
-      "move_30min": -5.88,
-      "label": "LUCY -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -121.63
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": -7.69,
-            "contribution_score": -106.1
-          },
-          {
-            "ticker": "MLPT",
-            "change_pct": -8.1,
-            "contribution_score": -102.27
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_earnings_season",
-          "label": "HARI INI: Mulai Earnings Season Q2 2026"
-        }
-      },
-      "detected_at": "2026-07-28T07:46:03.651Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BKDP",
-      "name": "Bukit Darmo Property Tbk",
-      "change_pct": 9.59,
-      "move_30min": -3.61,
-      "label": "BKDP -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AISA",
-            "change_pct": 26.67,
-            "contribution_score": 469.18
-          },
-          {
-            "ticker": "MCAS",
-            "change_pct": 21.05,
-            "contribution_score": 351.05
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 18.92,
-            "contribution_score": 315.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_earnings_season",
-          "label": "HARI INI: Mulai Earnings Season Q2 2026"
-        }
-      },
-      "detected_at": "2026-07-28T07:46:03.651Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_earnings_season",
+      "ticker": "EARNINGS_SEASON",
+      "name": "Mulai Earnings Season Q2 2026",
+      "change_pct": 0,
+      "label": "KEMARIN: Mulai Earnings Season Q2 2026",
+      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
+      "impact": "medium",
+      "event_date": "2026-07-28"
     }
   ]
 }
