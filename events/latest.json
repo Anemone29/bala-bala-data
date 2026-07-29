@@ -1,234 +1,25 @@
 {
-  "generated_at": "2026-07-29T02:31:03.422Z",
+  "generated_at": "2026-07-29T02:46:03.391Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "70% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ECII",
-            "change_pct": 19.08,
-            "contribution_score": 293.43
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 16.19,
-            "contribution_score": 214
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": 9.59,
-            "contribution_score": 137.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_fomc",
+      "ticker": "FOMC",
+      "name": "FOMC Decision (US Fed)",
+      "change_pct": 0,
+      "label": "BESOK: FOMC Decision (US Fed)",
+      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
+      "impact": "high",
+      "event_date": "2026-07-30"
     },
     {
-      "type": "rapid_up",
-      "ticker": "ECII",
-      "name": "PT Electronic City Indonesia Tbk",
-      "change_pct": 19.08,
-      "move_30min": 19.08,
-      "label": "ECII +19.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ECII",
-            "change_pct": 19.08,
-            "contribution_score": 293.43
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 16.19,
-            "contribution_score": 214
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": 9.59,
-            "contribution_score": 137.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "HALO",
-      "name": "Haloni Jane Tbk.",
-      "change_pct": 8.96,
-      "move_30min": 8.96,
-      "label": "HALO +9.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ECII",
-            "change_pct": 19.08,
-            "contribution_score": 293.43
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 16.19,
-            "contribution_score": 214
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": 9.59,
-            "contribution_score": 137.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "WGSH",
-      "name": "WGSH",
-      "change_pct": 9.59,
-      "move_30min": 9.59,
-      "label": "WGSH +9.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ECII",
-            "change_pct": 19.08,
-            "contribution_score": 293.43
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 16.19,
-            "contribution_score": 214
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": 9.59,
-            "contribution_score": 137.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAJA",
-      "name": "PT Saranacentral Bajatama Tbk",
-      "change_pct": -10.71,
-      "move_30min": -10.71,
-      "label": "BAJA -10.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MCAS",
-            "change_pct": -12.35,
-            "contribution_score": -158.51
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -10.71,
-            "contribution_score": -146.43
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -3.77,
-            "contribution_score": -63.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "BESOK: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-29T02:31:03.422Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_earnings_season",
+      "ticker": "EARNINGS_SEASON",
+      "name": "Mulai Earnings Season Q2 2026",
+      "change_pct": 0,
+      "label": "KEMARIN: Mulai Earnings Season Q2 2026",
+      "detail": "Emiten IDX mulai rilis laporan keuangan Q2 (semester I) minggu ini. Perbankan besar biasanya duluan.",
+      "impact": "medium",
+      "event_date": "2026-07-28"
     }
   ]
 }
