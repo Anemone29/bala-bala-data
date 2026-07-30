@@ -2,14 +2,233 @@
   "generated_at": "2026-07-30T04:16:03.445Z",
   "events": [
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "HARI INI: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
-      "impact": "high",
-      "event_date": "2026-07-30"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "76% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.83,
+            "contribution_score": 378
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.25
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.97,
+            "contribution_score": 319.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 5.41,
+      "move_30min": -5.65,
+      "label": "DOOH -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.83,
+            "contribution_score": 378
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.25
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.97,
+            "contribution_score": 319.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -9.42,
+      "move_30min": -3.1,
+      "label": "MCAS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -9.42,
+            "contribution_score": -131.21
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.27
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -8.33,
+            "contribution_score": -82.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": -3.08,
+      "move_30min": -3.08,
+      "label": "AMAN -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -9.42,
+            "contribution_score": -131.21
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.27
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -8.33,
+            "contribution_score": -82.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PBSA",
+      "name": "PT Paramita Bangun Sarana Tbk",
+      "change_pct": 2.05,
+      "move_30min": -3.25,
+      "label": "PBSA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.83,
+            "contribution_score": 378
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.25
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.97,
+            "contribution_score": 319.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
