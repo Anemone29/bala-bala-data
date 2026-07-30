@@ -2,14 +2,233 @@
   "generated_at": "2026-07-30T03:01:03.666Z",
   "events": [
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "HARI INI: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
-      "impact": "high",
-      "event_date": "2026-07-30"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 401.84
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 20.42,
+            "contribution_score": 330.35
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.1,
+            "contribution_score": 297.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:01:03.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 22.51,
+      "move_30min": 7.48,
+      "label": "BAJA +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 401.84
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 20.42,
+            "contribution_score": 330.35
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.1,
+            "contribution_score": 297.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:01:03.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNLI",
+      "name": "PT Bank Permata Tbk",
+      "change_pct": -9.29,
+      "move_30min": -5.09,
+      "label": "BNLI -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNLI",
+            "change_pct": -9.29,
+            "contribution_score": -95
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -5.8,
+            "contribution_score": -79.74
+          },
+          {
+            "ticker": "ZONE",
+            "change_pct": -8.07,
+            "contribution_score": -72.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:01:03.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 1.72,
+      "move_30min": -4.84,
+      "label": "RODA -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 401.84
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 20.42,
+            "contribution_score": 330.35
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.1,
+            "contribution_score": 297.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:01:03.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 1.64,
+      "move_30min": -4.69,
+      "label": "BIPP -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 401.84
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 20.42,
+            "contribution_score": 330.35
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.1,
+            "contribution_score": 297.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:01:03.666Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
