@@ -2,14 +2,233 @@
   "generated_at": "2026-07-30T05:01:03.986Z",
   "events": [
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "HARI INI: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
-      "impact": "high",
-      "event_date": "2026-07-30"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.83,
+            "contribution_score": 379.37
+          },
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 377.88
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.47,
+            "contribution_score": 351.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T05:01:03.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 11.11,
+      "move_30min": 8.18,
+      "label": "JARR +8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.83,
+            "contribution_score": 379.37
+          },
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 377.88
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.47,
+            "contribution_score": 351.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T05:01:03.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": -1.67,
+      "move_30min": -3.28,
+      "label": "ATIC -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": -10.14,
+            "contribution_score": -141.74
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.1
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": -7.56,
+            "contribution_score": -95.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T05:01:03.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 25,
+      "move_30min": 16.44,
+      "label": "FAST +16.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 376.63
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.61
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.05,
+            "contribution_score": 365.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:46:03.395Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 1.64,
+      "move_30min": -3.13,
+      "label": "BIPP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 376.63
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.61
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.05,
+            "contribution_score": 365.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:46:03.395Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
