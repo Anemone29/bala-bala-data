@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T03:31:03.295Z",
+  "generated_at": "2026-07-30T03:46:03.455Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1751,51 +1751,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "75% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 23.62,
-            "contribution_score": 390.56
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 20.42,
-            "contribution_score": 332.27
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 16.15,
-            "contribution_score": 301.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "HARI INI: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-30T03:31:03.295Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -1980,12 +1935,57 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "78% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 404.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.47,
+            "contribution_score": 350.37
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.97,
+            "contribution_score": 317.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:46:03.455Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "ASLC",
       "name": "PT Autopedia Sukses Lestari Tbk",
-      "change_pct": -4.48,
-      "move_30min": -4.48,
-      "label": "ASLC -4.5% dalam 30 menit",
+      "change_pct": -5.97,
+      "move_30min": -3.08,
+      "label": "ASLC -3.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2006,13 +2006,13 @@
           },
           {
             "ticker": "MCAS",
-            "change_pct": -7.97,
-            "contribution_score": -110.35
+            "change_pct": -6.52,
+            "contribution_score": -90.39
           },
           {
-            "ticker": "ZONE",
-            "change_pct": -7.45,
-            "contribution_score": -68.32
+            "ticker": "ASLC",
+            "change_pct": -5.97,
+            "contribution_score": -80.77
           }
         ],
         "foreign_flow": null,
@@ -2021,7 +2021,145 @@
           "label": "HARI INI: FOMC Decision (US Fed)"
         }
       },
-      "detected_at": "2026-07-30T03:31:03.295Z",
+      "detected_at": "2026-07-30T03:46:03.455Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 11.71,
+      "move_30min": 9.73,
+      "label": "DOOH +9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 24.41,
+            "contribution_score": 404.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.47,
+            "contribution_score": 350.37
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 18.97,
+            "contribution_score": 317.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:46:03.455Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": -1.52,
+      "move_30min": -3.7,
+      "label": "INCI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -125.61
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -6.52,
+            "contribution_score": -90.39
+          },
+          {
+            "ticker": "ASLC",
+            "change_pct": -5.97,
+            "contribution_score": -80.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:46:03.455Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": -2.6,
+      "move_30min": -5.06,
+      "label": "LIFE -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -125.61
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -6.52,
+            "contribution_score": -90.39
+          },
+          {
+            "ticker": "ASLC",
+            "change_pct": -5.97,
+            "contribution_score": -80.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T03:46:03.455Z",
       "status": "active",
       "summary": null
     }
