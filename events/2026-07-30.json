@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T04:31:03.570Z",
+  "generated_at": "2026-07-30T04:46:03.395Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2349,103 +2349,12 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "72% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAJA",
-            "change_pct": 22.51,
-            "contribution_score": 369.41
-          },
-          {
-            "ticker": "ESTI",
-            "change_pct": 21.26,
-            "contribution_score": 351.45
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 18.46,
-            "contribution_score": 349.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "HARI INI: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-30T04:31:03.570Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DOOH",
       "name": "PT Bersama Zatta Jaya Tbk",
       "change_pct": 5.41,
       "move_30min": -3.31,
       "label": "DOOH -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAJA",
-            "change_pct": 22.51,
-            "contribution_score": 369.41
-          },
-          {
-            "ticker": "ESTI",
-            "change_pct": 21.26,
-            "contribution_score": 351.45
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 18.46,
-            "contribution_score": 349.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "HARI INI: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-30T04:31:03.570Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "FAST",
-      "name": "PT Fast Food Indonesia Tbk",
-      "change_pct": 22.06,
-      "move_30min": 14.48,
-      "label": "FAST +14.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2620,6 +2529,143 @@
         }
       },
       "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 376.63
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.61
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.05,
+            "contribution_score": 365.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:46:03.395Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 25,
+      "move_30min": 16.44,
+      "label": "FAST +16.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 376.63
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.61
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.05,
+            "contribution_score": 365.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:46:03.395Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 1.64,
+      "move_30min": -3.13,
+      "label": "BIPP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": 25,
+            "contribution_score": 376.63
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.61
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.05,
+            "contribution_score": 365.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:46:03.395Z",
       "status": "active",
       "summary": null
     }
