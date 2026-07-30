@@ -1,13 +1,13 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T02:01:03.514Z",
+  "generated_at": "2026-07-30T02:16:03.408Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "75% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,9 +22,19 @@
         ],
         "tickers": [
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "ESTI",
+            "change_pct": 18.11,
+            "contribution_score": 273.73
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 9.23,
+            "contribution_score": 152.79
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 10,
+            "contribution_score": 148.57
           }
         ],
         "foreign_flow": null,
@@ -33,7 +43,7 @@
           "label": "HARI INI: FOMC Decision (US Fed)"
         }
       },
-      "detected_at": "2026-07-30T02:01:03.514Z",
+      "detected_at": "2026-07-30T02:16:03.408Z",
       "status": "active",
       "summary": null
     }

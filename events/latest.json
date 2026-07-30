@@ -2,14 +2,49 @@
   "generated_at": "2026-07-30T02:16:03.408Z",
   "events": [
     {
-      "type": "macro_fomc",
-      "ticker": "FOMC",
-      "name": "FOMC Decision (US Fed)",
-      "change_pct": 0,
-      "label": "HARI INI: FOMC Decision (US Fed)",
-      "detail": "Fed Funds Rate decision jam 01:00 WIB.",
-      "impact": "high",
-      "event_date": "2026-07-30"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 18.11,
+            "contribution_score": 273.73
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 9.23,
+            "contribution_score": 152.79
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 10,
+            "contribution_score": 148.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T02:16:03.408Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
