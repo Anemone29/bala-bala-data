@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T04:16:03.445Z",
+  "generated_at": "2026-07-30T04:31:03.570Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2211,97 +2211,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "76% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 22.83,
-            "contribution_score": 378
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 22.51,
-            "contribution_score": 369.25
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": 18.97,
-            "contribution_score": 319.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "HARI INI: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-30T04:16:03.445Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DOOH",
-      "name": "PT Bersama Zatta Jaya Tbk",
-      "change_pct": 5.41,
-      "move_30min": -5.65,
-      "label": "DOOH -5.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 22.83,
-            "contribution_score": 378
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": 22.51,
-            "contribution_score": 369.25
-          },
-          {
-            "ticker": "CTTH",
-            "change_pct": 18.97,
-            "contribution_score": 319.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_fomc",
-          "label": "HARI INI: FOMC Decision (US Fed)"
-        }
-      },
-      "detected_at": "2026-07-30T04:16:03.445Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MCAS",
       "name": "PT M Cash Integrasi Tbk",
@@ -2436,6 +2345,281 @@
         }
       },
       "detected_at": "2026-07-30T04:16:03.445Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.41
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 21.26,
+            "contribution_score": 351.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.46,
+            "contribution_score": 349.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 5.41,
+      "move_30min": -3.31,
+      "label": "DOOH -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.41
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 21.26,
+            "contribution_score": 351.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.46,
+            "contribution_score": 349.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 22.06,
+      "move_30min": 14.48,
+      "label": "FAST +14.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.41
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 21.26,
+            "contribution_score": 351.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.46,
+            "contribution_score": 349.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": 1.42,
+      "move_30min": -3.17,
+      "label": "TRUK -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 22.51,
+            "contribution_score": 369.41
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 21.26,
+            "contribution_score": 351.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 18.46,
+            "contribution_score": 349.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": -0.56,
+      "move_30min": -3.83,
+      "label": "ESTA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.1
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -7.97,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "ASLC",
+            "change_pct": -5.97,
+            "contribution_score": -83.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -0.4,
+      "move_30min": -3.53,
+      "label": "SONA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -128.1
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -7.97,
+            "contribution_score": -111.18
+          },
+          {
+            "ticker": "ASLC",
+            "change_pct": -5.97,
+            "contribution_score": -83.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_fomc",
+          "label": "HARI INI: FOMC Decision (US Fed)"
+        }
+      },
+      "detected_at": "2026-07-30T04:31:03.570Z",
       "status": "active",
       "summary": null
     }
