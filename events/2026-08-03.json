@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T04:00:16.881Z",
+  "generated_at": "2026-08-03T04:15:16.959Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3280,25 +3280,283 @@
         ],
         "tickers": [
           {
-            "ticker": "BAPI",
-            "change_pct": -9.52,
-            "contribution_score": -109.34
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.66
           },
           {
             "ticker": "COCO",
             "change_pct": -6.31,
-            "contribution_score": -106.95
+            "contribution_score": -107.18
           },
           {
             "ticker": "INDY",
-            "change_pct": -6.08,
-            "contribution_score": -84.52
+            "change_pct": -6.84,
+            "contribution_score": -95.73
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-03T04:00:16.881Z",
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": 1.12,
+      "move_30min": -3.23,
+      "label": "BWPT -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 19.74,
+            "contribution_score": 397.92
+          },
+          {
+            "ticker": "JKON",
+            "change_pct": 22.73,
+            "contribution_score": 392.25
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 337.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.66
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.31,
+            "contribution_score": -107.18
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -6.84,
+            "contribution_score": -95.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": 4.1,
+      "move_30min": -4.51,
+      "label": "DIVA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 19.74,
+            "contribution_score": 397.92
+          },
+          {
+            "ticker": "JKON",
+            "change_pct": 22.73,
+            "contribution_score": 392.25
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 337.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -1.74,
+      "move_30min": -4.64,
+      "label": "INDR -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.66
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.31,
+            "contribution_score": -107.18
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -6.84,
+            "contribution_score": -95.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -5.63,
+      "move_30min": -5.63,
+      "label": "IFSH -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.66
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.31,
+            "contribution_score": -107.18
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -6.84,
+            "contribution_score": -95.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DCII",
+      "name": "PT DCI Indonesia Tbk",
+      "change_pct": -4.35,
+      "move_30min": -3.9,
+      "label": "DCII -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.66
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.31,
+            "contribution_score": -107.18
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": -6.84,
+            "contribution_score": -95.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-03T04:15:16.959Z",
       "status": "active",
       "summary": null
     }
