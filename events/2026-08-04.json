@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T03:15:16.507Z",
+  "generated_at": "2026-08-04T03:30:16.798Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1111,97 +1111,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TRUS",
-      "name": "Trust Finance Indonesia Tbk",
-      "change_pct": -5.83,
-      "move_30min": -3.96,
-      "label": "TRUS -4.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MAPI",
-            "change_pct": -6.6,
-            "contribution_score": -84.29
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": -5.45,
-            "contribution_score": -76.13
-          },
-          {
-            "ticker": "JKON",
-            "change_pct": -4.49,
-            "contribution_score": -74.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-04T03:15:16.507Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "JKON",
       "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
       "change_pct": -4.49,
       "move_30min": -4.49,
       "label": "JKON -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MAPI",
-            "change_pct": -6.6,
-            "contribution_score": -84.29
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": -5.45,
-            "contribution_score": -76.13
-          },
-          {
-            "ticker": "JKON",
-            "change_pct": -4.49,
-            "contribution_score": -74.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-04T03:15:16.507Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "OMRE",
-      "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": -6.73,
-      "move_30min": -15.65,
-      "label": "OMRE -15.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1325,49 +1239,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "VIVA",
-      "name": "PT Visi Media Asia Tbk",
-      "change_pct": 8.7,
-      "move_30min": 8.7,
-      "label": "VIVA +8.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 17.59,
-            "contribution_score": 240.26
-          },
-          {
-            "ticker": "BRNA",
-            "change_pct": 19.67,
-            "contribution_score": 238.72
-          },
-          {
-            "ticker": "DIVA",
-            "change_pct": 13.11,
-            "contribution_score": 184.68
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-04T03:15:16.507Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DART",
       "name": "DART",
@@ -1412,6 +1283,135 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -5.83,
+      "move_30min": -3.47,
+      "label": "TRUS -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MAPI",
+            "change_pct": -6.6,
+            "contribution_score": -84.95
+          },
+          {
+            "ticker": "FAST",
+            "change_pct": -6.25,
+            "contribution_score": -71.81
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -4.58,
+            "contribution_score": -69.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -6.73,
+      "move_30min": -8.41,
+      "label": "OMRE -8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MAPI",
+            "change_pct": -6.6,
+            "contribution_score": -84.95
+          },
+          {
+            "ticker": "FAST",
+            "change_pct": -6.25,
+            "contribution_score": -71.81
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -4.58,
+            "contribution_score": -69.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 8.7,
+      "move_30min": 8.7,
+      "label": "VIVA +8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.44,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 15.57,
+            "contribution_score": 189.85
+          },
+          {
+            "ticker": "FORE",
+            "change_pct": 11.81,
+            "contribution_score": 177.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "BAPI",
       "name": "BAPI",
       "change_pct": -5.26,
@@ -1433,23 +1433,23 @@
           {
             "ticker": "MAPI",
             "change_pct": -6.6,
-            "contribution_score": -84.29
+            "contribution_score": -84.95
           },
           {
-            "ticker": "AWAN",
-            "change_pct": -5.45,
-            "contribution_score": -76.13
+            "ticker": "FAST",
+            "change_pct": -6.25,
+            "contribution_score": -71.81
           },
           {
-            "ticker": "JKON",
-            "change_pct": -4.49,
-            "contribution_score": -74.99
+            "ticker": "DOOH",
+            "change_pct": -4.58,
+            "contribution_score": -69.55
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-04T03:15:16.507Z",
+      "detected_at": "2026-08-04T03:30:16.798Z",
       "status": "active",
       "summary": null
     },
@@ -1458,8 +1458,8 @@
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
       "change_pct": 19.67,
-      "move_30min": 12.31,
-      "label": "BRNA +12.3% dalam 30 menit",
+      "move_30min": 8.46,
+      "label": "BRNA +8.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1475,24 +1475,24 @@
         "tickers": [
           {
             "ticker": "TRUK",
-            "change_pct": 17.59,
-            "contribution_score": 240.26
+            "change_pct": 19.44,
+            "contribution_score": 267.55
           },
           {
             "ticker": "BRNA",
-            "change_pct": 19.67,
-            "contribution_score": 238.72
+            "change_pct": 15.57,
+            "contribution_score": 189.85
           },
           {
-            "ticker": "DIVA",
-            "change_pct": 13.11,
-            "contribution_score": 184.68
+            "ticker": "FORE",
+            "change_pct": 11.81,
+            "contribution_score": 177.19
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-04T03:15:16.507Z",
+      "detected_at": "2026-08-04T03:30:16.798Z",
       "status": "active",
       "summary": null
     },
@@ -1500,9 +1500,9 @@
       "type": "rapid_down",
       "ticker": "ASJT",
       "name": "ASJT",
-      "change_pct": -3.11,
-      "move_30min": -3.7,
-      "label": "ASJT -3.7% dalam 30 menit",
+      "change_pct": -3.73,
+      "move_30min": -4.91,
+      "label": "ASJT -4.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1519,23 +1519,23 @@
           {
             "ticker": "MAPI",
             "change_pct": -6.6,
-            "contribution_score": -84.29
+            "contribution_score": -84.95
           },
           {
-            "ticker": "AWAN",
-            "change_pct": -5.45,
-            "contribution_score": -76.13
+            "ticker": "FAST",
+            "change_pct": -6.25,
+            "contribution_score": -71.81
           },
           {
-            "ticker": "JKON",
-            "change_pct": -4.49,
-            "contribution_score": -74.99
+            "ticker": "DOOH",
+            "change_pct": -4.58,
+            "contribution_score": -69.55
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-04T03:15:16.507Z",
+      "detected_at": "2026-08-04T03:30:16.798Z",
       "status": "active",
       "summary": null
     },
@@ -1544,8 +1544,8 @@
       "ticker": "GMTD",
       "name": "PT Gowa Makassar Tourism Development Tbk",
       "change_pct": 0.78,
-      "move_30min": -3.37,
-      "label": "GMTD -3.4% dalam 30 menit",
+      "move_30min": -3.01,
+      "label": "GMTD -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1561,24 +1561,153 @@
         "tickers": [
           {
             "ticker": "TRUK",
-            "change_pct": 17.59,
-            "contribution_score": 240.26
+            "change_pct": 19.44,
+            "contribution_score": 267.55
           },
           {
             "ticker": "BRNA",
-            "change_pct": 19.67,
-            "contribution_score": 238.72
+            "change_pct": 15.57,
+            "contribution_score": 189.85
           },
           {
-            "ticker": "DIVA",
-            "change_pct": 13.11,
-            "contribution_score": 184.68
+            "ticker": "FORE",
+            "change_pct": 11.81,
+            "contribution_score": 177.19
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-04T03:15:16.507Z",
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FORE",
+      "name": "FORE",
+      "change_pct": 11.81,
+      "move_30min": 11.03,
+      "label": "FORE +11.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.44,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 15.57,
+            "contribution_score": 189.85
+          },
+          {
+            "ticker": "FORE",
+            "change_pct": 11.81,
+            "contribution_score": 177.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RSCH",
+      "name": "Charlie Hospital Semarang Tbk.",
+      "change_pct": -4.79,
+      "move_30min": -3.05,
+      "label": "RSCH -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MAPI",
+            "change_pct": -6.6,
+            "contribution_score": -84.95
+          },
+          {
+            "ticker": "FAST",
+            "change_pct": -6.25,
+            "contribution_score": -71.81
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -4.58,
+            "contribution_score": -69.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCK",
+      "name": "PT Sentral Mitra Informatika Tbk",
+      "change_pct": 1.8,
+      "move_30min": -3.42,
+      "label": "LUCK -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.44,
+            "contribution_score": 267.55
+          },
+          {
+            "ticker": "BRNA",
+            "change_pct": 15.57,
+            "contribution_score": 189.85
+          },
+          {
+            "ticker": "FORE",
+            "change_pct": 11.81,
+            "contribution_score": 177.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T03:30:16.798Z",
       "status": "active",
       "summary": null
     }
