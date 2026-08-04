@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-04T02:30:16.662Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T02:00:17.217Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": -4.4,
+      "move_30min": -4.4,
+      "label": "IATA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": -9.09,
+            "contribution_score": -125.98
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -4.4,
+            "contribution_score": -72.21
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -4.49,
+            "contribution_score": -71.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T02:30:16.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": -4.49,
+      "move_30min": -4.49,
+      "label": "BUVA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": -9.09,
+            "contribution_score": -125.98
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -4.4,
+            "contribution_score": -72.21
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -4.49,
+            "contribution_score": -71.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T02:30:16.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "AWAN -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AWAN",
+            "change_pct": -9.09,
+            "contribution_score": -125.98
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -4.4,
+            "contribution_score": -72.21
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -4.49,
+            "contribution_score": -71.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T02:30:16.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": 19.44,
+      "move_30min": 19.44,
+      "label": "TRUK +19.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.44,
+            "contribution_score": 262.58
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 6.93,
+            "contribution_score": 112.69
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 5.66,
+            "contribution_score": 91.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-04T02:30:16.662Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
