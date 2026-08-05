@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T04:30:26.072Z",
+  "generated_at": "2026-08-05T04:45:16.793Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1937,49 +1937,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "DART",
-      "name": "DART",
-      "change_pct": 14.96,
-      "move_30min": 13.18,
-      "label": "DART +13.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SLIS",
-            "change_pct": 28.57,
-            "contribution_score": 525.49
-          },
-          {
-            "ticker": "EMDE",
-            "change_pct": 25,
-            "contribution_score": 445.43
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 361.63
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-05T04:30:26.072Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SOLA",
       "name": "SOLA",
@@ -2062,6 +2019,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-05T04:30:26.072Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 21.26,
+      "move_30min": 19.38,
+      "label": "DART +19.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 28.57,
+            "contribution_score": 525.66
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 26.39,
+            "contribution_score": 471.72
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 361.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:45:16.793Z",
       "status": "active",
       "summary": null
     }
