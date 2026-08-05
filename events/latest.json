@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-08-05T04:00:16.946Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 25,
+            "contribution_score": 433.5
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 22.22,
+            "contribution_score": 378.61
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 353.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T02:30:16.562Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -6.67,
+      "move_30min": -3.7,
+      "label": "ESTI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": -6.67,
+            "contribution_score": -99.28
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -78.37
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -5.88,
+            "contribution_score": -71.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:00:16.946Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 0.8,
+      "move_30min": -3.08,
+      "label": "BBLD -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 26.98,
+            "contribution_score": 490.5
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 26.39,
+            "contribution_score": 469.98
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 361.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T03:45:16.490Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": -6.04,
+      "move_30min": -5.52,
+      "label": "BOGA -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -78.37
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -5.88,
+            "contribution_score": -71.46
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -6.25,
+            "contribution_score": -65.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T03:45:16.490Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "ARTA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -78.37
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -5.88,
+            "contribution_score": -71.46
+          },
+          {
+            "ticker": "BAUT",
+            "change_pct": -6.25,
+            "contribution_score": -65.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T03:30:16.668Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

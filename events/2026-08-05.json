@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T03:45:16.490Z",
+  "generated_at": "2026-08-05T04:00:16.946Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1761,6 +1761,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-05T03:45:16.490Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -6.67,
+      "move_30min": -3.7,
+      "label": "ESTI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": -6.67,
+            "contribution_score": -99.28
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -78.37
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -5.88,
+            "contribution_score": -71.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:00:16.946Z",
       "status": "active",
       "summary": null
     }
