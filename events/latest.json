@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-08-05T04:30:26.072Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "EMDE",
+            "change_pct": 25,
+            "contribution_score": 433.5
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 22.22,
+            "contribution_score": 378.61
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 353.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T02:30:16.562Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 28.57,
+            "contribution_score": 525.49
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 25,
+            "contribution_score": 445.43
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 361.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:30:26.072Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -10.53,
+      "move_30min": -5.56,
+      "label": "BAPI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -10.53,
+            "contribution_score": -137.94
+          },
+          {
+            "ticker": "MAPI",
+            "change_pct": -5.9,
+            "contribution_score": -74.23
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -70.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:30:26.072Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -5.21,
+      "move_30min": -5.21,
+      "label": "MAPB -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -10.53,
+            "contribution_score": -137.94
+          },
+          {
+            "ticker": "MAPI",
+            "change_pct": -5.9,
+            "contribution_score": -74.23
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -70.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:30:26.072Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 14.96,
+      "move_30min": 13.18,
+      "label": "DART +13.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 28.57,
+            "contribution_score": 525.49
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": 25,
+            "contribution_score": 445.43
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 361.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-05T04:30:26.072Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
