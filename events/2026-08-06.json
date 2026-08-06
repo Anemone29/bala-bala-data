@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T04:00:41.966Z",
+  "generated_at": "2026-08-06T04:15:41.335Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1756,49 +1756,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "AKPI",
-      "name": "PT Argha Karya Prima Industry Tbk",
-      "change_pct": -4.85,
-      "move_30min": -3.92,
-      "label": "AKPI -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -126.41
-          },
-          {
-            "ticker": "SLIS",
-            "change_pct": -5.06,
-            "contribution_score": -75.27
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": -5.17,
-            "contribution_score": -72.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-06T04:00:41.966Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SMMT",
       "name": "Golden Eagle Energy Tbk.",
       "change_pct": 1.08,
@@ -1842,11 +1799,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BOGA",
-      "name": "Apollo Global Interactive Tbk.",
-      "change_pct": -5.99,
-      "move_30min": -4.56,
-      "label": "BOGA -4.6% dalam 30 menit",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": -4.85,
+      "move_30min": -3.92,
+      "label": "AKPI -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1861,25 +1818,283 @@
         ],
         "tickers": [
           {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -126.41
-          },
-          {
             "ticker": "SLIS",
             "change_pct": -5.06,
-            "contribution_score": -75.27
+            "contribution_score": -75.38
           },
           {
             "ticker": "DEFI",
             "change_pct": -5.17,
-            "contribution_score": -72.2
+            "contribution_score": -72.67
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -72.25
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-06T04:00:41.966Z",
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": -5.99,
+      "move_30min": -3.96,
+      "label": "BOGA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.67
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -72.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": 4.95,
+      "move_30min": 7.07,
+      "label": "BNBR +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 24.07,
+            "contribution_score": 460.63
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 20.83,
+            "contribution_score": 430.51
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 10.23,
+            "contribution_score": 173.09
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 24.07,
+            "contribution_score": 460.63
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 20.83,
+            "contribution_score": 430.51
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 10.23,
+            "contribution_score": 173.09
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "PPRO -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.67
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -72.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "IPTV -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.67
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -72.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "ANDI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.67
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -72.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:15:41.335Z",
       "status": "active",
       "summary": null
     }
