@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T04:30:43.104Z",
+  "generated_at": "2026-08-06T06:30:43.720Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2095,6 +2095,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-06T04:30:43.104Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -133.44
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -76.96
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T06:30:43.720Z",
       "status": "active",
       "summary": null
     }
