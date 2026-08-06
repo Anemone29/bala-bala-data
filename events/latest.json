@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-06T02:30:41.677Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:00:46.952Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 23.15,
+      "move_30min": 23.15,
+      "label": "MDIA +23.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 431.54
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 15.91,
+            "contribution_score": 264.49
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 12.9,
+            "contribution_score": 200.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:30:41.677Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 7.6,
+      "move_30min": 7.6,
+      "label": "KOTA +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 431.54
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 15.91,
+            "contribution_score": 264.49
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 12.9,
+            "contribution_score": 200.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:30:41.677Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 15.91,
+      "move_30min": 15.91,
+      "label": "SOLA +15.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 431.54
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 15.91,
+            "contribution_score": 264.49
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 12.9,
+            "contribution_score": 200.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:30:41.677Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IPOL",
+      "name": "PT Indopoly Swakarsa Industry Tbk",
+      "change_pct": 11.01,
+      "move_30min": 11.01,
+      "label": "IPOL +11.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 431.54
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 15.91,
+            "contribution_score": 264.49
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 12.9,
+            "contribution_score": 200.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:30:41.677Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
