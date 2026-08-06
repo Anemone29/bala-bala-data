@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-06T04:00:41.966Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:00:46.952Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 9.09,
+      "move_30min": 7.46,
+      "label": "BIPP +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 26.04,
+            "contribution_score": 540.51
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 24.07,
+            "contribution_score": 457.57
+          },
+          {
+            "ticker": "IPOL",
+            "change_pct": 11.01,
+            "contribution_score": 175.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:00:41.966Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTMP",
+      "name": "PTMP",
+      "change_pct": -1.56,
+      "move_30min": -3.08,
+      "label": "PTMP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.41
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.27
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:00:41.966Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": -4.85,
+      "move_30min": -3.92,
+      "label": "AKPI -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.41
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.27
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -5.17,
+            "contribution_score": -72.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:00:41.966Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 1.08,
+      "move_30min": -3.37,
+      "label": "SMMT -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 26.04,
+            "contribution_score": 540.51
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 24.07,
+            "contribution_score": 457.57
+          },
+          {
+            "ticker": "IPOL",
+            "change_pct": 11.01,
+            "contribution_score": 175.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T04:00:41.966Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
