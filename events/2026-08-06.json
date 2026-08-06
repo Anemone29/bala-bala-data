@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T03:15:40.729Z",
+  "generated_at": "2026-08-06T03:30:41.242Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1024,141 +1024,12 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "IATA",
-      "name": "PT MNC Energy Investments Tbk",
-      "change_pct": 16.67,
-      "move_30min": 9.8,
-      "label": "IATA +9.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MDIA",
-            "change_pct": 23.15,
-            "contribution_score": 438.28
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": 16.67,
-            "contribution_score": 328.9
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": 15.91,
-            "contribution_score": 271.3
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-06T03:15:40.729Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "VIVA",
-      "name": "PT Visi Media Asia Tbk",
-      "change_pct": 9.43,
-      "move_30min": 9.43,
-      "label": "VIVA +9.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MDIA",
-            "change_pct": 23.15,
-            "contribution_score": 438.28
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": 16.67,
-            "contribution_score": 328.9
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": 15.91,
-            "contribution_score": 271.3
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-06T03:15:40.729Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GPRA",
       "name": "GPRA",
       "change_pct": -1.87,
       "move_30min": -3.67,
       "label": "GPRA -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -126.41
-          },
-          {
-            "ticker": "SLIS",
-            "change_pct": -6.33,
-            "contribution_score": -92.9
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -6.7,
-            "contribution_score": -87.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-06T03:15:40.729Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -9.09,
-      "move_30min": -9.09,
-      "label": "BTEK -9.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1239,6 +1110,135 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": 21.88,
+      "move_30min": 10.38,
+      "label": "IATA +10.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 9.43,
+      "move_30min": 9.43,
+      "label": "VIVA +9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.41
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -7.59,
+            "contribution_score": -112.39
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": -4.82,
+            "contribution_score": -65.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BAUT",
       "name": "PT Mitra Pinasthika Mustika Tbk",
@@ -1265,19 +1265,234 @@
           },
           {
             "ticker": "SLIS",
-            "change_pct": -6.33,
-            "contribution_score": -92.9
+            "change_pct": -7.59,
+            "contribution_score": -112.39
           },
           {
-            "ticker": "FILM",
-            "change_pct": -6.7,
-            "contribution_score": -87.06
+            "ticker": "EMDE",
+            "change_pct": -4.82,
+            "contribution_score": -65.99
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-06T03:15:40.729Z",
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 1.28,
+      "move_30min": -3.66,
+      "label": "LAND -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": 0.84,
+      "move_30min": -6.98,
+      "label": "TRIM -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -3.62,
+      "move_30min": -4.32,
+      "label": "STAR -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.41
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -7.59,
+            "contribution_score": -112.39
+          },
+          {
+            "ticker": "EMDE",
+            "change_pct": -4.82,
+            "contribution_score": -65.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 0.82,
+      "move_30min": -3.15,
+      "label": "BBLD -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 13.07,
+      "move_30min": 13.07,
+      "label": "ABDA +13.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 21.88,
+            "contribution_score": 444.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 23.15,
+            "contribution_score": 438.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 12.5,
+            "contribution_score": 211.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T03:30:41.242Z",
       "status": "active",
       "summary": null
     }
