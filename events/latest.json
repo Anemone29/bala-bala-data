@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-06T07:00:44.934Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T02:00:46.952Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 16.96,
+      "move_30min": 9.29,
+      "label": "KOTA +9.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 25,
+            "contribution_score": 480.82
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 16.96,
+            "contribution_score": 344.68
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 18.75,
+            "contribution_score": 314.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T07:00:44.934Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JKON",
+      "name": "PT Jaya Konstruksi Manggala Pratama Tbk",
+      "change_pct": 2.38,
+      "move_30min": -3.37,
+      "label": "JKON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": 25,
+            "contribution_score": 480.82
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 16.96,
+            "contribution_score": 344.68
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 18.75,
+            "contribution_score": 314.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T07:00:44.934Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -4.07,
+      "move_30min": -4.07,
+      "label": "BAPA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -133.44
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -76.96
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -76.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T07:00:44.934Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -133.44
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -76.96
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.06,
+            "contribution_score": -75.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-06T06:30:43.720Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
