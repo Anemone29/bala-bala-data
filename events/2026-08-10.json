@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T04:00:20.849Z",
+  "generated_at": "2026-08-10T04:15:20.843Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1668,49 +1668,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "GMFI",
-      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
-      "change_pct": 29.63,
-      "move_30min": 16.67,
-      "label": "GMFI +16.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "GIAA",
-            "change_pct": 33.33,
-            "contribution_score": 637.54
-          },
-          {
-            "ticker": "GMFI",
-            "change_pct": 29.63,
-            "contribution_score": 584.33
-          },
-          {
-            "ticker": "ROCK",
-            "change_pct": 22.13,
-            "contribution_score": 278.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-10T04:00:20.849Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "GIAA",
       "name": "PT. Garuda Indonesia (Persero) Tbk",
       "change_pct": 33.33,
@@ -1796,12 +1753,55 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": 29.63,
+      "move_30min": 7.94,
+      "label": "GMFI +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 33.33,
+            "contribution_score": 639.14
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 25.93,
+            "contribution_score": 514.17
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.81,
+            "contribution_score": 304.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T04:15:20.843Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "SILO",
       "name": "PT Siloam International Hospitals Tbk",
       "change_pct": -4.62,
-      "move_30min": -5.02,
-      "label": "SILO -5.0% dalam 30 menit",
+      "move_30min": -3.38,
+      "label": "SILO -3.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1817,24 +1817,153 @@
         "tickers": [
           {
             "ticker": "VOKS",
-            "change_pct": -8.89,
-            "contribution_score": -112.25
+            "change_pct": -8.15,
+            "contribution_score": -103.46
           },
           {
-            "ticker": "RMKE",
-            "change_pct": -2.84,
-            "contribution_score": -41.63
+            "ticker": "BBRM",
+            "change_pct": -3.36,
+            "contribution_score": -40.22
           },
           {
-            "ticker": "SILO",
-            "change_pct": -4.62,
-            "contribution_score": -40.12
+            "ticker": "ADES",
+            "change_pct": -5.79,
+            "contribution_score": -39
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-10T04:00:20.849Z",
+      "detected_at": "2026-08-10T04:15:20.843Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": 2.56,
+      "move_30min": -3.85,
+      "label": "DSSA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 33.33,
+            "contribution_score": 639.14
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 25.93,
+            "contribution_score": 514.17
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.81,
+            "contribution_score": 304.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T04:15:20.843Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 1.74,
+      "move_30min": -4.1,
+      "label": "MDIA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 33.33,
+            "contribution_score": 639.14
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 25.93,
+            "contribution_score": 514.17
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.81,
+            "contribution_score": 304.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T04:15:20.843Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 24.81,
+      "move_30min": 22.96,
+      "label": "STAR +23.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 33.33,
+            "contribution_score": 639.14
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 25.93,
+            "contribution_score": 514.17
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.81,
+            "contribution_score": 304.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T04:15:20.843Z",
       "status": "active",
       "summary": null
     }
