@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-08-10T03:45:20.267Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.5,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 20.37,
+            "contribution_score": 347.7
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 24.27,
+            "contribution_score": 306.26
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": 17.57,
+            "contribution_score": 288.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T03:30:25.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.7,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MCAS",
+            "change_pct": 17.57,
+            "contribution_score": 285.95
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 22.67,
+            "contribution_score": 282.49
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 12.17,
+            "contribution_score": 236.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T03:00:24.430Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T02:00:23.650Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": 16.67,
+      "move_30min": 14.55,
+      "label": "GMFI +14.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 25.93,
+            "contribution_score": 479.96
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 16.67,
+            "contribution_score": 309.48
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 21.6,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T03:45:20.267Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": 25.93,
+      "move_30min": 28.3,
+      "label": "GIAA +28.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 25.93,
+            "contribution_score": 479.96
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": 16.67,
+            "contribution_score": 309.48
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 21.6,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-10T03:45:20.267Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
