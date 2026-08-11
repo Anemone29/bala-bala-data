@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T05:00:21.194Z",
+  "generated_at": "2026-08-11T06:30:24.836Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3383,6 +3383,48 @@
         "macro_active": null
       },
       "detected_at": "2026-08-11T05:00:21.194Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.2,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GMFI",
+            "change_pct": -9.86,
+            "contribution_score": -176.82
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -9.25,
+            "contribution_score": -119.15
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -9.01,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T06:30:24.836Z",
       "status": "active",
       "summary": null
     }
