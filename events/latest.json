@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-08-11T04:00:25.009Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.8,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GMFI",
+            "change_pct": -7.04,
+            "contribution_score": -125.37
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -9.25,
+            "contribution_score": -118.36
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -9.44,
+            "contribution_score": -88.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T04:00:25.009Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -79.2,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -11.59,
+            "contribution_score": -106.22
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -8.09,
+            "contribution_score": -101.23
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.62,
+            "contribution_score": -90.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T02:45:23.847Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T02:00:25.921Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 8.8,
+      "move_30min": 7.94,
+      "label": "LUCY +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 44.44,
+            "contribution_score": 924.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.5
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 21.43,
+            "contribution_score": 317.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T04:00:25.009Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 19.23,
+      "move_30min": 21.91,
+      "label": "FAST +21.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": 44.44,
+            "contribution_score": 924.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.5
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 21.43,
+            "contribution_score": 317.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T04:00:25.009Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
