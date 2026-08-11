@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T03:15:21.533Z",
+  "generated_at": "2026-08-11T03:30:21.818Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2162,24 +2162,24 @@
         "tickers": [
           {
             "ticker": "GMFI",
-            "change_pct": -5.63,
-            "contribution_score": -99.85
+            "change_pct": -7.04,
+            "contribution_score": -125.14
           },
           {
             "ticker": "MCAS",
-            "change_pct": -7.51,
-            "contribution_score": -94.42
+            "change_pct": -8.67,
+            "contribution_score": -109.87
           },
           {
-            "ticker": "ROCK",
-            "change_pct": -9.44,
-            "contribution_score": -87.35
+            "ticker": "MITI",
+            "change_pct": -9.43,
+            "contribution_score": -104.88
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-11T03:15:21.533Z",
+      "detected_at": "2026-08-11T03:30:21.818Z",
       "status": "active",
       "summary": null
     },
@@ -2205,24 +2205,24 @@
         "tickers": [
           {
             "ticker": "GMFI",
-            "change_pct": -5.63,
-            "contribution_score": -99.85
+            "change_pct": -7.04,
+            "contribution_score": -125.14
           },
           {
             "ticker": "MCAS",
-            "change_pct": -7.51,
-            "contribution_score": -94.42
+            "change_pct": -8.67,
+            "contribution_score": -109.87
           },
           {
-            "ticker": "ROCK",
-            "change_pct": -9.44,
-            "contribution_score": -87.35
+            "ticker": "MITI",
+            "change_pct": -9.43,
+            "contribution_score": -104.88
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-11T03:15:21.533Z",
+      "detected_at": "2026-08-11T03:30:21.818Z",
       "status": "active",
       "summary": null
     },
@@ -2247,25 +2247,282 @@
         ],
         "tickers": [
           {
-            "ticker": "WEGE",
-            "change_pct": 24,
-            "contribution_score": 420.79
-          },
-          {
             "ticker": "STAR",
             "change_pct": 24.7,
-            "contribution_score": 338.91
+            "contribution_score": 339.28
           },
           {
-            "ticker": "WTON",
-            "change_pct": 18.67,
-            "contribution_score": 313.06
+            "ticker": "DART",
+            "change_pct": 19.29,
+            "contribution_score": 283.31
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 16,
+            "contribution_score": 279.5
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-11T03:15:21.533Z",
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.5,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GMFI",
+            "change_pct": -7.04,
+            "contribution_score": -125.14
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -8.67,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -9.43,
+            "contribution_score": -104.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": 16,
+      "move_30min": -7.94,
+      "label": "WEGE -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 19.29,
+            "contribution_score": 283.31
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 16,
+            "contribution_score": 279.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WTON",
+      "name": "PT Wijaya Karya Beton Tbk",
+      "change_pct": 14.67,
+      "move_30min": -3.37,
+      "label": "WTON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 19.29,
+            "contribution_score": 283.31
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 16,
+            "contribution_score": 279.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 19.29,
+      "move_30min": -7.73,
+      "label": "DART -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 19.29,
+            "contribution_score": 283.31
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 16,
+            "contribution_score": 279.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTPP",
+      "name": "PT PP (Persero) Tbk",
+      "change_pct": 0.98,
+      "move_30min": -4.63,
+      "label": "PTPP -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.7,
+            "contribution_score": 339.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 19.29,
+            "contribution_score": 283.31
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 16,
+            "contribution_score": 279.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -8.82,
+      "move_30min": -8.82,
+      "label": "MASB -8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GMFI",
+            "change_pct": -7.04,
+            "contribution_score": -125.14
+          },
+          {
+            "ticker": "MCAS",
+            "change_pct": -8.67,
+            "contribution_score": -109.87
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -9.43,
+            "contribution_score": -104.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-11T03:30:21.818Z",
       "status": "active",
       "summary": null
     }
