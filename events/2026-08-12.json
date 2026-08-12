@@ -1,13 +1,13 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T02:01:05.148Z",
+  "generated_at": "2026-08-12T02:31:05.029Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "77% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,9 +22,19 @@
         ],
         "tickers": [
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
           }
         ],
         "foreign_flow": null,
@@ -33,7 +43,651 @@
           "label": "BESOK: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-12T02:01:05.148Z",
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "IATA +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 11.38,
+      "move_30min": 11.38,
+      "label": "MDIA +11.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -5.19,
+      "move_30min": -5.19,
+      "label": "GIAA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "GMFI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ISAT",
+      "name": "PT Indosat Ooredoo Hutchison Tbk",
+      "change_pct": 9.3,
+      "move_30min": 9.3,
+      "label": "ISAT +9.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 9.49,
+      "move_30min": 9.49,
+      "label": "LUCY +9.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 17.61,
+      "move_30min": 17.61,
+      "label": "DART +17.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 9.23,
+      "move_30min": 9.23,
+      "label": "RODA +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "WEGE -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 21.98,
+      "move_30min": 21.98,
+      "label": "STAR +22.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 21.98,
+            "contribution_score": 297.72
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 248.65
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 11.38,
+            "contribution_score": 198.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -6.21,
+      "move_30min": -6.21,
+      "label": "TRUK -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAR",
+      "name": "PT Bank Amar Indonesia Tbk",
+      "change_pct": -3.6,
+      "move_30min": -3.6,
+      "label": "AMAR -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -5.95,
+      "move_30min": -5.95,
+      "label": "ALDO -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -3.5,
+      "move_30min": -3.5,
+      "label": "OMRE -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.19,
+            "contribution_score": -84.24
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.21,
+            "contribution_score": -62.16
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -3.7,
+            "contribution_score": -51.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T02:31:05.029Z",
       "status": "active",
       "summary": null
     }
