@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T02:46:05.517Z",
+  "generated_at": "2026-08-12T03:01:05.262Z",
   "events": [
     {
       "type": "rapid_up",
@@ -463,51 +463,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "78% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "STAR",
-            "change_pct": 24.4,
-            "contribution_score": 336.5
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 13.01,
-            "contribution_score": 233.63
-          },
-          {
-            "ticker": "DART",
-            "change_pct": 16.35,
-            "contribution_score": 231.74
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T02:46:05.517Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "MDIA",
       "name": "PT Intermedia Capital Tbk",
@@ -923,52 +878,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAFE",
-      "name": "SAFE",
-      "change_pct": -4.83,
-      "move_30min": -5.29,
-      "label": "SAFE -5.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "GIAA",
-            "change_pct": -5.19,
-            "contribution_score": -85.45
-          },
-          {
-            "ticker": "WTON",
-            "change_pct": -4.76,
-            "contribution_score": -61.63
-          },
-          {
-            "ticker": "ALDO",
-            "change_pct": -5.95,
-            "contribution_score": -52.85
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T02:46:05.517Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "CCSI",
       "name": "CCSI",
       "change_pct": 0,
@@ -1148,6 +1057,143 @@
         }
       },
       "detected_at": "2026-08-12T02:46:05.517Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "77% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.67
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.89,
+            "contribution_score": 332.49
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 13.95,
+            "contribution_score": 221.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T03:01:05.262Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -4.83,
+      "move_30min": -3.88,
+      "label": "SAFE -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -6.49,
+            "contribution_score": -108.12
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -5.56,
+            "contribution_score": -78.31
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": -5.41,
+            "contribution_score": -48.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T03:01:05.262Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 4.62,
+      "move_30min": -4.23,
+      "label": "RODA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.67
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.89,
+            "contribution_score": 332.49
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 13.95,
+            "contribution_score": 221.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T03:01:05.262Z",
       "status": "active",
       "summary": null
     }
