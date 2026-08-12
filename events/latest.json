@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-12T05:01:04.895Z",
+  "generated_at": "2026-08-12T06:30:00.000Z",
   "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 80,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": 0.49
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NOBU",
+            "change_pct": 2.23,
+            "contribution_score": 23.35
+          },
+          {
+            "ticker": "BBYB",
+            "change_pct": 1.57,
+            "contribution_score": 21.05
+          },
+          {
+            "ticker": "AGRS",
+            "change_pct": 1.67,
+            "contribution_score": 18.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T06:30:00.000Z",
+      "status": "active",
+      "summary": null
+    },
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
@@ -171,52 +211,6 @@
             "ticker": "ISAT",
             "change_pct": 18.14,
             "contribution_score": 309.69
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T04:46:05.267Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BPFI",
-      "name": "BPFI",
-      "change_pct": -3.85,
-      "move_30min": -3.1,
-      "label": "BPFI -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "GIAA",
-            "change_pct": -6.49,
-            "contribution_score": -111.49
-          },
-          {
-            "ticker": "WTON",
-            "change_pct": -7.14,
-            "contribution_score": -98.25
-          },
-          {
-            "ticker": "IFSH",
-            "change_pct": -9.34,
-            "contribution_score": -66.94
           }
         ],
         "foreign_flow": null,
