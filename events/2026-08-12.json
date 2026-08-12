@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T07:16:08.876Z",
+  "generated_at": "2026-08-12T07:46:04.866Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3077,52 +3077,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "CSAP",
-      "name": "CSAP",
-      "change_pct": 12.5,
-      "move_30min": -3.57,
-      "label": "CSAP -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": 30.82,
-            "contribution_score": 490.07
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": 24.4,
-            "contribution_score": 337.45
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 15.45,
-            "contribution_score": 293.38
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T07:16:08.876Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TAXI",
       "name": "PT Express Transindo Utama Tbk",
       "change_pct": -6.67,
@@ -3302,6 +3256,144 @@
         }
       },
       "detected_at": "2026-08-12T07:16:08.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": 12.5,
+      "move_30min": -4.32,
+      "label": "CSAP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 30.82,
+            "contribution_score": 492.07
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 337.67
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 14.63,
+            "contribution_score": 278.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T07:46:04.866Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": -2.44,
+      "move_30min": -3.23,
+      "label": "AMAN -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -136.58
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -6.49,
+            "contribution_score": -112.35
+          },
+          {
+            "ticker": "WTON",
+            "change_pct": -7.14,
+            "contribution_score": -99.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T07:46:04.866Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": -5.21,
+      "move_30min": -6.76,
+      "label": "MPRO -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -136.58
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -6.49,
+            "contribution_score": -112.35
+          },
+          {
+            "ticker": "WTON",
+            "change_pct": -7.14,
+            "contribution_score": -99.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T07:46:04.866Z",
       "status": "active",
       "summary": null
     }
