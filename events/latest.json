@@ -2,14 +2,225 @@
   "generated_at": "2026-08-12T07:16:08.876Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Aug 2026 Index Review",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 70.9,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 30.82,
+            "contribution_score": 490.07
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 337.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 15.45,
+            "contribution_score": 293.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T07:16:08.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 80,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": 0.49
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NOBU",
+            "change_pct": 2.23,
+            "contribution_score": 23.35
+          },
+          {
+            "ticker": "BBYB",
+            "change_pct": 1.57,
+            "contribution_score": 21.05
+          },
+          {
+            "ticker": "AGRS",
+            "change_pct": 1.67,
+            "contribution_score": 18.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T06:30:00.000Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.8,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 34.59,
+            "contribution_score": 544.2
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 337.06
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 18.14,
+            "contribution_score": 310.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T05:01:04.895Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.72
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 15.45,
+            "contribution_score": 288.64
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 17.61,
+            "contribution_score": 253.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T03:31:04.878Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
       "change_pct": 0,
-      "label": "BESOK: MSCI Aug 2026 Index Review",
-      "detail": "MSCI quarterly rebalance announcement. Cek nanti emiten IDX yg add/delete dari MSCI EM index — asing fund flow ikut.",
-      "impact": "high",
-      "event_date": "2026-08-13"
+      "move_30min": -5.56,
+      "label": "ASMI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": 30.82,
+            "contribution_score": 490.07
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 337.45
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 15.45,
+            "contribution_score": 293.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T07:16:08.876Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
