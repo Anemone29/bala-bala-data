@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T04:16:04.763Z",
+  "generated_at": "2026-08-12T04:31:05.026Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2487,52 +2487,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PURA",
-      "name": "PT Surya Pertiwi Tbk",
-      "change_pct": 0,
-      "move_30min": -3.03,
-      "label": "PURA -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "STAR",
-            "change_pct": 24.4,
-            "contribution_score": 336.77
-          },
-          {
-            "ticker": "ISAT",
-            "change_pct": 19.53,
-            "contribution_score": 331.48
-          },
-          {
-            "ticker": "DART",
-            "change_pct": 20.75,
-            "contribution_score": 307.91
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T04:16:04.763Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TRIM",
       "name": "PT Trimegah Karya Pratama Tbk",
       "change_pct": -3.33,
@@ -2624,12 +2578,12 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MPRO",
-      "name": "Maha Properti Indonesia Tbk.",
-      "change_pct": 0.21,
-      "move_30min": 8.82,
-      "label": "MPRO +8.8% dalam 30 menit",
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "PURA -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2646,17 +2600,17 @@
           {
             "ticker": "STAR",
             "change_pct": 24.4,
-            "contribution_score": 336.77
+            "contribution_score": 336.92
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 323.89
           },
           {
             "ticker": "ISAT",
-            "change_pct": 19.53,
-            "contribution_score": 331.48
-          },
-          {
-            "ticker": "DART",
-            "change_pct": 20.75,
-            "contribution_score": 307.91
+            "change_pct": 18.6,
+            "contribution_score": 316.35
           }
         ],
         "foreign_flow": null,
@@ -2665,7 +2619,144 @@
           "label": "BESOK: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-12T04:16:04.763Z",
+      "detected_at": "2026-08-12T04:31:05.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": 1.67,
+      "move_30min": 8.44,
+      "label": "MPRO +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.92
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 323.89
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 18.6,
+            "contribution_score": 316.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:31:05.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.1,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.92
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 323.89
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 18.6,
+            "contribution_score": 316.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:31:05.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 12.3,
+      "move_30min": 7.03,
+      "label": "DOOH +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.92
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": 17.07,
+            "contribution_score": 323.89
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 18.6,
+            "contribution_score": 316.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:31:05.026Z",
       "status": "active",
       "summary": null
     }
