@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T04:01:04.960Z",
+  "generated_at": "2026-08-12T04:16:04.763Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2303,52 +2303,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "YPAS",
-      "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": 1.27,
-      "move_30min": -5.88,
-      "label": "YPAS -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "STAR",
-            "change_pct": 24.4,
-            "contribution_score": 336.77
-          },
-          {
-            "ticker": "ISAT",
-            "change_pct": 18.6,
-            "contribution_score": 311.66
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": 16.26,
-            "contribution_score": 306.71
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "BESOK: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-12T04:01:04.960Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
       "change_pct": -3.94,
@@ -2395,6 +2349,52 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 1.9,
+      "move_30min": -3.59,
+      "label": "YPAS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.77
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 19.53,
+            "contribution_score": 331.48
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 20.75,
+            "contribution_score": 307.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "BBLD",
       "name": "BBLD",
       "change_pct": 0.85,
@@ -2420,13 +2420,13 @@
           },
           {
             "ticker": "ISAT",
-            "change_pct": 18.6,
-            "contribution_score": 311.66
+            "change_pct": 19.53,
+            "contribution_score": 331.48
           },
           {
-            "ticker": "MDIA",
-            "change_pct": 16.26,
-            "contribution_score": 306.71
+            "ticker": "DART",
+            "change_pct": 20.75,
+            "contribution_score": 307.91
           }
         ],
         "foreign_flow": null,
@@ -2435,7 +2435,237 @@
           "label": "BESOK: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-12T04:01:04.960Z",
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": 13.89,
+      "move_30min": -6.29,
+      "label": "CSAP -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.77
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 19.53,
+            "contribution_score": 331.48
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 20.75,
+            "contribution_score": 307.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "PURA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.77
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 19.53,
+            "contribution_score": 331.48
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 20.75,
+            "contribution_score": 307.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -3.33,
+      "move_30min": -4.13,
+      "label": "TRIM -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -7.79,
+            "contribution_score": -133.58
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": -9.34,
+            "contribution_score": -66.94
+          },
+          {
+            "ticker": "WTON",
+            "change_pct": -4.76,
+            "contribution_score": -64.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": -0.26,
+      "move_30min": -6.36,
+      "label": "ABDA -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -7.79,
+            "contribution_score": -133.58
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": -9.34,
+            "contribution_score": -66.94
+          },
+          {
+            "ticker": "WTON",
+            "change_pct": -4.76,
+            "contribution_score": -64.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": 0.21,
+      "move_30min": 8.82,
+      "label": "MPRO +8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "STAR",
+            "change_pct": 24.4,
+            "contribution_score": 336.77
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": 19.53,
+            "contribution_score": 331.48
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 20.75,
+            "contribution_score": 307.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-12T04:16:04.763Z",
       "status": "active",
       "summary": null
     }
