@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T03:31:04.823Z",
+  "generated_at": "2026-08-13T03:46:05.119Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2062,51 +2062,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -75.7,
-      "label": "75% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -192.53
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -12.16,
-            "contribution_score": -173.34
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": -11.9,
-            "contribution_score": -133.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T03:31:04.823Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ROCK",
       "name": "PT Rockfields Properti Indonesia Tbk",
@@ -2186,52 +2141,6 @@
             "ticker": "SLIS",
             "change_pct": 8.97,
             "contribution_score": 155.73
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T03:31:04.823Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "LUCY",
-      "name": "PT Lima Dua Lima Tiga Tbk",
-      "change_pct": -5.33,
-      "move_30min": -13.94,
-      "label": "LUCY -13.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -192.53
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -12.16,
-            "contribution_score": -173.34
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": -11.9,
-            "contribution_score": -133.1
           }
         ],
         "foreign_flow": null,
@@ -2793,6 +2702,143 @@
         }
       },
       "detected_at": "2026-08-13T03:31:04.823Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.8,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.6
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -13.33,
+            "contribution_score": -149.52
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.46,
+            "contribution_score": -136.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T03:46:05.119Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -6.67,
+      "move_30min": -7.28,
+      "label": "LUCY -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.6
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -13.33,
+            "contribution_score": -149.52
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.46,
+            "contribution_score": -136.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T03:46:05.119Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 8.14,
+      "move_30min": 8.14,
+      "label": "PORT +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 296.48
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": 18.24,
+            "contribution_score": 256.95
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 8.97,
+            "contribution_score": 155.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T03:46:05.119Z",
       "status": "active",
       "summary": null
     }
