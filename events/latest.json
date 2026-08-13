@@ -2,14 +2,222 @@
   "generated_at": "2026-08-13T04:01:04.654Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Aug 2026 Index Review",
-      "change_pct": 0,
-      "label": "HARI INI: MSCI Aug 2026 Index Review",
-      "detail": "MSCI quarterly rebalance announcement. Cek nanti emiten IDX yg add/delete dari MSCI EM index — asing fund flow ikut.",
-      "impact": "high",
-      "event_date": "2026-08-13"
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.8,
+      "label": "74% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.68
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -12.38,
+            "contribution_score": -139.05
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.46,
+            "contribution_score": -136.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:01:04.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T02:01:04.691Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 12.2,
+      "move_30min": 8.49,
+      "label": "ROCK +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 21.62,
+            "contribution_score": 309.77
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 296.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 10.26,
+            "contribution_score": 179.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:01:04.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 3.55,
+      "move_30min": -4.23,
+      "label": "SAFE -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 21.62,
+            "contribution_score": 309.77
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 296.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 10.26,
+            "contribution_score": 179.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:01:04.654Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 3.42,
+      "move_30min": -3.97,
+      "label": "BBLD -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 21.62,
+            "contribution_score": 309.77
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 296.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 10.26,
+            "contribution_score": 179.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:01:04.654Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
