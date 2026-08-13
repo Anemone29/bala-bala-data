@@ -1,40 +1,15 @@
 {
-  "generated_at": "2026-08-13T02:01:04.691Z",
+  "generated_at": "2026-08-13T02:16:05.070Z",
   "events": [
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "100% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T02:01:04.691Z",
-      "status": "active",
-      "summary": null
+      "type": "macro_msci",
+      "ticker": "MSCI",
+      "name": "MSCI Aug 2026 Index Review",
+      "change_pct": 0,
+      "label": "HARI INI: MSCI Aug 2026 Index Review",
+      "detail": "MSCI quarterly rebalance announcement. Cek nanti emiten IDX yg add/delete dari MSCI EM index — asing fund flow ikut.",
+      "impact": "high",
+      "event_date": "2026-08-13"
     }
   ]
 }
