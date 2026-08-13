@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T08:46:05.318Z",
+  "generated_at": "2026-08-13T09:01:04.417Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4502,7 +4502,7 @@
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
       "change_pct": -76.7,
-      "label": "77% saham melemah",
+      "label": "74% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -4517,19 +4517,19 @@
         ],
         "tickers": [
           {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
             "ticker": "DART",
             "change_pct": -14.95,
-            "contribution_score": -194.78
+            "contribution_score": -194.81
           },
           {
-            "ticker": "BIPP",
-            "change_pct": -9.46,
-            "contribution_score": -139.1
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -8.82,
-            "contribution_score": -120.56
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
           }
         ],
         "foreign_flow": null,
@@ -4538,7 +4538,7 @@
           "label": "HARI INI: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-13T08:46:05.318Z",
+      "detected_at": "2026-08-13T09:01:04.417Z",
       "status": "active",
       "summary": null
     },
@@ -4546,9 +4546,9 @@
       "type": "rapid_down",
       "ticker": "TRUK",
       "name": "PT Guna Timur Raya Tbk",
-      "change_pct": -6.41,
-      "move_30min": -4.58,
-      "label": "TRUK -4.6% dalam 30 menit",
+      "change_pct": -14.74,
+      "move_30min": -13.64,
+      "label": "TRUK -13.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4563,19 +4563,19 @@
         ],
         "tickers": [
           {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
             "ticker": "DART",
             "change_pct": -14.95,
-            "contribution_score": -194.78
+            "contribution_score": -194.81
           },
           {
-            "ticker": "BIPP",
-            "change_pct": -9.46,
-            "contribution_score": -139.1
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -8.82,
-            "contribution_score": -120.56
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
           }
         ],
         "foreign_flow": null,
@@ -4584,7 +4584,375 @@
           "label": "HARI INI: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-13T08:46:05.318Z",
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -1.82,
+      "move_30min": -3.57,
+      "label": "WMUU -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.81
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": 9.91,
+      "move_30min": -5.43,
+      "label": "TRJA -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 23.65,
+            "contribution_score": 354.23
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 298.23
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 12.82,
+            "contribution_score": 237.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": -13.51,
+      "move_30min": -3.03,
+      "label": "BIPP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.81
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IMJS",
+      "name": "IMJS",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "IMJS -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.81
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": 2.97,
+      "move_30min": -3.7,
+      "label": "SKLT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 23.65,
+            "contribution_score": 354.23
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 298.23
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 12.82,
+            "contribution_score": 237.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": 4.03,
+      "move_30min": -3.01,
+      "label": "BRNA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 23.65,
+            "contribution_score": 354.23
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 298.23
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 12.82,
+            "contribution_score": 237.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": -5.93,
+      "move_30min": -3.48,
+      "label": "AKSI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.81
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRAM",
+      "name": "PT Indo Kordsa Tbk",
+      "change_pct": -4.66,
+      "move_30min": -4.66,
+      "label": "BRAM -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": -13.51,
+            "contribution_score": -203.28
+          },
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.81
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -14.74,
+            "contribution_score": -178.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T09:01:04.417Z",
       "status": "active",
       "summary": null
     }
