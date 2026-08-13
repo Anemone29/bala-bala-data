@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T06:46:04.446Z",
+  "generated_at": "2026-08-13T07:01:04.504Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3579,51 +3579,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -74.1,
-      "label": "74% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -194.66
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -10.81,
-            "contribution_score": -157.5
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -8,
-            "contribution_score": -121.15
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T06:46:04.446Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "VIVA",
       "name": "PT Visi Media Asia Tbk",
@@ -3850,6 +3805,143 @@
         }
       },
       "detected_at": "2026-08-13T06:46:04.446Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.1,
+      "label": "74% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.66
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -157.64
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.82,
+            "contribution_score": -118.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:01:04.504Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": 2.97,
+      "move_30min": -3.7,
+      "label": "SKLT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 17.95,
+            "contribution_score": 332.72
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": 22.3,
+            "contribution_score": 330.04
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 297.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:01:04.504Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 7.32,
+      "move_30min": -3.93,
+      "label": "ROCK -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 17.95,
+            "contribution_score": 332.72
+          },
+          {
+            "ticker": "PBSA",
+            "change_pct": 22.3,
+            "contribution_score": 330.04
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 297.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:01:04.504Z",
       "status": "active",
       "summary": null
     }
