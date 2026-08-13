@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T08:31:05.545Z",
+  "generated_at": "2026-08-13T08:46:05.318Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4268,51 +4268,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.1,
-      "label": "76% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -194.78
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -10.81,
-            "contribution_score": -158.81
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -8.82,
-            "contribution_score": -120.42
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T08:31:05.545Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ENRG",
       "name": "PT Energi Mega Persada Tbk",
@@ -4539,6 +4494,97 @@
         }
       },
       "detected_at": "2026-08-13T08:31:05.545Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.7,
+      "label": "77% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.78
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.46,
+            "contribution_score": -139.1
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.82,
+            "contribution_score": -120.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T08:46:05.318Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": -6.41,
+      "move_30min": -4.58,
+      "label": "TRUK -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.78
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.46,
+            "contribution_score": -139.1
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.82,
+            "contribution_score": -120.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T08:46:05.318Z",
       "status": "active",
       "summary": null
     }
