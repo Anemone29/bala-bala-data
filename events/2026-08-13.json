@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T07:16:04.590Z",
+  "generated_at": "2026-08-13T07:31:04.511Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3901,51 +3901,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -74.1,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -194.68
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -10.81,
-            "contribution_score": -157.74
-          },
-          {
-            "ticker": "FILM",
-            "change_pct": -7.84,
-            "contribution_score": -105.83
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T07:16:04.590Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "TRJA",
       "name": "TRJA",
@@ -3992,12 +3947,57 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.1,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.71
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -157.91
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.33,
+            "contribution_score": -112.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:31:04.511Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
       "change_pct": 3.23,
-      "move_30min": -3.03,
-      "label": "BRNA -3.0% dalam 30 menit",
+      "move_30min": -4.48,
+      "label": "BRNA -4.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4014,17 +4014,17 @@
           {
             "ticker": "PBSA",
             "change_pct": 22.97,
-            "contribution_score": 340.97
+            "contribution_score": 341.33
           },
           {
             "ticker": "SLIS",
             "change_pct": 16.67,
-            "contribution_score": 308.65
+            "contribution_score": 309.18
           },
           {
             "ticker": "YPAS",
             "change_pct": 24.68,
-            "contribution_score": 297.52
+            "contribution_score": 297.69
           }
         ],
         "foreign_flow": null,
@@ -4033,7 +4033,145 @@
           "label": "HARI INI: MSCI Aug 2026 Index Review"
         }
       },
-      "detected_at": "2026-08-13T07:16:04.590Z",
+      "detected_at": "2026-08-13T07:31:04.511Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 0.28,
+      "move_30min": -3.73,
+      "label": "CASA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 22.97,
+            "contribution_score": 341.33
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 16.67,
+            "contribution_score": 309.18
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 297.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:31:04.511Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TGKA",
+      "name": "PT Tigaraksa Satria Tbk",
+      "change_pct": 0.4,
+      "move_30min": -3.3,
+      "label": "TGKA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 22.97,
+            "contribution_score": 341.33
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 16.67,
+            "contribution_score": 309.18
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 297.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:31:04.511Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -3.94,
+      "move_30min": -3.94,
+      "label": "MASB -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -194.71
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -157.91
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -8.33,
+            "contribution_score": -112.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T07:31:04.511Z",
       "status": "active",
       "summary": null
     }
