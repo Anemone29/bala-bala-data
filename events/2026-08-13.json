@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T04:16:04.563Z",
+  "generated_at": "2026-08-13T04:31:04.566Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2982,51 +2982,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -75.8,
-      "label": "74% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -192.66
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": -13.33,
-            "contribution_score": -149.99
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -9.46,
-            "contribution_score": -136.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T04:16:04.563Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TRUK",
       "name": "PT Guna Timur Raya Tbk",
@@ -3074,149 +3029,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ANDI",
-      "name": "PT Andira Agro, Tbk",
-      "change_pct": -5.56,
-      "move_30min": -5.56,
-      "label": "ANDI -5.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -192.66
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": -13.33,
-            "contribution_score": -149.99
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -9.46,
-            "contribution_score": -136.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T04:16:04.563Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KAEF",
       "name": "PT Kimia Farma Tbk",
       "change_pct": -6.17,
       "move_30min": -3.62,
       "label": "KAEF -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DART",
-            "change_pct": -14.95,
-            "contribution_score": -192.66
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": -13.33,
-            "contribution_score": -149.99
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -9.46,
-            "contribution_score": -136.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T04:16:04.563Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BRNA",
-      "name": "PT Berlina Tbk",
-      "change_pct": 1.61,
-      "move_30min": -5.97,
-      "label": "BRNA -6.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PBSA",
-            "change_pct": 22.97,
-            "contribution_score": 336.35
-          },
-          {
-            "ticker": "YPAS",
-            "change_pct": 24.68,
-            "contribution_score": 296.78
-          },
-          {
-            "ticker": "SLIS",
-            "change_pct": 12.82,
-            "contribution_score": 230.25
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Aug 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-08-13T04:16:04.563Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PURA",
-      "name": "PT Surya Pertiwi Tbk",
-      "change_pct": -3.03,
-      "move_30min": -3.03,
-      "label": "PURA -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3345,6 +3162,235 @@
         }
       },
       "detected_at": "2026-08-13T04:16:04.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.8,
+      "label": "74% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.68
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -156.51
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -10.95,
+            "contribution_score": -123.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:31:04.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "ANDI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.68
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -156.51
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -10.95,
+            "contribution_score": -123.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:31:04.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": 3.23,
+      "move_30min": -5.19,
+      "label": "BRNA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PBSA",
+            "change_pct": 23.65,
+            "contribution_score": 348.1
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.68,
+            "contribution_score": 296.75
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 12.82,
+            "contribution_score": 230.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:31:04.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "PURA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.68
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -156.51
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -10.95,
+            "contribution_score": -123.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:31:04.566Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -4.95,
+      "move_30min": -3.35,
+      "label": "BTON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DART",
+            "change_pct": -14.95,
+            "contribution_score": -192.68
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -10.81,
+            "contribution_score": -156.51
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -10.95,
+            "contribution_score": -123.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Aug 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-08-13T04:31:04.566Z",
       "status": "active",
       "summary": null
     }
