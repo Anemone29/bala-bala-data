@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T04:31:06.819Z",
+  "generated_at": "2026-08-18T04:46:06.432Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2662,8 +2662,8 @@
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
       "change_pct": 10.92,
-      "move_30min": -7.21,
-      "label": "PORT -7.2% dalam 30 menit",
+      "move_30min": -7.39,
+      "label": "PORT -7.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2678,25 +2678,111 @@
         ],
         "tickers": [
           {
-            "ticker": "INET",
-            "change_pct": 22.22,
-            "contribution_score": 437.6
-          },
-          {
             "ticker": "JARR",
-            "change_pct": 24.38,
-            "contribution_score": 393.88
+            "change_pct": 33.16,
+            "contribution_score": 545.81
           },
           {
-            "ticker": "DOOH",
-            "change_pct": 14.97,
-            "contribution_score": 275.42
+            "ticker": "INET",
+            "change_pct": 21.37,
+            "contribution_score": 420.54
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.58,
+            "contribution_score": 321.29
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-18T04:31:06.819Z",
+      "detected_at": "2026-08-18T04:46:06.432Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 10.57,
+      "move_30min": 7.94,
+      "label": "KIJA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 545.81
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 21.37,
+            "contribution_score": 420.54
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.58,
+            "contribution_score": 321.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:46:06.432Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -5.07,
+      "move_30min": -3.68,
+      "label": "BRNA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.47,
+            "contribution_score": -142.48
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.91
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -9.48,
+            "contribution_score": -102.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:46:06.432Z",
       "status": "active",
       "summary": null
     }
