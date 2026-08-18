@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T03:46:06.492Z",
+  "generated_at": "2026-08-18T04:01:07.139Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2181,6 +2181,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-18T03:46:06.492Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 15.65,
+      "move_30min": -3.41,
+      "label": "DOOH -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 539.51
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 453.98
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 287.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:01:07.139Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 2.67,
+      "move_30min": 10,
+      "label": "PEHA +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 539.51
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 453.98
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 287.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:01:07.139Z",
       "status": "active",
       "summary": null
     }

@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T04:01:07.139Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 15.65,
+      "move_30min": -3.41,
+      "label": "DOOH -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 539.51
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 453.98
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 287.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:01:07.139Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 2.67,
+      "move_30min": 10,
+      "label": "PEHA +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 539.51
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 453.98
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 287.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T04:01:07.139Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 13.79,
+      "move_30min": -12.74,
+      "label": "PORT -12.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 538.92
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 22.22,
+            "contribution_score": 434.8
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 286.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:46:06.492Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": 0,
+      "move_30min": -3.6,
+      "label": "SHID -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 538.92
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 22.22,
+            "contribution_score": 434.8
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 286.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:46:06.492Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
