@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T08:01:08.854Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 1.33,
+      "move_30min": -3.8,
+      "label": "LAND -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 32.52,
+            "contribution_score": 640.38
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.37
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:01:08.854Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": 2.68,
+      "move_30min": -3.77,
+      "label": "TRIN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 32.52,
+            "contribution_score": 640.38
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.37
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:01:08.854Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -3.17,
+      "move_30min": -3.15,
+      "label": "LPGI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.78,
+            "contribution_score": -115.82
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -99.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:46:07.279Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CEKA",
+      "name": "PT Wilmar Cahaya Indonesia Tbk.",
+      "change_pct": -2.73,
+      "move_30min": -3.17,
+      "label": "CEKA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.78,
+            "contribution_score": -115.82
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -99.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:46:07.279Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

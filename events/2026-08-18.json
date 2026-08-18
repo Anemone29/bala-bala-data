@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T07:46:07.279Z",
+  "generated_at": "2026-08-18T08:01:08.854Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3428,6 +3428,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-18T07:46:07.279Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 1.33,
+      "move_30min": -3.8,
+      "label": "LAND -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 32.52,
+            "contribution_score": 640.38
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.37
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:01:08.854Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": 2.68,
+      "move_30min": -3.77,
+      "label": "TRIN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 32.52,
+            "contribution_score": 640.38
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.37
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:01:08.854Z",
       "status": "active",
       "summary": null
     }
