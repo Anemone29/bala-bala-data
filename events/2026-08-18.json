@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T07:31:08.036Z",
+  "generated_at": "2026-08-18T07:46:07.279Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3350,8 +3350,8 @@
       "ticker": "LPGI",
       "name": "PT Lippo General Insurance Tbk",
       "change_pct": -3.17,
-      "move_30min": -3.94,
-      "label": "LPGI -3.9% dalam 30 menit",
+      "move_30min": -3.15,
+      "label": "LPGI -3.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3372,19 +3372,62 @@
           },
           {
             "ticker": "KOTA",
-            "change_pct": -6.21,
-            "contribution_score": -106.02
+            "change_pct": -6.78,
+            "contribution_score": -115.82
           },
           {
-            "ticker": "STAR",
-            "change_pct": -8.62,
-            "contribution_score": -96.04
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -99.54
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-18T07:31:08.036Z",
+      "detected_at": "2026-08-18T07:46:07.279Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CEKA",
+      "name": "PT Wilmar Cahaya Indonesia Tbk.",
+      "change_pct": -2.73,
+      "move_30min": -3.17,
+      "label": "CEKA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.78,
+            "contribution_score": -115.82
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -99.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:46:07.279Z",
       "status": "active",
       "summary": null
     }
