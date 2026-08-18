@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T09:01:06.962Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 0,
+      "move_30min": -4.05,
+      "label": "DART -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.68
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.7
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T09:01:06.962Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 9.2,
+      "move_30min": -3.06,
+      "label": "PORT -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.68
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.7
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T09:01:06.962Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 18.33,
+      "move_30min": -3.4,
+      "label": "YPAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.26
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.67
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:46:07.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": 6.03,
+      "move_30min": -5.38,
+      "label": "BPII -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.26
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.67
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:46:07.583Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
