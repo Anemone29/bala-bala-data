@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T02:46:06.927Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FILM",
+      "name": "PT.MD Entertainment Tbk",
+      "change_pct": -7.22,
+      "move_30min": -4.02,
+      "label": "FILM -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -90.83
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -7.33,
+            "contribution_score": -75.92
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -72.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:46:06.927Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": -6,
+      "move_30min": -4.67,
+      "label": "PEHA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -90.83
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -7.33,
+            "contribution_score": -75.92
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -72.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:46:06.927Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": 0,
+      "move_30min": -3.8,
+      "label": "GIAA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 19.4,
+            "contribution_score": 294.51
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.65,
+            "contribution_score": 277.9
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 13.68,
+            "contribution_score": 253.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:46:06.927Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": -2.94,
+      "move_30min": -7.48,
+      "label": "SLIS -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FILM",
+            "change_pct": -7.22,
+            "contribution_score": -90.83
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -7.33,
+            "contribution_score": -75.92
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -72.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:46:06.927Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
