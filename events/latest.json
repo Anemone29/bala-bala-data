@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T08:16:07.049Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 31.71,
+            "contribution_score": 625.42
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.43
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:16:07.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.17,
+      "label": "VIVA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 31.71,
+            "contribution_score": 625.42
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.43
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:16:07.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 0,
+      "move_30min": -3.08,
+      "label": "BIPP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 31.71,
+            "contribution_score": 625.42
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.43
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 494.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:16:07.049Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "ANDI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -7.34,
+            "contribution_score": -125.6
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": -7.78,
+            "contribution_score": -107.64
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -9.05,
+            "contribution_score": -102.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:16:07.049Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
