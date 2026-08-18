@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T03:01:06.503Z",
+  "generated_at": "2026-08-18T03:16:06.631Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1411,49 +1411,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "PORT",
-      "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": 24.71,
-      "move_30min": 24.71,
-      "label": "PORT +24.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JARR",
-            "change_pct": 33.16,
-            "contribution_score": 526.58
-          },
-          {
-            "ticker": "PORT",
-            "change_pct": 24.71,
-            "contribution_score": 257.13
-          },
-          {
-            "ticker": "INET",
-            "change_pct": 13.68,
-            "contribution_score": 254.86
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-18T03:01:06.503Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RANC",
       "name": "RANC",
@@ -1497,12 +1454,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "CASA",
-      "name": "Capital Financial Indonesia Tbk",
-      "change_pct": -3.46,
-      "move_30min": -3.46,
-      "label": "CASA -3.5% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 24.71,
+      "move_30min": 21.84,
+      "label": "PORT +21.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1517,25 +1474,369 @@
         ],
         "tickers": [
           {
-            "ticker": "TRUK",
-            "change_pct": -7.58,
-            "contribution_score": -81.74
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 527.31
           },
           {
-            "ticker": "FILM",
-            "change_pct": -6.11,
-            "contribution_score": -80.39
+            "ticker": "DOOH",
+            "change_pct": 16.33,
+            "contribution_score": 293.38
           },
           {
-            "ticker": "STAR",
-            "change_pct": -7.33,
-            "contribution_score": -76.36
+            "ticker": "INET",
+            "change_pct": 14.53,
+            "contribution_score": 272.58
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-18T03:01:06.503Z",
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -3.46,
+      "move_30min": -3.2,
+      "label": "CASA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 13.75,
+      "move_30min": -3.53,
+      "label": "YPAS -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 527.31
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.33,
+            "contribution_score": 293.38
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 14.53,
+            "contribution_score": 272.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -5,
+      "move_30min": -5,
+      "label": "BAPI -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "TARA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "SONA -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -4.29,
+      "move_30min": -4.29,
+      "label": "SHIP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -114.42
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -90.03
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": -6.82,
+            "contribution_score": -74.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 1.5,
+      "move_30min": 9.14,
+      "label": "OMRE +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 527.31
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.33,
+            "contribution_score": 293.38
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 14.53,
+            "contribution_score": 272.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T03:16:06.631Z",
       "status": "active",
       "summary": null
     }
