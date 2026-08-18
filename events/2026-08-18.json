@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T08:31:07.547Z",
+  "generated_at": "2026-08-18T08:46:07.583Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3777,49 +3777,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "YPAS",
-      "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": 15.42,
-      "move_30min": -6.42,
-      "label": "YPAS -6.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIJA",
-            "change_pct": 34.96,
-            "contribution_score": 696.09
-          },
-          {
-            "ticker": "JARR",
-            "change_pct": 33.16,
-            "contribution_score": 548.47
-          },
-          {
-            "ticker": "INET",
-            "change_pct": 24.79,
-            "contribution_score": 495.03
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-18T08:31:07.547Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TRJA",
       "name": "TRJA",
       "change_pct": 0.82,
@@ -3944,6 +3901,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-18T08:31:07.547Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 18.33,
+      "move_30min": -3.4,
+      "label": "YPAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.26
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.67
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:46:07.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": 6.03,
+      "move_30min": -5.38,
+      "label": "BPII -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 34.96,
+            "contribution_score": 696.26
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.67
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 24.79,
+            "contribution_score": 495.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T08:46:07.583Z",
       "status": "active",
       "summary": null
     }
