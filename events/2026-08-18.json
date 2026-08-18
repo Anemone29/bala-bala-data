@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T04:46:06.432Z",
+  "generated_at": "2026-08-18T05:01:07.367Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2701,49 +2701,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "KIJA",
-      "name": "PT Kawasan Industri Jababeka Tbk",
-      "change_pct": 10.57,
-      "move_30min": 7.94,
-      "label": "KIJA +7.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JARR",
-            "change_pct": 33.16,
-            "contribution_score": 545.81
-          },
-          {
-            "ticker": "INET",
-            "change_pct": 21.37,
-            "contribution_score": 420.54
-          },
-          {
-            "ticker": "YPAS",
-            "change_pct": 24.58,
-            "contribution_score": 321.29
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-18T04:46:06.432Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BRNA",
       "name": "PT Berlina Tbk",
@@ -2783,6 +2740,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-18T04:46:06.432Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 11.38,
+      "move_30min": 7.87,
+      "label": "KIJA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 546.05
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 455.9
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.58,
+            "contribution_score": 321.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T05:01:07.367Z",
       "status": "active",
       "summary": null
     }
