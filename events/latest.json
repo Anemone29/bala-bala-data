@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T06:46:07.084Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": 12.08,
+      "move_30min": 8.41,
+      "label": "BEEF +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 547.8
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 456.11
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 17.89,
+            "contribution_score": 327.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T06:46:07.084Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -5.26,
+      "label": "BAUT -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 547.8
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 456.11
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 17.89,
+            "contribution_score": 327.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T06:46:07.084Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -3.43,
+      "move_30min": -3.43,
+      "label": "SHIP -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.21,
+            "contribution_score": -105.59
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -94.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T06:46:07.084Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -8.94,
+      "move_30min": -4.04,
+      "label": "MAPB -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.21,
+            "contribution_score": -105.59
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -8.62,
+            "contribution_score": -94.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T06:46:07.084Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
