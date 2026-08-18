@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-18T07:01:09.199Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T02:01:07.099Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 25.2,
+      "move_30min": 8.45,
+      "label": "KIJA +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.13
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 25.2,
+            "contribution_score": 480.11
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 456.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:01:09.199Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 10.2,
+      "move_30min": -3.57,
+      "label": "DOOH -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.13
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 25.2,
+            "contribution_score": 480.11
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 456.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:01:09.199Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": 5.08,
+      "move_30min": -3.13,
+      "label": "GMFI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JARR",
+            "change_pct": 33.16,
+            "contribution_score": 548.13
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 25.2,
+            "contribution_score": 480.11
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 23.08,
+            "contribution_score": 456.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:01:09.199Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "NFCX -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.55
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -7.34,
+            "contribution_score": -125
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": -9.48,
+            "contribution_score": -104.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-18T07:01:09.199Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
