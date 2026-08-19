@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T03:01:06.454Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -0.58,
+      "move_30min": 14.05,
+      "label": "BYAN +14.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -12.08,
+            "contribution_score": -181.32
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5,
+            "contribution_score": -72.42
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": -7.1,
+            "contribution_score": -69.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:01:06.454Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -7.1,
+      "move_30min": -9.57,
+      "label": "ALDO -9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -12.08,
+            "contribution_score": -181.32
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5,
+            "contribution_score": -72.42
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": -7.1,
+            "contribution_score": -69.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:01:06.454Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INET",
+      "name": "PT Sumber Cipta Multiniaga Tbk",
+      "change_pct": 3.42,
+      "move_30min": -3.82,
+      "label": "INET -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "APLN",
+            "change_pct": 15.33,
+            "contribution_score": 281.64
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 13.86,
+            "contribution_score": 266.25
+          },
+          {
+            "ticker": "BSDE",
+            "change_pct": 8.2,
+            "contribution_score": 132.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:01:06.454Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": 5.45,
+      "move_30min": -4.92,
+      "label": "WEGE -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "APLN",
+            "change_pct": 15.33,
+            "contribution_score": 281.64
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 13.86,
+            "contribution_score": 266.25
+          },
+          {
+            "ticker": "BSDE",
+            "change_pct": 8.2,
+            "contribution_score": 132.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:01:06.454Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
