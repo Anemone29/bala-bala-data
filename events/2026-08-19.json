@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T07:46:06.856Z",
+  "generated_at": "2026-08-19T08:01:06.529Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4035,49 +4035,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TRUS",
-      "name": "Trust Finance Indonesia Tbk",
-      "change_pct": 18.88,
-      "move_30min": -3.32,
-      "label": "TRUS -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "FPNI",
-            "change_pct": 24.42,
-            "contribution_score": 405.69
-          },
-          {
-            "ticker": "TRUS",
-            "change_pct": 18.88,
-            "contribution_score": 246.03
-          },
-          {
-            "ticker": "BBLD",
-            "change_pct": 18.33,
-            "contribution_score": 216.29
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-19T07:46:06.856Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BBLD",
       "name": "BBLD",
       "change_pct": 18.33,
@@ -4202,6 +4159,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-19T07:46:06.856Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 18.88,
+      "move_30min": -4.29,
+      "label": "TRUS -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": 24.42,
+            "contribution_score": 406.23
+          },
+          {
+            "ticker": "BBLD",
+            "change_pct": 20.83,
+            "contribution_score": 248.13
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 13.71,
+            "contribution_score": 242.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:01:06.529Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": 13.71,
+      "move_30min": 10.16,
+      "label": "PIPA +10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": 24.42,
+            "contribution_score": 406.23
+          },
+          {
+            "ticker": "BBLD",
+            "change_pct": 20.83,
+            "contribution_score": 248.13
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 13.71,
+            "contribution_score": 242.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:01:06.529Z",
       "status": "active",
       "summary": null
     }
