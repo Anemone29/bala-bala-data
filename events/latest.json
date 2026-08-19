@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T03:31:06.319Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": -5.58,
+      "move_30min": -4.44,
+      "label": "JARR -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -13.96,
+            "contribution_score": -212.32
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -6,
+            "contribution_score": -88.44
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": -5.58,
+            "contribution_score": -79.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:31:06.319Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "APLN",
+            "change_pct": 13.14,
+            "contribution_score": 242.33
+          },
+          {
+            "ticker": "TOWR",
+            "change_pct": 10.26,
+            "contribution_score": 157.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 138.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:31:06.319Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": 3.23,
+      "move_30min": -3.03,
+      "label": "DEPO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "APLN",
+            "change_pct": 13.14,
+            "contribution_score": 242.33
+          },
+          {
+            "ticker": "TOWR",
+            "change_pct": 10.26,
+            "contribution_score": 157.07
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 138.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:31:06.319Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "PPRO -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -13.96,
+            "contribution_score": -212.32
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -6,
+            "contribution_score": -88.44
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": -5.58,
+            "contribution_score": -79.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T03:31:06.319Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
