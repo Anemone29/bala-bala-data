@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T07:31:06.552Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -3.09,
+      "move_30min": -3.09,
+      "label": "OMRE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -14.72,
+            "contribution_score": -229.78
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -10,
+            "contribution_score": -123.47
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.39,
+            "contribution_score": -112.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T07:31:06.552Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": 7.23,
+      "move_30min": 7.23,
+      "label": "DSFI +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 22.96,
+            "contribution_score": 299.54
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 17.51,
+            "contribution_score": 276.85
+          },
+          {
+            "ticker": "BBLD",
+            "change_pct": 23.33,
+            "contribution_score": 275.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T07:16:06.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 0.8,
+      "move_30min": 8.12,
+      "label": "JARR +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 22.96,
+            "contribution_score": 299.54
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 17.51,
+            "contribution_score": 276.85
+          },
+          {
+            "ticker": "BBLD",
+            "change_pct": 23.33,
+            "contribution_score": 275.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T07:16:06.666Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": 8.03,
+      "move_30min": 7.25,
+      "label": "WOMF +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUS",
+            "change_pct": 22.96,
+            "contribution_score": 299.54
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 17.51,
+            "contribution_score": 276.85
+          },
+          {
+            "ticker": "BBLD",
+            "change_pct": 23.33,
+            "contribution_score": 275.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T07:16:06.666Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
