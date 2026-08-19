@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T08:01:06.529Z",
+  "generated_at": "2026-08-19T08:31:06.437Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4167,8 +4167,8 @@
       "ticker": "TRUS",
       "name": "Trust Finance Indonesia Tbk",
       "change_pct": 18.88,
-      "move_30min": -4.29,
-      "label": "TRUS -4.3% dalam 30 menit",
+      "move_30min": -5.38,
+      "label": "TRUS -5.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4183,25 +4183,25 @@
         ],
         "tickers": [
           {
-            "ticker": "FPNI",
-            "change_pct": 24.42,
-            "contribution_score": 406.23
-          },
-          {
-            "ticker": "BBLD",
-            "change_pct": 20.83,
-            "contribution_score": 248.13
-          },
-          {
             "ticker": "PIPA",
-            "change_pct": 13.71,
-            "contribution_score": 242.35
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-19T08:01:06.529Z",
+      "detected_at": "2026-08-19T08:31:06.437Z",
       "status": "active",
       "summary": null
     },
@@ -4209,9 +4209,9 @@
       "type": "rapid_up",
       "ticker": "PIPA",
       "name": "Oxala Energy International Tbk.",
-      "change_pct": 13.71,
-      "move_30min": 10.16,
-      "label": "PIPA +10.2% dalam 30 menit",
+      "change_pct": 25.81,
+      "move_30min": 10.64,
+      "label": "PIPA +10.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4226,25 +4226,369 @@
         ],
         "tickers": [
           {
-            "ticker": "FPNI",
-            "change_pct": 24.42,
-            "contribution_score": 406.23
-          },
-          {
-            "ticker": "BBLD",
-            "change_pct": 20.83,
-            "contribution_score": 248.13
-          },
-          {
             "ticker": "PIPA",
-            "change_pct": 13.71,
-            "contribution_score": 242.35
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-19T08:01:06.529Z",
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 1.81,
+      "move_30min": -4.52,
+      "label": "KIJA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FPNI",
+      "name": "PT Lotte Chemical Titan Tbk",
+      "change_pct": 14.29,
+      "move_30min": -8.15,
+      "label": "FPNI -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": -4.38,
+      "move_30min": -3.23,
+      "label": "JARR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -14.72,
+            "contribution_score": -230.32
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.99,
+            "contribution_score": -122.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.39,
+            "contribution_score": -115.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "IPTV -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -14.72,
+            "contribution_score": -230.32
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.99,
+            "contribution_score": -122.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.39,
+            "contribution_score": -115.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 12.5,
+      "move_30min": -6.9,
+      "label": "BBLD -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "HRME -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -14.72,
+            "contribution_score": -230.32
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.99,
+            "contribution_score": -122.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.39,
+            "contribution_score": -115.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -7.72,
+      "move_30min": -4.84,
+      "label": "SONA -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -14.72,
+            "contribution_score": -230.32
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.99,
+            "contribution_score": -122.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.39,
+            "contribution_score": -115.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
       "status": "active",
       "summary": null
     }

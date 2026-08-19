@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T08:31:06.437Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 18.88,
+      "move_30min": -5.38,
+      "label": "TRUS -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": 25.81,
+      "move_30min": 10.64,
+      "label": "PIPA +10.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 1.81,
+      "move_30min": -4.52,
+      "label": "KIJA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FPNI",
+      "name": "PT Lotte Chemical Titan Tbk",
+      "change_pct": 14.29,
+      "move_30min": -8.15,
+      "label": "FPNI -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
