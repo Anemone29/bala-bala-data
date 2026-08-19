@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T09:01:06.745Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": 15.32,
+      "move_30min": -8.33,
+      "label": "PIPA -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": 24.42,
+            "contribution_score": 422.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 21.82,
+            "contribution_score": 408.08
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.32,
+            "contribution_score": 291.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T09:01:06.745Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FPNI",
+      "name": "PT Lotte Chemical Titan Tbk",
+      "change_pct": 24.42,
+      "move_30min": 8.87,
+      "label": "FPNI +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": 24.42,
+            "contribution_score": 422.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 21.82,
+            "contribution_score": 408.08
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.32,
+            "contribution_score": 291.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T09:01:06.745Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 19.9,
+      "move_30min": 11.37,
+      "label": "TRUS +11.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": 24.42,
+            "contribution_score": 422.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 21.82,
+            "contribution_score": 408.08
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.32,
+            "contribution_score": 291.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T09:01:06.745Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": 18.88,
+      "move_30min": -5.38,
+      "label": "TRUS -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": 25.81,
+            "contribution_score": 493.8
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 14.55,
+            "contribution_score": 259.22
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": 14.29,
+            "contribution_score": 237.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T08:31:06.437Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
