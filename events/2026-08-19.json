@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T03:46:06.351Z",
+  "generated_at": "2026-08-19T04:01:06.617Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2680,23 +2680,23 @@
           {
             "ticker": "FAST",
             "change_pct": -13.21,
-            "contribution_score": -201.29
+            "contribution_score": -201.6
           },
           {
-            "ticker": "SLIS",
-            "change_pct": -5,
-            "contribution_score": -73.92
+            "ticker": "HALO",
+            "change_pct": -5.8,
+            "contribution_score": -74.81
           },
           {
-            "ticker": "ESSA",
-            "change_pct": -4.62,
-            "contribution_score": -68.41
+            "ticker": "JARR",
+            "change_pct": -5.18,
+            "contribution_score": -74.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-19T03:46:06.351Z",
+      "detected_at": "2026-08-19T04:01:06.617Z",
       "status": "active",
       "summary": null
     },
@@ -2705,8 +2705,8 @@
       "ticker": "LIFE",
       "name": "LIFE",
       "change_pct": -2.19,
-      "move_30min": -5.51,
-      "label": "LIFE -5.5% dalam 30 menit",
+      "move_30min": -5.08,
+      "label": "LIFE -5.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2723,23 +2723,66 @@
           {
             "ticker": "FAST",
             "change_pct": -13.21,
-            "contribution_score": -201.29
+            "contribution_score": -201.6
           },
           {
-            "ticker": "SLIS",
-            "change_pct": -5,
-            "contribution_score": -73.92
+            "ticker": "HALO",
+            "change_pct": -5.8,
+            "contribution_score": -74.81
           },
           {
-            "ticker": "ESSA",
-            "change_pct": -4.62,
-            "contribution_score": -68.41
+            "ticker": "JARR",
+            "change_pct": -5.18,
+            "contribution_score": -74.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-19T03:46:06.351Z",
+      "detected_at": "2026-08-19T04:01:06.617Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "JECC -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAST",
+            "change_pct": -13.21,
+            "contribution_score": -201.6
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": -5.8,
+            "contribution_score": -74.81
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": -5.18,
+            "contribution_score": -74.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T04:01:06.617Z",
       "status": "active",
       "summary": null
     }
