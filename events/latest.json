@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-19T02:31:06.576Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:01:06.622Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": 15.06,
+      "move_30min": 15.06,
+      "label": "KIJA +15.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.06,
+            "contribution_score": 286.14
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 12.41,
+            "contribution_score": 219.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 10.91,
+            "contribution_score": 180.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:31:06.576Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INET",
+      "name": "PT Sumber Cipta Multiniaga Tbk",
+      "change_pct": 7.53,
+      "move_30min": 7.53,
+      "label": "INET +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.06,
+            "contribution_score": 286.14
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 12.41,
+            "contribution_score": 219.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 10.91,
+            "contribution_score": 180.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:31:06.576Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "APLN",
+      "name": "PT Agung Podomoro Land Tbk",
+      "change_pct": 12.41,
+      "move_30min": 12.41,
+      "label": "APLN +12.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.06,
+            "contribution_score": 286.14
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 12.41,
+            "contribution_score": 219.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 10.91,
+            "contribution_score": 180.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:31:06.576Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": 10.91,
+      "move_30min": 10.91,
+      "label": "WEGE +10.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.06,
+            "contribution_score": 286.14
+          },
+          {
+            "ticker": "APLN",
+            "change_pct": 12.41,
+            "contribution_score": 219.25
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": 10.91,
+            "contribution_score": 180.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-19T02:31:06.576Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
