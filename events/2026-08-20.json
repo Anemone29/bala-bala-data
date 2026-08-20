@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T04:01:06.794Z",
+  "generated_at": "2026-08-20T04:16:06.678Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1594,49 +1594,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "WEGE",
-      "name": "WEGE",
-      "change_pct": -5.88,
-      "move_30min": -4.48,
-      "label": "WEGE -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -126.21
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -11.11,
-            "contribution_score": -123.59
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -9.82,
-            "contribution_score": -105.24
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T04:01:06.794Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "RIGS",
       "name": "PT Rig Tenders Indonesia Tbk",
       "change_pct": -2.21,
@@ -1761,6 +1718,135 @@
         "macro_active": null
       },
       "detected_at": "2026-08-20T04:01:06.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -8.82,
+      "move_30min": -6.06,
+      "label": "WEGE -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WEGE",
+            "change_pct": -8.82,
+            "contribution_score": -153.87
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -130.62
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:16:06.678Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.38
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 335.79
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 17.92,
+            "contribution_score": 322.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:16:06.678Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": -0.54,
+      "move_30min": -3.17,
+      "label": "RAAM -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WEGE",
+            "change_pct": -8.82,
+            "contribution_score": -153.87
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -130.62
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:16:06.678Z",
       "status": "active",
       "summary": null
     }
