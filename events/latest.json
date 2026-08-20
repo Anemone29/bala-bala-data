@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-08-20T04:46:06.973Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 323.81
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.04,
+            "contribution_score": 275.94
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.35,
+            "contribution_score": 247.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T02:31:06.516Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": 11.96,
+      "move_30min": 8.42,
+      "label": "BWPT +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.9
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 18.87,
+            "contribution_score": 341.74
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 17.46,
+            "contribution_score": 309.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:46:06.973Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": 0,
+      "move_30min": -3.92,
+      "label": "PNSE -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.9
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 18.87,
+            "contribution_score": 341.74
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 17.46,
+            "contribution_score": 309.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:46:06.973Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -8.82,
+      "move_30min": -3.13,
+      "label": "WEGE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WEGE",
+            "change_pct": -8.82,
+            "contribution_score": -154.1
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -130.62
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -107.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:31:06.109Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 367.73
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.82
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 17.92,
+            "contribution_score": 323.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T04:31:06.109Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
