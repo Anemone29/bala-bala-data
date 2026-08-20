@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T04:46:06.973Z",
+  "generated_at": "2026-08-20T05:01:06.401Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1983,9 +1983,9 @@
       "type": "rapid_up",
       "ticker": "BWPT",
       "name": "PT Eagle High Plantations Tbk",
-      "change_pct": 11.96,
-      "move_30min": 8.42,
-      "label": "BWPT +8.4% dalam 30 menit",
+      "change_pct": 14.13,
+      "move_30min": 10.53,
+      "label": "BWPT +10.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2002,23 +2002,23 @@
           {
             "ticker": "TRUK",
             "change_pct": 25,
-            "contribution_score": 350.9
-          },
-          {
-            "ticker": "PSAB",
-            "change_pct": 18.87,
-            "contribution_score": 341.74
+            "contribution_score": 350.95
           },
           {
             "ticker": "BIPP",
-            "change_pct": 17.46,
-            "contribution_score": 309.57
+            "change_pct": 19.05,
+            "contribution_score": 339.38
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.98,
+            "contribution_score": 306.54
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-20T04:46:06.973Z",
+      "detected_at": "2026-08-20T05:01:06.401Z",
       "status": "active",
       "summary": null
     },
@@ -2045,23 +2045,109 @@
           {
             "ticker": "TRUK",
             "change_pct": 25,
-            "contribution_score": 350.9
-          },
-          {
-            "ticker": "PSAB",
-            "change_pct": 18.87,
-            "contribution_score": 341.74
+            "contribution_score": 350.95
           },
           {
             "ticker": "BIPP",
-            "change_pct": 17.46,
-            "contribution_score": 309.57
+            "change_pct": 19.05,
+            "contribution_score": 339.38
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.98,
+            "contribution_score": 306.54
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-20T04:46:06.973Z",
+      "detected_at": "2026-08-20T05:01:06.401Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MLPT",
+      "name": "PT Multipolar Technology Tbk",
+      "change_pct": 15.12,
+      "move_30min": -3.26,
+      "label": "MLPT -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.95
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 339.38
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.98,
+            "contribution_score": 306.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T05:01:06.401Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": 2.41,
+      "move_30min": -7.27,
+      "label": "BPII -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 350.95
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 339.38
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.98,
+            "contribution_score": 306.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T05:01:06.401Z",
       "status": "active",
       "summary": null
     }
