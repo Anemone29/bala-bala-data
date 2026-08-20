@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-08-20T03:16:06.451Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 323.81
+          },
+          {
+            "ticker": "PSAB",
+            "change_pct": 16.04,
+            "contribution_score": 275.94
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 19.35,
+            "contribution_score": 247.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T02:31:06.516Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 11.11,
+      "move_30min": -7.41,
+      "label": "GSMF -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 363.17
+          },
+          {
+            "ticker": "PYFA",
+            "change_pct": 16.82,
+            "contribution_score": 278.72
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 18.22,
+            "contribution_score": 268.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:16:06.451Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 5.13,
+      "move_30min": -4.65,
+      "label": "ESTI -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 20.63,
+            "contribution_score": 363.17
+          },
+          {
+            "ticker": "PYFA",
+            "change_pct": 16.82,
+            "contribution_score": 278.72
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 18.22,
+            "contribution_score": 268.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:16:06.451Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.21
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -123.59
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -105.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:16:06.451Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -11.11,
+      "move_30min": -5.88,
+      "label": "PPRO -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.21
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -123.59
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -105.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:16:06.451Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
