@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T03:31:06.953Z",
+  "generated_at": "2026-08-20T03:46:06.625Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1422,49 +1422,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "WEGE",
-      "name": "WEGE",
-      "change_pct": -1.47,
-      "move_30min": -4.29,
-      "label": "WEGE -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -126.21
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -11.11,
-            "contribution_score": -123.59
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -9.82,
-            "contribution_score": -105.24
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T03:31:06.953Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BOGA",
       "name": "Apollo Global Interactive Tbk.",
       "change_pct": 8.04,
@@ -1589,6 +1546,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-20T03:31:06.953Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -2.94,
+      "move_30min": -5.71,
+      "label": "WEGE -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.21
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -123.59
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -105.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:46:06.625Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTPN",
+      "name": "PT Bank SMBC Indonesia Tbk",
+      "change_pct": 2.83,
+      "move_30min": -3.11,
+      "label": "BTPN -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 349.47
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 17.46,
+            "contribution_score": 306.23
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": 19.77,
+            "contribution_score": 300.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T03:46:06.625Z",
       "status": "active",
       "summary": null
     }
