@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T07:16:06.422Z",
+  "generated_at": "2026-08-20T07:31:07.012Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2496,48 +2496,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 72.8,
-      "label": "73% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BWPT",
-            "change_pct": 20.65,
-            "contribution_score": 408.19
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 351.38
-          },
-          {
-            "ticker": "KIJA",
-            "change_pct": 14.55,
-            "contribution_score": 273.48
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T07:16:06.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GSMF",
       "name": "PT Equity Development Investment Tbk",
@@ -2754,97 +2712,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PYFA",
-      "name": "PT Pyridam Farma Tbk",
-      "change_pct": 12.15,
-      "move_30min": -3.23,
-      "label": "PYFA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BWPT",
-            "change_pct": 20.65,
-            "contribution_score": 408.19
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 351.38
-          },
-          {
-            "ticker": "KIJA",
-            "change_pct": 14.55,
-            "contribution_score": 273.48
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T07:16:06.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TRIN",
       "name": "TRIN",
       "change_pct": 6.49,
       "move_30min": -5.2,
       "label": "TRIN -5.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BWPT",
-            "change_pct": 20.65,
-            "contribution_score": 408.19
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 351.38
-          },
-          {
-            "ticker": "KIJA",
-            "change_pct": 14.55,
-            "contribution_score": 273.48
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T07:16:06.422Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "JARR",
-      "name": "Jhonlin Agro Raya Tbk.",
-      "change_pct": 13.87,
-      "move_30min": 10.16,
-      "label": "JARR +10.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2921,6 +2793,349 @@
         "macro_active": null
       },
       "detected_at": "2026-08-20T07:16:06.422Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.8,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": 12.15,
+      "move_30min": -3.25,
+      "label": "PYFA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 24.79,
+      "move_30min": 18.33,
+      "label": "JARR +18.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 14.29,
+      "move_30min": -4,
+      "label": "BIPP -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 9.73,
+      "move_30min": 13.76,
+      "label": "FAST +13.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 4.17,
+      "move_30min": -3.23,
+      "label": "LUCY -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": 2.31,
+      "move_30min": -3.62,
+      "label": "NICE -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 431.39
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 24.79,
+            "contribution_score": 392.6
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 352.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -0.65,
+      "move_30min": -3.18,
+      "label": "POLI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -9.84,
+            "contribution_score": -139.29
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -131.81
+          },
+          {
+            "ticker": "WEGE",
+            "change_pct": -7.35,
+            "contribution_score": -129.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:31:07.012Z",
       "status": "active",
       "summary": null
     }
