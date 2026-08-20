@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T06:46:06.735Z",
+  "generated_at": "2026-08-20T07:01:06.739Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2195,48 +2195,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 70.8,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BWPT",
-            "change_pct": 22.83,
-            "contribution_score": 443.82
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 350.97
-          },
-          {
-            "ticker": "WIRG",
-            "change_pct": 17.91,
-            "contribution_score": 314.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T06:46:06.735Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BAPI",
       "name": "BAPI",
@@ -2453,49 +2411,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "WIRG",
-      "name": "WIRG",
-      "change_pct": 17.91,
-      "move_30min": 11.27,
-      "label": "WIRG +11.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BWPT",
-            "change_pct": 22.83,
-            "contribution_score": 443.82
-          },
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 350.97
-          },
-          {
-            "ticker": "WIRG",
-            "change_pct": 17.91,
-            "contribution_score": 314.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-20T06:46:06.735Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "CLEO",
       "name": "PT Sariguna Primatirta Tbk",
       "change_pct": 8.95,
@@ -2534,6 +2449,177 @@
         "macro_active": null
       },
       "detected_at": "2026-08-20T06:46:06.735Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.8,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 427.86
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 351.1
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 339.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:01:06.739Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": 17.91,
+      "move_30min": 9.86,
+      "label": "WIRG +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 427.86
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 351.1
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 339.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:01:06.739Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 5.56,
+      "move_30min": -4.04,
+      "label": "GSMF -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.74,
+            "contribution_score": 427.86
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 351.1
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": 19.05,
+            "contribution_score": 339.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:01:06.739Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -0.66,
+      "move_30min": -4.46,
+      "label": "SIPD -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -9.84,
+            "contribution_score": -139.29
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.11,
+            "contribution_score": -131.81
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -9.82,
+            "contribution_score": -109.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-20T07:01:06.739Z",
       "status": "active",
       "summary": null
     }
