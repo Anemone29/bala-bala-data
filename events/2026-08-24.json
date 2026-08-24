@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T04:00:19.727Z",
+  "generated_at": "2026-08-24T04:15:19.350Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2334,25 +2334,412 @@
         ],
         "tickers": [
           {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
             "ticker": "BTEK",
             "change_pct": -9.09,
-            "contribution_score": -124.68
+            "contribution_score": -131.84
           },
           {
-            "ticker": "MDIA",
-            "change_pct": -7.14,
-            "contribution_score": -98.4
-          },
-          {
-            "ticker": "WEGE",
-            "change_pct": -5.08,
-            "contribution_score": -71.16
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-24T04:00:19.727Z",
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -10,
+      "move_30min": -3.08,
+      "label": "MDIA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "PPRO -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.51
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 353.95
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNIN",
+      "name": "PT Paninvest Tbk",
+      "change_pct": 1.42,
+      "move_30min": -3.38,
+      "label": "PNIN -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.51
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 353.95
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "IPTV -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 1.98,
+      "move_30min": -4.63,
+      "label": "DAYA -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.51
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 353.95
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -3.18,
+      "move_30min": -3.18,
+      "label": "IFSH -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": 4.9,
+      "move_30min": 7.53,
+      "label": "INDR +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.51
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 353.95
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADES",
+      "name": "PT Akasha Wira International Tbk",
+      "change_pct": -3.82,
+      "move_30min": -3.82,
+      "label": "ADES -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -5.88,
+            "contribution_score": -75.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:15:19.350Z",
       "status": "active",
       "summary": null
     }
