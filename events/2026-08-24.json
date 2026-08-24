@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T06:30:19.604Z",
+  "generated_at": "2026-08-24T06:45:00.000Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3299,6 +3299,43 @@
         "macro_active": null
       },
       "detected_at": "2026-08-24T06:30:19.604Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -87,
+      "label": "87% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -0.97
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ARTO",
+            "change_pct": -4.25,
+            "contribution_score": -56.66
+          },
+          {
+            "ticker": "AMAR",
+            "change_pct": -2.59,
+            "contribution_score": -25.63
+          },
+          {
+            "ticker": "AGRO",
+            "change_pct": -1.96,
+            "contribution_score": -24.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T06:45:00.000Z",
       "status": "active",
       "summary": null
     }
