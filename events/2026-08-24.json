@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T04:45:19.118Z",
+  "generated_at": "2026-08-24T05:00:20.508Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2998,6 +2998,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-24T04:45:19.118Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": 2.06,
+      "move_30min": -4.81,
+      "label": "KIOS -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.82
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 21.32,
+            "contribution_score": 303.3
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T05:00:20.508Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -4.71,
+      "move_30min": -3.76,
+      "label": "PNSE -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": -5,
+            "contribution_score": -77.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T05:00:20.508Z",
       "status": "active",
       "summary": null
     }

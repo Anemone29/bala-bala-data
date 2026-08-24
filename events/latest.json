@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-24T05:00:20.508Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:00:20.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": 2.06,
+      "move_30min": -4.81,
+      "label": "KIOS -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.82
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 21.32,
+            "contribution_score": 303.3
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T05:00:20.508Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -4.71,
+      "move_30min": -3.76,
+      "label": "PNSE -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "GMFI",
+            "change_pct": -5,
+            "contribution_score": -77.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T05:00:20.508Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": 20,
+      "move_30min": 11.66,
+      "label": "POLU +11.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.54
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 354.2
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 15.08,
+            "contribution_score": 282.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:45:19.118Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": -5,
+      "move_30min": -3.39,
+      "label": "GMFI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -10,
+            "contribution_score": -142.38
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -131.84
+          },
+          {
+            "ticker": "BPFI",
+            "change_pct": -7.03,
+            "contribution_score": -83.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T04:45:19.118Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
