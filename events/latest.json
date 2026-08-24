@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-24T02:45:19.106Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:00:20.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MUTU",
+      "name": "Mutuagung Lestari Tbk.",
+      "change_pct": 9.17,
+      "move_30min": -5.76,
+      "label": "MUTU -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 31.39,
+            "contribution_score": 502.37
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 12.85,
+            "contribution_score": 232.93
+          },
+          {
+            "ticker": "MUTU",
+            "change_pct": 9.17,
+            "contribution_score": 147.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:45:19.106Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "GMFI -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MPRO",
+            "change_pct": -12.19,
+            "contribution_score": -62.68
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": -3.57,
+            "contribution_score": -53.74
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -3.33,
+            "contribution_score": -52.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:45:19.106Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": -3.39,
+      "move_30min": -5,
+      "label": "PYFA -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MPRO",
+            "change_pct": -12.19,
+            "contribution_score": -62.68
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": -3.57,
+            "contribution_score": -53.74
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -3.33,
+            "contribution_score": -52.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:45:19.106Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 8,
+      "move_30min": -3.57,
+      "label": "BMAS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 31.39,
+            "contribution_score": 502.37
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 12.85,
+            "contribution_score": 232.93
+          },
+          {
+            "ticker": "MUTU",
+            "change_pct": 9.17,
+            "contribution_score": 147.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:45:19.106Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
