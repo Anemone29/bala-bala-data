@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-24T03:00:20.805Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T02:00:20.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPFI",
+      "name": "BPFI",
+      "change_pct": -6.25,
+      "move_30min": -5.51,
+      "label": "BPFI -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BPFI",
+            "change_pct": -6.25,
+            "contribution_score": -67.5
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.17,
+            "contribution_score": -64.36
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": -4.24,
+            "contribution_score": -60.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:00:20.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": 9.52,
+      "move_30min": 10.84,
+      "label": "JAST +10.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 562.65
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 17.32,
+            "contribution_score": 320.25
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 9.52,
+            "contribution_score": 148.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:00:20.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASLC",
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "change_pct": 3.17,
+      "move_30min": -4.41,
+      "label": "ASLC -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 562.65
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 17.32,
+            "contribution_score": 320.25
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 9.52,
+            "contribution_score": 148.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:00:20.805Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.39,
+      "move_30min": -3.39,
+      "label": "WEGE -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BPFI",
+            "change_pct": -6.25,
+            "contribution_score": -67.5
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.17,
+            "contribution_score": -64.36
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": -4.24,
+            "contribution_score": -60.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:00:20.805Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
