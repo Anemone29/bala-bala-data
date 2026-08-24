@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T03:30:19.120Z",
+  "generated_at": "2026-08-24T03:45:19.103Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1885,49 +1885,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PORT",
-      "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": 1.64,
-      "move_30min": -3.13,
-      "label": "PORT -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 34.31,
-            "contribution_score": 563.27
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": 17.32,
-            "contribution_score": 324.25
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 22.34,
-            "contribution_score": 304.72
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-24T03:30:19.120Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BOGA",
       "name": "Apollo Global Interactive Tbk.",
       "change_pct": -1.27,
@@ -1966,6 +1923,178 @@
         "macro_active": null
       },
       "detected_at": "2026-08-24T03:30:19.120Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 1.64,
+      "move_30min": -3.14,
+      "label": "PORT -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.4
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 346.41
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 16.2,
+            "contribution_score": 303.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:45:19.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 9.9,
+      "move_30min": 11.94,
+      "label": "SMMT +11.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.4
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 346.41
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 16.2,
+            "contribution_score": 303.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:45:19.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "SIPD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 34.31,
+            "contribution_score": 563.4
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.87,
+            "contribution_score": 346.41
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": 16.2,
+            "contribution_score": 303.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:45:19.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SRAJ",
+      "name": "PT Sejahteraraya Anugrahjaya Tbk",
+      "change_pct": -8.16,
+      "move_30min": -8.16,
+      "label": "SRAJ -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -124.68
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.14,
+            "contribution_score": -98.4
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": -4.24,
+            "contribution_score": -62.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-24T03:45:19.103Z",
       "status": "active",
       "summary": null
     }
