@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T02:45:19.350Z",
+  "generated_at": "2026-08-26T03:00:19.307Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1152,49 +1152,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "NICE",
-      "name": "NICE",
-      "change_pct": 25,
-      "move_30min": 13.33,
-      "label": "NICE +13.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 25,
-            "contribution_score": 418.28
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 25,
-            "contribution_score": 381.02
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 342.05
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T02:45:19.350Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BTON",
       "name": "BTON",
@@ -1368,49 +1325,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "DAYA",
-      "name": "PT Duta Intidaya Tbk",
-      "change_pct": 5.61,
-      "move_30min": -13.08,
-      "label": "DAYA -13.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 25,
-            "contribution_score": 418.28
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 25,
-            "contribution_score": 381.02
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 342.05
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T02:45:19.350Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "LPCK",
       "name": "PT Lippo Cikarang Tbk",
       "change_pct": -0.82,
@@ -1496,6 +1410,92 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": 25,
+      "move_30min": 11.11,
+      "label": "NICE +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": 28.93,
+            "contribution_score": 453.42
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.68
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 381.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:00:19.307Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 11.68,
+      "move_30min": -7.36,
+      "label": "DAYA -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": 28.93,
+            "contribution_score": 453.42
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.68
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 381.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:00:19.307Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "OMRE",
       "name": "PT Indonesia Prima Property Tbk",
@@ -1516,25 +1516,111 @@
         ],
         "tickers": [
           {
-            "ticker": "JAST",
-            "change_pct": -5.49,
-            "contribution_score": -76.06
+            "ticker": "SLIS",
+            "change_pct": -6.25,
+            "contribution_score": -90.19
           },
           {
-            "ticker": "SLIS",
-            "change_pct": -5.21,
-            "contribution_score": -74.47
+            "ticker": "BWPT",
+            "change_pct": -4.67,
+            "contribution_score": -73.87
           },
           {
             "ticker": "GIAA",
             "change_pct": -4.35,
-            "contribution_score": -67.75
+            "contribution_score": -68.1
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-26T02:45:19.350Z",
+      "detected_at": "2026-08-26T03:00:19.307Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIP",
+      "name": "PT Bumi Citra Permai Tbk",
+      "change_pct": -1.59,
+      "move_30min": -3.13,
+      "label": "BCIP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": -6.25,
+            "contribution_score": -90.19
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": -4.67,
+            "contribution_score": -73.87
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.35,
+            "contribution_score": -68.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:00:19.307Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": 11.01,
+      "move_30min": 9.09,
+      "label": "LIFE +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": 28.93,
+            "contribution_score": 453.42
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.68
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 381.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:00:19.307Z",
       "status": "active",
       "summary": null
     }
