@@ -1,4 +1,202 @@
 {
-  "generated_at": "2026-08-26T07:15:19.404Z",
-  "events": []
+  "generated_at": "2026-08-26T07:30:00.000Z",
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -95.8,
+      "label": "96% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -1.06
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBYB",
+            "change_pct": -2.38,
+            "contribution_score": -33.13
+          },
+          {
+            "ticker": "AGRO",
+            "change_pct": -2.67,
+            "contribution_score": -32.8
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -1.82,
+            "contribution_score": -28.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T07:30:00.000Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -80,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:00:19.615Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": 18.48,
+      "move_30min": -8.85,
+      "label": "PICO -8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 385.15
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 346.13
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 15.74,
+            "contribution_score": 252.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T07:00:19.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": 12.09,
+      "move_30min": -3.77,
+      "label": "JAST -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 385.15
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 346.13
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 15.74,
+            "contribution_score": 252.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T07:00:19.817Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T07:00:19.817Z",
+  "generated_at": "2026-08-26T07:30:00.000Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3728,6 +3728,43 @@
         "macro_active": null
       },
       "detected_at": "2026-08-26T07:00:19.817Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -95.8,
+      "label": "96% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Financial Services",
+            "avg_change_pct": -1.06
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBYB",
+            "change_pct": -2.38,
+            "contribution_score": -33.13
+          },
+          {
+            "ticker": "AGRO",
+            "change_pct": -2.67,
+            "contribution_score": -32.8
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -1.82,
+            "contribution_score": -28.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T07:30:00.000Z",
       "status": "active",
       "summary": null
     }
