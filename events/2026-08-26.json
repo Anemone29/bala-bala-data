@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T02:15:19.129Z",
+  "generated_at": "2026-08-26T02:30:19.209Z",
   "events": [
     {
       "type": "breadth_up",
@@ -39,7 +39,7 @@
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
       "change_pct": -80,
-      "label": "80% saham melemah",
+      "label": "76% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -54,25 +54,1186 @@
         ],
         "tickers": [
           {
-            "ticker": "JAST",
-            "change_pct": -7.69,
-            "contribution_score": -101.05
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
           },
           {
-            "ticker": "GIAA",
-            "change_pct": -6.94,
-            "contribution_score": -98.21
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
           },
           {
             "ticker": "SLIS",
             "change_pct": -5.21,
-            "contribution_score": -70.24
+            "contribution_score": -72.14
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-26T02:15:19.129Z",
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MUTU",
+      "name": "Mutuagung Lestari Tbk.",
+      "change_pct": 11.9,
+      "move_30min": 11.9,
+      "label": "MUTU +11.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": 26.09,
+      "move_30min": 26.09,
+      "label": "PICO +26.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIJA",
+      "name": "PT Kawasan Industri Jababeka Tbk",
+      "change_pct": -3.88,
+      "move_30min": -3.88,
+      "label": "KIJA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -5.8,
+      "move_30min": -5.8,
+      "label": "GIAA -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": -3.74,
+      "move_30min": -3.74,
+      "label": "BWPT -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 23.86,
+      "move_30min": 23.86,
+      "label": "KICI +23.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "GMFI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "WIRG -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": -5.21,
+      "move_30min": -5.21,
+      "label": "SLIS -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": 12.5,
+      "move_30min": 12.5,
+      "label": "NICE +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -6.59,
+      "move_30min": -6.59,
+      "label": "JAST -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDC",
+      "name": "PT Medco Energi Internasional Tbk",
+      "change_pct": -3.21,
+      "move_30min": -3.21,
+      "label": "MEDC -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "SAFE +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BUDI",
+      "name": "PT Budi Starch & Sweetener Tbk",
+      "change_pct": 15.45,
+      "move_30min": 15.45,
+      "label": "BUDI +15.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.51,
+      "move_30min": -3.51,
+      "label": "WEGE -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FILM",
+      "name": "PT.MD Entertainment Tbk",
+      "change_pct": -3.16,
+      "move_30min": -3.16,
+      "label": "FILM -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": -5.1,
+      "move_30min": -5.1,
+      "label": "JARR -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEGE",
+      "name": "PT Panca Global Kapital Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "PEGE -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NRCA",
+      "name": "PT Nusa Raya Cipta Tbk",
+      "change_pct": -3.39,
+      "move_30min": -3.39,
+      "label": "NRCA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "PYFA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOID",
+      "name": "PT Buma Internasional Grup Tbk",
+      "change_pct": -3.36,
+      "move_30min": -3.36,
+      "label": "DOID -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -3.68,
+      "move_30min": -3.68,
+      "label": "ESTI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -3.38,
+      "move_30min": -3.38,
+      "label": "MCAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 20.56,
+      "move_30min": 20.56,
+      "label": "DAYA +20.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": 13.55,
+      "move_30min": 13.55,
+      "label": "POLU +13.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 26.09,
+            "contribution_score": 432.83
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 23.86,
+            "contribution_score": 346.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 332.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": -3.77,
+      "move_30min": -3.77,
+      "label": "BMAS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -3.26,
+      "move_30min": -3.26,
+      "label": "BTON -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GIAA",
+            "change_pct": -5.8,
+            "contribution_score": -89.85
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": -6.59,
+            "contribution_score": -89.51
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -72.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:30:19.209Z",
       "status": "active",
       "summary": null
     }
