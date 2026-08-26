@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T08:45:19.778Z",
+  "generated_at": "2026-08-26T09:00:20.617Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3769,48 +3769,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -83.5,
-      "label": "84% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIJA",
-            "change_pct": -9.71,
-            "contribution_score": -170.29
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -8.82,
-            "contribution_score": -148.22
-          },
-          {
-            "ticker": "BWPT",
-            "change_pct": -8.41,
-            "contribution_score": -142.91
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T08:45:19.778Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "KIJA",
       "name": "PT Kawasan Industri Jababeka Tbk",
@@ -5656,6 +5614,48 @@
         "macro_active": null
       },
       "detected_at": "2026-08-26T08:45:19.778Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.5,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -11.27,
+            "contribution_score": -189.76
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": -10.68,
+            "contribution_score": -188.03
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.62,
+            "contribution_score": -175.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T09:00:20.617Z",
       "status": "active",
       "summary": null
     }
