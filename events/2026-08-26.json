@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T03:30:19.149Z",
+  "generated_at": "2026-08-26T03:45:19.240Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2142,49 +2142,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "KICI",
-      "name": "PT Kedaung Indah Can Tbk",
-      "change_pct": 17.77,
-      "move_30min": -8.66,
-      "label": "KICI -8.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 23.91,
-            "contribution_score": 400.95
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 25,
-            "contribution_score": 382.38
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 345.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T03:30:19.149Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "WOMF",
       "name": "WOMF",
       "change_pct": -1.44,
@@ -2223,6 +2180,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-26T03:30:19.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 17.77,
+      "move_30min": -16.79,
+      "label": "KICI -16.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 383.18
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 382.45
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 345.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:45:19.240Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": 14.37,
+      "move_30min": -4.69,
+      "label": "MPRO -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 383.18
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 382.45
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 345.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T03:45:19.240Z",
       "status": "active",
       "summary": null
     }
