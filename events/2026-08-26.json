@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T03:45:19.240Z",
+  "generated_at": "2026-08-26T04:00:19.340Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2266,6 +2266,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-26T03:45:19.240Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -1.48,
+      "move_30min": -3.62,
+      "label": "BBLD -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -9.52,
+            "contribution_score": -127.27
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -6.94,
+            "contribution_score": -110.35
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.14,
+            "contribution_score": -83.22
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T04:00:19.340Z",
       "status": "active",
       "summary": null
     }
