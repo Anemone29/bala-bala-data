@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T04:45:19.221Z",
+  "generated_at": "2026-08-26T05:00:19.482Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2825,6 +2825,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-26T04:45:19.221Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MUTU",
+      "name": "Mutuagung Lestari Tbk.",
+      "change_pct": 6.35,
+      "move_30min": -4.96,
+      "label": "MUTU -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 384.1
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 383.89
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 345.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T05:00:19.482Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MITI",
+      "name": "PT Mitra Investindo Tbk",
+      "change_pct": 10.89,
+      "move_30min": -3.45,
+      "label": "MITI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 384.1
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": 22.83,
+            "contribution_score": 383.89
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 345.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T05:00:19.482Z",
       "status": "active",
       "summary": null
     }
