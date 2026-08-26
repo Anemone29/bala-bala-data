@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T02:30:19.209Z",
+  "generated_at": "2026-08-26T02:45:19.350Z",
   "events": [
     {
       "type": "breadth_up",
@@ -292,49 +292,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "KICI",
-      "name": "PT Kedaung Indah Can Tbk",
-      "change_pct": 23.86,
-      "move_30min": 23.86,
-      "label": "KICI +23.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 26.09,
-            "contribution_score": 432.83
-          },
-          {
-            "ticker": "KICI",
-            "change_pct": 23.86,
-            "contribution_score": 346.42
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 332.35
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T02:30:19.209Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GMFI",
       "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
@@ -454,49 +411,6 @@
             "ticker": "SLIS",
             "change_pct": -5.21,
             "contribution_score": -72.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-26T02:30:19.209Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "NICE",
-      "name": "NICE",
-      "change_pct": 12.5,
-      "move_30min": 12.5,
-      "label": "NICE +12.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PICO",
-            "change_pct": 26.09,
-            "contribution_score": 432.83
-          },
-          {
-            "ticker": "KICI",
-            "change_pct": 23.86,
-            "contribution_score": 346.42
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 332.35
           }
         ],
         "foreign_flow": null,
@@ -1195,6 +1109,92 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 23.86,
+      "move_30min": 11.32,
+      "label": "KICI +11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": 25,
+      "move_30min": 13.33,
+      "label": "NICE +13.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BTON",
       "name": "BTON",
@@ -1215,25 +1215,326 @@
         ],
         "tickers": [
           {
-            "ticker": "GIAA",
-            "change_pct": -5.8,
-            "contribution_score": -89.85
-          },
-          {
             "ticker": "JAST",
-            "change_pct": -6.59,
-            "contribution_score": -89.51
+            "change_pct": -5.49,
+            "contribution_score": -76.06
           },
           {
             "ticker": "SLIS",
             "change_pct": -5.21,
-            "contribution_score": -72.14
+            "contribution_score": -74.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.35,
+            "contribution_score": -67.75
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-26T02:30:19.209Z",
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDKA",
+      "name": "PT Merdeka Copper Gold Tbk",
+      "change_pct": 7.43,
+      "move_30min": 8.9,
+      "label": "MDKA +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TOBA",
+      "name": "TOBA",
+      "change_pct": 6.19,
+      "move_30min": 7.14,
+      "label": "TOBA +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": -1.15,
+      "move_30min": -3.91,
+      "label": "ESTA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -5.49,
+            "contribution_score": -76.06
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -74.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.35,
+            "contribution_score": -67.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 5.61,
+      "move_30min": -13.08,
+      "label": "DAYA -13.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPCK",
+      "name": "PT Lippo Cikarang Tbk",
+      "change_pct": -0.82,
+      "move_30min": -3.2,
+      "label": "LPCK -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -5.49,
+            "contribution_score": -76.06
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -74.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.35,
+            "contribution_score": -67.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 2.42,
+      "move_30min": -3.64,
+      "label": "SMMT -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": 25,
+            "contribution_score": 418.28
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 25,
+            "contribution_score": 381.02
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 342.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -4.12,
+      "move_30min": -4.12,
+      "label": "OMRE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -5.49,
+            "contribution_score": -76.06
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": -5.21,
+            "contribution_score": -74.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -4.35,
+            "contribution_score": -67.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-26T02:45:19.350Z",
       "status": "active",
       "summary": null
     }
