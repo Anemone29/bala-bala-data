@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T04:15:21.652Z",
+  "generated_at": "2026-08-27T04:30:22.202Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2152,48 +2152,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 71.5,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 22.22,
-            "contribution_score": 367.72
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 289.8
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 17.65,
-            "contribution_score": 282.54
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T04:15:21.652Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "POLI",
       "name": "POLI",
@@ -2323,6 +2281,48 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 75,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 368.21
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.06,
+            "contribution_score": 273.06
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.38,
+            "contribution_score": 250.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:30:22.202Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "ASMI",
       "name": "ASMI",
@@ -2345,23 +2345,23 @@
           {
             "ticker": "DMMX",
             "change_pct": 22.22,
-            "contribution_score": 367.72
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 289.8
+            "contribution_score": 368.21
           },
           {
             "ticker": "NICE",
-            "change_pct": 17.65,
-            "contribution_score": 282.54
+            "change_pct": 17.06,
+            "contribution_score": 273.06
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.38,
+            "contribution_score": 250.98
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-27T04:15:21.652Z",
+      "detected_at": "2026-08-27T04:30:22.202Z",
       "status": "active",
       "summary": null
     },
@@ -2387,24 +2387,110 @@
         "tickers": [
           {
             "ticker": "JAST",
-            "change_pct": -8.11,
-            "contribution_score": -137.12
-          },
-          {
-            "ticker": "WGSH",
-            "change_pct": -7.5,
-            "contribution_score": -108.61
+            "change_pct": -7.21,
+            "contribution_score": -121.98
           },
           {
             "ticker": "PICO",
             "change_pct": -7.43,
-            "contribution_score": -95.34
+            "contribution_score": -95.6
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -6.25,
+            "contribution_score": -90.66
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-27T04:15:21.652Z",
+      "detected_at": "2026-08-27T04:30:22.202Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 9.38,
+      "move_30min": -3.85,
+      "label": "POLI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 368.21
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.06,
+            "contribution_score": 273.06
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.38,
+            "contribution_score": 250.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:30:22.202Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": 10.32,
+      "move_30min": 7.55,
+      "label": "SIPD +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 368.21
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.06,
+            "contribution_score": 273.06
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 13.38,
+            "contribution_score": 250.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:30:22.202Z",
       "status": "active",
       "summary": null
     }
