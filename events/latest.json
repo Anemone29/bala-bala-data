@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-08-27T04:15:21.652Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.5,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "78% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 20,
+            "contribution_score": 309.2
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.06,
+            "contribution_score": 260.44
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 11.76,
+            "contribution_score": 212.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T02:30:22.138Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 20,
+      "move_30min": 17.07,
+      "label": "POLI +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -2.99,
+      "move_30min": -4.41,
+      "label": "BBLD -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -8.11,
+            "contribution_score": -137.12
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -7.5,
+            "contribution_score": -108.61
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -7.43,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": 22.22,
+      "move_30min": -5.17,
+      "label": "DMMX -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

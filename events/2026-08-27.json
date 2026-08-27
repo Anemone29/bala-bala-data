@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T04:00:24.232Z",
+  "generated_at": "2026-08-27T04:15:21.652Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2023,48 +2023,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 71.5,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 25.56,
-            "contribution_score": 424.32
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 18.24,
-            "contribution_score": 291.17
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 288.59
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T04:00:24.232Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TRUK",
       "name": "PT Guna Timur Raya Tbk",
@@ -2151,49 +2109,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "POLI",
-      "name": "POLI",
-      "change_pct": 13.75,
-      "move_30min": 13.75,
-      "label": "POLI +13.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 25.56,
-            "contribution_score": 424.32
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 18.24,
-            "contribution_score": 291.17
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 288.59
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T04:00:24.232Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SMMT",
       "name": "Golden Eagle Energy Tbk.",
@@ -2237,6 +2152,91 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.5,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 20,
+      "move_30min": 17.07,
+      "label": "POLI +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BBLD",
       "name": "BBLD",
@@ -2259,23 +2259,152 @@
           {
             "ticker": "JAST",
             "change_pct": -8.11,
-            "contribution_score": -137.02
-          },
-          {
-            "ticker": "PICO",
-            "change_pct": -8.42,
-            "contribution_score": -107.81
+            "contribution_score": -137.12
           },
           {
             "ticker": "WGSH",
-            "change_pct": -6.88,
-            "contribution_score": -99.55
+            "change_pct": -7.5,
+            "contribution_score": -108.61
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -7.43,
+            "contribution_score": -95.34
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-27T04:00:24.232Z",
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": 22.22,
+      "move_30min": -5.17,
+      "label": "DMMX -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -6.25,
+      "label": "ASMI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 22.22,
+            "contribution_score": 367.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 289.8
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 282.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -4.72,
+      "move_30min": -5.1,
+      "label": "SONA -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -8.11,
+            "contribution_score": -137.12
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -7.5,
+            "contribution_score": -108.61
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -7.43,
+            "contribution_score": -95.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:15:21.652Z",
       "status": "active",
       "summary": null
     }
