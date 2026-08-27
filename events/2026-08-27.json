@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T07:15:22.172Z",
+  "generated_at": "2026-08-27T07:30:25.476Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2925,48 +2925,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 83.3,
-      "label": "83% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "NICE",
-            "change_pct": 21.18,
-            "contribution_score": 349
-          },
-          {
-            "ticker": "DMMX",
-            "change_pct": 18.89,
-            "contribution_score": 312.82
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 22.54,
-            "contribution_score": 290.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T07:15:22.172Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "ZONE",
       "name": "Mega Perintis Tbk.",
@@ -3016,49 +2974,6 @@
       "change_pct": 18.89,
       "move_30min": -3.6,
       "label": "DMMX -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "NICE",
-            "change_pct": 21.18,
-            "contribution_score": 349
-          },
-          {
-            "ticker": "DMMX",
-            "change_pct": 18.89,
-            "contribution_score": 312.82
-          },
-          {
-            "ticker": "ZONE",
-            "change_pct": 22.54,
-            "contribution_score": 290.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T07:15:22.172Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "PICO",
-      "name": "PT Pelangi Indah Canindo Tbk",
-      "change_pct": 0,
-      "move_30min": 8.02,
-      "label": "PICO +8.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3264,6 +3179,177 @@
         "macro_active": null
       },
       "detected_at": "2026-08-27T07:15:22.172Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 83.3,
+      "label": "83% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 21.18,
+            "contribution_score": 349.11
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.85,
+            "contribution_score": 308.09
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 16.2,
+            "contribution_score": 308.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T07:30:25.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -0.99,
+      "move_30min": 7.53,
+      "label": "PICO +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -9.01,
+            "contribution_score": -152.87
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -6.88,
+            "contribution_score": -100.48
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -79.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T07:30:25.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "NIRO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -9.01,
+            "contribution_score": -152.87
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -6.88,
+            "contribution_score": -100.48
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -79.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T07:30:25.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": 17.28,
+      "move_30min": 10.47,
+      "label": "POLU +10.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": 21.18,
+            "contribution_score": 349.11
+          },
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.85,
+            "contribution_score": 308.09
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 16.2,
+            "contribution_score": 308.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T07:30:25.476Z",
       "status": "active",
       "summary": null
     }
