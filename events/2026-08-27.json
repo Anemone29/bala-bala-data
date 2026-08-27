@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T08:00:12.808Z",
+  "generated_at": "2026-08-27T08:15:13.854Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3570,48 +3570,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 84.2,
-      "label": "84% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIJA",
-            "change_pct": 16.94,
-            "contribution_score": 334.6
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 20,
-            "contribution_score": 329.04
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 295.15
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T08:00:12.808Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "JIHD",
       "name": "JIHD",
@@ -3694,6 +3652,48 @@
         "macro_active": null
       },
       "detected_at": "2026-08-27T08:00:12.808Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 85.3,
+      "label": "85% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 18.03,
+            "contribution_score": 357.75
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 16.9,
+            "contribution_score": 323.91
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 19.41,
+            "contribution_score": 319.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T08:15:13.854Z",
       "status": "active",
       "summary": null
     }
