@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T08:30:13.238Z",
+  "generated_at": "2026-08-27T08:45:14.635Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3656,48 +3656,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 85.3,
-      "label": "84% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KIJA",
-            "change_pct": 15.85,
-            "contribution_score": 313.09
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 18.82,
-            "contribution_score": 309.21
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 15.49,
-            "contribution_score": 296.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T08:30:13.238Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "AYLS",
       "name": "Arkayana Lestari Grup Tbk.",
@@ -3780,6 +3738,48 @@
         "macro_active": null
       },
       "detected_at": "2026-08-27T08:30:13.238Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 85.3,
+      "label": "84% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 18.03,
+            "contribution_score": 358.72
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 17.61,
+            "contribution_score": 338.82
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 16.47,
+            "contribution_score": 269.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T08:45:14.635Z",
       "status": "active",
       "summary": null
     }
