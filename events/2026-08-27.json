@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T08:15:13.854Z",
+  "generated_at": "2026-08-27T08:30:13.238Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3660,7 +3660,7 @@
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 85.3,
-      "label": "85% saham menguat",
+      "label": "84% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -3676,24 +3676,110 @@
         "tickers": [
           {
             "ticker": "KIJA",
-            "change_pct": 18.03,
-            "contribution_score": 357.75
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 16.9,
-            "contribution_score": 323.91
+            "change_pct": 15.85,
+            "contribution_score": 313.09
           },
           {
             "ticker": "NICE",
-            "change_pct": 19.41,
-            "contribution_score": 319.28
+            "change_pct": 18.82,
+            "contribution_score": 309.21
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 296.06
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-27T08:15:13.854Z",
+      "detected_at": "2026-08-27T08:30:13.238Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -2.68,
+      "move_30min": -3.33,
+      "label": "AYLS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -7.21,
+            "contribution_score": -123.07
+          },
+          {
+            "ticker": "WGSH",
+            "change_pct": -6.88,
+            "contribution_score": -100.74
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -6.02,
+            "contribution_score": -84.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T08:30:13.238Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KEJU",
+      "name": "KEJU",
+      "change_pct": 1.71,
+      "move_30min": -3.25,
+      "label": "KEJU -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KIJA",
+            "change_pct": 15.85,
+            "contribution_score": 313.09
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 18.82,
+            "contribution_score": 309.21
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 15.49,
+            "contribution_score": 296.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T08:30:13.238Z",
       "status": "active",
       "summary": null
     }
