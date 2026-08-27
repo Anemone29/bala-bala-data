@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T04:30:22.202Z",
+  "generated_at": "2026-08-27T04:45:21.503Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2281,48 +2281,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 75,
-      "label": "75% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 22.22,
-            "contribution_score": 368.21
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 17.06,
-            "contribution_score": 273.06
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 13.38,
-            "contribution_score": 250.98
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T04:30:22.202Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ASMI",
       "name": "ASMI",
@@ -2409,49 +2367,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "POLI",
-      "name": "POLI",
-      "change_pct": 9.38,
-      "move_30min": -3.85,
-      "label": "POLI -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 22.22,
-            "contribution_score": 368.21
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 17.06,
-            "contribution_score": 273.06
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": 13.38,
-            "contribution_score": 250.98
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T04:30:22.202Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "SIPD",
       "name": "PT Sreeya Sewu Indonesia Tbk",
@@ -2491,6 +2406,134 @@
         "macro_active": null
       },
       "detected_at": "2026-08-27T04:30:22.202Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76,
+      "label": "76% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 23.33,
+            "contribution_score": 388.68
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 283.11
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.79,
+            "contribution_score": 278.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:45:21.503Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 9.38,
+      "move_30min": -11.98,
+      "label": "POLI -12.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 23.33,
+            "contribution_score": 388.68
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 283.11
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.79,
+            "contribution_score": 278.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:45:21.503Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 4.73,
+      "move_30min": -3.8,
+      "label": "LUCY -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 23.33,
+            "contribution_score": 388.68
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 17.65,
+            "contribution_score": 283.11
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 14.79,
+            "contribution_score": 278.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T04:45:21.503Z",
       "status": "active",
       "summary": null
     }
