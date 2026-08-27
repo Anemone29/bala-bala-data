@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T03:30:21.928Z",
+  "generated_at": "2026-08-27T03:45:21.495Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1851,48 +1851,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 70.2,
-      "label": "70% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DMMX",
-            "change_pct": 26.67,
-            "contribution_score": 437.97
-          },
-          {
-            "ticker": "NICE",
-            "change_pct": 16.47,
-            "contribution_score": 258.68
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": 16.36,
-            "contribution_score": 248.87
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T03:30:21.928Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SAFE",
       "name": "SAFE",
@@ -1926,49 +1884,6 @@
             "ticker": "MITI",
             "change_pct": 16.36,
             "contribution_score": 248.87
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-27T03:30:21.928Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "YPAS",
-      "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": -6.93,
-      "move_30min": -5.05,
-      "label": "YPAS -5.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JAST",
-            "change_pct": -9.91,
-            "contribution_score": -167.17
-          },
-          {
-            "ticker": "PICO",
-            "change_pct": -8.91,
-            "contribution_score": -113.19
-          },
-          {
-            "ticker": "FPNI",
-            "change_pct": -6.02,
-            "contribution_score": -82.9
           }
         ],
         "foreign_flow": null,
@@ -2061,6 +1976,91 @@
         "macro_active": null
       },
       "detected_at": "2026-08-27T03:30:21.928Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 70.5,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMMX",
+            "change_pct": 28.89,
+            "contribution_score": 480.85
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": 20,
+            "contribution_score": 319.66
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 16.36,
+            "contribution_score": 249.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T03:45:21.495Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -9.57,
+      "move_30min": -5.84,
+      "label": "YPAS -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": -8.11,
+            "contribution_score": -136.87
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -8.91,
+            "contribution_score": -113.57
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": -9.57,
+            "contribution_score": -91.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-27T03:45:21.495Z",
       "status": "active",
       "summary": null
     }
