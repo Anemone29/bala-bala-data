@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-31T04:45:07.624Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T02:00:07.636Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -1.71,
+      "move_30min": -3.91,
+      "label": "LION -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -104.12
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.55,
+            "contribution_score": -90.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:45:07.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -6.55,
+      "move_30min": -6.55,
+      "label": "TRIN -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -104.12
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.55,
+            "contribution_score": -90.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:45:07.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 13.91,
+      "move_30min": 13.91,
+      "label": "ABDA +13.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": 24.37,
+            "contribution_score": 413.34
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": 19.25,
+            "contribution_score": 392.31
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 309.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:45:07.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -103.97
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.71,
+            "contribution_score": -90.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:30:07.597Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
