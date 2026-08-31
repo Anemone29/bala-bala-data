@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T04:15:07.568Z",
+  "generated_at": "2026-08-31T04:30:07.597Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2078,7 +2078,7 @@
           {
             "ticker": "NICE",
             "change_pct": -8.33,
-            "contribution_score": -103.68
+            "contribution_score": -103.97
           },
           {
             "ticker": "BKDP",
@@ -2086,15 +2086,15 @@
             "contribution_score": -100.14
           },
           {
-            "ticker": "PICO",
-            "change_pct": -6.15,
-            "contribution_score": -76.75
+            "ticker": "KKES",
+            "change_pct": -5.71,
+            "contribution_score": -90.86
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-31T04:15:07.568Z",
+      "detected_at": "2026-08-31T04:30:07.597Z",
       "status": "active",
       "summary": null
     },
@@ -2121,7 +2121,7 @@
           {
             "ticker": "NICE",
             "change_pct": -8.33,
-            "contribution_score": -103.68
+            "contribution_score": -103.97
           },
           {
             "ticker": "BKDP",
@@ -2129,15 +2129,58 @@
             "contribution_score": -100.14
           },
           {
-            "ticker": "PICO",
-            "change_pct": -6.15,
-            "contribution_score": -76.75
+            "ticker": "KKES",
+            "change_pct": -5.71,
+            "contribution_score": -90.86
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-31T04:15:07.568Z",
+      "detected_at": "2026-08-31T04:30:07.597Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -1.71,
+      "move_30min": -3.91,
+      "label": "LION -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -103.97
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.71,
+            "contribution_score": -90.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:30:07.597Z",
       "status": "active",
       "summary": null
     }
