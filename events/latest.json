@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-08-31T08:30:31.440Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T02:00:07.636Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INET",
+      "name": "PT Sumber Cipta Multiniaga Tbk",
+      "change_pct": 2.94,
+      "move_30min": -3.85,
+      "label": "INET -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 34.16,
+            "contribution_score": 721.49
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 24.37,
+            "contribution_score": 413.49
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 311.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T08:30:31.440Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "TAXI -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 34.16,
+            "contribution_score": 721.49
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 24.37,
+            "contribution_score": 413.49
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 311.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T08:30:31.440Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MBAP",
+      "name": "PT Mitrabara Adiperdana Tbk",
+      "change_pct": 10.74,
+      "move_30min": -3.51,
+      "label": "MBAP -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 34.16,
+            "contribution_score": 721.49
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 24.37,
+            "contribution_score": 413.49
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 311.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T08:30:31.440Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "ANDI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.85,
+            "contribution_score": -112.51
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.98
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.32,
+            "contribution_score": -93.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T08:30:31.440Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
