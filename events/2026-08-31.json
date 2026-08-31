@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T03:45:07.599Z",
+  "generated_at": "2026-08-31T04:00:08.404Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1928,49 +1928,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "KOTA",
-      "name": "KOTA",
-      "change_pct": 21.74,
-      "move_30min": -3.92,
-      "label": "KOTA -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KOTA",
-            "change_pct": 21.74,
-            "contribution_score": 442.24
-          },
-          {
-            "ticker": "KICI",
-            "change_pct": 22.69,
-            "contribution_score": 377.88
-          },
-          {
-            "ticker": "BSIM",
-            "change_pct": 24.82,
-            "contribution_score": 306.8
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-08-31T03:45:07.599Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BPII",
       "name": "PT Batavia Prosperindo Internasional Tbk",
       "change_pct": -1.22,
@@ -2052,6 +2009,49 @@
         "macro_active": null
       },
       "detected_at": "2026-08-31T03:45:07.599Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 21.74,
+      "move_30min": -3.96,
+      "label": "KOTA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 20.5,
+            "contribution_score": 417.13
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 24.37,
+            "contribution_score": 410.54
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 306.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:00:08.404Z",
       "status": "active",
       "summary": null
     }
