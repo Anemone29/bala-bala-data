@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T04:00:08.404Z",
+  "generated_at": "2026-08-31T04:15:07.568Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2052,6 +2052,92 @@
         "macro_active": null
       },
       "detected_at": "2026-08-31T04:00:08.404Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -103.68
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -6.15,
+            "contribution_score": -76.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:15:07.568Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -2.56,
+      "move_30min": -7.32,
+      "label": "HRME -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NICE",
+            "change_pct": -8.33,
+            "contribution_score": -103.68
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -100.14
+          },
+          {
+            "ticker": "PICO",
+            "change_pct": -6.15,
+            "contribution_score": -76.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T04:15:07.568Z",
       "status": "active",
       "summary": null
     }
