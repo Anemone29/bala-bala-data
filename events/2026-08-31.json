@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T03:30:07.398Z",
+  "generated_at": "2026-08-31T03:45:07.599Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1844,9 +1844,9 @@
       "type": "rapid_down",
       "ticker": "LIFE",
       "name": "LIFE",
-      "change_pct": 6.8,
-      "move_30min": -8.84,
-      "label": "LIFE -8.8% dalam 30 menit",
+      "change_pct": 7.99,
+      "move_30min": -7.12,
+      "label": "LIFE -7.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1862,24 +1862,24 @@
         "tickers": [
           {
             "ticker": "KOTA",
-            "change_pct": 25.47,
-            "contribution_score": 519.64
+            "change_pct": 21.74,
+            "contribution_score": 442.24
           },
           {
             "ticker": "KICI",
-            "change_pct": 24.37,
-            "contribution_score": 404.57
+            "change_pct": 22.69,
+            "contribution_score": 377.88
           },
           {
             "ticker": "BSIM",
             "change_pct": 24.82,
-            "contribution_score": 306.6
+            "contribution_score": 306.8
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-31T03:30:07.398Z",
+      "detected_at": "2026-08-31T03:45:07.599Z",
       "status": "active",
       "summary": null
     },
@@ -1905,24 +1905,153 @@
         "tickers": [
           {
             "ticker": "KOTA",
-            "change_pct": 25.47,
-            "contribution_score": 519.64
+            "change_pct": 21.74,
+            "contribution_score": 442.24
           },
           {
             "ticker": "KICI",
-            "change_pct": 24.37,
-            "contribution_score": 404.57
+            "change_pct": 22.69,
+            "contribution_score": 377.88
           },
           {
             "ticker": "BSIM",
             "change_pct": 24.82,
-            "contribution_score": 306.6
+            "contribution_score": 306.8
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-08-31T03:30:07.398Z",
+      "detected_at": "2026-08-31T03:45:07.599Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 21.74,
+      "move_30min": -3.92,
+      "label": "KOTA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 21.74,
+            "contribution_score": 442.24
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": 22.69,
+            "contribution_score": 377.88
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 24.82,
+            "contribution_score": 306.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T03:45:07.599Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": -1.22,
+      "move_30min": -3.2,
+      "label": "BPII -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -98.67
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.32,
+            "contribution_score": -89.87
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": -5.73,
+            "contribution_score": -70.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T03:45:07.599Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -2.42,
+      "move_30min": -3.2,
+      "label": "DMND -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BKDP",
+            "change_pct": -9.8,
+            "contribution_score": -98.67
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.32,
+            "contribution_score": -89.87
+          },
+          {
+            "ticker": "NICE",
+            "change_pct": -5.73,
+            "contribution_score": -70.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-08-31T03:45:07.599Z",
       "status": "active",
       "summary": null
     }
