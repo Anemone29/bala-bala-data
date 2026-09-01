@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-01T07:00:50.160Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.1,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 47.83,
+            "contribution_score": 940.39
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 56.03,
+            "contribution_score": 639.25
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.64,
+            "contribution_score": 358.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:15:34.354Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -4.21,
+      "move_30min": -4.71,
+      "label": "SIPD -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -11.49,
+            "contribution_score": -171.01
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.25,
+            "contribution_score": -108.34
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -7.14,
+            "contribution_score": -96.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T07:00:50.160Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -2.78,
+      "move_30min": -4.55,
+      "label": "KOTA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -11.49,
+            "contribution_score": -171.01
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.25,
+            "contribution_score": -108.34
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -7.14,
+            "contribution_score": -96.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T07:00:50.160Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 7.46,
+      "move_30min": -5.88,
+      "label": "CCSI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 557.78
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 320.43
+          },
+          {
+            "ticker": "SMGR",
+            "change_pct": 17.91,
+            "contribution_score": 301.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T07:00:50.160Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOTL",
+      "name": "PT Total Bangun Persada Tbk",
+      "change_pct": -4,
+      "move_30min": -3.03,
+      "label": "TOTL -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -11.49,
+            "contribution_score": -171.01
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.25,
+            "contribution_score": -108.34
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -7.14,
+            "contribution_score": -96.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T07:00:50.160Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
