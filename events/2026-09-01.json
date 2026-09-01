@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T03:30:33.192Z",
+  "generated_at": "2026-09-01T03:45:31.372Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2067,49 +2067,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "INCI",
-      "name": "PT Intanwijaya Internasional Tbk",
-      "change_pct": 10.22,
-      "move_30min": -8.92,
-      "label": "INCI -8.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KKES",
-            "change_pct": 29.85,
-            "contribution_score": 548.31
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 25,
-            "contribution_score": 319.35
-          },
-          {
-            "ticker": "BSIM",
-            "change_pct": 25,
-            "contribution_score": 288.07
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-01T03:30:33.192Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BKDP",
       "name": "Bukit Darmo Property Tbk",
       "change_pct": -4.35,
@@ -2454,6 +2411,49 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": 10.22,
+      "move_30min": -3.97,
+      "label": "INCI -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 28.36,
+            "contribution_score": 521.06
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.38
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 289.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:45:31.372Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "SIPD",
       "name": "PT Sreeya Sewu Indonesia Tbk",
       "change_pct": -3.16,
@@ -2475,23 +2475,109 @@
           {
             "ticker": "KICI",
             "change_pct": -8.78,
-            "contribution_score": -129.5
-          },
-          {
-            "ticker": "BAJA",
-            "change_pct": -8.44,
-            "contribution_score": -112.36
+            "contribution_score": -129.55
           },
           {
             "ticker": "OBMD",
             "change_pct": -8.08,
-            "contribution_score": -99.2
+            "contribution_score": -99.61
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -7.14,
+            "contribution_score": -95.48
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-01T03:30:33.192Z",
+      "detected_at": "2026-09-01T03:45:31.372Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 14.6,
+      "move_30min": -3.68,
+      "label": "PEHA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 28.36,
+            "contribution_score": 521.06
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.38
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 289.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:45:31.372Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -1.99,
+      "move_30min": -3.43,
+      "label": "STAR -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -8.78,
+            "contribution_score": -129.55
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -8.08,
+            "contribution_score": -99.61
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -7.14,
+            "contribution_score": -95.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:45:31.372Z",
       "status": "active",
       "summary": null
     }
