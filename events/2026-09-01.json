@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T04:30:41.536Z",
+  "generated_at": "2026-09-01T04:45:31.693Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3051,6 +3051,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-01T04:30:41.536Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DCII",
+      "name": "PT DCI Indonesia Tbk",
+      "change_pct": -5.03,
+      "move_30min": -5.11,
+      "label": "DCII -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -10.81,
+            "contribution_score": -160.8
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -8.44,
+            "contribution_score": -113.56
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -8.08,
+            "contribution_score": -102.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T04:45:31.693Z",
       "status": "active",
       "summary": null
     }
