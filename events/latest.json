@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-01T02:45:29.174Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.1,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 47.83,
+            "contribution_score": 940.39
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 56.03,
+            "contribution_score": 639.25
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.64,
+            "contribution_score": 358.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:15:34.354Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 25.37,
+      "move_30min": 23.53,
+      "label": "KKES +23.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 25.37,
+            "contribution_score": 454.68
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 318.05
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 284
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:45:29.174Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -5.19,
+      "move_30min": -3.29,
+      "label": "BAJA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAPA",
+            "change_pct": -12.37,
+            "contribution_score": -118.43
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -8.59,
+            "contribution_score": -103.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -4.81,
+            "contribution_score": -79.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:45:29.174Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": -8.59,
+      "move_30min": -3.21,
+      "label": "OBMD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAPA",
+            "change_pct": -12.37,
+            "contribution_score": -118.43
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -8.59,
+            "contribution_score": -103.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -4.81,
+            "contribution_score": -79.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:45:29.174Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -3.48,
+      "move_30min": -4.41,
+      "label": "STAR -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FAPA",
+            "change_pct": -12.37,
+            "contribution_score": -118.43
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -8.59,
+            "contribution_score": -103.31
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -4.81,
+            "contribution_score": -79.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:45:29.174Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
