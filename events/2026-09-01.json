@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T03:00:41.528Z",
+  "generated_at": "2026-09-01T03:15:34.801Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1508,92 +1508,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "IATA",
-      "name": "PT MNC Energy Investments Tbk",
-      "change_pct": -0.79,
-      "move_30min": -4.58,
-      "label": "IATA -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KICI",
-            "change_pct": -7.43,
-            "contribution_score": -108.95
-          },
-          {
-            "ticker": "OBMD",
-            "change_pct": -7.58,
-            "contribution_score": -92.07
-          },
-          {
-            "ticker": "DMAS",
-            "change_pct": -4.81,
-            "contribution_score": -80.08
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-01T03:00:41.528Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "KICI",
-      "name": "PT Kedaung Indah Can Tbk",
-      "change_pct": -7.43,
-      "move_30min": -12.18,
-      "label": "KICI -12.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KICI",
-            "change_pct": -7.43,
-            "contribution_score": -108.95
-          },
-          {
-            "ticker": "OBMD",
-            "change_pct": -7.58,
-            "contribution_score": -92.07
-          },
-          {
-            "ticker": "DMAS",
-            "change_pct": -4.81,
-            "contribution_score": -80.08
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-01T03:00:41.528Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KRAS",
       "name": "PT Krakatau Steel (Persero) Tbk",
       "change_pct": 1.69,
@@ -1766,11 +1680,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "RANC",
-      "name": "RANC",
-      "change_pct": -3.7,
-      "move_30min": -4.59,
-      "label": "RANC -4.6% dalam 30 menit",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": -0.79,
+      "move_30min": -4.58,
+      "label": "IATA -4.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1786,24 +1700,110 @@
         "tickers": [
           {
             "ticker": "KICI",
-            "change_pct": -7.43,
-            "contribution_score": -108.95
+            "change_pct": -9.46,
+            "contribution_score": -139.46
           },
           {
             "ticker": "OBMD",
             "change_pct": -7.58,
-            "contribution_score": -92.07
+            "contribution_score": -92.82
           },
           {
-            "ticker": "DMAS",
-            "change_pct": -4.81,
-            "contribution_score": -80.08
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-01T03:00:41.528Z",
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -9.46,
+      "move_30min": -5.63,
+      "label": "KICI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.7,
+      "move_30min": -3.67,
+      "label": "RANC -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
       "status": "active",
       "summary": null
     },
@@ -1812,8 +1812,8 @@
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
       "change_pct": -3.3,
-      "move_30min": -5.88,
-      "label": "PORT -5.9% dalam 30 menit",
+      "move_30min": -3.21,
+      "label": "PORT -3.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1829,24 +1829,497 @@
         "tickers": [
           {
             "ticker": "KICI",
-            "change_pct": -7.43,
-            "contribution_score": -108.95
+            "change_pct": -9.46,
+            "contribution_score": -139.46
           },
           {
             "ticker": "OBMD",
             "change_pct": -7.58,
-            "contribution_score": -92.07
+            "contribution_score": -92.82
           },
           {
-            "ticker": "DMAS",
-            "change_pct": -4.81,
-            "contribution_score": -80.08
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-01T03:00:41.528Z",
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": -1.82,
+      "move_30min": -3.57,
+      "label": "BBKP -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 9.09,
+      "move_30min": 9.09,
+      "label": "MDIA +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 26.87,
+            "contribution_score": 489.54
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.13
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 287.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": 10.22,
+      "move_30min": -3.82,
+      "label": "INCI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 26.87,
+            "contribution_score": 489.54
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.13
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 287.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BKDP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": -6.49,
+      "move_30min": -4.64,
+      "label": "ZONE -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "IPTV -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "ASMI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": 2.1,
+      "move_30min": -3.31,
+      "label": "CSAP -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 26.87,
+            "contribution_score": 489.54
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.13
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 287.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAPA",
+      "name": "FAP Agri Tbk.",
+      "change_pct": -1,
+      "move_30min": 12.98,
+      "label": "FAPA +13.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -1.61,
+      "move_30min": -3.17,
+      "label": "DMND -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -9.46,
+            "contribution_score": -139.46
+          },
+          {
+            "ticker": "OBMD",
+            "change_pct": -7.58,
+            "contribution_score": -92.82
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.84,
+            "contribution_score": -76.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": 7.73,
+      "move_30min": 7.73,
+      "label": "IFSH +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 26.87,
+            "contribution_score": 489.54
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.13
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 287.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T03:15:34.801Z",
       "status": "active",
       "summary": null
     }
