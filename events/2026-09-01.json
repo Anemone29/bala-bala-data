@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T04:45:31.693Z",
+  "generated_at": "2026-09-01T05:00:35.707Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3076,24 +3076,153 @@
         "tickers": [
           {
             "ticker": "KICI",
-            "change_pct": -10.81,
-            "contribution_score": -160.8
+            "change_pct": -11.49,
+            "contribution_score": -170.96
           },
           {
             "ticker": "BAJA",
             "change_pct": -8.44,
-            "contribution_score": -113.56
+            "contribution_score": -113.78
           },
           {
-            "ticker": "OBMD",
-            "change_pct": -8.08,
-            "contribution_score": -102.16
+            "ticker": "DMAS",
+            "change_pct": -5.77,
+            "contribution_score": -99.65
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-01T04:45:31.693Z",
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 12.26,
+      "move_30min": -4.03,
+      "label": "COCO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 8.21,
+      "move_30min": 9.02,
+      "label": "CCSI +9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": 2.8,
+      "move_30min": -3.29,
+      "label": "CSAP -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
       "status": "active",
       "summary": null
     }

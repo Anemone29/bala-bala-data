@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-01T05:00:35.707Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.1,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": 47.83,
+            "contribution_score": 940.39
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 56.03,
+            "contribution_score": 639.25
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.64,
+            "contribution_score": 358.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T02:15:34.354Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DCII",
+      "name": "PT DCI Indonesia Tbk",
+      "change_pct": -5.03,
+      "move_30min": -5.11,
+      "label": "DCII -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -11.49,
+            "contribution_score": -170.96
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -8.44,
+            "contribution_score": -113.78
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -5.77,
+            "contribution_score": -99.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 12.26,
+      "move_30min": -4.03,
+      "label": "COCO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 8.21,
+      "move_30min": 9.02,
+      "label": "CCSI +9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSAP",
+      "name": "CSAP",
+      "change_pct": 2.8,
+      "move_30min": -3.29,
+      "label": "CSAP -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 29.85,
+            "contribution_score": 555.96
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 319.5
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 300.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-01T05:00:35.707Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
