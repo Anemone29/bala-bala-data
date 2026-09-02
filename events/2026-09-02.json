@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T04:45:15.996Z",
+  "generated_at": "2026-09-02T05:00:27.071Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2618,9 +2618,9 @@
       "type": "rapid_down",
       "ticker": "YPAS",
       "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": 4.12,
-      "move_30min": -5.31,
-      "label": "YPAS -5.3% dalam 30 menit",
+      "change_pct": 4.81,
+      "move_30min": -4.69,
+      "label": "YPAS -4.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2635,25 +2635,197 @@
         ],
         "tickers": [
           {
+            "ticker": "KKES",
+            "change_pct": 20,
+            "contribution_score": 384.08
+          },
+          {
             "ticker": "SAPX",
             "change_pct": 25,
-            "contribution_score": 358.57
+            "contribution_score": 358.63
           },
           {
-            "ticker": "KKES",
-            "change_pct": 17.78,
-            "contribution_score": 338.66
-          },
-          {
-            "ticker": "BSIM",
-            "change_pct": 18.64,
-            "contribution_score": 261.41
+            "ticker": "LUCY",
+            "change_pct": 19.7,
+            "contribution_score": 345.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-02T04:45:15.996Z",
+      "detected_at": "2026-09-02T05:00:27.071Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": 23.73,
+      "move_30min": 23.03,
+      "label": "LION +23.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 20,
+            "contribution_score": 384.08
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 358.63
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 19.7,
+            "contribution_score": 345.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T05:00:27.071Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BACA",
+      "name": "PT Bank Capital Indonesia Tbk",
+      "change_pct": 0.84,
+      "move_30min": -3.23,
+      "label": "BACA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": 20,
+            "contribution_score": 384.08
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 358.63
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 19.7,
+            "contribution_score": 345.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T05:00:27.071Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": -3.74,
+      "move_30min": -3.74,
+      "label": "RUIS -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -8,
+            "contribution_score": -115.58
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.2,
+            "contribution_score": -111.09
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -6.69,
+            "contribution_score": -98.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T05:00:27.071Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -3.17,
+      "move_30min": -4.19,
+      "label": "SIPD -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -8,
+            "contribution_score": -115.58
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.2,
+            "contribution_score": -111.09
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -6.69,
+            "contribution_score": -98.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T05:00:27.071Z",
       "status": "active",
       "summary": null
     }
