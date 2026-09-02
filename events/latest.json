@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-02T02:45:11.598Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:00:22.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -6.98,
+      "move_30min": -4,
+      "label": "COCO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.98,
+            "contribution_score": -123.21
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -6.69,
+            "contribution_score": -92.21
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.56,
+            "contribution_score": -89.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:45:11.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBA",
+      "name": "PT Bank Bumi Arta Tbk",
+      "change_pct": -4.46,
+      "move_30min": -3.16,
+      "label": "BNBA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.98,
+            "contribution_score": -123.21
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -6.69,
+            "contribution_score": -92.21
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.56,
+            "contribution_score": -89.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:45:11.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": -3.05,
+      "move_30min": -3.03,
+      "label": "JECC -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.98,
+            "contribution_score": -123.21
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": -6.69,
+            "contribution_score": -92.21
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.56,
+            "contribution_score": -89.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:45:11.598Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": 4.37,
+      "move_30min": -8.17,
+      "label": "PICO -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 13.76,
+            "contribution_score": 261.19
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.97,
+            "contribution_score": 222.19
+          },
+          {
+            "ticker": "BBYB",
+            "change_pct": 9.77,
+            "contribution_score": 160.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:45:11.598Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
