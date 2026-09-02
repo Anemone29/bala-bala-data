@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-02T03:45:12.758Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:00:22.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 13.33,
+      "move_30min": 17.24,
+      "label": "KKES +17.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 357.47
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 22.73,
+            "contribution_score": 320.79
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": 12.84,
+            "contribution_score": 247.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T03:45:12.758Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 25,
+      "move_30min": 21.62,
+      "label": "SAPX +21.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 357.47
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 22.73,
+            "contribution_score": 320.79
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": 12.84,
+            "contribution_score": 247.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T03:45:12.758Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -0.91,
+      "move_30min": -6.03,
+      "label": "KOTA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.75,
+            "contribution_score": -138.49
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -8.33,
+            "contribution_score": -118.9
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -64.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T03:45:12.758Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -7.75,
+      "move_30min": -3.25,
+      "label": "COCO -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -7.75,
+            "contribution_score": -138.49
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -8.33,
+            "contribution_score": -118.9
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -6.25,
+            "contribution_score": -64.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T03:45:12.758Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
