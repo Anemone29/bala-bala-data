@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-02T02:30:17.547Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:00:22.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": 14.68,
+      "move_30min": 14.68,
+      "label": "BWPT +14.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 306.4
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": 14.68,
+            "contribution_score": 274.19
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.97,
+            "contribution_score": 219.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:30:17.547Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -5.43,
+      "move_30min": -5.43,
+      "label": "COCO -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": -6.67,
+            "contribution_score": -103.91
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.43,
+            "contribution_score": -94.02
+          },
+          {
+            "ticker": "ANTM",
+            "change_pct": -3.77,
+            "contribution_score": -52.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:30:17.547Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BANK",
+      "name": "PT Bank Aladin Syariah Tbk",
+      "change_pct": 13.97,
+      "move_30min": 13.97,
+      "label": "BANK +14.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSIM",
+            "change_pct": 25,
+            "contribution_score": 306.4
+          },
+          {
+            "ticker": "BWPT",
+            "change_pct": 14.68,
+            "contribution_score": 274.19
+          },
+          {
+            "ticker": "BANK",
+            "change_pct": 13.97,
+            "contribution_score": 219.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:30:17.547Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "KKES -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KKES",
+            "change_pct": -6.67,
+            "contribution_score": -103.91
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -5.43,
+            "contribution_score": -94.02
+          },
+          {
+            "ticker": "ANTM",
+            "change_pct": -3.77,
+            "contribution_score": -52.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:30:17.547Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
