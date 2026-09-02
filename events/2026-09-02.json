@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T08:45:18.264Z",
+  "generated_at": "2026-09-02T09:00:21.244Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3772,6 +3772,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-02T08:45:18.264Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": 11.36,
+      "move_30min": -3.54,
+      "label": "BSIM -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 21.1,
+            "contribution_score": 435.69
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 359.25
+          },
+          {
+            "ticker": "SSMS",
+            "change_pct": 19.89,
+            "contribution_score": 317.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T09:00:21.244Z",
       "status": "active",
       "summary": null
     }
