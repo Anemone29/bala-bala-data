@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T04:30:10.832Z",
+  "generated_at": "2026-09-02T04:45:15.996Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2530,49 +2530,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "POLI",
-      "name": "POLI",
-      "change_pct": 6.04,
-      "move_30min": -4.46,
-      "label": "POLI -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SAPX",
-            "change_pct": 25,
-            "contribution_score": 358.52
-          },
-          {
-            "ticker": "KKES",
-            "change_pct": 15.56,
-            "contribution_score": 293.23
-          },
-          {
-            "ticker": "BSIM",
-            "change_pct": 20.45,
-            "contribution_score": 288.04
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-02T04:30:10.832Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "DAYA",
       "name": "PT Duta Intidaya Tbk",
       "change_pct": -4.42,
@@ -2611,6 +2568,92 @@
         "macro_active": null
       },
       "detected_at": "2026-09-02T04:30:10.832Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 6.04,
+      "move_30min": -5.39,
+      "label": "POLI -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 358.57
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 17.78,
+            "contribution_score": 338.66
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 18.64,
+            "contribution_score": 261.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T04:45:15.996Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 4.12,
+      "move_30min": -5.31,
+      "label": "YPAS -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 358.57
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 17.78,
+            "contribution_score": 338.66
+          },
+          {
+            "ticker": "BSIM",
+            "change_pct": 18.64,
+            "contribution_score": 261.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T04:45:15.996Z",
       "status": "active",
       "summary": null
     }
