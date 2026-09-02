@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-02T08:45:18.264Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T02:00:22.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 14.44,
+      "move_30min": -8.04,
+      "label": "KKES -8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 23.85,
+            "contribution_score": 493.31
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 359.25
+          },
+          {
+            "ticker": "SSMS",
+            "change_pct": 20.43,
+            "contribution_score": 326.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T08:45:18.264Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GZCO",
+      "name": "PT Gozco Plantations Tbk",
+      "change_pct": 9.09,
+      "move_30min": -3.77,
+      "label": "GZCO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BWPT",
+            "change_pct": 23.85,
+            "contribution_score": 493.31
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 25,
+            "contribution_score": 359.25
+          },
+          {
+            "ticker": "SSMS",
+            "change_pct": 20.43,
+            "contribution_score": 326.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T08:45:18.264Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.98,
+            "contribution_score": -125.7
+          },
+          {
+            "ticker": "ADMR",
+            "change_pct": -5.93,
+            "contribution_score": -91.87
+          },
+          {
+            "ticker": "ADRO",
+            "change_pct": -5.4,
+            "contribution_score": -83.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T08:45:18.264Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -0.56,
+      "move_30min": -4.86,
+      "label": "LION -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -6.98,
+            "contribution_score": -125.7
+          },
+          {
+            "ticker": "ADMR",
+            "change_pct": -5.93,
+            "contribution_score": -91.87
+          },
+          {
+            "ticker": "ADRO",
+            "change_pct": -5.4,
+            "contribution_score": -83.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-02T08:45:18.264Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
