@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T04:00:18.767Z",
+  "generated_at": "2026-09-03T04:15:12.779Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1637,48 +1637,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 345.25
-          },
-          {
-            "ticker": "IMJS",
-            "change_pct": 17.75,
-            "contribution_score": 296.8
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": 18.01,
-            "contribution_score": 282.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:00:18.767Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "ECII",
       "name": "PT Electronic City Indonesia Tbk",
@@ -1712,49 +1670,6 @@
             "ticker": "ECII",
             "change_pct": 18.01,
             "contribution_score": 282.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:00:18.767Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAPA",
-      "name": "PT Bekasi Asri Pemula Tbk",
-      "change_pct": -7.01,
-      "move_30min": -7.01,
-      "label": "BAPA -7.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -10,
-            "contribution_score": -142.37
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -7.01,
-            "contribution_score": -98.83
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -4.72,
-            "contribution_score": -72.8
           }
         ],
         "foreign_flow": null,
@@ -1809,49 +1724,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAPX",
-      "name": "SAPX",
-      "change_pct": 11.11,
-      "move_30min": -5.66,
-      "label": "SAPX -5.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 345.25
-          },
-          {
-            "ticker": "IMJS",
-            "change_pct": 17.75,
-            "contribution_score": 296.8
-          },
-          {
-            "ticker": "ECII",
-            "change_pct": 18.01,
-            "contribution_score": 282.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:00:18.767Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "NICE",
       "name": "NICE",
       "change_pct": 2.38,
@@ -1884,92 +1756,6 @@
             "ticker": "ECII",
             "change_pct": 18.01,
             "contribution_score": 282.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:00:18.767Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DAYA",
-      "name": "PT Duta Intidaya Tbk",
-      "change_pct": -1.77,
-      "move_30min": -6.72,
-      "label": "DAYA -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -10,
-            "contribution_score": -142.37
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -7.01,
-            "contribution_score": -98.83
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -4.72,
-            "contribution_score": -72.8
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:00:18.767Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "SIPD",
-      "name": "PT Sreeya Sewu Indonesia Tbk",
-      "change_pct": -1.06,
-      "move_30min": -4.62,
-      "label": "SIPD -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -10,
-            "contribution_score": -142.37
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -7.01,
-            "contribution_score": -98.83
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -4.72,
-            "contribution_score": -72.8
           }
         ],
         "foreign_flow": null,
@@ -2019,6 +1805,392 @@
         "macro_active": null
       },
       "detected_at": "2026-09-03T04:00:18.767Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.9
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 297.33
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 15.53,
+            "contribution_score": 244.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -8.28,
+      "move_30min": -4,
+      "label": "BAPA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.28,
+            "contribution_score": -120.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": -13.51,
+            "contribution_score": -106.97
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.66,
+            "contribution_score": -87.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 11.11,
+      "move_30min": -6.33,
+      "label": "SAPX -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.9
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 297.33
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 15.53,
+            "contribution_score": 244.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": -1.79,
+      "move_30min": -6.78,
+      "label": "DAYA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.28,
+            "contribution_score": -120.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": -13.51,
+            "contribution_score": -106.97
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.66,
+            "contribution_score": -87.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -1.06,
+      "move_30min": -4.12,
+      "label": "SIPD -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.28,
+            "contribution_score": -120.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": -13.51,
+            "contribution_score": -106.97
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.66,
+            "contribution_score": -87.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 7.69,
+      "move_30min": 7.69,
+      "label": "TAXI +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.9
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 297.33
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 15.53,
+            "contribution_score": 244.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 11.11,
+      "label": "BTEK +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.9
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 297.33
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 15.53,
+            "contribution_score": 244.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KRAS",
+      "name": "PT Krakatau Steel (Persero) Tbk",
+      "change_pct": 4.96,
+      "move_30min": -3.05,
+      "label": "KRAS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.9
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 297.33
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 15.53,
+            "contribution_score": 244.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -13.51,
+      "move_30min": -14.29,
+      "label": "SHID -14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -8.28,
+            "contribution_score": -120.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": -13.51,
+            "contribution_score": -106.97
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.66,
+            "contribution_score": -87.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:15:12.779Z",
       "status": "active",
       "summary": null
     }
