@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T04:45:10.852Z",
+  "generated_at": "2026-09-03T05:00:11.806Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2196,48 +2196,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "73% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 345.93
-          },
-          {
-            "ticker": "IMJS",
-            "change_pct": 19.53,
-            "contribution_score": 329.26
-          },
-          {
-            "ticker": "ERAA",
-            "change_pct": 11.54,
-            "contribution_score": 201.89
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:45:10.852Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ECII",
       "name": "PT Electronic City Indonesia Tbk",
@@ -2406,6 +2364,134 @@
         "macro_active": null
       },
       "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.93
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 329.65
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 14.42,
+            "contribution_score": 257.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T05:00:11.806Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": -2.7,
+      "move_30min": -4,
+      "label": "ARII -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -10.83,
+            "contribution_score": -166.93
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.32,
+            "contribution_score": -80.83
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -73.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T05:00:11.806Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -2.7,
+      "move_30min": -3.57,
+      "label": "SHID -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -10.83,
+            "contribution_score": -166.93
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.32,
+            "contribution_score": -80.83
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -73.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T05:00:11.806Z",
       "status": "active",
       "summary": null
     }
