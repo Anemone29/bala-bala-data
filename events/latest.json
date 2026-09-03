@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-09-03T07:00:39.822Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.2,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 20.71,
+            "contribution_score": 350.93
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 346
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 12.5,
+            "contribution_score": 225.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T06:45:12.132Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.93
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 329.65
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 14.42,
+            "contribution_score": 257.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T05:00:11.806Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -5.76,
+      "move_30min": -9.03,
+      "label": "MDIA -9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.74,
+            "contribution_score": -199.52
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.08,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": -4.94,
+      "move_30min": -3.82,
+      "label": "BOGA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.74,
+            "contribution_score": -199.52
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.08,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RDTX",
+      "name": "PT Roda Vivatex Tbk",
+      "change_pct": -3.09,
+      "move_30min": -3.44,
+      "label": "RDTX -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.74,
+            "contribution_score": -199.52
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.08,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

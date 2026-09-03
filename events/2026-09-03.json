@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T06:45:12.132Z",
+  "generated_at": "2026-09-03T07:00:39.822Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2799,9 +2799,9 @@
       "type": "rapid_down",
       "ticker": "MDIA",
       "name": "PT Intermedia Capital Tbk",
-      "change_pct": -3.6,
-      "move_30min": -6.94,
-      "label": "MDIA -6.9% dalam 30 menit",
+      "change_pct": -5.76,
+      "move_30min": -9.03,
+      "label": "MDIA -9.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2818,23 +2818,23 @@
           {
             "ticker": "BAPA",
             "change_pct": -12.74,
-            "contribution_score": -198.6
+            "contribution_score": -199.52
           },
           {
             "ticker": "PIPA",
-            "change_pct": -5.66,
-            "contribution_score": -88.22
+            "change_pct": -7.08,
+            "contribution_score": -112.01
           },
           {
-            "ticker": "KKES",
-            "change_pct": -5.32,
-            "contribution_score": -81.02
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T06:45:12.132Z",
+      "detected_at": "2026-09-03T07:00:39.822Z",
       "status": "active",
       "summary": null
     },
@@ -2861,23 +2861,23 @@
           {
             "ticker": "BAPA",
             "change_pct": -12.74,
-            "contribution_score": -198.6
+            "contribution_score": -199.52
           },
           {
             "ticker": "PIPA",
-            "change_pct": -5.66,
-            "contribution_score": -88.22
+            "change_pct": -7.08,
+            "contribution_score": -112.01
           },
           {
-            "ticker": "KKES",
-            "change_pct": -5.32,
-            "contribution_score": -81.02
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T06:45:12.132Z",
+      "detected_at": "2026-09-03T07:00:39.822Z",
       "status": "active",
       "summary": null
     },
@@ -2904,23 +2904,195 @@
           {
             "ticker": "BAPA",
             "change_pct": -12.74,
-            "contribution_score": -198.6
+            "contribution_score": -199.52
           },
           {
             "ticker": "PIPA",
-            "change_pct": -5.66,
-            "contribution_score": -88.22
+            "change_pct": -7.08,
+            "contribution_score": -112.01
           },
           {
-            "ticker": "KKES",
-            "change_pct": -5.32,
-            "contribution_score": -81.02
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T06:45:12.132Z",
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": 4.17,
+      "move_30min": -4.58,
+      "label": "COCO -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 346.05
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 330.56
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 12.5,
+            "contribution_score": 226.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -6.09,
+      "move_30min": -6.09,
+      "label": "KOTA -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.74,
+            "contribution_score": -199.52
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.08,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PANI",
+      "name": "PT Pantai Indah Kapuk Dua Tbk",
+      "change_pct": 4.29,
+      "move_30min": -3.19,
+      "label": "PANI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 346.05
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 330.56
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 12.5,
+            "contribution_score": 226.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -4.09,
+      "move_30min": -3.73,
+      "label": "INDR -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.74,
+            "contribution_score": -199.52
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -7.08,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -6.09,
+            "contribution_score": -107.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:00:39.822Z",
       "status": "active",
       "summary": null
     }
