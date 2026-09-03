@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-03T03:45:10.370Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 344.5
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 296.53
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.04,
+            "contribution_score": 256.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:45:10.370Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 17.39,
+      "move_30min": 15.95,
+      "label": "ECII +16.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 344.5
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 296.53
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.04,
+            "contribution_score": 256.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:45:10.370Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -4.46,
+      "move_30min": -4.46,
+      "label": "BAPA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -10,
+            "contribution_score": -142.37
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -72.52
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -4.46,
+            "contribution_score": -59.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:45:10.370Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": 3.9,
+      "move_30min": -6.07,
+      "label": "LIFE -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 344.5
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 17.75,
+            "contribution_score": 296.53
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.04,
+            "contribution_score": 256.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:45:10.370Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -3.74,
+      "move_30min": -4.11,
+      "label": "POLU -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -10,
+            "contribution_score": -142.37
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -72.52
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -4.46,
+            "contribution_score": -59.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:45:10.370Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
