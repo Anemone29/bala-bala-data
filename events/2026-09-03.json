@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T02:45:13.300Z",
+  "generated_at": "2026-09-03T03:00:10.896Z",
   "events": [
     {
       "type": "rapid_up",
@@ -562,48 +562,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "IMJS",
-            "change_pct": 19.53,
-            "contribution_score": 319.22
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.78,
-            "contribution_score": 265.28
-          },
-          {
-            "ticker": "IMAS",
-            "change_pct": 15.34,
-            "contribution_score": 202.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T02:45:13.300Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "TRUK",
       "name": "PT Guna Timur Raya Tbk",
@@ -862,49 +820,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "JIHD",
-      "name": "JIHD",
-      "change_pct": -3.91,
-      "move_30min": -3.91,
-      "label": "JIHD -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PIPA",
-            "change_pct": -4.72,
-            "contribution_score": -70.24
-          },
-          {
-            "ticker": "KKES",
-            "change_pct": -3.19,
-            "contribution_score": -47.15
-          },
-          {
-            "ticker": "JAYA",
-            "change_pct": -3.38,
-            "contribution_score": -44.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T02:45:13.300Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BSIM",
       "name": "PT Bank Sinarmas Tbk",
@@ -992,49 +907,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "LIFE",
-      "name": "LIFE",
-      "change_pct": 8.01,
-      "move_30min": -3.11,
-      "label": "LIFE -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "IMJS",
-            "change_pct": 19.53,
-            "contribution_score": 319.22
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.78,
-            "contribution_score": 265.28
-          },
-          {
-            "ticker": "IMAS",
-            "change_pct": 15.34,
-            "contribution_score": 202.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T02:45:13.300Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BBLD",
       "name": "BBLD",
       "change_pct": -2.17,
@@ -1077,12 +949,54 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
-      "ticker": "POLU",
-      "name": "POLU",
-      "change_pct": -3.1,
-      "move_30min": -4.21,
-      "label": "POLU -4.2% dalam 30 menit",
+      "ticker": "JIHD",
+      "name": "JIHD",
+      "change_pct": -4.78,
+      "move_30min": -3.95,
+      "label": "JIHD -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1099,23 +1013,109 @@
           {
             "ticker": "PIPA",
             "change_pct": -4.72,
-            "contribution_score": -70.24
+            "contribution_score": -71.04
           },
           {
-            "ticker": "KKES",
-            "change_pct": -3.19,
-            "contribution_score": -47.15
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
           },
           {
-            "ticker": "JAYA",
-            "change_pct": -3.38,
-            "contribution_score": -44.2
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T02:45:13.300Z",
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": 8.01,
+      "move_30min": -6.59,
+      "label": "LIFE -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -3.1,
+      "move_30min": -3.72,
+      "label": "POLU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -71.04
+          },
+          {
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
       "status": "active",
       "summary": null
     },
@@ -1142,23 +1142,367 @@
           {
             "ticker": "PIPA",
             "change_pct": -4.72,
-            "contribution_score": -70.24
+            "contribution_score": -71.04
           },
           {
-            "ticker": "KKES",
-            "change_pct": -3.19,
-            "contribution_score": -47.15
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
           },
           {
-            "ticker": "JAYA",
-            "change_pct": -3.38,
-            "contribution_score": -44.2
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T02:45:13.300Z",
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 3.6,
+      "move_30min": -3.36,
+      "label": "MDIA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMGR",
+      "name": "PT Semen Indonesia (Persero) Tbk",
+      "change_pct": 8.04,
+      "move_30min": 7.08,
+      "label": "SMGR +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMBR",
+      "name": "PT Semen Baturaja (Persero) Tbk",
+      "change_pct": 9.09,
+      "move_30min": 9.09,
+      "label": "SMBR +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -3.82,
+      "move_30min": -3.08,
+      "label": "KICI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -71.04
+          },
+          {
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -2.76,
+      "move_30min": -4.08,
+      "label": "CCSI -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -71.04
+          },
+          {
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -3.76,
+      "move_30min": -3.76,
+      "label": "YPAS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -71.04
+          },
+          {
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -2.19,
+      "move_30min": -4.29,
+      "label": "PUDP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -71.04
+          },
+          {
+            "ticker": "JIHD",
+            "change_pct": -4.78,
+            "contribution_score": -52.52
+          },
+          {
+            "ticker": "KICI",
+            "change_pct": -3.82,
+            "contribution_score": -42.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.35,
+      "label": "ROCK -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 320.8
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.3,
+            "contribution_score": 243.23
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 17.44,
+            "contribution_score": 226.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:00:10.896Z",
       "status": "active",
       "summary": null
     }
