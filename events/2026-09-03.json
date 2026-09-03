@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T07:00:39.822Z",
+  "generated_at": "2026-09-03T07:30:12.085Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3093,6 +3093,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-03T07:00:39.822Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": 24.32,
+      "move_30min": 16.46,
+      "label": "VRNA +16.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VRNA",
+            "change_pct": 24.32,
+            "contribution_score": 380.73
+          },
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 346.1
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 18.34,
+            "contribution_score": 310.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T07:30:12.085Z",
       "status": "active",
       "summary": null
     }
