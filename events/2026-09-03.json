@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T03:15:10.984Z",
+  "generated_at": "2026-09-03T03:30:19.459Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1508,49 +1508,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -10,
-      "move_30min": -10,
-      "label": "BTEK -10.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -10,
-            "contribution_score": -142.37
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -4.72,
-            "contribution_score": -71.22
-          },
-          {
-            "ticker": "ESSA",
-            "change_pct": -2.8,
-            "contribution_score": -39.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T03:15:10.984Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BSIM",
       "name": "PT Bank Sinarmas Tbk",
       "change_pct": -1.63,
@@ -1589,6 +1546,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-03T03:15:10.984Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "BTEK -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -10,
+            "contribution_score": -142.37
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -72.03
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -5.44,
+            "contribution_score": -61.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T03:30:19.459Z",
       "status": "active",
       "summary": null
     }
