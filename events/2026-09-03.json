@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T04:30:16.021Z",
+  "generated_at": "2026-09-03T04:45:10.852Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1810,49 +1810,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BAPA",
-      "name": "PT Bekasi Asri Pemula Tbk",
-      "change_pct": -8.28,
-      "move_30min": -4,
-      "label": "BAPA -4.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAPA",
-            "change_pct": -8.28,
-            "contribution_score": -120.22
-          },
-          {
-            "ticker": "SHID",
-            "change_pct": -13.51,
-            "contribution_score": -106.97
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -5.66,
-            "contribution_score": -87.5
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:15:12.779Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SAPX",
       "name": "SAPX",
       "change_pct": 11.11,
@@ -2067,48 +2024,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "73% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 25,
-            "contribution_score": 345.93
-          },
-          {
-            "ticker": "IMJS",
-            "change_pct": 18.34,
-            "contribution_score": 307.8
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 13.33,
-            "contribution_score": 200
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-03T04:30:16.021Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "TAXI",
       "name": "PT Express Transindo Utama Tbk",
@@ -2239,11 +2154,53 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ECII",
-      "name": "PT Electronic City Indonesia Tbk",
-      "change_pct": 12.42,
-      "move_30min": -4.74,
-      "label": "ECII -4.7% dalam 30 menit",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -12.1,
+      "move_30min": -4.17,
+      "label": "BAPA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.1,
+            "contribution_score": -185.3
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.32,
+            "contribution_score": -80.72
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -73.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -2264,19 +2221,191 @@
           },
           {
             "ticker": "IMJS",
-            "change_pct": 18.34,
-            "contribution_score": 307.8
+            "change_pct": 19.53,
+            "contribution_score": 329.26
           },
           {
-            "ticker": "SAPX",
-            "change_pct": 13.33,
-            "contribution_score": 200
+            "ticker": "ERAA",
+            "change_pct": 11.54,
+            "contribution_score": 201.89
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-03T04:30:16.021Z",
+      "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 12.42,
+      "move_30min": -3.23,
+      "label": "ECII -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.93
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 329.26
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 11.54,
+            "contribution_score": 201.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PANI",
+      "name": "PT Pantai Indah Kapuk Dua Tbk",
+      "change_pct": 9.44,
+      "move_30min": 7.59,
+      "label": "PANI +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 345.93
+          },
+          {
+            "ticker": "IMJS",
+            "change_pct": 19.53,
+            "contribution_score": 329.26
+          },
+          {
+            "ticker": "ERAA",
+            "change_pct": 11.54,
+            "contribution_score": 201.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -2.7,
+      "move_30min": 12.5,
+      "label": "SHID +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.1,
+            "contribution_score": -185.3
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.32,
+            "contribution_score": -80.72
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -73.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:45:10.852Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -5.55,
+      "move_30min": -4.44,
+      "label": "POLU -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -12.1,
+            "contribution_score": -185.3
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -5.32,
+            "contribution_score": -80.72
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -4.72,
+            "contribution_score": -73.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-03T04:45:10.852Z",
       "status": "active",
       "summary": null
     }
