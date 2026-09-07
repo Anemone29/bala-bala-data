@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T02:30:32.576Z",
+  "generated_at": "2026-09-07T02:45:29.416Z",
   "events": [
     {
       "type": "breadth_up",
@@ -336,49 +336,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INPC",
-      "name": "PT Bank Artha Graha Internasional Tbk",
-      "change_pct": -3.93,
-      "move_30min": -3.93,
-      "label": "INPC -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.4,
-            "contribution_score": -140.21
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": -10.49,
-            "contribution_score": -120.5
-          },
-          {
-            "ticker": "VRNA",
-            "change_pct": -7.84,
-            "contribution_score": -101.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-07T02:30:32.576Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "KAEF",
       "name": "PT Kimia Farma Tbk",
@@ -508,49 +465,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "VRNA",
-      "name": "PT Verena Multi Finance Tbk",
-      "change_pct": -7.84,
-      "move_30min": -7.84,
-      "label": "VRNA -7.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.4,
-            "contribution_score": -140.21
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": -10.49,
-            "contribution_score": -120.5
-          },
-          {
-            "ticker": "VRNA",
-            "change_pct": -7.84,
-            "contribution_score": -101.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-07T02:30:32.576Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PEHA",
       "name": "PT Phapros Tbk",
@@ -638,92 +552,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "AKSI",
-      "name": "AKSI",
-      "change_pct": -10.49,
-      "move_30min": -10.49,
-      "label": "AKSI -10.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.4,
-            "contribution_score": -140.21
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": -10.49,
-            "contribution_score": -120.5
-          },
-          {
-            "ticker": "VRNA",
-            "change_pct": -7.84,
-            "contribution_score": -101.57
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-07T02:30:32.576Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "SOHO",
-      "name": "PT Soho Global Health Tbk",
-      "change_pct": 14.94,
-      "move_30min": 14.94,
-      "label": "SOHO +14.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "MEDS",
-            "change_pct": 29.17,
-            "contribution_score": 551.55
-          },
-          {
-            "ticker": "HALO",
-            "change_pct": 23.19,
-            "contribution_score": 407.15
-          },
-          {
-            "ticker": "KAEF",
-            "change_pct": 18.18,
-            "contribution_score": 266.74
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-07T02:30:32.576Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SAPX",
       "name": "SAPX",
       "change_pct": -5.88,
@@ -767,6 +595,178 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "INPC",
+      "name": "PT Bank Artha Graha Internasional Tbk",
+      "change_pct": -6.74,
+      "move_30min": -11.23,
+      "label": "INPC -11.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": -7.84,
+      "move_30min": -10.38,
+      "label": "VRNA -10.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": -11.73,
+      "move_30min": -9.49,
+      "label": "AKSI -9.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": 24.9,
+      "move_30min": 17.12,
+      "label": "SOHO +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "SHIP",
       "name": "PT Sillo Maritime Perdana Tbk",
       "change_pct": -3.42,
@@ -788,23 +788,1012 @@
           {
             "ticker": "LUCY",
             "change_pct": -9.4,
-            "contribution_score": -140.21
+            "contribution_score": -140.29
           },
           {
             "ticker": "AKSI",
-            "change_pct": -10.49,
-            "contribution_score": -120.5
+            "change_pct": -11.73,
+            "contribution_score": -138.2
           },
           {
-            "ticker": "VRNA",
-            "change_pct": -7.84,
-            "contribution_score": -101.57
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-07T02:30:32.576Z",
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 29.17,
+      "move_30min": -3.13,
+      "label": "MEDS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 4.63,
+      "move_30min": 17.1,
+      "label": "MDIA +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HALO",
+      "name": "Haloni Jane Tbk.",
+      "change_pct": 18.84,
+      "move_30min": -3.53,
+      "label": "HALO -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMED",
+      "name": "OMED",
+      "change_pct": 7.26,
+      "move_30min": -8.28,
+      "label": "OMED -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": 5.8,
+      "move_30min": -3.31,
+      "label": "PYFA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KAEF",
+      "name": "PT Kimia Farma Tbk",
+      "change_pct": 13.64,
+      "move_30min": -7.41,
+      "label": "KAEF -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAYA",
+      "name": "JAYA",
+      "change_pct": -2.94,
+      "move_30min": -7.3,
+      "label": "JAYA -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IRRA",
+      "name": "PT Itama Ranoraya Tbk",
+      "change_pct": 10.7,
+      "move_30min": -3.72,
+      "label": "IRRA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -1.04,
+      "move_30min": -3.06,
+      "label": "KKES -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": 11.3,
+      "move_30min": -4.48,
+      "label": "OBAT -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 9.09,
+      "move_30min": -5.62,
+      "label": "PEHA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PZZA",
+      "name": "PT Sarimelati Kencana Tbk",
+      "change_pct": 8.25,
+      "move_30min": 8.25,
+      "label": "PZZA +8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CARE",
+      "name": "CARE",
+      "change_pct": -1.75,
+      "move_30min": -3.03,
+      "label": "CARE -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": -0.77,
+      "move_30min": -5.47,
+      "label": "SMMT -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": 21.1,
+      "move_30min": 21.1,
+      "label": "SHID +21.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -4.25,
+      "move_30min": -4.25,
+      "label": "ROCK -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RDTX",
+      "name": "PT Roda Vivatex Tbk",
+      "change_pct": -6.17,
+      "move_30min": -6.17,
+      "label": "RDTX -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -5.03,
+      "move_30min": -7.52,
+      "label": "YPAS -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -2.88,
+      "move_30min": -6.25,
+      "label": "BBLD -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IMAS",
+      "name": "PT Indomobil Sukses Internasional Tbk",
+      "change_pct": 1.08,
+      "move_30min": -3.09,
+      "label": "IMAS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 12.39,
+      "move_30min": 12.39,
+      "label": "ABDA +12.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 29.17,
+            "contribution_score": 555.16
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 18.84,
+            "contribution_score": 331.19
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 24.9,
+            "contribution_score": 303.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -1.97,
+      "move_30min": -3.86,
+      "label": "POLI -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -2.75,
+      "move_30min": -5.36,
+      "label": "RANC -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.4,
+            "contribution_score": -140.29
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": -11.73,
+            "contribution_score": -138.2
+          },
+          {
+            "ticker": "INPC",
+            "change_pct": -6.74,
+            "contribution_score": -102.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-07T02:45:29.416Z",
       "status": "active",
       "summary": null
     }
