@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-08T03:00:38.694Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 379.18
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 23.59,
+            "contribution_score": 296.27
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 22.06,
+            "contribution_score": 252.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:15:25.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 26.92,
+      "move_30min": 15.79,
+      "label": "POLA +15.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 26.92,
+            "contribution_score": 470.59
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 377.77
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 305.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:00:38.694Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -7.91,
+      "move_30min": -5.83,
+      "label": "BLUE -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -122.14
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -6.35,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -7.91,
+            "contribution_score": -80.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:00:38.694Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": 20.54,
+      "move_30min": 23.29,
+      "label": "BSIM +23.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 26.92,
+            "contribution_score": 470.59
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 377.77
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 305.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:00:38.694Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VICI",
+      "name": "PT Victoria Care Indonesia Tbk",
+      "change_pct": -5.53,
+      "move_30min": -3.59,
+      "label": "VICI -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -122.14
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -6.35,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -7.91,
+            "contribution_score": -80.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:00:38.694Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
