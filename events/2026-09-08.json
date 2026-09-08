@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T02:15:25.003Z",
+  "generated_at": "2026-09-08T02:30:27.241Z",
   "events": [
     {
       "type": "breadth_up",
@@ -41,6 +41,436 @@
         "macro_active": null
       },
       "detected_at": "2026-09-08T02:15:25.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 19.59,
+      "move_30min": 19.59,
+      "label": "MEDS +19.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -3.2,
+      "move_30min": -3.2,
+      "label": "MDIA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 9.62,
+      "move_30min": 9.62,
+      "label": "POLA +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMED",
+      "name": "OMED",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "OMED -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": 18.27,
+      "move_30min": 18.27,
+      "label": "SOHO +18.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PRIM",
+      "name": "PRIM",
+      "change_pct": -3.25,
+      "move_30min": -3.25,
+      "label": "PRIM -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -9.81,
+      "move_30min": -9.81,
+      "label": "LUCY -9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "SHID +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 12.87,
+      "move_30min": 12.87,
+      "label": "BMAS +12.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 7.81,
+      "move_30min": 7.81,
+      "label": "ABDA +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
       "status": "active",
       "summary": null
     }

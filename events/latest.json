@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-08T02:30:27.241Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 379.18
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 23.59,
+            "contribution_score": 296.27
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 22.06,
+            "contribution_score": 252.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:15:25.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 19.59,
+      "move_30min": 19.59,
+      "label": "MEDS +19.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -3.2,
+      "move_30min": -3.2,
+      "label": "MDIA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 9.62,
+      "move_30min": 9.62,
+      "label": "POLA +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 19.59,
+            "contribution_score": 374.42
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 300.5
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 18.27,
+            "contribution_score": 241.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMED",
+      "name": "OMED",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "OMED -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.61
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -5.56,
+            "contribution_score": -78.41
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.2,
+            "contribution_score": -51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:30:27.241Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
