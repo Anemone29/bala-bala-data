@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-08T02:45:23.831Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 379.18
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 23.59,
+            "contribution_score": 296.27
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 22.06,
+            "contribution_score": 252.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:15:25.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 25,
+      "move_30min": 22.64,
+      "label": "POLA +22.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 25,
+            "contribution_score": 430.78
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 397.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 303.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:45:23.831Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 12.87,
+      "move_30min": 9.9,
+      "label": "BMAS +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 25,
+            "contribution_score": 430.78
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 397.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 303.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:45:23.831Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 11.38,
+      "move_30min": 14.71,
+      "label": "ABDA +14.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 25,
+            "contribution_score": 430.78
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 397.22
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 303.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:45:23.831Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HALO",
+      "name": "Haloni Jane Tbk.",
+      "change_pct": -4.6,
+      "move_30min": -5.68,
+      "label": "HALO -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -121.9
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": -4.6,
+            "contribution_score": -70.41
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -4.76,
+            "contribution_score": -67.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:45:23.831Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
