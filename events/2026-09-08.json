@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T04:30:34.064Z",
+  "generated_at": "2026-09-08T04:45:25.048Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2019,6 +2019,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-08T04:30:34.064Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -2.69,
+      "move_30min": -6.7,
+      "label": "SIPD -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -122.95
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": -6.9,
+            "contribution_score": -107.5
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -7.14,
+            "contribution_score": -105.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T04:45:25.048Z",
       "status": "active",
       "summary": null
     }
