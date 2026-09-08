@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T03:30:26.087Z",
+  "generated_at": "2026-09-08T03:45:25.153Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1507,49 +1507,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BKDP",
-      "name": "Bukit Darmo Property Tbk",
-      "change_pct": 14.37,
-      "move_30min": 17.18,
-      "label": "BKDP +17.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "POLA",
-            "change_pct": 34.62,
-            "contribution_score": 623.16
-          },
-          {
-            "ticker": "SOHO",
-            "change_pct": 22.92,
-            "contribution_score": 314.87
-          },
-          {
-            "ticker": "SHID",
-            "change_pct": 25,
-            "contribution_score": 310.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-08T03:30:26.087Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BMAS",
       "name": "PT Bank Maspion Indonesia Tbk",
@@ -1632,6 +1589,92 @@
         "macro_active": null
       },
       "detected_at": "2026-09-08T03:30:26.087Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 16.17,
+      "move_30min": 10.86,
+      "label": "BKDP +10.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 34.62,
+            "contribution_score": 629.22
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 17.53,
+            "contribution_score": 338.64
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 22.92,
+            "contribution_score": 315.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:45:25.153Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 7.53,
+      "move_30min": -4.76,
+      "label": "CITY -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 34.62,
+            "contribution_score": 629.22
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 17.53,
+            "contribution_score": 338.64
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 22.92,
+            "contribution_score": 315.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T03:45:25.153Z",
       "status": "active",
       "summary": null
     }
