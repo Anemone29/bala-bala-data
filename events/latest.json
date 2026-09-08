@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-08T06:30:25.874Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": 20.62,
+            "contribution_score": 379.18
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 23.59,
+            "contribution_score": 296.27
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 22.06,
+            "contribution_score": 252.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T02:15:25.003Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 34.62,
+            "contribution_score": 629.84
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 22.92,
+            "contribution_score": 317.19
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 315.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T06:30:25.874Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 9.9,
+      "move_30min": 9.9,
+      "label": "ASPI +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 34.62,
+            "contribution_score": 629.84
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 22.92,
+            "contribution_score": 317.19
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 315.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T06:30:25.874Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 34.62,
+            "contribution_score": 629.84
+          },
+          {
+            "ticker": "SOHO",
+            "change_pct": 22.92,
+            "contribution_score": 317.19
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 25,
+            "contribution_score": 315.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T06:30:25.874Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "HRME -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.81,
+            "contribution_score": -122.98
+          },
+          {
+            "ticker": "OMED",
+            "change_pct": -7.94,
+            "contribution_score": -117.93
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": -6.9,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-08T06:30:25.874Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
