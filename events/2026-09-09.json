@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T04:31:14.716Z",
+  "generated_at": "2026-09-09T04:46:09.818Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2056,49 +2056,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BBRM",
-      "name": "BBRM",
-      "change_pct": 12.5,
-      "move_30min": 9.76,
-      "label": "BBRM +9.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "POLA",
-            "change_pct": 69.23,
-            "contribution_score": 1346.94
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 13.67,
-            "contribution_score": 197.48
-          },
-          {
-            "ticker": "BBRM",
-            "change_pct": 12.5,
-            "contribution_score": 193.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-09T04:31:14.716Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "NIRO",
       "name": "NIRO",
@@ -2224,6 +2181,49 @@
         "macro_active": null
       },
       "detected_at": "2026-09-09T04:31:14.716Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": 15,
+      "move_30min": 10.4,
+      "label": "BBRM +10.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 30,
+            "contribution_score": 561.81
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 15,
+            "contribution_score": 245.19
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 13.67,
+            "contribution_score": 197.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T04:46:09.818Z",
       "status": "active",
       "summary": null
     }
