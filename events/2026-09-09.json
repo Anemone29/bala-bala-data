@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T06:45:56.689Z",
+  "generated_at": "2026-09-09T07:01:12.361Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2611,6 +2611,92 @@
         "macro_active": null
       },
       "detected_at": "2026-09-09T06:45:56.689Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -4.67,
+      "move_30min": -3.38,
+      "label": "TRIM -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": -10.68,
+            "contribution_score": -175.63
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.63,
+            "contribution_score": -125.99
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -125.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T07:01:12.361Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": -3.73,
+      "move_30min": -3.01,
+      "label": "BCIC -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MEDS",
+            "change_pct": -10.68,
+            "contribution_score": -175.63
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.63,
+            "contribution_score": -125.99
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -125.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T07:01:12.361Z",
       "status": "active",
       "summary": null
     }
