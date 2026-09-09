@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T04:16:08.493Z",
+  "generated_at": "2026-09-09T04:31:14.716Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1949,12 +1949,12 @@
           {
             "ticker": "MDIA",
             "change_pct": -11.2,
-            "contribution_score": -179.97
+            "contribution_score": -180.33
           },
           {
             "ticker": "MEDS",
             "change_pct": -9.71,
-            "contribution_score": -158.79
+            "contribution_score": -158.86
           },
           {
             "ticker": "ANDI",
@@ -1965,7 +1965,7 @@
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-09T04:16:08.493Z",
+      "detected_at": "2026-09-09T04:31:14.716Z",
       "status": "active",
       "summary": null
     },
@@ -1991,24 +1991,24 @@
         "tickers": [
           {
             "ticker": "POLA",
-            "change_pct": 24.29,
-            "contribution_score": 449.46
-          },
-          {
-            "ticker": "ASMI",
-            "change_pct": 13.33,
-            "contribution_score": 192.74
+            "change_pct": 69.23,
+            "contribution_score": 1346.94
           },
           {
             "ticker": "AKSI",
-            "change_pct": 12.95,
-            "contribution_score": 186.52
+            "change_pct": 13.67,
+            "contribution_score": 197.48
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 12.5,
+            "contribution_score": 193.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-09T04:16:08.493Z",
+      "detected_at": "2026-09-09T04:31:14.716Z",
       "status": "active",
       "summary": null
     },
@@ -2017,8 +2017,8 @@
       "ticker": "ABDA",
       "name": "PT Asuransi Bina Dana Arta Tbk",
       "change_pct": 0.4,
-      "move_30min": -3.96,
-      "label": "ABDA -4.0% dalam 30 menit",
+      "move_30min": -3.5,
+      "label": "ABDA -3.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2034,24 +2034,196 @@
         "tickers": [
           {
             "ticker": "POLA",
-            "change_pct": 24.29,
-            "contribution_score": 449.46
-          },
-          {
-            "ticker": "ASMI",
-            "change_pct": 13.33,
-            "contribution_score": 192.74
+            "change_pct": 69.23,
+            "contribution_score": 1346.94
           },
           {
             "ticker": "AKSI",
-            "change_pct": 12.95,
-            "contribution_score": 186.52
+            "change_pct": 13.67,
+            "contribution_score": 197.48
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 12.5,
+            "contribution_score": 193.46
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-09T04:16:08.493Z",
+      "detected_at": "2026-09-09T04:31:14.716Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": 12.5,
+      "move_30min": 9.76,
+      "label": "BBRM +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 69.23,
+            "contribution_score": 1346.94
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 13.67,
+            "contribution_score": 197.48
+          },
+          {
+            "ticker": "BBRM",
+            "change_pct": 12.5,
+            "contribution_score": 193.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T04:31:14.716Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -2.78,
+      "move_30min": -4.37,
+      "label": "NIRO -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -11.2,
+            "contribution_score": -180.33
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -9.71,
+            "contribution_score": -158.86
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -9.09,
+            "contribution_score": -125.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T04:31:14.716Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -4.19,
+      "move_30min": -3.03,
+      "label": "AWAN -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -11.2,
+            "contribution_score": -180.33
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -9.71,
+            "contribution_score": -158.86
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -9.09,
+            "contribution_score": -125.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T04:31:14.716Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -4.23,
+      "move_30min": -3.21,
+      "label": "SIPD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -11.2,
+            "contribution_score": -180.33
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -9.71,
+            "contribution_score": -158.86
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -9.09,
+            "contribution_score": -125.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-09T04:31:14.716Z",
       "status": "active",
       "summary": null
     }
