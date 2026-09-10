@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T05:00:42.384Z",
+  "generated_at": "2026-09-10T06:30:44.395Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2826,6 +2826,135 @@
         "macro_active": null
       },
       "detected_at": "2026-09-10T05:00:42.384Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": 1.72,
+      "move_30min": -3.28,
+      "label": "DSSA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 547.98
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.54,
+            "contribution_score": 408.98
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:30:44.395Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": 12.87,
+      "move_30min": 11.76,
+      "label": "KIOS +11.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 547.98
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.54,
+            "contribution_score": 408.98
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:30:44.395Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -9.88,
+            "contribution_score": -153.92
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -7.33,
+            "contribution_score": -103.51
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -80.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:30:44.395Z",
       "status": "active",
       "summary": null
     }
