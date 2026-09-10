@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T06:30:44.395Z",
+  "generated_at": "2026-09-10T06:45:27.974Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2834,7 +2834,7 @@
       "ticker": "DSSA",
       "name": "PT Dian Swastatika Sentosa Tbk",
       "change_pct": 1.72,
-      "move_30min": -3.28,
+      "move_30min": -3.33,
       "label": "DSSA -3.3% dalam 30 menit",
       "drivers": {
         "sectors": [
@@ -2850,25 +2850,25 @@
         ],
         "tickers": [
           {
-            "ticker": "GSMF",
-            "change_pct": 30.43,
-            "contribution_score": 547.98
+            "ticker": "POLA",
+            "change_pct": -11.11,
+            "contribution_score": -173.17
           },
           {
-            "ticker": "SAPX",
-            "change_pct": 24.54,
-            "contribution_score": 408.98
+            "ticker": "BKDP",
+            "change_pct": -7.33,
+            "contribution_score": -103.57
           },
           {
-            "ticker": "JECC",
-            "change_pct": 25,
-            "contribution_score": 312.8
+            "ticker": "PIPA",
+            "change_pct": -5.41,
+            "contribution_score": -86.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-10T06:30:44.395Z",
+      "detected_at": "2026-09-10T06:45:27.974Z",
       "status": "active",
       "summary": null
     },
@@ -2877,8 +2877,8 @@
       "ticker": "KIOS",
       "name": "PT Kioson Komersial Indonesia Tbk",
       "change_pct": 12.87,
-      "move_30min": 11.76,
-      "label": "KIOS +11.8% dalam 30 menit",
+      "move_30min": 7.84,
+      "label": "KIOS +7.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -2895,23 +2895,23 @@
           {
             "ticker": "GSMF",
             "change_pct": 30.43,
-            "contribution_score": 547.98
+            "contribution_score": 548.56
           },
           {
             "ticker": "SAPX",
             "change_pct": 24.54,
-            "contribution_score": 408.98
+            "contribution_score": 409.25
           },
           {
             "ticker": "JECC",
             "change_pct": 25,
-            "contribution_score": 312.8
+            "contribution_score": 313.28
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-10T06:30:44.395Z",
+      "detected_at": "2026-09-10T06:45:27.974Z",
       "status": "active",
       "summary": null
     },
@@ -2937,24 +2937,282 @@
         "tickers": [
           {
             "ticker": "POLA",
-            "change_pct": -9.88,
-            "contribution_score": -153.92
+            "change_pct": -11.11,
+            "contribution_score": -173.17
           },
           {
             "ticker": "BKDP",
             "change_pct": -7.33,
-            "contribution_score": -103.51
+            "contribution_score": -103.57
           },
           {
-            "ticker": "PPRO",
-            "change_pct": -6.25,
-            "contribution_score": -80.9
+            "ticker": "PIPA",
+            "change_pct": -5.41,
+            "contribution_score": -86.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-10T06:30:44.395Z",
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 9.38,
+      "move_30min": -3.12,
+      "label": "JARR -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 548.56
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.54,
+            "contribution_score": 409.25
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 313.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 14.69,
+      "move_30min": 7.19,
+      "label": "CCSI +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 548.56
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.54,
+            "contribution_score": 409.25
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 313.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WGSH",
+      "name": "WGSH",
+      "change_pct": -3.21,
+      "move_30min": -3.82,
+      "label": "WGSH -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -11.11,
+            "contribution_score": -173.17
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -7.33,
+            "contribution_score": -103.57
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.41,
+            "contribution_score": -86.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": 0,
+      "move_30min": -3.48,
+      "label": "RANC -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 548.56
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.54,
+            "contribution_score": 409.25
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 313.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -1.52,
+      "move_30min": -4.9,
+      "label": "POLI -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -11.11,
+            "contribution_score": -173.17
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -7.33,
+            "contribution_score": -103.57
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.41,
+            "contribution_score": -86.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -2.29,
+      "move_30min": -3.03,
+      "label": "SHIP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -11.11,
+            "contribution_score": -173.17
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": -7.33,
+            "contribution_score": -103.57
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -5.41,
+            "contribution_score": -86.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T06:45:27.974Z",
       "status": "active",
       "summary": null
     }
