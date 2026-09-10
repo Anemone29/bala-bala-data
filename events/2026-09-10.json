@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T04:30:28.329Z",
+  "generated_at": "2026-09-10T05:00:42.384Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2740,6 +2740,92 @@
         "macro_active": null
       },
       "detected_at": "2026-09-10T04:30:28.329Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 17.79,
+      "move_30min": 7.87,
+      "label": "SAPX +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 547.47
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312.77
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 294.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T05:00:42.384Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": 1.02,
+      "move_30min": -3.26,
+      "label": "BLUE -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 30.43,
+            "contribution_score": 547.47
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312.77
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 294.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T05:00:42.384Z",
       "status": "active",
       "summary": null
     }
