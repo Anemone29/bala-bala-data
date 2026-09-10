@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-10T03:15:28.742Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T02:00:39.258Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 9.26,
+      "move_30min": 11.32,
+      "label": "LUCY +11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 311.17
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 10.87,
+            "contribution_score": 179.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:15:28.742Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 4.52,
+      "move_30min": -7.96,
+      "label": "ESTI -8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 311.17
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 10.87,
+            "contribution_score": 179.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:15:28.742Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 9.5,
+      "move_30min": 9.5,
+      "label": "DOOH +9.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 311.17
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 10.87,
+            "contribution_score": 179.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:15:28.742Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 10.87,
+      "move_30min": -4.67,
+      "label": "GSMF -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 311.17
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 10.87,
+            "contribution_score": 179.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:15:28.742Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
