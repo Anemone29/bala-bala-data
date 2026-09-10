@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T03:45:27.724Z",
+  "generated_at": "2026-09-10T04:00:33.543Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2142,49 +2142,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "SAPX",
-      "name": "SAPX",
-      "change_pct": 6.75,
-      "move_30min": 10.83,
-      "label": "SAPX +10.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "NIRO",
-            "change_pct": 34.09,
-            "contribution_score": 503.85
-          },
-          {
-            "ticker": "JECC",
-            "change_pct": 25,
-            "contribution_score": 311.47
-          },
-          {
-            "ticker": "BAPI",
-            "change_pct": 19.05,
-            "contribution_score": 285.12
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-10T03:45:27.724Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
@@ -2267,6 +2224,135 @@
         "macro_active": null
       },
       "detected_at": "2026-09-10T03:45:27.724Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 6.75,
+      "move_30min": 7.84,
+      "label": "SAPX +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 23.91,
+            "contribution_score": 419
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T04:00:33.543Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 23.91,
+      "move_30min": 12.87,
+      "label": "GSMF +12.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 23.91,
+            "contribution_score": 419
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T04:00:33.543Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 14.77,
+      "move_30min": -8.18,
+      "label": "NIRO -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GSMF",
+            "change_pct": 23.91,
+            "contribution_score": 419
+          },
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 312
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 19.05,
+            "contribution_score": 285.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T04:00:33.543Z",
       "status": "active",
       "summary": null
     }
