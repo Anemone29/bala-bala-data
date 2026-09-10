@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T02:45:26.663Z",
+  "generated_at": "2026-09-10T03:00:35.968Z",
   "events": [
     {
       "type": "breadth_up",
@@ -938,49 +938,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "GSMF",
-      "name": "PT Equity Development Investment Tbk",
-      "change_pct": 16.3,
-      "move_30min": 13.83,
-      "label": "GSMF +13.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "JECC",
-            "change_pct": 25,
-            "contribution_score": 309.5
-          },
-          {
-            "ticker": "GSMF",
-            "change_pct": 16.3,
-            "contribution_score": 266.51
-          },
-          {
-            "ticker": "ESTI",
-            "change_pct": 13.57,
-            "contribution_score": 231.04
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-10T02:45:26.663Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MEDS",
       "name": "MEDS",
@@ -1282,6 +1239,49 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": 16.3,
+      "move_30min": 10.64,
+      "label": "GSMF +10.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JECC",
+            "change_pct": 25,
+            "contribution_score": 310.88
+          },
+          {
+            "ticker": "GSMF",
+            "change_pct": 13.04,
+            "contribution_score": 216.12
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 7.41,
+            "contribution_score": 132.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:00:35.968Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BSIM",
       "name": "PT Bank Sinarmas Tbk",
@@ -1303,24 +1303,67 @@
         "tickers": [
           {
             "ticker": "POLA",
-            "change_pct": -8.64,
-            "contribution_score": -125.25
+            "change_pct": -11.11,
+            "contribution_score": -162.42
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -5.04,
+            "contribution_score": -85.9
           },
           {
             "ticker": "MDIA",
-            "change_pct": -6.36,
-            "contribution_score": -98.69
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": -6.81,
-            "contribution_score": -89.86
+            "change_pct": -5.45,
+            "contribution_score": -85.12
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-10T02:45:26.663Z",
+      "detected_at": "2026-09-10T03:00:35.968Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": -11.11,
+      "move_30min": -4,
+      "label": "POLA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -11.11,
+            "contribution_score": -162.42
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -5.04,
+            "contribution_score": -85.9
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -5.45,
+            "contribution_score": -85.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-10T03:00:35.968Z",
       "status": "active",
       "summary": null
     }
