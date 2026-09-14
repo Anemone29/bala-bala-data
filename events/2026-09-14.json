@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T03:01:21.241Z",
+  "generated_at": "2026-09-14T03:15:55.393Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1970,48 +1970,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.8,
-      "label": "76% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.53
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -7.69,
-            "contribution_score": -110.18
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -8.5,
-            "contribution_score": -86.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:01:21.241Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MITI",
       "name": "PT Mitra Investindo Tbk",
@@ -2185,92 +2143,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "BKDP",
-      "name": "Bukit Darmo Property Tbk",
-      "change_pct": 12.94,
-      "move_30min": 14.29,
-      "label": "BKDP +14.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 33.33,
-            "contribution_score": 632.34
-          },
-          {
-            "ticker": "CCSI",
-            "change_pct": 15.29,
-            "contribution_score": 213.17
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 12.94,
-            "contribution_score": 198.53
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:01:21.241Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "OASA",
-      "name": "PT Maharaksa Biru Energi Tbk",
-      "change_pct": -5.23,
-      "move_30min": -3.33,
-      "label": "OASA -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.53
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -7.69,
-            "contribution_score": -110.18
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -8.5,
-            "contribution_score": -86.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:01:21.241Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "VRNA",
       "name": "PT Verena Multi Finance Tbk",
       "change_pct": 5.49,
@@ -2399,12 +2271,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "RANC",
-      "name": "RANC",
-      "change_pct": -3.67,
-      "move_30min": -4.55,
-      "label": "RANC -4.5% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "74% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -2421,23 +2292,625 @@
           {
             "ticker": "LUCY",
             "change_pct": -9.79,
-            "contribution_score": -144.53
+            "contribution_score": -144.57
           },
           {
             "ticker": "MITI",
-            "change_pct": -7.69,
-            "contribution_score": -110.18
+            "change_pct": -6.99,
+            "contribution_score": -100.4
           },
           {
             "ticker": "BYAN",
-            "change_pct": -8.5,
-            "contribution_score": -86.46
+            "change_pct": -8.91,
+            "contribution_score": -92.05
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-14T03:01:21.241Z",
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 14.71,
+      "move_30min": 13.37,
+      "label": "BKDP +13.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.78,
+            "contribution_score": 666.91
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 232.2
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 15.29,
+            "contribution_score": 218.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -5.23,
+      "move_30min": -3.33,
+      "label": "OASA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.67,
+      "move_30min": -3.64,
+      "label": "RANC -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.78,
+            "contribution_score": 666.91
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 232.2
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 15.29,
+            "contribution_score": 218.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": -1.16,
+      "move_30min": -3.41,
+      "label": "MEDS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BAPI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": -6.5,
+      "move_30min": -6.5,
+      "label": "DOOH -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -4.44,
+      "move_30min": -4.44,
+      "label": "VIVA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 16.15,
+      "move_30min": 16.88,
+      "label": "JECC +16.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 34.78,
+            "contribution_score": 666.91
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 232.2
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 15.29,
+            "contribution_score": 218.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "PURA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "IPTV -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "TARA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "INPS -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMAR",
+      "name": "PT Sinar Mas Agro Resources and Technology Tbk",
+      "change_pct": -3.97,
+      "move_30min": -3.2,
+      "label": "SMAR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.57
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.4
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -8.91,
+            "contribution_score": -92.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:15:55.393Z",
       "status": "active",
       "summary": null
     }
