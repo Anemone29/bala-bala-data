@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T04:01:23.105Z",
+  "generated_at": "2026-09-14T04:15:53.606Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3260,97 +3260,12 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.8,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.63
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -8.39,
-            "contribution_score": -120.77
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -10.32,
-            "contribution_score": -109.65
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T04:01:23.105Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "CCSI",
       "name": "CCSI",
       "change_pct": 10.83,
       "move_30min": -3.87,
       "label": "CCSI -3.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 33.33,
-            "contribution_score": 647.24
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 15.29,
-            "contribution_score": 250.13
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": 17.36,
-            "contribution_score": 245.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T04:01:23.105Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "JECC",
-      "name": "JECC",
-      "change_pct": 11.8,
-      "move_30min": -3.74,
-      "label": "JECC -3.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3432,49 +3347,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SHID",
-      "name": "SHID",
-      "change_pct": -3.66,
-      "move_30min": -3.07,
-      "label": "SHID -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.63
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -8.39,
-            "contribution_score": -120.77
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -10.32,
-            "contribution_score": -109.65
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T04:01:23.105Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "POLI",
       "name": "POLI",
       "change_pct": -5.06,
@@ -3513,6 +3385,392 @@
         "macro_active": null
       },
       "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.64
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.73,
+            "contribution_score": -114.77
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -7.5,
+            "contribution_score": -104.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 11.8,
+      "move_30min": -5.95,
+      "label": "JECC -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 30.43,
+            "contribution_score": 592.59
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 241.44
+          },
+          {
+            "ticker": "BTON",
+            "change_pct": 19.55,
+            "contribution_score": 224.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -4.27,
+      "move_30min": -3.68,
+      "label": "SHID -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.64
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.73,
+            "contribution_score": -114.77
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -7.5,
+            "contribution_score": -104.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 1.32,
+      "move_30min": -3.75,
+      "label": "POLA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 30.43,
+            "contribution_score": 592.59
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 241.44
+          },
+          {
+            "ticker": "BTON",
+            "change_pct": 19.55,
+            "contribution_score": 224.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 13.22,
+      "move_30min": -4.86,
+      "label": "VOKS -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 30.43,
+            "contribution_score": 592.59
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 241.44
+          },
+          {
+            "ticker": "BTON",
+            "change_pct": 19.55,
+            "contribution_score": 224.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AGRS",
+      "name": "PT Bank IBK Indonesia Tbk",
+      "change_pct": -3.28,
+      "move_30min": -3.28,
+      "label": "AGRS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.64
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.73,
+            "contribution_score": -114.77
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -7.5,
+            "contribution_score": -104.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 30.43,
+            "contribution_score": 592.59
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 241.44
+          },
+          {
+            "ticker": "BTON",
+            "change_pct": 19.55,
+            "contribution_score": 224.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": 19.55,
+      "move_30min": 18.89,
+      "label": "BTON +18.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 30.43,
+            "contribution_score": 592.59
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 14.71,
+            "contribution_score": 241.44
+          },
+          {
+            "ticker": "BTON",
+            "change_pct": 19.55,
+            "contribution_score": 224.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": -6.79,
+      "move_30min": -3.21,
+      "label": "INPS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.64
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.73,
+            "contribution_score": -114.77
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -7.5,
+            "contribution_score": -104.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:15:53.606Z",
       "status": "active",
       "summary": null
     }
