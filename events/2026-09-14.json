@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T04:45:56.162Z",
+  "generated_at": "2026-09-14T05:01:00.407Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3905,48 +3905,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -79.4,
-      "label": "79% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.64
-          },
-          {
-            "ticker": "DEWA",
-            "change_pct": -7.51,
-            "contribution_score": -125.99
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -11.34,
-            "contribution_score": -123.05
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T04:45:56.162Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "POLA",
       "name": "POLA",
@@ -4076,12 +4034,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "RIGS",
-      "name": "PT Rig Tenders Indonesia Tbk",
-      "change_pct": -4.96,
-      "move_30min": -3.6,
-      "label": "RIGS -3.6% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -79.8,
+      "label": "80% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -4103,18 +4060,61 @@
           {
             "ticker": "DEWA",
             "change_pct": -7.51,
-            "contribution_score": -125.99
+            "contribution_score": -126.45
           },
           {
             "ticker": "BYAN",
             "change_pct": -11.34,
-            "contribution_score": -123.05
+            "contribution_score": -123.44
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-14T04:45:56.162Z",
+      "detected_at": "2026-09-14T05:01:00.407Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RIGS",
+      "name": "PT Rig Tenders Indonesia Tbk",
+      "change_pct": -5.67,
+      "move_30min": -4.32,
+      "label": "RIGS -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.64
+          },
+          {
+            "ticker": "DEWA",
+            "change_pct": -7.51,
+            "contribution_score": -126.45
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -11.34,
+            "contribution_score": -123.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T05:01:00.407Z",
       "status": "active",
       "summary": null
     },
@@ -4140,24 +4140,24 @@
         "tickers": [
           {
             "ticker": "LAPD",
-            "change_pct": 30.43,
-            "contribution_score": 594.42
+            "change_pct": 31.88,
+            "contribution_score": 624.37
           },
           {
             "ticker": "BKDP",
-            "change_pct": 12.35,
-            "contribution_score": 201.8
+            "change_pct": 13.53,
+            "contribution_score": 222.05
           },
           {
-            "ticker": "CCSI",
-            "change_pct": 10.83,
-            "contribution_score": 155.1
+            "ticker": "AKSI",
+            "change_pct": 12.94,
+            "contribution_score": 175.75
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-14T04:45:56.162Z",
+      "detected_at": "2026-09-14T05:01:00.407Z",
       "status": "active",
       "summary": null
     },
@@ -4189,18 +4189,18 @@
           {
             "ticker": "DEWA",
             "change_pct": -7.51,
-            "contribution_score": -125.99
+            "contribution_score": -126.45
           },
           {
             "ticker": "BYAN",
             "change_pct": -11.34,
-            "contribution_score": -123.05
+            "contribution_score": -123.44
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-14T04:45:56.162Z",
+      "detected_at": "2026-09-14T05:01:00.407Z",
       "status": "active",
       "summary": null
     }
