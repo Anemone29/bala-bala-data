@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T03:31:14.941Z",
+  "generated_at": "2026-09-14T03:46:07.869Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2486,48 +2486,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.8,
-      "label": "74% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.57
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -7.69,
-            "contribution_score": -110.61
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -8.91,
-            "contribution_score": -92.52
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:31:14.941Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -2958,49 +2916,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "AKSI",
-      "name": "AKSI",
-      "change_pct": 12.35,
-      "move_30min": 13.69,
-      "label": "AKSI +13.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LAPD",
-            "change_pct": 31.88,
-            "contribution_score": 615.25
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 17.06,
-            "contribution_score": 278.44
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": 17.36,
-            "contribution_score": 243.18
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:31:14.941Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "VRNA",
       "name": "PT Verena Multi Finance Tbk",
@@ -3126,6 +3041,263 @@
         "macro_active": null
       },
       "detected_at": "2026-09-14T03:31:14.941Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.62
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.59
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.51,
+            "contribution_score": -100.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 12.35,
+      "move_30min": 13.02,
+      "label": "AKSI +13.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 31.88,
+            "contribution_score": 617.1
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 16.47,
+            "contribution_score": 269.6
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 19.01,
+            "contribution_score": 269.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 5.26,
+      "move_30min": 9.59,
+      "label": "POLA +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 31.88,
+            "contribution_score": 617.1
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 16.47,
+            "contribution_score": 269.6
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 19.01,
+            "contribution_score": 269.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PANS",
+      "name": "PT Panin Sekuritas Tbk",
+      "change_pct": -2.13,
+      "move_30min": -3.02,
+      "label": "PANS -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.62
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.59
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.51,
+            "contribution_score": -100.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -3.64,
+      "move_30min": -3.2,
+      "label": "BSIM -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.62
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.59
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.51,
+            "contribution_score": -100.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MYOH",
+      "name": "MYOH",
+      "change_pct": -4.85,
+      "move_30min": -3.14,
+      "label": "MYOH -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.62
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -6.99,
+            "contribution_score": -100.59
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -9.51,
+            "contribution_score": -100.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T03:46:07.869Z",
       "status": "active",
       "summary": null
     }
