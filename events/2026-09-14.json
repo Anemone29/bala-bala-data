@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T03:46:07.869Z",
+  "generated_at": "2026-09-14T04:01:23.105Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3045,48 +3045,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.8,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.79,
-            "contribution_score": -144.62
-          },
-          {
-            "ticker": "MITI",
-            "change_pct": -6.99,
-            "contribution_score": -100.59
-          },
-          {
-            "ticker": "BYAN",
-            "change_pct": -9.51,
-            "contribution_score": -100.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-14T03:46:07.869Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "AKSI",
       "name": "AKSI",
@@ -3298,6 +3256,263 @@
         "macro_active": null
       },
       "detected_at": "2026-09-14T03:46:07.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.63
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -8.39,
+            "contribution_score": -120.77
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.32,
+            "contribution_score": -109.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 10.83,
+      "move_30min": -3.87,
+      "label": "CCSI -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 33.33,
+            "contribution_score": 647.24
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 15.29,
+            "contribution_score": 250.13
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 17.36,
+            "contribution_score": 245.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 11.8,
+      "move_30min": -3.74,
+      "label": "JECC -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": 33.33,
+            "contribution_score": 647.24
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 15.29,
+            "contribution_score": 250.13
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 17.36,
+            "contribution_score": 245.66
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -5.42,
+      "move_30min": -3.68,
+      "label": "SAMF -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.63
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -8.39,
+            "contribution_score": -120.77
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.32,
+            "contribution_score": -109.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -3.66,
+      "move_30min": -3.07,
+      "label": "SHID -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.63
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -8.39,
+            "contribution_score": -120.77
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.32,
+            "contribution_score": -109.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -5.06,
+      "move_30min": -3.98,
+      "label": "POLI -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.79,
+            "contribution_score": -144.63
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -8.39,
+            "contribution_score": -120.77
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -10.32,
+            "contribution_score": -109.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-14T04:01:23.105Z",
       "status": "active",
       "summary": null
     }
