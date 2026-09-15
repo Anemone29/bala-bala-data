@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-15T03:15:52.074Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T02:00:56.526Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 31.07,
+      "move_30min": 9.76,
+      "label": "DEFI +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 31.07,
+            "contribution_score": 577.09
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 21.78,
+            "contribution_score": 332.23
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": 14.56,
+            "contribution_score": 248.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:15:52.074Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AHAP",
+      "name": "AHAP",
+      "change_pct": 14.56,
+      "move_30min": 11.32,
+      "label": "AHAP +11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 31.07,
+            "contribution_score": 577.09
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 21.78,
+            "contribution_score": 332.23
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": 14.56,
+            "contribution_score": 248.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:15:52.074Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 2.91,
+      "move_30min": -4.59,
+      "label": "BMAS -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 31.07,
+            "contribution_score": 577.09
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 21.78,
+            "contribution_score": 332.23
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": 14.56,
+            "contribution_score": 248.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:15:52.074Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -6.89,
+      "move_30min": -3.98,
+      "label": "MASB -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -5.56,
+            "contribution_score": -77.43
+          },
+          {
+            "ticker": "GGRM",
+            "change_pct": -6.71,
+            "contribution_score": -72.8
+          },
+          {
+            "ticker": "WIIM",
+            "change_pct": -5.73,
+            "contribution_score": -68.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:15:52.074Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
