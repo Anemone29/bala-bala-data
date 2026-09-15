@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T03:31:00.652Z",
+  "generated_at": "2026-09-15T03:45:52.248Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1842,92 +1842,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAPX",
-      "name": "SAPX",
-      "change_pct": 17.82,
-      "move_30min": -5.56,
-      "label": "SAPX -5.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": 29.13,
-            "contribution_score": 541.41
-          },
-          {
-            "ticker": "CCSI",
-            "change_pct": 24.29,
-            "contribution_score": 361.68
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.82,
-            "contribution_score": 272.04
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-15T03:31:00.652Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "CCSI",
-      "name": "CCSI",
-      "change_pct": 24.29,
-      "move_30min": 17.02,
-      "label": "CCSI +17.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": 29.13,
-            "contribution_score": 541.41
-          },
-          {
-            "ticker": "CCSI",
-            "change_pct": 24.29,
-            "contribution_score": 361.68
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.82,
-            "contribution_score": 272.04
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-15T03:31:00.652Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BAJA",
       "name": "PT Saranacentral Bajatama Tbk",
       "change_pct": -2.13,
@@ -2009,6 +1923,436 @@
         "macro_active": null
       },
       "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 17.82,
+      "move_30min": -7.32,
+      "label": "SAPX -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 24.86,
+      "move_30min": 16.32,
+      "label": "CCSI +16.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": 24.59,
+      "move_30min": 15.15,
+      "label": "TRJA +15.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 5.7,
+      "move_30min": -4.57,
+      "label": "ECII -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 14.62,
+      "move_30min": 14.62,
+      "label": "VOKS +14.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -1.28,
+      "move_30min": -3.14,
+      "label": "AYLS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -7.64,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -6.98,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "SMRA",
+            "change_pct": -4.82,
+            "contribution_score": -69.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 15.29,
+      "move_30min": 10.73,
+      "label": "JECC +10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": 6.8,
+      "move_30min": -3.93,
+      "label": "BSIM -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RIGS",
+      "name": "PT Rig Tenders Indonesia Tbk",
+      "change_pct": -6.47,
+      "move_30min": -6.47,
+      "label": "RIGS -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -7.64,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -6.98,
+            "contribution_score": -75.38
+          },
+          {
+            "ticker": "SMRA",
+            "change_pct": -4.82,
+            "contribution_score": -69.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 0.65,
+      "move_30min": -3.7,
+      "label": "BOGA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 542.72
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.86,
+            "contribution_score": 377.85
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": 24.59,
+            "contribution_score": 370.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:45:52.248Z",
       "status": "active",
       "summary": null
     }
