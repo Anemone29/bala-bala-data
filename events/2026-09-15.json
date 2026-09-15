@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T03:15:52.074Z",
+  "generated_at": "2026-09-15T03:31:00.652Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1541,49 +1541,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": -3.03,
-      "move_30min": -3.03,
-      "label": "BLTA -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HMSP",
-            "change_pct": -5.56,
-            "contribution_score": -77.43
-          },
-          {
-            "ticker": "GGRM",
-            "change_pct": -6.71,
-            "contribution_score": -72.8
-          },
-          {
-            "ticker": "WIIM",
-            "change_pct": -5.73,
-            "contribution_score": -68.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-15T03:15:52.074Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BLUE",
       "name": "Berkah Prima Perkasa Tbk.",
       "change_pct": 1.33,
@@ -1659,49 +1616,6 @@
             "ticker": "WIIM",
             "change_pct": -5.73,
             "contribution_score": -68.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-15T03:15:52.074Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "SAFE",
-      "name": "SAFE",
-      "change_pct": 9.71,
-      "move_30min": 9.71,
-      "label": "SAFE +9.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": 31.07,
-            "contribution_score": 577.09
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 21.78,
-            "contribution_score": 332.23
-          },
-          {
-            "ticker": "AHAP",
-            "change_pct": 14.56,
-            "contribution_score": 248.04
           }
         ],
         "foreign_flow": null,
@@ -1799,6 +1713,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -8.33,
+            "contribution_score": -119.38
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -7.66,
+            "contribution_score": -81.89
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -5.3,
+            "contribution_score": -63.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 9.71,
+      "move_30min": 9.71,
+      "label": "SAFE +9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 541.41
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.29,
+            "contribution_score": 361.68
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.82,
+            "contribution_score": 272.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "STTP",
       "name": "PT Siantar Top Tbk",
       "change_pct": -1.85,
@@ -1819,24 +1819,196 @@
         "tickers": [
           {
             "ticker": "HMSP",
-            "change_pct": -5.56,
-            "contribution_score": -77.43
+            "change_pct": -8.33,
+            "contribution_score": -119.38
           },
           {
-            "ticker": "GGRM",
-            "change_pct": -6.71,
-            "contribution_score": -72.8
+            "ticker": "BYAN",
+            "change_pct": -7.66,
+            "contribution_score": -81.89
           },
           {
-            "ticker": "WIIM",
-            "change_pct": -5.73,
-            "contribution_score": -68.32
+            "ticker": "MITI",
+            "change_pct": -5.3,
+            "contribution_score": -63.27
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-15T03:15:52.074Z",
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 17.82,
+      "move_30min": -5.56,
+      "label": "SAPX -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 541.41
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.29,
+            "contribution_score": 361.68
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.82,
+            "contribution_score": 272.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 24.29,
+      "move_30min": 17.02,
+      "label": "CCSI +17.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 29.13,
+            "contribution_score": 541.41
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.29,
+            "contribution_score": 361.68
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 17.82,
+            "contribution_score": 272.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -2.13,
+      "move_30min": -3.5,
+      "label": "BAJA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -8.33,
+            "contribution_score": -119.38
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -7.66,
+            "contribution_score": -81.89
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -5.3,
+            "contribution_score": -63.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -7.66,
+      "move_30min": -3.76,
+      "label": "BYAN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HMSP",
+            "change_pct": -8.33,
+            "contribution_score": -119.38
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": -7.66,
+            "contribution_score": -81.89
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": -5.3,
+            "contribution_score": -63.27
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-15T03:31:00.652Z",
       "status": "active",
       "summary": null
     }
