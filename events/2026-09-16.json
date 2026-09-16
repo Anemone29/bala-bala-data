@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T03:00:57.157Z",
+  "generated_at": "2026-09-16T03:15:52.662Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1067,49 +1067,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "CCSI",
-      "name": "CCSI",
-      "change_pct": -2.71,
-      "move_30min": 8.04,
-      "label": "CCSI +8.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SAPX",
-            "change_pct": -14.88,
-            "contribution_score": -152.86
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": -7.91,
-            "contribution_score": -133.89
-          },
-          {
-            "ticker": "TRJA",
-            "change_pct": -4.83,
-            "contribution_score": -61.53
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-16T03:00:57.157Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RODA",
       "name": "PT Pikko Land Development Tbk",
@@ -1240,6 +1197,49 @@
     },
     {
       "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 4.52,
+      "move_30min": 18.46,
+      "label": "CCSI +18.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
       "ticker": "MPRO",
       "name": "Maha Properti Indonesia Tbk.",
       "change_pct": -5.99,
@@ -1261,23 +1261,453 @@
           {
             "ticker": "SAPX",
             "change_pct": -14.88,
-            "contribution_score": -152.86
+            "contribution_score": -154.2
           },
           {
             "ticker": "DEFI",
             "change_pct": -7.91,
-            "contribution_score": -133.89
+            "contribution_score": -134.02
           },
           {
-            "ticker": "TRJA",
-            "change_pct": -4.83,
-            "contribution_score": -61.53
+            "ticker": "TRIN",
+            "change_pct": -6.7,
+            "contribution_score": -90.01
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-16T03:00:57.157Z",
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": -7.91,
+      "move_30min": -6.57,
+      "label": "DEFI -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -154.2
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -7.91,
+            "contribution_score": -134.02
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.7,
+            "contribution_score": -90.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": -3.57,
+      "move_30min": -4.71,
+      "label": "LAPD -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -154.2
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -7.91,
+            "contribution_score": -134.02
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.7,
+            "contribution_score": -90.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 5.56,
+      "move_30min": 14.77,
+      "label": "VOKS +14.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": 15.93,
+      "move_30min": -3.27,
+      "label": "BYAN -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 9.9,
+      "move_30min": 9.9,
+      "label": "SAFE +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": 9.77,
+      "move_30min": 9.77,
+      "label": "TRUK +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 7.84,
+      "move_30min": 7.43,
+      "label": "SMMT +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": 9.6,
+      "move_30min": 9.6,
+      "label": "INPS +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": 3.55,
+      "move_30min": -6.91,
+      "label": "POLI -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 359.06
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 15.93,
+            "contribution_score": 218.54
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 10.94,
+            "contribution_score": 166.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -2.6,
+      "move_30min": -5.56,
+      "label": "OMRE -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -154.2
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -7.91,
+            "contribution_score": -134.02
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.7,
+            "contribution_score": -90.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T03:15:52.662Z",
       "status": "active",
       "summary": null
     }
