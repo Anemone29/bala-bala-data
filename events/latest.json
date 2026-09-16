@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-16T07:15:52.461Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:00:55.703Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -3.65,
+      "move_30min": -3.63,
+      "label": "OMRE -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -11.51,
+            "contribution_score": -196.37
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -159.74
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": -7.59,
+            "contribution_score": -100.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T07:15:52.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": -11.51,
+      "move_30min": -3.15,
+      "label": "DEFI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -11.51,
+            "contribution_score": -196.37
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -159.74
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": -7.59,
+            "contribution_score": -100.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T07:15:52.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 0.45,
+      "move_30min": -4.31,
+      "label": "CCSI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BYAN",
+            "change_pct": 19.61,
+            "contribution_score": 279.13
+          },
+          {
+            "ticker": "SLIS",
+            "change_pct": 14.63,
+            "contribution_score": 271.91
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 14.06,
+            "contribution_score": 228.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T07:15:52.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": -7.59,
+      "move_30min": -3.6,
+      "label": "TRJA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -11.51,
+            "contribution_score": -196.37
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -159.74
+          },
+          {
+            "ticker": "TRJA",
+            "change_pct": -7.59,
+            "contribution_score": -100.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T07:15:52.461Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
