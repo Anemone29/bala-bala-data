@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-16T02:45:53.362Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:00:55.703Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 19.51,
+      "move_30min": 13.95,
+      "label": "SLIS +14.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 353.33
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 19.85,
+            "contribution_score": 269.44
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 9.2,
+            "contribution_score": 151.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:45:53.362Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": 18.39,
+      "move_30min": 9.2,
+      "label": "DSFI +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 353.33
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 19.85,
+            "contribution_score": 269.44
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 9.2,
+            "contribution_score": 151.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:45:53.362Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -11.76,
+      "move_30min": -18.07,
+      "label": "CCSI -18.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": -11.76,
+            "contribution_score": -166.76
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -14.88,
+            "contribution_score": -152.27
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -8.02,
+            "contribution_score": -105.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:45:53.362Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": 19.85,
+      "move_30min": 10.63,
+      "label": "BYAN +10.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SLIS",
+            "change_pct": 19.51,
+            "contribution_score": 353.33
+          },
+          {
+            "ticker": "BYAN",
+            "change_pct": 19.85,
+            "contribution_score": 269.44
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 9.2,
+            "contribution_score": 151.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-16T02:45:53.362Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
