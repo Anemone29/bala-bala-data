@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T03:30:58.356Z",
+  "generated_at": "2026-09-17T03:46:08.601Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2431,24 +2431,67 @@
         "tickers": [
           {
             "ticker": "DEFI",
-            "change_pct": -7.56,
-            "contribution_score": -114.75
+            "change_pct": -9.24,
+            "contribution_score": -140.46
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -118.1
           },
           {
             "ticker": "JAYA",
-            "change_pct": -7.47,
-            "contribution_score": -99.05
-          },
-          {
-            "ticker": "SLIS",
-            "change_pct": -6.45,
-            "contribution_score": -96.52
+            "change_pct": -8.62,
+            "contribution_score": -115.29
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-17T03:30:58.356Z",
+      "detected_at": "2026-09-17T03:46:08.601Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NOBU",
+      "name": "PT Bank Nationalnobu Tbk",
+      "change_pct": -1.96,
+      "move_30min": -6.54,
+      "label": "NOBU -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": -9.24,
+            "contribution_score": -140.46
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -118.1
+          },
+          {
+            "ticker": "JAYA",
+            "change_pct": -8.62,
+            "contribution_score": -115.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T03:46:08.601Z",
       "status": "active",
       "summary": null
     }
