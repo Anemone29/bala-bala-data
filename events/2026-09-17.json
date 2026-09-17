@@ -1,13 +1,13 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T02:01:13.444Z",
+  "generated_at": "2026-09-17T02:16:01.725Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "75% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,15 +22,25 @@
         ],
         "tickers": [
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "AYLS",
+            "change_pct": 26.53,
+            "contribution_score": 426.34
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 14.71,
+            "contribution_score": 228.55
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": 6.25,
+            "contribution_score": 89.96
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-17T02:01:13.444Z",
+      "detected_at": "2026-09-17T02:16:01.725Z",
       "status": "active",
       "summary": null
     }
