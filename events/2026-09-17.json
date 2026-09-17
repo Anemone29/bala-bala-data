@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T02:16:01.725Z",
+  "generated_at": "2026-09-17T02:31:03.081Z",
   "events": [
     {
       "type": "breadth_up",
@@ -23,24 +23,454 @@
         "tickers": [
           {
             "ticker": "AYLS",
-            "change_pct": 26.53,
-            "contribution_score": 426.34
+            "change_pct": 27.21,
+            "contribution_score": 445.92
           },
           {
             "ticker": "DIVA",
-            "change_pct": 14.71,
-            "contribution_score": 228.55
+            "change_pct": 18.38,
+            "contribution_score": 300
           },
           {
-            "ticker": "AHAP",
-            "change_pct": 6.25,
-            "contribution_score": 89.96
+            "ticker": "LAPD",
+            "change_pct": 8.86,
+            "contribution_score": 150.34
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-17T02:16:01.725Z",
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 8.86,
+      "move_30min": 8.86,
+      "label": "LAPD +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 27.21,
+            "contribution_score": 445.92
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 18.38,
+            "contribution_score": 300
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 8.86,
+            "contribution_score": 150.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": 27.21,
+      "move_30min": 27.21,
+      "label": "AYLS +27.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 27.21,
+            "contribution_score": 445.92
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 18.38,
+            "contribution_score": 300
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 8.86,
+            "contribution_score": 150.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": 18.38,
+      "move_30min": 18.38,
+      "label": "DIVA +18.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 27.21,
+            "contribution_score": 445.92
+          },
+          {
+            "ticker": "DIVA",
+            "change_pct": 18.38,
+            "contribution_score": 300
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 8.86,
+            "contribution_score": 150.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": -5.66,
+      "move_30min": -5.66,
+      "label": "HOKI -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": -5.38,
+      "move_30min": -5.38,
+      "label": "SLIS -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": -6.72,
+      "move_30min": -6.72,
+      "label": "DEFI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": -8.2,
+      "move_30min": -8.2,
+      "label": "SAPX -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAYA",
+      "name": "JAYA",
+      "change_pct": -5.17,
+      "move_30min": -5.17,
+      "label": "JAYA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": -3.61,
+      "move_30min": -3.61,
+      "label": "SOHO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRUS",
+      "name": "Trust Finance Indonesia Tbk",
+      "change_pct": -3.54,
+      "move_30min": -3.54,
+      "label": "TRUS -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -8.2,
+            "contribution_score": -111.72
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": -6.72,
+            "contribution_score": -96.79
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -84.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:31:03.081Z",
       "status": "active",
       "summary": null
     }
