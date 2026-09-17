@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T04:30:58.188Z",
+  "generated_at": "2026-09-17T05:00:59.469Z",
   "events": [
     {
       "type": "rapid_up",
@@ -2965,6 +2965,92 @@
         "macro_active": null
       },
       "detected_at": "2026-09-17T04:30:58.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 8.65,
+      "move_30min": 7.49,
+      "label": "AKSI +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.17,
+            "contribution_score": 423.76
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 16.45,
+            "contribution_score": 263.08
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.18,
+            "contribution_score": 259.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T05:00:59.469Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -3.6,
+      "move_30min": -3.21,
+      "label": "PNSE -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -9.84,
+            "contribution_score": -142.34
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -7.65,
+            "contribution_score": -105.96
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -5.66,
+            "contribution_score": -86.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T05:00:59.469Z",
       "status": "active",
       "summary": null
     }
