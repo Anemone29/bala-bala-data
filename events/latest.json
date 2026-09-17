@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-17T06:30:59.675Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 23.81,
+            "contribution_score": 391.51
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": 14.81,
+            "contribution_score": 264.57
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 12.66,
+            "contribution_score": 225.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T02:46:01.946Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": 11.76,
+      "move_30min": -3.18,
+      "label": "DIVA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.85,
+            "contribution_score": 436.06
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.91,
+            "contribution_score": 272.1
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 15.17,
+            "contribution_score": 242.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T06:30:59.675Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 0,
+      "move_30min": -7.56,
+      "label": "DOOH -7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AYLS",
+            "change_pct": 25.85,
+            "contribution_score": 436.06
+          },
+          {
+            "ticker": "FILM",
+            "change_pct": 16.91,
+            "contribution_score": 272.1
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": 15.17,
+            "contribution_score": 242.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T06:30:59.675Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -9.29,
+      "move_30min": -3.49,
+      "label": "TRIN -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -9.29,
+            "contribution_score": -134.39
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -9.29,
+            "contribution_score": -129.61
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -9.09,
+            "contribution_score": -113.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T06:30:59.675Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -9.09,
+      "move_30min": -4.76,
+      "label": "BAPI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": -9.29,
+            "contribution_score": -134.39
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -9.29,
+            "contribution_score": -129.61
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -9.09,
+            "contribution_score": -113.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-17T06:30:59.675Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
