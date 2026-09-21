@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T03:30:35.641Z",
+  "generated_at": "2026-09-21T03:45:35.017Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1240,49 +1240,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "KICI",
-      "name": "PT Kedaung Indah Can Tbk",
-      "change_pct": -14.77,
-      "move_30min": -13.79,
-      "label": "KICI -13.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KICI",
-            "change_pct": -14.77,
-            "contribution_score": -226.42
-          },
-          {
-            "ticker": "FPNI",
-            "change_pct": -7.5,
-            "contribution_score": -109.64
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -4.83,
-            "contribution_score": -67.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-21T03:30:35.641Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "IPTV",
       "name": "PT MNC Vision Networks Tbk",
       "change_pct": -3.33,
@@ -1444,49 +1401,6 @@
             "ticker": "MSIN",
             "change_pct": -4.83,
             "contribution_score": -67.1
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-21T03:30:35.641Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "HOKI",
-      "name": "HOKI",
-      "change_pct": 12,
-      "move_30min": -6.67,
-      "label": "HOKI -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAJA",
-            "change_pct": 18.29,
-            "contribution_score": 306.03
-          },
-          {
-            "ticker": "HOKI",
-            "change_pct": 12,
-            "contribution_score": 214.08
-          },
-          {
-            "ticker": "AISA",
-            "change_pct": 11.67,
-            "contribution_score": 200.2
           }
         ],
         "foreign_flow": null,
@@ -1670,6 +1584,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -14.77,
+      "move_30min": -14.77,
+      "label": "KICI -14.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -14.77,
+            "contribution_score": -226.47
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -7.5,
+            "contribution_score": -109.73
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.83,
+            "contribution_score": -67.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:45:35.017Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": 12,
+      "move_30min": -3.51,
+      "label": "HOKI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 19.43,
+            "contribution_score": 326.35
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 12.5,
+            "contribution_score": 215.17
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": 10,
+            "contribution_score": 177.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:45:35.017Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "BOGA",
       "name": "Apollo Global Interactive Tbk.",
       "change_pct": -3.72,
@@ -1691,23 +1691,109 @@
           {
             "ticker": "KICI",
             "change_pct": -14.77,
-            "contribution_score": -226.42
+            "contribution_score": -226.47
           },
           {
             "ticker": "FPNI",
             "change_pct": -7.5,
-            "contribution_score": -109.64
+            "contribution_score": -109.73
           },
           {
             "ticker": "MSIN",
             "change_pct": -4.83,
-            "contribution_score": -67.1
+            "contribution_score": -67.74
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-21T03:30:35.641Z",
+      "detected_at": "2026-09-21T03:45:35.017Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNLI",
+      "name": "PT Bank Permata Tbk",
+      "change_pct": -2.86,
+      "move_30min": -5.12,
+      "label": "BNLI -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -14.77,
+            "contribution_score": -226.47
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -7.5,
+            "contribution_score": -109.73
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.83,
+            "contribution_score": -67.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:45:35.017Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -3.78,
+      "move_30min": -4.81,
+      "label": "POLI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -14.77,
+            "contribution_score": -226.47
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -7.5,
+            "contribution_score": -109.73
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.83,
+            "contribution_score": -67.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:45:35.017Z",
       "status": "active",
       "summary": null
     }
