@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-21T03:00:35.796Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T02:00:37.297Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -5.68,
+      "move_30min": -8.9,
+      "label": "KICI -8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FPNI",
+            "change_pct": -6.67,
+            "contribution_score": -97.03
+          },
+          {
+            "ticker": "MNCN",
+            "change_pct": -4.26,
+            "contribution_score": -63.12
+          },
+          {
+            "ticker": "JARR",
+            "change_pct": -4.44,
+            "contribution_score": -60.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:00:35.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WGSH",
+      "name": "WGSH",
+      "change_pct": 1.63,
+      "move_30min": -3.15,
+      "label": "WGSH -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": 20,
+            "contribution_score": 355.5
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.14,
+            "contribution_score": 284.08
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 14.17,
+            "contribution_score": 244.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:00:35.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -1.45,
+      "move_30min": -4.76,
+      "label": "ASPI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": 20,
+            "contribution_score": 355.5
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.14,
+            "contribution_score": 284.08
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 14.17,
+            "contribution_score": 244.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:00:35.796Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": 20,
+      "move_30min": 20,
+      "label": "HOKI +20.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": 20,
+            "contribution_score": 355.5
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.14,
+            "contribution_score": 284.08
+          },
+          {
+            "ticker": "AISA",
+            "change_pct": 14.17,
+            "contribution_score": 244.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T03:00:35.796Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
