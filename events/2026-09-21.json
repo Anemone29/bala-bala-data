@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T04:00:36.570Z",
+  "generated_at": "2026-09-21T04:15:34.777Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1802,8 +1802,8 @@
       "ticker": "OBMD",
       "name": "OBM Drilchem Tbk.",
       "change_pct": -5,
-      "move_30min": -5,
-      "label": "OBMD -5.0% dalam 30 menit",
+      "move_30min": -3,
+      "label": "OBMD -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1820,23 +1820,23 @@
           {
             "ticker": "KICI",
             "change_pct": -14.77,
-            "contribution_score": -226.48
+            "contribution_score": -226.51
           },
           {
             "ticker": "FPNI",
-            "change_pct": -7.5,
-            "contribution_score": -109.75
+            "change_pct": -6.67,
+            "contribution_score": -97.62
           },
           {
-            "ticker": "MSIN",
-            "change_pct": -4.83,
-            "contribution_score": -68.03
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -78.57
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-21T04:00:36.570Z",
+      "detected_at": "2026-09-21T04:15:34.777Z",
       "status": "active",
       "summary": null
     },
@@ -1863,23 +1863,238 @@
           {
             "ticker": "KICI",
             "change_pct": -14.77,
-            "contribution_score": -226.48
+            "contribution_score": -226.51
           },
           {
             "ticker": "FPNI",
-            "change_pct": -7.5,
-            "contribution_score": -109.75
+            "change_pct": -6.67,
+            "contribution_score": -97.62
           },
           {
-            "ticker": "MSIN",
-            "change_pct": -4.83,
-            "contribution_score": -68.03
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -78.57
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-21T04:00:36.570Z",
+      "detected_at": "2026-09-21T04:15:34.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AISA",
+      "name": "PT FKS Food Sejahtera Tbk",
+      "change_pct": 8.33,
+      "move_30min": -3.7,
+      "label": "AISA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24,
+            "contribution_score": 410.74
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 10.9,
+            "contribution_score": 164.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": 10.06,
+            "contribution_score": 163.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T04:15:34.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KICI",
+            "change_pct": -14.77,
+            "contribution_score": -226.51
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -6.67,
+            "contribution_score": -97.62
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -6.25,
+            "contribution_score": -78.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T04:15:34.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BLTA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24,
+            "contribution_score": 410.74
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 10.9,
+            "contribution_score": 164.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": 10.06,
+            "contribution_score": 163.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T04:15:34.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 9.57,
+      "move_30min": 8.02,
+      "label": "SAFE +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24,
+            "contribution_score": 410.74
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 10.9,
+            "contribution_score": 164.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": 10.06,
+            "contribution_score": 163.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T04:15:34.777Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 2.27,
+      "move_30min": -4.26,
+      "label": "HRME -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 24,
+            "contribution_score": 410.74
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 10.9,
+            "contribution_score": 164.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": 10.06,
+            "contribution_score": 163.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-21T04:15:34.777Z",
       "status": "active",
       "summary": null
     }
