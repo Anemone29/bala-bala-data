@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-09-22T07:00:35.336Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.4,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12,
+            "contribution_score": -182.81
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -158.47
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -9.83,
+            "contribution_score": -150.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T07:00:35.336Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.8,
+      "label": "78% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.5,
+            "contribution_score": -174.98
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -157.85
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.79,
+            "contribution_score": -156.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T05:00:35.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T02:00:35.718Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -8.13,
+      "move_30min": -4,
+      "label": "SAFE -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.5,
+            "contribution_score": -190.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -158.15
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -9.83,
+            "contribution_score": -150.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T06:45:35.346Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -9.43,
+      "move_30min": -7.69,
+      "label": "IFSH -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.5,
+            "contribution_score": -190.35
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -158.15
+          },
+          {
+            "ticker": "PIPA",
+            "change_pct": -9.83,
+            "contribution_score": -150.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T06:45:35.346Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
