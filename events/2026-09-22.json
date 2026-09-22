@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T03:45:37.226Z",
+  "generated_at": "2026-09-22T04:00:36.250Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3217,134 +3217,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -80.6,
-      "label": "81% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.5,
-            "contribution_score": -202.81
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T03:45:37.226Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "RODA",
-      "name": "PT Pikko Land Development Tbk",
-      "change_pct": -6.35,
-      "move_30min": -3.28,
-      "label": "RODA -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.5,
-            "contribution_score": -202.81
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T03:45:37.226Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PIPA",
-      "name": "Oxala Energy International Tbk.",
-      "change_pct": -5.78,
-      "move_30min": -5.78,
-      "label": "PIPA -5.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.5,
-            "contribution_score": -202.81
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T03:45:37.226Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TRIN",
       "name": "TRIN",
@@ -3388,12 +3260,140 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.3,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -6.35,
+      "move_30min": -3.28,
+      "label": "RODA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": -8.09,
+      "move_30min": -4.22,
+      "label": "PIPA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "AYLS",
       "name": "Arkayana Lestari Grup Tbk.",
-      "change_pct": 14.94,
-      "move_30min": 11.11,
-      "label": "AYLS +11.1% dalam 30 menit",
+      "change_pct": 18.39,
+      "move_30min": 13.81,
+      "label": "AYLS +13.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3410,23 +3410,23 @@
           {
             "ticker": "SAPX",
             "change_pct": 24.5,
-            "contribution_score": 373.4
-          },
-          {
-            "ticker": "DSFI",
-            "change_pct": 13.54,
-            "contribution_score": 241.34
+            "contribution_score": 373.94
           },
           {
             "ticker": "AYLS",
-            "change_pct": 14.94,
-            "contribution_score": 222.9
+            "change_pct": 18.39,
+            "contribution_score": 293.04
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 11.46,
+            "contribution_score": 203.07
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T03:45:37.226Z",
+      "detected_at": "2026-09-22T04:00:36.250Z",
       "status": "active",
       "summary": null
     },
@@ -3435,8 +3435,8 @@
       "ticker": "LAND",
       "name": "LAND",
       "change_pct": -5.97,
-      "move_30min": -3.08,
-      "label": "LAND -3.1% dalam 30 menit",
+      "move_30min": -3.03,
+      "label": "LAND -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3453,23 +3453,23 @@
           {
             "ticker": "TRIN",
             "change_pct": -13.5,
-            "contribution_score": -202.81
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
           },
           {
             "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
+            "change_pct": -10.71,
+            "contribution_score": -157.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T03:45:37.226Z",
+      "detected_at": "2026-09-22T04:00:36.250Z",
       "status": "active",
       "summary": null
     },
@@ -3477,9 +3477,9 @@
       "type": "rapid_down",
       "ticker": "AKSI",
       "name": "AKSI",
-      "change_pct": -3.12,
-      "move_30min": -3.13,
-      "label": "AKSI -3.1% dalam 30 menit",
+      "change_pct": -4.69,
+      "move_30min": -4.69,
+      "label": "AKSI -4.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3496,23 +3496,23 @@
           {
             "ticker": "TRIN",
             "change_pct": -13.5,
-            "contribution_score": -202.81
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
           },
           {
             "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
+            "change_pct": -10.71,
+            "contribution_score": -157.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T03:45:37.226Z",
+      "detected_at": "2026-09-22T04:00:36.250Z",
       "status": "active",
       "summary": null
     },
@@ -3521,8 +3521,8 @@
       "ticker": "BOLT",
       "name": "BOLT",
       "change_pct": -5.42,
-      "move_30min": -4.27,
-      "label": "BOLT -4.3% dalam 30 menit",
+      "move_30min": -3.05,
+      "label": "BOLT -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3539,23 +3539,238 @@
           {
             "ticker": "TRIN",
             "change_pct": -13.5,
-            "contribution_score": -202.81
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
           },
           {
             "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.03
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.06
+            "change_pct": -10.71,
+            "contribution_score": -157.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T03:45:37.226Z",
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 4.38,
+      "move_30min": 7.05,
+      "label": "ESTI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 373.94
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 18.39,
+            "contribution_score": 293.04
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 11.46,
+            "contribution_score": 203.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBRM",
+      "name": "BBRM",
+      "change_pct": -6.56,
+      "move_30min": -4.2,
+      "label": "BBRM -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOOD",
+      "name": "GOOD",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "GOOD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": -4.1,
+      "move_30min": -4.1,
+      "label": "OBAT -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -6.04,
+      "move_30min": -3.45,
+      "label": "INDR -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13.5,
+            "contribution_score": -204.3
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -163.41
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -10.71,
+            "contribution_score": -157.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:00:36.250Z",
       "status": "active",
       "summary": null
     }
