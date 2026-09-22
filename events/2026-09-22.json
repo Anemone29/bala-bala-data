@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T07:00:35.336Z",
+  "generated_at": "2026-09-22T07:15:35.196Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4811,7 +4811,7 @@
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
       "change_pct": -82.4,
-      "label": "82% saham melemah",
+      "label": "81% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -4828,23 +4828,66 @@
           {
             "ticker": "TRIN",
             "change_pct": -12,
-            "contribution_score": -182.81
+            "contribution_score": -182.9
           },
           {
             "ticker": "COCO",
-            "change_pct": -9.16,
-            "contribution_score": -158.47
+            "change_pct": -9.92,
+            "contribution_score": -172.17
           },
           {
-            "ticker": "PIPA",
-            "change_pct": -9.83,
-            "contribution_score": -150.81
+            "ticker": "LUCY",
+            "change_pct": -9.94,
+            "contribution_score": -146.62
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T07:00:35.336Z",
+      "detected_at": "2026-09-22T07:15:35.196Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -4.1,
+      "move_30min": -3.38,
+      "label": "YPAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12,
+            "contribution_score": -182.9
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.92,
+            "contribution_score": -172.17
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.94,
+            "contribution_score": -146.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T07:15:35.196Z",
       "status": "active",
       "summary": null
     }
