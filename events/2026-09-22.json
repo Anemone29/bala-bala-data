@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T04:30:35.507Z",
+  "generated_at": "2026-09-22T04:45:37.092Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3948,48 +3948,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -82.8,
-      "label": "80% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -12.5,
-            "contribution_score": -189.88
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.35
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.3
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T04:30:35.507Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "IPTV",
       "name": "PT MNC Vision Networks Tbk",
@@ -4378,49 +4336,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ROCK",
-      "name": "PT Rockfields Properti Indonesia Tbk",
-      "change_pct": -4.52,
-      "move_30min": -3.55,
-      "label": "ROCK -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -12.5,
-            "contribution_score": -189.88
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.2,
-            "contribution_score": -150.35
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.94,
-            "contribution_score": -146.3
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T04:30:35.507Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "POLU",
       "name": "POLU",
       "change_pct": -5.19,
@@ -4459,6 +4374,263 @@
         "macro_active": null
       },
       "detected_at": "2026-09-22T04:30:35.507Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.8,
+      "label": "80% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11,
+            "contribution_score": -167.27
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.94,
+            "contribution_score": -146.33
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -8.4,
+            "contribution_score": -144.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -4.52,
+      "move_30min": -3.31,
+      "label": "ROCK -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11,
+            "contribution_score": -167.27
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.94,
+            "contribution_score": -146.33
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -8.4,
+            "contribution_score": -144.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 11.58,
+      "move_30min": 17.13,
+      "label": "STAR +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 374.07
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 18.39,
+            "contribution_score": 296.54
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 11.46,
+            "contribution_score": 203.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": 2.7,
+      "move_30min": 7.04,
+      "label": "SHID +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 374.07
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 18.39,
+            "contribution_score": 296.54
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 11.46,
+            "contribution_score": 203.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 4.35,
+      "move_30min": -4,
+      "label": "OMRE -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 374.07
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 18.39,
+            "contribution_score": 296.54
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 11.46,
+            "contribution_score": 203.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.54,
+      "move_30min": -4.39,
+      "label": "RANC -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11,
+            "contribution_score": -167.27
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.94,
+            "contribution_score": -146.33
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -8.4,
+            "contribution_score": -144.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:45:37.092Z",
       "status": "active",
       "summary": null
     }
