@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T04:00:36.250Z",
+  "generated_at": "2026-09-22T04:15:34.844Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3260,48 +3260,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -82.3,
-      "label": "82% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -13.5,
-            "contribution_score": -204.3
-          },
-          {
-            "ticker": "FPNI",
-            "change_pct": -13.33,
-            "contribution_score": -163.41
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": -10.71,
-            "contribution_score": -157.6
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-22T04:00:36.250Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RODA",
       "name": "PT Pikko Land Development Tbk",
@@ -3732,12 +3690,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INDR",
-      "name": "INDR",
-      "change_pct": -6.04,
-      "move_30min": -3.45,
-      "label": "INDR -3.4% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.8,
+      "label": "83% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -3753,24 +3710,540 @@
         "tickers": [
           {
             "ticker": "TRIN",
-            "change_pct": -13.5,
-            "contribution_score": -204.3
+            "change_pct": -13,
+            "contribution_score": -196.96
           },
           {
             "ticker": "FPNI",
             "change_pct": -13.33,
-            "contribution_score": -163.41
+            "contribution_score": -164.17
           },
           {
-            "ticker": "JAWA",
-            "change_pct": -10.71,
-            "contribution_score": -157.6
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-22T04:00:36.250Z",
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -10.4,
+      "move_30min": -7.93,
+      "label": "INDR -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": 7.29,
+      "move_30min": -5.5,
+      "label": "DSFI -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 373.99
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 14.94,
+            "contribution_score": 237.22
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": 9.25,
+            "contribution_score": 129.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": -3.97,
+      "move_30min": -3.2,
+      "label": "CTTH -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -7.43,
+      "move_30min": -3.76,
+      "label": "BYAN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AGRS",
+      "name": "PT Bank IBK Indonesia Tbk",
+      "change_pct": -3.39,
+      "move_30min": -3.39,
+      "label": "AGRS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "IPTV -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "PURA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ACST",
+      "name": "PT Acset Indonusa Tbk",
+      "change_pct": -8.74,
+      "move_30min": -8.74,
+      "label": "ACST -8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TBIG",
+      "name": "PT Tower Bersama Infrastructure Tbk",
+      "change_pct": -4.44,
+      "move_30min": -3.11,
+      "label": "TBIG -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -4.31,
+      "move_30min": -4.31,
+      "label": "SAFE -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": -9.8,
+      "move_30min": -9.8,
+      "label": "LIFE -9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -13,
+            "contribution_score": -196.96
+          },
+          {
+            "ticker": "FPNI",
+            "change_pct": -13.33,
+            "contribution_score": -164.17
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -156.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTPN",
+      "name": "PT Bank SMBC Indonesia Tbk",
+      "change_pct": 0.87,
+      "move_30min": -3.33,
+      "label": "BTPN -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 373.99
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 14.94,
+            "contribution_score": 237.22
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": 9.25,
+            "contribution_score": 129.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T04:15:34.844Z",
       "status": "active",
       "summary": null
     }
