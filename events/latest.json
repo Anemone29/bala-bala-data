@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-22T05:00:35.468Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.8,
+      "label": "78% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.5,
+            "contribution_score": -174.98
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -157.85
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.79,
+            "contribution_score": -156.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T05:00:35.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T02:00:35.718Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 13.68,
+      "move_30min": 18.03,
+      "label": "STAR +18.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 374.12
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 17.24,
+            "contribution_score": 277.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 13.68,
+            "contribution_score": 181.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T05:00:35.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 4.35,
+      "move_30min": -3.52,
+      "label": "OMRE -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 374.12
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 17.24,
+            "contribution_score": 277.62
+          },
+          {
+            "ticker": "STAR",
+            "change_pct": 13.68,
+            "contribution_score": 181.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T05:00:35.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -3.54,
+      "move_30min": -3.51,
+      "label": "RANC -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -11.5,
+            "contribution_score": -174.98
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -9.16,
+            "contribution_score": -157.85
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.79,
+            "contribution_score": -156.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T05:00:35.468Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
