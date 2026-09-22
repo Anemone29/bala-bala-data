@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-22T03:15:35.886Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.1,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.5,
+            "contribution_score": -155.87
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.07,
+            "contribution_score": -143.85
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -8.16,
+            "contribution_score": -119.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T03:15:35.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T02:00:35.718Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GDST",
+      "name": "PT Gunawan Dianjaya Steel Tbk",
+      "change_pct": -10.07,
+      "move_30min": -3.85,
+      "label": "GDST -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.5,
+            "contribution_score": -155.87
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.07,
+            "contribution_score": -143.85
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -8.16,
+            "contribution_score": -119.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T03:15:35.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 1.16,
+      "move_30min": -3.37,
+      "label": "SLIS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.5,
+            "contribution_score": 372.35
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": 12.5,
+            "contribution_score": 221.57
+          },
+          {
+            "ticker": "BSSR",
+            "change_pct": 10.26,
+            "contribution_score": 141.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T03:15:35.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BWPT",
+      "name": "PT Eagle High Plantations Tbk",
+      "change_pct": -4.1,
+      "move_30min": -4.1,
+      "label": "BWPT -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.5,
+            "contribution_score": -155.87
+          },
+          {
+            "ticker": "GDST",
+            "change_pct": -10.07,
+            "contribution_score": -143.85
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -8.16,
+            "contribution_score": -119.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-22T03:15:35.886Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
