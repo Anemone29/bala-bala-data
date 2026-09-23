@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T03:15:35.437Z",
+  "generated_at": "2026-09-23T03:30:36.613Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2272,49 +2272,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "JAWA",
-      "name": "PT Jaya Agra Wattie Tbk",
-      "change_pct": 11.3,
-      "move_30min": -4.37,
-      "label": "JAWA -4.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "UNSP",
-            "change_pct": 24.27,
-            "contribution_score": 366.55
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.02,
-            "contribution_score": 264.07
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": 11.3,
-            "contribution_score": 189.92
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-23T03:15:35.437Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "RICY",
       "name": "RICY",
       "change_pct": -2.56,
@@ -2347,49 +2304,6 @@
             "ticker": "ESTA",
             "change_pct": -6.7,
             "contribution_score": -84.95
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-23T03:15:35.437Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "ARII",
-      "name": "PT Atlas Resources Tbk",
-      "change_pct": 2.52,
-      "move_30min": 7.24,
-      "label": "ARII +7.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "UNSP",
-            "change_pct": 24.27,
-            "contribution_score": 366.55
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.02,
-            "contribution_score": 264.07
-          },
-          {
-            "ticker": "JAWA",
-            "change_pct": 11.3,
-            "contribution_score": 189.92
           }
         ],
         "foreign_flow": null,
@@ -2486,6 +2400,92 @@
       "summary": null
     },
     {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": 11.3,
+      "move_30min": -6.8,
+      "label": "JAWA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.55
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 14.36,
+            "contribution_score": 222.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 8.47,
+            "contribution_score": 141.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:30:36.613Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": 2.52,
+      "move_30min": 7.95,
+      "label": "ARII +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.55
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 14.36,
+            "contribution_score": 222.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 8.47,
+            "contribution_score": 141.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:30:36.613Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "TRUK",
       "name": "PT Guna Timur Raya Tbk",
@@ -2512,19 +2512,148 @@
           },
           {
             "ticker": "SAPX",
-            "change_pct": 17.02,
-            "contribution_score": 264.07
+            "change_pct": 14.36,
+            "contribution_score": 222.48
           },
           {
             "ticker": "JAWA",
-            "change_pct": 11.3,
-            "contribution_score": 189.92
+            "change_pct": 8.47,
+            "contribution_score": 141.38
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-23T03:15:35.437Z",
+      "detected_at": "2026-09-23T03:30:36.613Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 6.58,
+      "move_30min": -3.57,
+      "label": "LAPD -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.55
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 14.36,
+            "contribution_score": 222.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 8.47,
+            "contribution_score": 141.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:30:36.613Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 14.36,
+      "move_30min": -4.02,
+      "label": "SAPX -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.55
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 14.36,
+            "contribution_score": 222.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 8.47,
+            "contribution_score": 141.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:30:36.613Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": -3.66,
+      "move_30min": -3.16,
+      "label": "PORT -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -9.26,
+            "contribution_score": -131.65
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -102.29
+          },
+          {
+            "ticker": "MEDS",
+            "change_pct": -6.9,
+            "contribution_score": -99.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:30:36.613Z",
       "status": "active",
       "summary": null
     }
