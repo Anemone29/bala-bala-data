@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T02:45:35.162Z",
+  "generated_at": "2026-09-23T03:00:37.081Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1845,8 +1845,94 @@
       "ticker": "POLU",
       "name": "POLU",
       "change_pct": 3.29,
-      "move_30min": -4.07,
-      "label": "POLU -4.1% dalam 30 menit",
+      "move_30min": -7.01,
+      "label": "POLU -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -117.75
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -8.38,
+            "contribution_score": -105.69
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -100.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -4.65,
+      "move_30min": -3.49,
+      "label": "SIPD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -117.75
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -8.38,
+            "contribution_score": -105.69
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -100.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": 2,
+      "move_30min": -3.77,
+      "label": "HOKI -3.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1863,33 +1949,119 @@
           {
             "ticker": "UNSP",
             "change_pct": 24.27,
-            "contribution_score": 362.35
+            "contribution_score": 366.6
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 19.15,
+            "contribution_score": 297.84
           },
           {
             "ticker": "JAWA",
             "change_pct": 16.38,
-            "contribution_score": 276.2
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 17.55,
-            "contribution_score": 270.23
+            "contribution_score": 277.84
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-23T02:45:35.162Z",
+      "detected_at": "2026-09-23T03:00:37.081Z",
       "status": "active",
       "summary": null
     },
     {
       "type": "rapid_down",
-      "ticker": "SIPD",
-      "name": "PT Sreeya Sewu Indonesia Tbk",
-      "change_pct": -4.65,
-      "move_30min": -4.65,
-      "label": "SIPD -4.7% dalam 30 menit",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": 4.88,
+      "move_30min": -3.01,
+      "label": "TRJA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.6
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 19.15,
+            "contribution_score": 297.84
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 16.38,
+            "contribution_score": 277.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MITI",
+      "name": "PT Mitra Investindo Tbk",
+      "change_pct": 7.41,
+      "move_30min": -3.97,
+      "label": "MITI -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.6
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 19.15,
+            "contribution_score": 297.84
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 16.38,
+            "contribution_score": 277.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": -0.54,
+      "move_30min": -3.68,
+      "label": "AKSI -3.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1905,24 +2077,196 @@
         "tickers": [
           {
             "ticker": "DSFI",
-            "change_pct": -9.26,
-            "contribution_score": -130.21
+            "change_pct": -8.33,
+            "contribution_score": -117.75
           },
           {
             "ticker": "ESTA",
             "change_pct": -8.38,
-            "contribution_score": -105.5
+            "contribution_score": -105.69
           },
           {
             "ticker": "AHAP",
             "change_pct": -7,
-            "contribution_score": -99.97
+            "contribution_score": -100.95
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-23T02:45:35.162Z",
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSRA",
+      "name": "CSRA",
+      "change_pct": -4.08,
+      "move_30min": -4.73,
+      "label": "CSRA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -117.75
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -8.38,
+            "contribution_score": -105.69
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -100.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -1.56,
+      "move_30min": -3.08,
+      "label": "SHIP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -117.75
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -8.38,
+            "contribution_score": -105.69
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -100.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 0,
+      "move_30min": -3.08,
+      "label": "DAYA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 366.6
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 19.15,
+            "contribution_score": 297.84
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": 16.38,
+            "contribution_score": 277.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -2.88,
+      "move_30min": -5.59,
+      "label": "INDR -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -117.75
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": -8.38,
+            "contribution_score": -105.69
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -7,
+            "contribution_score": -100.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T03:00:37.081Z",
       "status": "active",
       "summary": null
     }
