@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T04:00:35.315Z",
+  "generated_at": "2026-09-23T04:15:35.853Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2659,49 +2659,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAPX",
-      "name": "SAPX",
-      "change_pct": 14.36,
-      "move_30min": -3.72,
-      "label": "SAPX -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "UNSP",
-            "change_pct": 24.27,
-            "contribution_score": 368.44
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 10.11,
-            "contribution_score": 155.31
-          },
-          {
-            "ticker": "ESTI",
-            "change_pct": 8.86,
-            "contribution_score": 134.23
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-23T04:00:35.315Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "JAWA",
       "name": "PT Jaya Agra Wattie Tbk",
       "change_pct": 11.3,
@@ -2777,49 +2734,6 @@
             "ticker": "ESTI",
             "change_pct": 8.86,
             "contribution_score": 134.23
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-23T04:00:35.315Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "POLI",
-      "name": "POLI",
-      "change_pct": -8.67,
-      "move_30min": -4.28,
-      "label": "POLI -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DSFI",
-            "change_pct": -7.41,
-            "contribution_score": -105.9
-          },
-          {
-            "ticker": "AHAP",
-            "change_pct": -7,
-            "contribution_score": -102.66
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": -5.93,
-            "contribution_score": -97.89
           }
         ],
         "foreign_flow": null,
@@ -2912,6 +2826,221 @@
         "macro_active": null
       },
       "detected_at": "2026-09-23T04:00:35.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 14.36,
+      "move_30min": -7.83,
+      "label": "SAPX -7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 368.44
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 10.13,
+            "contribution_score": 155.45
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 9.52,
+            "contribution_score": 138.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T04:15:35.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -9.18,
+      "move_30min": -4.81,
+      "label": "POLI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": -8,
+            "contribution_score": -117.72
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -8.66,
+            "contribution_score": -107.87
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -7.41,
+            "contribution_score": -106
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T04:15:35.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "ASMI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AHAP",
+            "change_pct": -8,
+            "contribution_score": -117.72
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -8.66,
+            "contribution_score": -107.87
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -7.41,
+            "contribution_score": -106
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T04:15:35.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ACST",
+      "name": "PT Acset Indonusa Tbk",
+      "change_pct": 9.68,
+      "move_30min": 12.09,
+      "label": "ACST +12.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 368.44
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 10.13,
+            "contribution_score": 155.45
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 9.52,
+            "contribution_score": 138.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T04:15:35.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": 1.05,
+      "move_30min": -3.02,
+      "label": "SOHO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 368.44
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 10.13,
+            "contribution_score": 155.45
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 9.52,
+            "contribution_score": 138.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T04:15:35.853Z",
       "status": "active",
       "summary": null
     }
