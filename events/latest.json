@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-09-23T06:30:34.865Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T02:00:36.015Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "TAXI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "UNSP",
+            "change_pct": 24.27,
+            "contribution_score": 368.9
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 10.64,
+            "contribution_score": 165.49
+          },
+          {
+            "ticker": "INDY",
+            "change_pct": 10.04,
+            "contribution_score": 152
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T06:30:34.865Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -5.82,
+      "move_30min": -5.82,
+      "label": "SAFE -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SNLK",
+            "change_pct": -11.02,
+            "contribution_score": -140.9
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -119.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.78,
+            "contribution_score": -114.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T06:30:34.865Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBMD",
+      "name": "PT Bank Mestika Dharma Tbk",
+      "change_pct": -1.28,
+      "move_30min": -3.26,
+      "label": "BBMD -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SNLK",
+            "change_pct": -11.02,
+            "contribution_score": -140.9
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -119.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.78,
+            "contribution_score": -114.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T06:30:34.865Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -7.82,
+      "move_30min": -3.51,
+      "label": "SIPD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SNLK",
+            "change_pct": -11.02,
+            "contribution_score": -140.9
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -8.33,
+            "contribution_score": -119.74
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.78,
+            "contribution_score": -114.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-23T06:30:34.865Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
