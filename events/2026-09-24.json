@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T03:00:35.028Z",
+  "generated_at": "2026-09-24T03:15:36.237Z",
   "events": [
     {
       "type": "breadth_up",
@@ -1025,49 +1025,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAFE",
-      "name": "SAFE",
-      "change_pct": -5.26,
-      "move_30min": -8.38,
-      "label": "SAFE -8.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KKGI",
-            "change_pct": -7.27,
-            "contribution_score": -90.95
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -5.33,
-            "contribution_score": -82.18
-          },
-          {
-            "ticker": "DOOH",
-            "change_pct": -3.81,
-            "contribution_score": -57.45
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-24T03:00:35.028Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MEDS",
       "name": "MEDS",
       "change_pct": -1.23,
@@ -1116,49 +1073,6 @@
       "change_pct": -1.44,
       "move_30min": -3.52,
       "label": "GOLD -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KKGI",
-            "change_pct": -7.27,
-            "contribution_score": -90.95
-          },
-          {
-            "ticker": "PIPA",
-            "change_pct": -5.33,
-            "contribution_score": -82.18
-          },
-          {
-            "ticker": "DOOH",
-            "change_pct": -3.81,
-            "contribution_score": -57.45
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-24T03:00:35.028Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BSIM",
-      "name": "PT Bank Sinarmas Tbk",
-      "change_pct": -3.54,
-      "move_30min": -3.54,
-      "label": "BSIM -3.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1278,6 +1192,478 @@
         "macro_active": null
       },
       "detected_at": "2026-09-24T03:00:35.028Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -12.28,
+      "move_30min": -7.41,
+      "label": "SAFE -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -3.54,
+      "move_30min": -3.54,
+      "label": "BSIM -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 9.09,
+      "move_30min": 9.09,
+      "label": "BTEK +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 27.69,
+            "contribution_score": 499.28
+          },
+          {
+            "ticker": "UNSP",
+            "change_pct": 25,
+            "contribution_score": 404.05
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 15.15,
+            "contribution_score": 266.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMTR",
+      "name": "BMTR",
+      "change_pct": -6.42,
+      "move_30min": -4.67,
+      "label": "BMTR -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": 5.93,
+      "move_30min": 7.76,
+      "label": "BAPA +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 27.69,
+            "contribution_score": 499.28
+          },
+          {
+            "ticker": "UNSP",
+            "change_pct": 25,
+            "contribution_score": 404.05
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 15.15,
+            "contribution_score": 266.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "TARA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CSRA",
+      "name": "CSRA",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "CSRA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": -0.98,
+      "move_30min": -3.81,
+      "label": "AKPI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRUK",
+      "name": "PT Guna Timur Raya Tbk",
+      "change_pct": 9.81,
+      "move_30min": 9.81,
+      "label": "TRUK +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 27.69,
+            "contribution_score": 499.28
+          },
+          {
+            "ticker": "UNSP",
+            "change_pct": 25,
+            "contribution_score": 404.05
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 15.15,
+            "contribution_score": 266.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "MAPB -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": -12.28,
+            "contribution_score": -137.72
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -6.42,
+            "contribution_score": -92.12
+          },
+          {
+            "ticker": "KKGI",
+            "change_pct": -7.27,
+            "contribution_score": -91.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:15:36.237Z",
       "status": "active",
       "summary": null
     }
