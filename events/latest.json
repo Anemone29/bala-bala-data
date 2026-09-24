@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-24T03:30:35.390Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -72.9,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -11.57,
+            "contribution_score": -162.19
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -11.11,
+            "contribution_score": -129.81
+          },
+          {
+            "ticker": "MNCN",
+            "change_pct": -7.88,
+            "contribution_score": -112.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:30:35.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T02:00:35.112Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -12.28,
+      "move_30min": -7.32,
+      "label": "SAFE -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -11.57,
+            "contribution_score": -162.19
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -11.11,
+            "contribution_score": -129.81
+          },
+          {
+            "ticker": "MNCN",
+            "change_pct": -7.88,
+            "contribution_score": -112.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:30:35.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 9.09,
+      "move_30min": 9.09,
+      "label": "BTEK +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 24.62,
+            "contribution_score": 444.05
+          },
+          {
+            "ticker": "UNSP",
+            "change_pct": 25,
+            "contribution_score": 404.15
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 16.67,
+            "contribution_score": 298.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:30:35.390Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMTR",
+      "name": "BMTR",
+      "change_pct": -6.42,
+      "move_30min": -3.77,
+      "label": "BMTR -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -11.57,
+            "contribution_score": -162.19
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": -11.11,
+            "contribution_score": -129.81
+          },
+          {
+            "ticker": "MNCN",
+            "change_pct": -7.88,
+            "contribution_score": -112.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-24T03:30:35.390Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
