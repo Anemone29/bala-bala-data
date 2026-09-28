@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T06:31:17.298Z",
+  "generated_at": "2026-09-28T06:46:22.586Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8375,91 +8375,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -71.8,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LPKR",
-            "change_pct": -14,
-            "contribution_score": -235.41
-          },
-          {
-            "ticker": "BBKP",
-            "change_pct": -14,
-            "contribution_score": -228.96
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -14,
-            "contribution_score": -218.13
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T06:31:17.298Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "ANDI",
-      "name": "PT Andira Agro, Tbk",
-      "change_pct": 27.27,
-      "move_30min": 12,
-      "label": "ANDI +12.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "PPRO",
-            "change_pct": 33.33,
-            "contribution_score": 629.97
-          },
-          {
-            "ticker": "BLTA",
-            "change_pct": 31.25,
-            "contribution_score": 586.47
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 27.27,
-            "contribution_score": 533.73
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T06:31:17.298Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RMKE",
       "name": "PT RMK Energy Tbk",
@@ -8761,12 +8676,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "BSIM",
-      "name": "PT Bank Sinarmas Tbk",
-      "change_pct": -3.19,
-      "move_30min": -3.19,
-      "label": "BSIM -3.2% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71.8,
+      "label": "71% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -8783,23 +8697,109 @@
           {
             "ticker": "LPKR",
             "change_pct": -14,
-            "contribution_score": -235.41
+            "contribution_score": -235.45
           },
           {
             "ticker": "BBKP",
             "change_pct": -14,
-            "contribution_score": -228.96
+            "contribution_score": -228.97
           },
           {
             "ticker": "GOTO",
             "change_pct": -14,
-            "contribution_score": -218.13
+            "contribution_score": -218.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-28T06:31:17.298Z",
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 27.27,
+      "move_30min": 7.69,
+      "label": "ANDI +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.61
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 30.56,
+            "contribution_score": 553.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -3.72,
+      "move_30min": -3.72,
+      "label": "BSIM -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.45
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.97
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
       "status": "active",
       "summary": null
     },
@@ -8826,23 +8826,23 @@
           {
             "ticker": "LPKR",
             "change_pct": -14,
-            "contribution_score": -235.41
+            "contribution_score": -235.45
           },
           {
             "ticker": "BBKP",
             "change_pct": -14,
-            "contribution_score": -228.96
+            "contribution_score": -228.97
           },
           {
             "ticker": "GOTO",
             "change_pct": -14,
-            "contribution_score": -218.13
+            "contribution_score": -218.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-28T06:31:17.298Z",
+      "detected_at": "2026-09-28T06:46:22.586Z",
       "status": "active",
       "summary": null
     },
@@ -8869,23 +8869,195 @@
           {
             "ticker": "LPKR",
             "change_pct": -14,
-            "contribution_score": -235.41
+            "contribution_score": -235.45
           },
           {
             "ticker": "BBKP",
             "change_pct": -14,
-            "contribution_score": -228.96
+            "contribution_score": -228.97
           },
           {
             "ticker": "GOTO",
             "change_pct": -14,
-            "contribution_score": -218.13
+            "contribution_score": -218.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-28T06:31:17.298Z",
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -9.36,
+      "move_30min": -4.32,
+      "label": "CCSI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.45
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.97
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -4.85,
+      "move_30min": -3.68,
+      "label": "PICO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.45
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.97
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -10.05,
+      "move_30min": -6.08,
+      "label": "POLI -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.45
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.97
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SGRO",
+      "name": "PT Prime Agri Resources Tbk",
+      "change_pct": -4.98,
+      "move_30min": -4.98,
+      "label": "SGRO -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.45
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.97
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:46:22.586Z",
       "status": "active",
       "summary": null
     }
