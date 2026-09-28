@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-28T02:46:24.590Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.8,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -209.12
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -14.67,
+            "contribution_score": -207.96
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -207.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:31:16.010Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:01:21.536Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 27.27,
+      "move_30min": 16.67,
+      "label": "BTEK +16.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 27.27,
+            "contribution_score": 523.86
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 28.13,
+            "contribution_score": 507.69
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 26.67,
+            "contribution_score": 473.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:46:24.590Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 26.67,
+      "move_30min": 11.76,
+      "label": "PPRO +11.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 27.27,
+            "contribution_score": 523.86
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 28.13,
+            "contribution_score": 507.69
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 26.67,
+            "contribution_score": 473.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:46:24.590Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMTR",
+      "name": "BMTR",
+      "change_pct": -12.79,
+      "move_30min": -5.06,
+      "label": "BMTR -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -227.19
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -211.53
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -14.67,
+            "contribution_score": -208.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:46:24.590Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
