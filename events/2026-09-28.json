@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T03:46:12.367Z",
+  "generated_at": "2026-09-28T04:01:32.494Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6742,48 +6742,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -70.8,
-      "label": "71% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BBKP",
-            "change_pct": -14,
-            "contribution_score": -227.98
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -14,
-            "contribution_score": -216.47
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -14.67,
-            "contribution_score": -210.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T03:46:12.367Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "AHAP",
       "name": "AHAP",
@@ -7000,49 +6958,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ALDO",
-      "name": "PT Alkindo Naratama Tbk",
-      "change_pct": -1.04,
-      "move_30min": -3.06,
-      "label": "ALDO -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BBKP",
-            "change_pct": -14,
-            "contribution_score": -227.98
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -14,
-            "contribution_score": -216.47
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -14.67,
-            "contribution_score": -210.06
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T03:46:12.367Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "YPAS",
       "name": "PT Yanaprima Hastapersada Tbk",
       "change_pct": 4.81,
@@ -7085,12 +7000,11 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "LIFE",
-      "name": "LIFE",
-      "change_pct": -3.46,
-      "move_30min": 10.14,
-      "label": "LIFE +10.1% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71,
+      "label": "71% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -7107,23 +7021,109 @@
           {
             "ticker": "BBKP",
             "change_pct": -14,
-            "contribution_score": -227.98
+            "contribution_score": -228.03
           },
           {
             "ticker": "GOTO",
             "change_pct": -14,
-            "contribution_score": -216.47
+            "contribution_score": -216.86
           },
           {
-            "ticker": "BIPP",
-            "change_pct": -14.67,
-            "contribution_score": -210.06
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-28T03:46:12.367Z",
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -1.56,
+      "move_30min": -3.57,
+      "label": "ALDO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": -3.46,
+      "move_30min": 10.76,
+      "label": "LIFE +10.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
       "status": "active",
       "summary": null
     },
@@ -7150,23 +7150,453 @@
           {
             "ticker": "BBKP",
             "change_pct": -14,
-            "contribution_score": -227.98
+            "contribution_score": -228.03
           },
           {
             "ticker": "GOTO",
             "change_pct": -14,
-            "contribution_score": -216.47
+            "contribution_score": -216.86
           },
           {
-            "ticker": "BIPP",
-            "change_pct": -14.67,
-            "contribution_score": -210.06
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-28T03:46:12.367Z",
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": 3.55,
+      "move_30min": -3.31,
+      "label": "PIPA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 640.02
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 615.94
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 30.56,
+            "contribution_score": 548.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": -6.67,
+      "move_30min": -8.7,
+      "label": "AKKU -8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -7.41,
+      "move_30min": -3.85,
+      "label": "BAPA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": -5.56,
+      "move_30min": -3.41,
+      "label": "GSMF -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -2.58,
+      "move_30min": -3.21,
+      "label": "AWAN -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DGIK",
+      "name": "PT Nusa Konstruksi Enjiniring Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "DGIK -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": 24.69,
+      "move_30min": 8.36,
+      "label": "SONA +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 640.02
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 615.94
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 30.56,
+            "contribution_score": 548.06
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": -11.24,
+      "move_30min": -3.66,
+      "label": "SAPX -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": -7.77,
+      "move_30min": -4.04,
+      "label": "AMAN -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -7.94,
+      "move_30min": -5.43,
+      "label": "POLI -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.03
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -216.86
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -214.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:01:32.494Z",
       "status": "active",
       "summary": null
     }
