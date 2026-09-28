@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T06:46:22.586Z",
+  "generated_at": "2026-09-28T07:01:31.563Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8676,48 +8676,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -71.8,
-      "label": "71% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LPKR",
-            "change_pct": -14,
-            "contribution_score": -235.45
-          },
-          {
-            "ticker": "BBKP",
-            "change_pct": -14,
-            "contribution_score": -228.97
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -14,
-            "contribution_score": -218.71
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T06:46:22.586Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "ANDI",
       "name": "PT Andira Agro, Tbk",
@@ -8977,49 +8935,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "POLI",
-      "name": "POLI",
-      "change_pct": -10.05,
-      "move_30min": -6.08,
-      "label": "POLI -6.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "LPKR",
-            "change_pct": -14,
-            "contribution_score": -235.45
-          },
-          {
-            "ticker": "BBKP",
-            "change_pct": -14,
-            "contribution_score": -228.97
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -14,
-            "contribution_score": -218.71
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-28T06:46:22.586Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SGRO",
       "name": "PT Prime Agri Resources Tbk",
       "change_pct": -4.98,
@@ -9058,6 +8973,607 @@
         "macro_active": null
       },
       "detected_at": "2026-09-28T06:46:22.586Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.2,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -10.05,
+      "move_30min": -5.03,
+      "label": "POLI -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 22.73,
+      "move_30min": -3.57,
+      "label": "ANDI -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 13.04,
+      "move_30min": -3.7,
+      "label": "BAPI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 14.29,
+      "move_30min": 9.09,
+      "label": "HRME +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAWA",
+      "name": "PT Jaya Agra Wattie Tbk",
+      "change_pct": -5.91,
+      "move_30min": -7.89,
+      "label": "JAWA -7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 0,
+      "move_30min": -7.69,
+      "label": "IPTV -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DGIK",
+      "name": "PT Nusa Konstruksi Enjiniring Tbk",
+      "change_pct": -1.56,
+      "move_30min": -3.08,
+      "label": "DGIK -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": 8.31,
+      "move_30min": 7.96,
+      "label": "SMMT +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MTLA",
+      "name": "PT Metropolitan Land Tbk",
+      "change_pct": 6.09,
+      "move_30min": -3.17,
+      "label": "MTLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 9.48,
+      "move_30min": -5.71,
+      "label": "ROCK -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.64
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.7
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -4.51,
+      "move_30min": -3.05,
+      "label": "PUDP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": -7.94,
+      "move_30min": -3.77,
+      "label": "SOHO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOLT",
+      "name": "BOLT",
+      "change_pct": -2.58,
+      "move_30min": -3.21,
+      "label": "BOLT -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.52
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.17
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:01:31.563Z",
       "status": "active",
       "summary": null
     }
