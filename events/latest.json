@@ -1,4 +1,206 @@
 {
   "generated_at": "2026-09-28T07:16:18.790Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.2,
+      "label": "74% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.65
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -13.95,
+            "contribution_score": -230.47
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -229
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:16:18.790Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71.1,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.28
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.13
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -217.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:31:15.221Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.8,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -209.12
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -14.67,
+            "contribution_score": -207.96
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -207.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:31:16.010Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:01:21.536Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 13.04,
+      "move_30min": -7.41,
+      "label": "BAPI -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 34.38,
+            "contribution_score": 650.99
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 630.77
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 33.33,
+            "contribution_score": 608.64
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T07:16:18.790Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
