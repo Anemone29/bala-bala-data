@@ -1,4 +1,206 @@
 {
   "generated_at": "2026-09-28T06:31:17.298Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71.8,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.41
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.96
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -218.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:31:17.298Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71.1,
+      "label": "70% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LPKR",
+            "change_pct": -14,
+            "contribution_score": -235.28
+          },
+          {
+            "ticker": "BBKP",
+            "change_pct": -14,
+            "contribution_score": -228.13
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -217.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T04:31:15.221Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -70.8,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -14,
+            "contribution_score": -209.12
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -14.67,
+            "contribution_score": -207.96
+          },
+          {
+            "ticker": "PAMG",
+            "change_pct": -15.38,
+            "contribution_score": -207.69
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:31:16.010Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T02:01:21.536Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 27.27,
+      "move_30min": 12,
+      "label": "ANDI +12.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": 33.33,
+            "contribution_score": 629.97
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 31.25,
+            "contribution_score": 586.47
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 27.27,
+            "contribution_score": 533.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-28T06:31:17.298Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
