@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-29T08:46:18.790Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -19.23,
+            "contribution_score": -247.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -210.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:31:17.145Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:01:16.620Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -12,
+      "move_30min": -4.35,
+      "label": "BAPI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -276.66
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -13.95,
+            "contribution_score": -237.15
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -13.95,
+            "contribution_score": -233.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:46:18.790Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 16.88,
+      "move_30min": -3.41,
+      "label": "DEFI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": 18.18,
+            "contribution_score": 313.21
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 304.05
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 20.59,
+            "contribution_score": 294.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:46:18.790Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -6.1,
+      "move_30min": -3.4,
+      "label": "INDR -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -276.66
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -13.95,
+            "contribution_score": -237.15
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -13.95,
+            "contribution_score": -233.89
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:46:18.790Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
