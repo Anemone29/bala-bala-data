@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-29T04:16:12.082Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -19.23,
+            "contribution_score": -246.93
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -209.39
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:16:12.082Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:01:16.620Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -10.53,
+      "move_30min": -5.56,
+      "label": "ASMI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -19.23,
+            "contribution_score": -246.93
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -209.39
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:16:12.082Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -8.37,
+      "move_30min": -8.26,
+      "label": "ROCK -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -19.23,
+            "contribution_score": -246.93
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -209.39
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.72
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:16:12.082Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 4.35,
+      "move_30min": -4,
+      "label": "IPTV -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 404.66
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 18.18,
+            "contribution_score": 305.04
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 14.29,
+            "contribution_score": 277
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:16:12.082Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
