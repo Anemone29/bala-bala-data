@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-29T03:01:35.381Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "90% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -14.58,
+            "contribution_score": -234.81
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -15,
+            "contribution_score": -215.52
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -206.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T03:01:35.381Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:01:16.620Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -11.9,
+      "move_30min": -5.13,
+      "label": "HRME -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -14.58,
+            "contribution_score": -234.81
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -15,
+            "contribution_score": -215.52
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -206.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T03:01:35.381Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -10.2,
+      "move_30min": -7.04,
+      "label": "KICI -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -14.58,
+            "contribution_score": -234.81
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -15,
+            "contribution_score": -215.52
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -206.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T03:01:35.381Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -14.58,
+      "move_30min": -7.24,
+      "label": "MAPB -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": -14.58,
+            "contribution_score": -234.81
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -15,
+            "contribution_score": -215.52
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -206.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T03:01:35.381Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
