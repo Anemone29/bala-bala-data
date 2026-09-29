@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-29T08:16:21.513Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PAMG",
+            "change_pct": -19.23,
+            "contribution_score": -247.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -210.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:31:17.145Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:01:16.620Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -7.14,
+      "move_30min": -18.75,
+      "label": "BTEK -18.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -276.53
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -13.95,
+            "contribution_score": -232.55
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -223.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:16:21.513Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 16.88,
+      "move_30min": -8.33,
+      "label": "DEFI -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": 19.32,
+            "contribution_score": 333
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 25,
+            "contribution_score": 301.85
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.8,
+            "contribution_score": 276.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:16:21.513Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": -10.94,
+      "move_30min": -19.72,
+      "label": "BIPP -19.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -276.53
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -13.95,
+            "contribution_score": -232.55
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -223.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T08:16:21.513Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
