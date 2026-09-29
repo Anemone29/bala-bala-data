@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-09-29T02:31:11.868Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88.8,
+      "label": "89% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": -13.95,
+            "contribution_score": -213.18
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -14.75,
+            "contribution_score": -202.47
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -14,
+            "contribution_score": -198.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:31:11.868Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:01:16.620Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 36.36,
+      "move_30min": 7.14,
+      "label": "BTEK +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 36.36,
+            "contribution_score": 715.86
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 25,
+            "contribution_score": 456.85
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 19.48,
+            "contribution_score": 323.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:31:11.868Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "PPRO +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 36.36,
+            "contribution_score": 715.86
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 25,
+            "contribution_score": 456.85
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 19.48,
+            "contribution_score": 323.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:31:11.868Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUMI",
+      "name": "PT Bumi Resources Tbk",
+      "change_pct": -3.89,
+      "move_30min": -3.89,
+      "label": "BUMI -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": -13.95,
+            "contribution_score": -213.18
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": -14.75,
+            "contribution_score": -202.47
+          },
+          {
+            "ticker": "DSFI",
+            "change_pct": -14,
+            "contribution_score": -198.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T02:31:11.868Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
