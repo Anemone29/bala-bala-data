@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T03:46:12.515Z",
+  "generated_at": "2026-09-29T04:01:18.222Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8162,48 +8162,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -90.4,
-      "label": "78% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HOKI",
-            "change_pct": -13.95,
-            "contribution_score": -210.9
-          },
-          {
-            "ticker": "ANDI",
-            "change_pct": -13.79,
-            "contribution_score": -205.33
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -13.95,
-            "contribution_score": -204.8
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-29T03:46:12.515Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DOID",
       "name": "PT Buma Internasional Grup Tbk",
@@ -8377,49 +8335,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "MSIN",
-      "name": "PT MNC Digital Entertainment Tbk",
-      "change_pct": 17.05,
-      "move_30min": 15.73,
-      "label": "MSIN +15.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DEFI",
-            "change_pct": 23.38,
-            "contribution_score": 404.01
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": 17.05,
-            "contribution_score": 278.31
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 14.29,
-            "contribution_score": 276.55
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-29T03:46:12.515Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "IPTV",
       "name": "PT MNC Vision Networks Tbk",
       "change_pct": 8.7,
@@ -8548,6 +8463,91 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -211.48
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": 23.86,
+      "move_30min": 15.96,
+      "label": "MSIN +16.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 404.43
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 23.86,
+            "contribution_score": 402.49
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 20,
+            "contribution_score": 372.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BAYU",
       "name": "PT Bayu Buana Tbk",
@@ -8570,23 +8570,281 @@
           {
             "ticker": "HOKI",
             "change_pct": -13.95,
-            "contribution_score": -210.9
-          },
-          {
-            "ticker": "ANDI",
-            "change_pct": -13.79,
-            "contribution_score": -205.33
+            "contribution_score": -211.48
           },
           {
             "ticker": "GOTO",
             "change_pct": -13.95,
-            "contribution_score": -204.8
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-29T03:46:12.515Z",
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 14.29,
+      "move_30min": 14.29,
+      "label": "BTEK +14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 404.43
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 23.86,
+            "contribution_score": 402.49
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 20,
+            "contribution_score": 372.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -10.53,
+      "move_30min": -5.56,
+      "label": "ASMI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -211.48
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": -7.14,
+      "move_30min": 8.33,
+      "label": "LAND +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -211.48
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 7.14,
+      "move_30min": -3.85,
+      "label": "SOLA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 404.43
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 23.86,
+            "contribution_score": 402.49
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": 20,
+            "contribution_score": 372.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -8.37,
+      "move_30min": -9.96,
+      "label": "ROCK -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -211.48
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": -4.35,
+      "move_30min": 8.91,
+      "label": "LIFE +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -211.48
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -207.21
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -13.79,
+            "contribution_score": -205.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:01:18.222Z",
       "status": "active",
       "summary": null
     }
