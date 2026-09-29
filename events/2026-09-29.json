@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T04:31:17.145Z",
+  "generated_at": "2026-09-29T04:46:13.876Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9151,49 +9151,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": 4.65,
-      "move_30min": -4.26,
-      "label": "BLTA -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": 36.36,
-            "contribution_score": 732.76
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": 23.38,
-            "contribution_score": 405.01
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": 20.45,
-            "contribution_score": 346.71
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-29T04:31:17.145Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "VIVA",
       "name": "PT Visi Media Asia Tbk",
       "change_pct": -12.5,
@@ -9279,12 +9236,12 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MAPB",
-      "name": "PT Map Boga Adiperkasa Tbk",
-      "change_pct": 12.5,
-      "move_30min": 30.43,
-      "label": "MAPB +30.4% dalam 30 menit",
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 4.65,
+      "move_30min": -8.51,
+      "label": "BLTA -8.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -9299,25 +9256,68 @@
         ],
         "tickers": [
           {
-            "ticker": "BTEK",
-            "change_pct": 36.36,
-            "contribution_score": 732.76
-          },
-          {
             "ticker": "DEFI",
             "change_pct": 23.38,
-            "contribution_score": 405.01
+            "contribution_score": 405.2
           },
           {
             "ticker": "MSIN",
-            "change_pct": 20.45,
-            "contribution_score": 346.71
+            "change_pct": 19.32,
+            "contribution_score": 327.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 14.29,
+            "contribution_score": 277.28
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-29T04:31:17.145Z",
+      "detected_at": "2026-09-29T04:46:13.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": 12.5,
+      "move_30min": 22.6,
+      "label": "MAPB +22.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 405.2
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 19.32,
+            "contribution_score": 327.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 14.29,
+            "contribution_score": 277.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:46:13.876Z",
       "status": "active",
       "summary": null
     },
@@ -9342,25 +9342,25 @@
         ],
         "tickers": [
           {
-            "ticker": "PAMG",
-            "change_pct": -19.23,
-            "contribution_score": -247.72
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -273.89
           },
           {
             "ticker": "GOTO",
             "change_pct": -13.95,
-            "contribution_score": -210.21
+            "contribution_score": -220.28
           },
           {
-            "ticker": "ANDI",
-            "change_pct": -13.79,
-            "contribution_score": -205.82
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -212.28
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-29T04:31:17.145Z",
+      "detected_at": "2026-09-29T04:46:13.876Z",
       "status": "active",
       "summary": null
     },
@@ -9385,25 +9385,197 @@
         ],
         "tickers": [
           {
-            "ticker": "PAMG",
-            "change_pct": -19.23,
-            "contribution_score": -247.72
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -273.89
           },
           {
             "ticker": "GOTO",
             "change_pct": -13.95,
-            "contribution_score": -210.21
+            "contribution_score": -220.28
           },
           {
-            "ticker": "ANDI",
-            "change_pct": -13.79,
-            "contribution_score": -205.82
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -212.28
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-29T04:31:17.145Z",
+      "detected_at": "2026-09-29T04:46:13.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": -6.25,
+      "move_30min": 9.09,
+      "label": "BIPP +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -273.89
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -220.28
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -212.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:46:13.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": 1.67,
+      "move_30min": 7.02,
+      "label": "VOKS +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DEFI",
+            "change_pct": 23.38,
+            "contribution_score": 405.2
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 19.32,
+            "contribution_score": 327.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 14.29,
+            "contribution_score": 277.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:46:13.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": -4.11,
+      "move_30min": -3.45,
+      "label": "PEHA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -273.89
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -220.28
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -212.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:46:13.876Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": -4.24,
+      "move_30min": -3.07,
+      "label": "ARII -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAND",
+            "change_pct": -18.46,
+            "contribution_score": -273.89
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.95,
+            "contribution_score": -220.28
+          },
+          {
+            "ticker": "HOKI",
+            "change_pct": -13.95,
+            "contribution_score": -212.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-29T04:46:13.876Z",
       "status": "active",
       "summary": null
     }
