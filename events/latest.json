@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-30T03:00:46.290Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 21.08,
+      "move_30min": 7.57,
+      "label": "ASPI +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 20.53,
+      "move_30min": 13.75,
+      "label": "CCSI +13.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "ASMI -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -234.71
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -140.11
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": -7.69,
+            "contribution_score": -119.22
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 13.14,
+      "move_30min": 9.15,
+      "label": "ESTA +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
