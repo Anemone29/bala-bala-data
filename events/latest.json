@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-30T03:30:43.193Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -9.09,
+      "move_30min": -4.76,
+      "label": "BAPI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -235.63
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -12,
+            "contribution_score": -171.25
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -10.81,
+            "contribution_score": -162.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:30:43.193Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MNCN",
+      "name": "PT. Media Nusantara Citra Tbk",
+      "change_pct": -5.43,
+      "move_30min": -3.17,
+      "label": "MNCN -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -235.63
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": -12,
+            "contribution_score": -171.25
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -10.81,
+            "contribution_score": -162.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:30:43.193Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 1.89,
+      "move_30min": -3.57,
+      "label": "LAND -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 21.85,
+            "contribution_score": 327.49
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 18.67,
+            "contribution_score": 275.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:30:43.193Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 18.23,
+      "move_30min": 13.22,
+      "label": "OMRE +13.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 21.85,
+            "contribution_score": 327.49
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 18.67,
+            "contribution_score": 275.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:30:43.193Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
