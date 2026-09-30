@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-30T02:30:37.476Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "76% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -5.41,
+      "move_30min": -5.41,
+      "label": "WMUU -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": 15.07,
+      "move_30min": 15.07,
+      "label": "KIOS +15.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -13.51,
+      "move_30min": -13.51,
+      "label": "GOTO -13.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -7.14,
+      "move_30min": -7.14,
+      "label": "BTEK -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

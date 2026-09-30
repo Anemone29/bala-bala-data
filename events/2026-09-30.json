@@ -1,13 +1,13 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T02:15:38.511Z",
+  "generated_at": "2026-09-30T02:30:37.476Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "75% saham menguat",
+      "label": "76% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -24,23 +24,1313 @@
           {
             "ticker": "SAFE",
             "change_pct": 25,
-            "contribution_score": 297.3
+            "contribution_score": 298.75
           },
           {
             "ticker": "KIOS",
             "change_pct": 15.07,
-            "contribution_score": 242.76
+            "contribution_score": 245.54
           },
           {
             "ticker": "ASGR",
             "change_pct": 16.67,
-            "contribution_score": 220.84
+            "contribution_score": 231.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-30T02:15:38.511Z",
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -5.41,
+      "move_30min": -5.41,
+      "label": "WMUU -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": 15.07,
+      "move_30min": 15.07,
+      "label": "KIOS +15.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -13.51,
+      "move_30min": -13.51,
+      "label": "GOTO -13.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -7.14,
+      "move_30min": -7.14,
+      "label": "BTEK -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 7.89,
+      "move_30min": 7.89,
+      "label": "NETV +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -8.11,
+      "move_30min": -8.11,
+      "label": "BABP -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 8.14,
+      "move_30min": 8.14,
+      "label": "DEFI +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 7.74,
+      "move_30min": 7.74,
+      "label": "BAJA +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "PPRO -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MITI",
+      "name": "PT Mitra Investindo Tbk",
+      "change_pct": 8.09,
+      "move_30min": 8.09,
+      "label": "MITI +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASGR",
+      "name": "PT Astra Graphia Tbk",
+      "change_pct": 16.67,
+      "move_30min": 16.67,
+      "label": "ASGR +16.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -8.11,
+      "move_30min": -8.11,
+      "label": "BCAP -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 11.45,
+      "move_30min": 11.45,
+      "label": "ASPI +11.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -6.8,
+      "move_30min": -6.8,
+      "label": "MSIN -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "TAXI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -8,
+      "move_30min": -8,
+      "label": "ANDI -8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 7.55,
+      "move_30min": 7.55,
+      "label": "LAND +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAPX",
+      "name": "SAPX",
+      "change_pct": 11.73,
+      "move_30min": 11.73,
+      "label": "SAPX +11.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "SAFE +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSSR",
+      "name": "PT Baramulti Suksessarana Tbk",
+      "change_pct": -5.99,
+      "move_30min": -5.99,
+      "label": "BSSR -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDLN",
+      "name": "PT Modernland Realty Tbk",
+      "change_pct": -5,
+      "move_30min": -5,
+      "label": "MDLN -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNBS",
+      "name": "PT Bank Panin Dubai Syariah Tbk",
+      "change_pct": -6.82,
+      "move_30min": -6.82,
+      "label": "PNBS -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -8,
+      "move_30min": -8,
+      "label": "IPTV -8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HEXA",
+      "name": "PT Hexindo Adiperkasa Tbk",
+      "change_pct": -3.06,
+      "move_30min": -3.06,
+      "label": "HEXA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -11.3,
+      "move_30min": -11.3,
+      "label": "ALDO -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 17.62,
+      "move_30min": 17.62,
+      "label": "YPAS +17.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BSWD",
+      "name": "PT Bank Of India Indonesia Tbk",
+      "change_pct": 14.72,
+      "move_30min": 14.72,
+      "label": "BSWD +14.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 298.75
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 245.54
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 231.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -8.18,
+      "move_30min": -8.18,
+      "label": "MAPB -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -5.58,
+      "move_30min": -5.58,
+      "label": "ARTA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -4.97,
+      "move_30min": -4.97,
+      "label": "OMRE -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -212.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -9.09,
+            "contribution_score": -129.41
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -118.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:30:37.476Z",
       "status": "active",
       "summary": null
     }
