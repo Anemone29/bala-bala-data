@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T03:45:39.214Z",
+  "generated_at": "2026-09-30T04:00:43.188Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4045,49 +4045,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TAXI",
-      "name": "PT Express Transindo Utama Tbk",
-      "change_pct": -11.11,
-      "move_30min": -5.88,
-      "label": "TAXI -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -14.29,
-            "contribution_score": -242.02
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -13.51,
-            "contribution_score": -235.78
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -13.64,
-            "contribution_score": -216.81
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-30T03:45:39.214Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "PPRO",
       "name": "PT Pembangunan Perumahan Properti Tbk",
       "change_pct": -13.64,
@@ -4389,49 +4346,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BBHI",
-      "name": "PT Allo Bank Indonesia Tbk",
-      "change_pct": -1.27,
-      "move_30min": -3.13,
-      "label": "BBHI -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -14.29,
-            "contribution_score": -242.02
-          },
-          {
-            "ticker": "GOTO",
-            "change_pct": -13.51,
-            "contribution_score": -235.78
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -13.64,
-            "contribution_score": -216.81
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-09-30T03:45:39.214Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "OMRE",
       "name": "PT Indonesia Prima Property Tbk",
       "change_pct": 8.84,
@@ -4475,6 +4389,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -11.11,
+      "move_30min": -5.88,
+      "label": "TAXI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.2
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.06
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.81,
+            "contribution_score": -189.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": -1.27,
+      "move_30min": -3.13,
+      "label": "BBHI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.2
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.06
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.81,
+            "contribution_score": -189.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "BUKK",
       "name": "PT Bukaka Teknik Utama Tbk",
       "change_pct": -4.43,
@@ -4496,23 +4496,238 @@
           {
             "ticker": "BTEK",
             "change_pct": -14.29,
-            "contribution_score": -242.02
+            "contribution_score": -242.2
           },
           {
             "ticker": "GOTO",
             "change_pct": -13.51,
-            "contribution_score": -235.78
+            "contribution_score": -236.06
           },
           {
-            "ticker": "PPRO",
-            "change_pct": -13.64,
-            "contribution_score": -216.81
+            "ticker": "WMUU",
+            "change_pct": -10.81,
+            "contribution_score": -189.15
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-09-30T03:45:39.214Z",
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -14.29,
+      "move_30min": -7.69,
+      "label": "BTEK -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.2
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.06
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.81,
+            "contribution_score": -189.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 12.05,
+      "move_30min": -5.58,
+      "label": "ASPI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 373.58
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.67,
+            "contribution_score": 239.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PAMG",
+      "name": "Bima Sakti Pertiwi Tbk.",
+      "change_pct": 11.63,
+      "move_30min": 9.09,
+      "label": "PAMG +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 373.58
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.67,
+            "contribution_score": 239.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "IPTV -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.2
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.06
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.81,
+            "contribution_score": -189.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ITIC",
+      "name": "PT Indonesian Tobacco Tbk",
+      "change_pct": 1.03,
+      "move_30min": -3.92,
+      "label": "ITIC -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 373.58
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 16.67,
+            "contribution_score": 239.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:00:43.188Z",
       "status": "active",
       "summary": null
     }
