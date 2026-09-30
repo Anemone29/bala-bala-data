@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-30T04:15:41.043Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 12.05,
+      "move_30min": -10.15,
+      "label": "ASPI -10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 374.19
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 24.68,
+            "contribution_score": 234.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:15:41.043Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -7.14,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.11
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -11.11,
+            "contribution_score": -180.73
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -123.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:15:41.043Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -4.55,
+      "move_30min": 10.53,
+      "label": "PPRO +10.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.11
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -11.11,
+            "contribution_score": -180.73
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -8.11,
+            "contribution_score": -123.04
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:15:41.043Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOOD",
+      "name": "PT Integra Indocabinet Tbk",
+      "change_pct": 3.17,
+      "move_30min": -3.47,
+      "label": "WOOD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 374.19
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 24.68,
+            "contribution_score": 234.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:15:41.043Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
