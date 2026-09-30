@@ -1,4 +1,47 @@
 {
   "generated_at": "2026-09-30T02:15:38.511Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 297.3
+          },
+          {
+            "ticker": "KIOS",
+            "change_pct": 15.07,
+            "contribution_score": 242.76
+          },
+          {
+            "ticker": "ASGR",
+            "change_pct": 16.67,
+            "contribution_score": 220.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T02:15:38.511Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
