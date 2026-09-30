@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-09-30T04:30:43.986Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.22
+          },
+          {
+            "ticker": "CCSI",
+            "change_pct": 20.53,
+            "contribution_score": 296.45
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 19.88,
+            "contribution_score": 285.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T03:00:46.290Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 12.05,
+      "move_30min": -3.76,
+      "label": "ASPI -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 374.21
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.25
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 24.68,
+            "contribution_score": 234.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:30:43.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -4.55,
+      "move_30min": 10,
+      "label": "PPRO +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 24.5,
+            "contribution_score": 374.21
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 25,
+            "contribution_score": 301.25
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 24.68,
+            "contribution_score": 234.78
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:30:43.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MNCN",
+      "name": "PT. Media Nusantara Citra Tbk",
+      "change_pct": -5.43,
+      "move_30min": -3.17,
+      "label": "MNCN -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -243.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.25
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": -13.95,
+            "contribution_score": -194.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:30:43.986Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -2.63,
+      "move_30min": -7.5,
+      "label": "NETV -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -243.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -13.51,
+            "contribution_score": -236.25
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": -13.95,
+            "contribution_score": -194.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-09-30T04:30:43.986Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
