@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-10-01T02:45:49.661Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T02:00:42.406Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": 49.01,
+      "move_30min": 7.14,
+      "label": "CCSI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CCSI",
+            "change_pct": 49.01,
+            "contribution_score": 803.42
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 24.56,
+            "contribution_score": 316.82
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 20.59,
+            "contribution_score": 297.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T02:45:49.661Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -4.4,
+      "move_30min": -7.29,
+      "label": "JAST -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -12.5,
+            "contribution_score": -226.01
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -7.02,
+            "contribution_score": -102.65
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -8,
+            "contribution_score": -95.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T02:45:49.661Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": -8.59,
+      "move_30min": -7.03,
+      "label": "ZONE -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -12.5,
+            "contribution_score": -226.01
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -7.02,
+            "contribution_score": -102.65
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -8,
+            "contribution_score": -95.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T02:45:49.661Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -9.87,
+      "move_30min": -7.26,
+      "label": "IFSH -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "GOTO",
+            "change_pct": -12.5,
+            "contribution_score": -226.01
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -7.02,
+            "contribution_score": -102.65
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -8,
+            "contribution_score": -95.07
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T02:45:49.661Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
