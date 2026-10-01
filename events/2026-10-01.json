@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T08:30:52.021Z",
+  "generated_at": "2026-10-01T08:45:43.026Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4635,48 +4635,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -73.3,
-      "label": "73% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "GOTO",
-            "change_pct": -12.5,
-            "contribution_score": -236.44
-          },
-          {
-            "ticker": "BAPI",
-            "change_pct": -14.29,
-            "contribution_score": -218.32
-          },
-          {
-            "ticker": "BLTA",
-            "change_pct": -12.82,
-            "contribution_score": -202.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-01T08:30:52.021Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -6006,6 +5964,91 @@
         "macro_active": null
       },
       "detected_at": "2026-10-01T08:30:52.021Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73.3,
+      "label": "73% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": -24,
+            "contribution_score": -334.94
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -12.5,
+            "contribution_score": -236.57
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -14.29,
+            "contribution_score": -218.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T08:45:43.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -4.1,
+      "move_30min": -3.31,
+      "label": "OASA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": -24,
+            "contribution_score": -334.94
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -12.5,
+            "contribution_score": -236.57
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -14.29,
+            "contribution_score": -218.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-01T08:45:43.026Z",
       "status": "active",
       "summary": null
     }
