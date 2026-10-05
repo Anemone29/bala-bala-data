@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-10-05T03:30:42.032Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.6,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 32.5,
+            "contribution_score": 530.69
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 20,
+            "contribution_score": 319.34
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 229.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:15:41.443Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 11.19,
+      "move_30min": 8.09,
+      "label": "SAFE +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 35,
+            "contribution_score": 578.06
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 22.14,
+            "contribution_score": 358.93
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 230.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:30:42.032Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 14.29,
+      "move_30min": 9.09,
+      "label": "ASMI +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 35,
+            "contribution_score": 578.06
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 22.14,
+            "contribution_score": 358.93
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 230.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:30:42.032Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": -8.33,
+      "label": "BTEK -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 35,
+            "contribution_score": 578.06
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 22.14,
+            "contribution_score": 358.93
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 230.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:30:42.032Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -6,
+      "move_30min": -6,
+      "label": "GIAA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -29.17,
+            "contribution_score": -434.72
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -11.36,
+            "contribution_score": -171.04
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": -6,
+            "contribution_score": -80.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:30:42.032Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
