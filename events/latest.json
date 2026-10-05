@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-10-05T04:15:40.700Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.6,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 32.5,
+            "contribution_score": 530.69
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 20,
+            "contribution_score": 319.34
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 229.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T03:15:41.443Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -3.87,
+      "move_30min": -3.25,
+      "label": "MDIA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -30.21,
+            "contribution_score": -454.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -11.36,
+            "contribution_score": -171.62
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.14,
+            "contribution_score": -106.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T04:15:40.700Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -9.57,
+      "move_30min": -8.11,
+      "label": "SONA -8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ENRG",
+            "change_pct": -30.21,
+            "contribution_score": -454.48
+          },
+          {
+            "ticker": "JAWA",
+            "change_pct": -11.36,
+            "contribution_score": -171.62
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.14,
+            "contribution_score": -106.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T04:15:40.700Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 0,
+      "move_30min": -3.45,
+      "label": "BABP -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 35,
+            "contribution_score": 585.51
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 17.86,
+            "contribution_score": 300.89
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 232.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T04:15:40.700Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 0,
+      "move_30min": -5.13,
+      "label": "RODA -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 35,
+            "contribution_score": 585.51
+          },
+          {
+            "ticker": "MITI",
+            "change_pct": 17.86,
+            "contribution_score": 300.89
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 14.29,
+            "contribution_score": 232.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-05T04:15:40.700Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
