@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T07:00:40.759Z",
+  "generated_at": "2026-10-06T07:15:39.674Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3946,49 +3946,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "POLA",
-      "name": "POLA",
-      "change_pct": 20.73,
-      "move_30min": 12.5,
-      "label": "POLA +12.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": 24,
-            "contribution_score": 423.6
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": 19.15,
-            "contribution_score": 373.27
-          },
-          {
-            "ticker": "POLA",
-            "change_pct": 20.73,
-            "contribution_score": 349.28
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-06T06:45:39.882Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "TAXI",
       "name": "PT Express Transindo Utama Tbk",
@@ -4376,6 +4333,49 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 31.71,
+      "move_30min": 9.09,
+      "label": "POLA +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 31.71,
+            "contribution_score": 578.07
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 32,
+            "contribution_score": 575.87
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.15,
+            "contribution_score": 373.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
@@ -4396,24 +4396,368 @@
         "tickers": [
           {
             "ticker": "POLA",
-            "change_pct": 28.05,
-            "contribution_score": 498.31
+            "change_pct": 31.71,
+            "contribution_score": 578.07
           },
           {
             "ticker": "ASMI",
-            "change_pct": 24,
-            "contribution_score": 424.85
+            "change_pct": 32,
+            "contribution_score": 575.87
           },
           {
             "ticker": "IATA",
-            "change_pct": 18.09,
-            "contribution_score": 352.18
+            "change_pct": 19.15,
+            "contribution_score": 373.83
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-06T07:00:40.759Z",
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "TAXI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 31.71,
+            "contribution_score": 578.07
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 32,
+            "contribution_score": 575.87
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.15,
+            "contribution_score": 373.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "AKKU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -2.44,
+      "move_30min": -4.76,
+      "label": "RODA -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMTD",
+      "name": "PT Gowa Makassar Tourism Development Tbk",
+      "change_pct": 16.92,
+      "move_30min": -4.47,
+      "label": "GMTD -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 31.71,
+            "contribution_score": 578.07
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 32,
+            "contribution_score": 575.87
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 19.15,
+            "contribution_score": 373.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -3.45,
+      "move_30min": -4,
+      "label": "SAMF -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -1.39,
+      "move_30min": -4.05,
+      "label": "CASA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -0.62,
+      "move_30min": -3.01,
+      "label": "NIRO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBMD",
+      "name": "PT Bank Mestika Dharma Tbk",
+      "change_pct": -3.19,
+      "move_30min": -3.19,
+      "label": "BBMD -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -142.15
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.77,
+            "contribution_score": -61.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -4.1,
+            "contribution_score": -60.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:15:39.674Z",
       "status": "active",
       "summary": null
     }
