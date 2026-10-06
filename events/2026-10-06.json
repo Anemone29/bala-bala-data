@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T06:45:39.882Z",
+  "generated_at": "2026-10-06T07:00:40.759Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3860,48 +3860,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 77.6,
-      "label": "78% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": 24,
-            "contribution_score": 423.6
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": 19.15,
-            "contribution_score": 373.27
-          },
-          {
-            "ticker": "POLA",
-            "change_pct": 20.73,
-            "contribution_score": 349.28
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-06T06:45:39.882Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -4414,6 +4372,48 @@
         "macro_active": null
       },
       "detected_at": "2026-10-06T06:45:39.882Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 77.6,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": 28.05,
+            "contribution_score": 498.31
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 24,
+            "contribution_score": 424.85
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 18.09,
+            "contribution_score": 352.18
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T07:00:40.759Z",
       "status": "active",
       "summary": null
     }
