@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-06T03:45:38.035Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 75.6,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": 16.67,
+            "contribution_score": 274.49
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 21.45,
+            "contribution_score": 264.18
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 13.83,
+            "contribution_score": 257.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T03:45:38.035Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IFSH",
+            "change_pct": 22.05,
+            "contribution_score": 270.09
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 16,
+            "contribution_score": 257.74
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 11.7,
+            "contribution_score": 204.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T02:45:38.115Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T02:00:42.355Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MPRO",
+      "name": "Maha Properti Indonesia Tbk.",
+      "change_pct": -3.54,
+      "move_30min": -3.33,
+      "label": "MPRO -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -141.41
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -6.25,
+            "contribution_score": -86.11
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -4.4,
+            "contribution_score": -68.79
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T03:45:38.035Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 16.67,
+      "move_30min": 10.53,
+      "label": "BAPI +10.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": 16.67,
+            "contribution_score": 274.49
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 21.45,
+            "contribution_score": 264.18
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": 13.83,
+            "contribution_score": 257.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T03:45:38.035Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
