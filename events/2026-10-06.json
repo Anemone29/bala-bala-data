@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T03:45:38.035Z",
+  "generated_at": "2026-10-06T04:00:40.733Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2743,48 +2743,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 75.6,
-      "label": "75% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAPI",
-            "change_pct": 16.67,
-            "contribution_score": 274.49
-          },
-          {
-            "ticker": "IFSH",
-            "change_pct": 21.45,
-            "contribution_score": 264.18
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": 13.83,
-            "contribution_score": 257.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-06T03:45:38.035Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MPRO",
       "name": "Maha Properti Indonesia Tbk.",
@@ -3043,12 +3001,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "OMRE",
-      "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": 0.52,
-      "move_30min": -7.14,
-      "label": "OMRE -7.1% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 75.6,
+      "label": "75% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -3063,25 +3020,240 @@
         ],
         "tickers": [
           {
-            "ticker": "BAPI",
-            "change_pct": 16.67,
-            "contribution_score": 274.49
+            "ticker": "IATA",
+            "change_pct": 20.21,
+            "contribution_score": 386.74
           },
           {
             "ticker": "IFSH",
-            "change_pct": 21.45,
-            "contribution_score": 264.18
+            "change_pct": 22.05,
+            "contribution_score": 272.34
           },
           {
-            "ticker": "IATA",
-            "change_pct": 13.83,
-            "contribution_score": 257.02
+            "ticker": "AYLS",
+            "change_pct": 13.48,
+            "contribution_score": 207.13
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-06T03:45:38.035Z",
+      "detected_at": "2026-10-06T04:00:40.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 0.52,
+      "move_30min": -4.88,
+      "label": "OMRE -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 20.21,
+            "contribution_score": 386.74
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 22.05,
+            "contribution_score": 272.34
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 13.48,
+            "contribution_score": 207.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T04:00:40.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": 20.21,
+      "move_30min": 8.65,
+      "label": "IATA +8.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 20.21,
+            "contribution_score": 386.74
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 22.05,
+            "contribution_score": 272.34
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 13.48,
+            "contribution_score": 207.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T04:00:40.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GMTD",
+      "name": "PT Gowa Makassar Tourism Development Tbk",
+      "change_pct": 14.93,
+      "move_30min": 16.67,
+      "label": "GMTD +16.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 20.21,
+            "contribution_score": 386.74
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 22.05,
+            "contribution_score": 272.34
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 13.48,
+            "contribution_score": 207.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T04:00:40.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -3.25,
+      "move_30min": -3.25,
+      "label": "DMND -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ROCK",
+            "change_pct": -14.86,
+            "contribution_score": -141.5
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -3.23,
+            "contribution_score": -49.26
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.14,
+            "contribution_score": -49.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T04:00:40.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": 0.96,
+      "move_30min": -3.66,
+      "label": "MASB -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IATA",
+            "change_pct": 20.21,
+            "contribution_score": 386.74
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 22.05,
+            "contribution_score": 272.34
+          },
+          {
+            "ticker": "AYLS",
+            "change_pct": 13.48,
+            "contribution_score": 207.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-06T04:00:40.733Z",
       "status": "active",
       "summary": null
     }
