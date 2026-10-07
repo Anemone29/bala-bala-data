@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T04:15:40.970Z",
+  "generated_at": "2026-10-07T04:30:42.152Z",
   "events": [
     {
       "type": "breadth_up",
@@ -3046,97 +3046,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "GOTO",
-      "name": "PT GoTo Gojek Tokopedia Tbk",
-      "change_pct": -3.23,
-      "move_30min": -3.23,
-      "label": "GOTO -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -14.29,
-            "contribution_score": -241.66
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -9.87,
-            "contribution_score": -163.47
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -10.06,
-            "contribution_score": -158.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T04:15:40.970Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MDIA",
       "name": "PT Intermedia Capital Tbk",
       "change_pct": -9.87,
       "move_30min": -3.52,
       "label": "MDIA -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -14.29,
-            "contribution_score": -241.66
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -9.87,
-            "contribution_score": -163.47
-          },
-          {
-            "ticker": "KOTA",
-            "change_pct": -10.06,
-            "contribution_score": -158.99
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T04:15:40.970Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": -6.06,
-      "move_30min": -3.13,
-      "label": "WMUU -3.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3213,6 +3127,178 @@
         "macro_active": null
       },
       "detected_at": "2026-10-07T04:15:40.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "GOTO -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.04
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -159.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.89,
+            "contribution_score": -131.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:30:42.152Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -6.06,
+      "move_30min": -6.06,
+      "label": "WMUU -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.04
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -159.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.89,
+            "contribution_score": -131.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:30:42.152Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -6.25,
+      "move_30min": 7.14,
+      "label": "TAXI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.04
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -159.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.89,
+            "contribution_score": -131.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:30:42.152Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "ANDI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -242.04
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -159.14
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -7.89,
+            "contribution_score": -131.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:30:42.152Z",
       "status": "active",
       "summary": null
     }
