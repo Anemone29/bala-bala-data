@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-10-07T03:00:55.834Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T02:00:44.030Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 6.06,
+      "move_30min": -5.41,
+      "label": "ASMI -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 32.08,
+            "contribution_score": 530.09
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 16.5,
+            "contribution_score": 190.23
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": 10,
+            "contribution_score": 149.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T03:00:55.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -12.5,
+      "move_30min": -12.5,
+      "label": "TAXI -12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -191.81
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -118.64
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.58,
+            "contribution_score": -103.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T03:00:55.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -6.58,
+      "move_30min": -4.7,
+      "label": "MDIA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -191.81
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -118.64
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.58,
+            "contribution_score": -103.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T03:00:55.834Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -3.52,
+      "move_30min": -4.95,
+      "label": "AYLS -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -191.81
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -118.64
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.58,
+            "contribution_score": -103.44
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T03:00:55.834Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
