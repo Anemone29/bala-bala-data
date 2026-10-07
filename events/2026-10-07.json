@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T07:15:38.324Z",
+  "generated_at": "2026-10-07T07:30:41.732Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4336,49 +4336,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -7.14,
-      "move_30min": 7.69,
-      "label": "BTEK +7.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 30.19,
-            "contribution_score": 505.59
-          },
-          {
-            "ticker": "ASMI",
-            "change_pct": 27.27,
-            "contribution_score": 504.9
-          },
-          {
-            "ticker": "IFSH",
-            "change_pct": 17.96,
-            "contribution_score": 213.58
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T07:15:38.324Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "ASMI",
       "name": "ASMI",
       "change_pct": 30.3,
@@ -4722,6 +4679,49 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -7.14,
+      "move_30min": 7.69,
+      "label": "BTEK +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 572.77
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 21.21,
+            "contribution_score": 388.95
+          },
+          {
+            "ticker": "TARA",
+            "change_pct": 13.51,
+            "contribution_score": 218.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "PNSE",
       "name": "Pudjiadi & Sons Tbk.",
@@ -4743,24 +4743,239 @@
         "tickers": [
           {
             "ticker": "MDIA",
-            "change_pct": -11.84,
-            "contribution_score": -200.4
+            "change_pct": -13.16,
+            "contribution_score": -224.3
           },
           {
             "ticker": "KOTA",
             "change_pct": -10.06,
-            "contribution_score": -160.92
+            "contribution_score": -161.13
           },
           {
-            "ticker": "TAXI",
-            "change_pct": -6.25,
-            "contribution_score": -98.32
+            "ticker": "ROCK",
+            "change_pct": -9.84,
+            "contribution_score": -99.54
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-07T07:15:38.324Z",
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 21.21,
+      "move_30min": -6.98,
+      "label": "ASMI -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 572.77
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 21.21,
+            "contribution_score": 388.95
+          },
+          {
+            "ticker": "TARA",
+            "change_pct": 13.51,
+            "contribution_score": 218.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNIQ",
+      "name": "UNIQ",
+      "change_pct": 1.45,
+      "move_30min": -3.45,
+      "label": "UNIQ -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 572.77
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 21.21,
+            "contribution_score": 388.95
+          },
+          {
+            "ticker": "TARA",
+            "change_pct": 13.51,
+            "contribution_score": 218.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VICI",
+      "name": "PT Victoria Care Indonesia Tbk",
+      "change_pct": 13.02,
+      "move_30min": 8.48,
+      "label": "VICI +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 572.77
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 21.21,
+            "contribution_score": 388.95
+          },
+          {
+            "ticker": "TARA",
+            "change_pct": 13.51,
+            "contribution_score": 218.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "IPTV -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -13.16,
+            "contribution_score": -224.3
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -161.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -9.84,
+            "contribution_score": -99.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPCK",
+      "name": "PT Lippo Cikarang Tbk",
+      "change_pct": -2.78,
+      "move_30min": -3.67,
+      "label": "LPCK -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -13.16,
+            "contribution_score": -224.3
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -161.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -9.84,
+            "contribution_score": -99.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T07:30:41.732Z",
       "status": "active",
       "summary": null
     }
