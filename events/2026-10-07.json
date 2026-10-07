@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T03:45:38.388Z",
+  "generated_at": "2026-10-07T04:00:43.667Z",
   "events": [
     {
       "type": "breadth_up",
@@ -2271,49 +2271,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "ESTA",
-      "name": "Esta Multi Usaha Tbk.",
-      "change_pct": 10,
-      "move_30min": -3.23,
-      "label": "ESTA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 30.19,
-            "contribution_score": 500.52
-          },
-          {
-            "ticker": "IFSH",
-            "change_pct": 18.45,
-            "contribution_score": 216.79
-          },
-          {
-            "ticker": "DAYA",
-            "change_pct": 17.62,
-            "contribution_score": 196.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T03:45:38.388Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "TAXI",
       "name": "PT Express Transindo Utama Tbk",
@@ -2487,49 +2444,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BAUT",
-      "name": "PT Mitra Pinasthika Mustika Tbk",
-      "change_pct": -3.12,
-      "move_30min": -3.13,
-      "label": "BAUT -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ROCK",
-            "change_pct": -11.11,
-            "contribution_score": -108.98
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -6.58,
-            "contribution_score": -105.94
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": -6.25,
-            "contribution_score": -96.22
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T03:45:38.388Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "HERO",
       "name": "PT DFI Retail Nusantara Tbk",
       "change_pct": -2.47,
@@ -2659,6 +2573,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 10,
+      "move_30min": -4.84,
+      "label": "ESTA -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.19,
+            "contribution_score": 501.15
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 18.45,
+            "contribution_score": 216.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 9.09,
+            "contribution_score": 155.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "BAUT -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "MPRO",
       "name": "Maha Properti Indonesia Tbk.",
       "change_pct": -3.33,
@@ -2678,25 +2678,369 @@
         ],
         "tickers": [
           {
-            "ticker": "ROCK",
-            "change_pct": -11.11,
-            "contribution_score": -108.98
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -6.58,
-            "contribution_score": -105.94
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
           },
           {
             "ticker": "TAXI",
-            "change_pct": -6.25,
-            "contribution_score": -96.22
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-07T03:45:38.388Z",
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 7.14,
+      "move_30min": -4.26,
+      "label": "VIVA -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.19,
+            "contribution_score": 501.15
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 18.45,
+            "contribution_score": 216.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 9.09,
+            "contribution_score": 155.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -14.29,
+      "move_30min": -7.69,
+      "label": "BTEK -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -12.5,
+      "move_30min": -6.67,
+      "label": "TAXI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "BAPI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.19,
+            "contribution_score": 501.15
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 18.45,
+            "contribution_score": 216.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 9.09,
+            "contribution_score": 155.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.13,
+      "label": "BCAP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.19,
+            "contribution_score": 501.15
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 18.45,
+            "contribution_score": 216.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 9.09,
+            "contribution_score": 155.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 13.22,
+      "move_30min": -4.1,
+      "label": "DAYA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.19,
+            "contribution_score": 501.15
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 18.45,
+            "contribution_score": 216.86
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 9.09,
+            "contribution_score": 155.53
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -1.37,
+      "move_30min": -4.85,
+      "label": "PNSE -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBSI",
+      "name": "PT Bank Bisnis Internasional Tbk",
+      "change_pct": -6.22,
+      "move_30min": -4.68,
+      "label": "BBSI -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -14.29,
+            "contribution_score": -241.03
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -12.5,
+            "contribution_score": -193.59
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -10.06,
+            "contribution_score": -158.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T04:00:43.667Z",
       "status": "active",
       "summary": null
     }
