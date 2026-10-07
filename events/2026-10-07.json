@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:15:42.257Z",
+  "generated_at": "2026-10-07T08:30:43.426Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5367,49 +5367,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "KKES",
-      "name": "Kusuma Kemindo Sentosa Tbk.",
-      "change_pct": 27.14,
-      "move_30min": 25.35,
-      "label": "KKES +25.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 33.96,
-            "contribution_score": 574.6
-          },
-          {
-            "ticker": "ASMI",
-            "change_pct": 27.27,
-            "contribution_score": 517.69
-          },
-          {
-            "ticker": "KKES",
-            "change_pct": 27.14,
-            "contribution_score": 484.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-07T08:15:42.257Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BAPA",
       "name": "PT Bekasi Asri Pemula Tbk",
@@ -5711,6 +5668,49 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 27.14,
+      "move_30min": 14.29,
+      "label": "KKES +14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 33.33,
+            "contribution_score": 639
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 575.35
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 25.71,
+            "contribution_score": 463.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "GDYR",
       "name": "PT Goodyear Indonesia Tbk",
@@ -5732,24 +5732,282 @@
         "tickers": [
           {
             "ticker": "MDIA",
-            "change_pct": -13.16,
-            "contribution_score": -225.33
+            "change_pct": -9.21,
+            "contribution_score": -158.3
           },
           {
             "ticker": "BTEK",
             "change_pct": -7.14,
-            "contribution_score": -122.14
+            "contribution_score": -122.24
           },
           {
-            "ticker": "KOTA",
-            "change_pct": -7.28,
-            "contribution_score": -118.63
+            "ticker": "ROCK",
+            "change_pct": -10.16,
+            "contribution_score": -104.91
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-07T08:15:42.257Z",
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 0,
+      "move_30min": -4.55,
+      "label": "VIVA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 33.33,
+            "contribution_score": 639
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 575.35
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 25.71,
+            "contribution_score": 463.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -2.44,
+      "move_30min": -4.76,
+      "label": "HRME -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -9.21,
+            "contribution_score": -158.3
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -122.24
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -10.16,
+            "contribution_score": -104.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": 11.52,
+      "move_30min": -5.15,
+      "label": "ARII -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 33.33,
+            "contribution_score": 639
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 575.35
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 25.71,
+            "contribution_score": 463.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 0.55,
+      "move_30min": -8.5,
+      "label": "TFAS -8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 33.33,
+            "contribution_score": 639
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 575.35
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 25.71,
+            "contribution_score": 463.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 7.49,
+      "move_30min": -3.56,
+      "label": "DAYA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 33.33,
+            "contribution_score": 639
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.96,
+            "contribution_score": 575.35
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 25.71,
+            "contribution_score": 463.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -0.46,
+      "move_30min": -3.11,
+      "label": "PNSE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -9.21,
+            "contribution_score": -158.3
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -122.24
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": -10.16,
+            "contribution_score": -104.91
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-07T08:30:43.426Z",
       "status": "active",
       "summary": null
     }
