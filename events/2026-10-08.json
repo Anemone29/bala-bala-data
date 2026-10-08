@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T06:45:36.101Z",
+  "generated_at": "2026-10-08T07:00:41.195Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4121,49 +4121,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": -3.03,
-      "move_30min": -3.03,
-      "label": "WMUU -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "POLA",
-            "change_pct": -10,
-            "contribution_score": -159.42
-          },
-          {
-            "ticker": "TRIN",
-            "change_pct": -10.79,
-            "contribution_score": -146.7
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -8.65,
-            "contribution_score": -136.52
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-08T06:30:47.037Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TRIN",
       "name": "TRIN",
       "change_pct": -10.79,
@@ -4507,48 +4464,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -70.7,
-      "label": "71% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -9.09,
-            "contribution_score": -157.97
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9.62,
-            "contribution_score": -152.09
-          },
-          {
-            "ticker": "POLA",
-            "change_pct": -9.09,
-            "contribution_score": -145
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-08T06:45:36.101Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BABP",
       "name": "PT Bank MNC Internasional Tbk",
@@ -4593,6 +4508,91 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -9.09,
+      "move_30min": -6.25,
+      "label": "WMUU -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.5,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "BBHI",
       "name": "PT Allo Bank Indonesia Tbk",
       "change_pct": -5,
@@ -4612,25 +4612,498 @@
         ],
         "tickers": [
           {
-            "ticker": "ASMI",
-            "change_pct": -9.09,
-            "contribution_score": -157.97
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
           },
           {
             "ticker": "LUCY",
             "change_pct": -9.62,
-            "contribution_score": -152.09
+            "contribution_score": -152.65
           },
           {
-            "ticker": "POLA",
-            "change_pct": -9.09,
-            "contribution_score": -145
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-08T06:45:36.101Z",
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 29.73,
+      "move_30min": 17.07,
+      "label": "BLTA +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 29.73,
+            "contribution_score": 536.95
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": 23.68,
+            "contribution_score": 431.59
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 24.86,
+            "contribution_score": 373.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "BTEK -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 29.73,
+            "contribution_score": 536.95
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": 23.68,
+            "contribution_score": 431.59
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 24.86,
+            "contribution_score": 373.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -1.45,
+      "move_30min": -4.23,
+      "label": "MDIA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -4.23,
+      "move_30min": -3.55,
+      "label": "KOTA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 4.17,
+      "move_30min": -3.85,
+      "label": "IPTV -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 29.73,
+            "contribution_score": 536.95
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": 23.68,
+            "contribution_score": 431.59
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 24.86,
+            "contribution_score": 373.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 20.69,
+      "move_30min": -3.31,
+      "label": "SAFE -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 29.73,
+            "contribution_score": 536.95
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": 23.68,
+            "contribution_score": 431.59
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 24.86,
+            "contribution_score": 373.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": -0.81,
+      "move_30min": -5.38,
+      "label": "PSDN -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAIN",
+      "name": "PT Malindo Feedmill Tbk",
+      "change_pct": -3.91,
+      "move_30min": -3.15,
+      "label": "MAIN -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": -4.08,
+      "move_30min": -3.59,
+      "label": "RUIS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 13.14,
+      "move_30min": -7.83,
+      "label": "BOGA -7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BLTA",
+            "change_pct": 29.73,
+            "contribution_score": 536.95
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": 23.68,
+            "contribution_score": 431.59
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 24.86,
+            "contribution_score": 373.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -11.39,
+      "move_30min": -11.39,
+      "label": "MAPB -11.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "POLA",
+            "change_pct": -10,
+            "contribution_score": -159.58
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.62,
+            "contribution_score": -152.65
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -10.79,
+            "contribution_score": -149.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-08T07:00:41.195Z",
       "status": "active",
       "summary": null
     }
