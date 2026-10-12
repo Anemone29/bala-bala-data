@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-10-12T02:30:43.315Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-12T02:00:43.488Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "GOTO -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -14.71,
+            "contribution_score": -214.41
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -10,
+            "contribution_score": -141.85
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.14,
+            "contribution_score": -96.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-12T02:30:43.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "VIVA +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 25,
+            "contribution_score": 456.58
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 17.04,
+            "contribution_score": 300.98
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 12.35,
+            "contribution_score": 199.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-12T02:30:43.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 17.04,
+      "move_30min": 17.04,
+      "label": "DOOH +17.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 25,
+            "contribution_score": 456.58
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 17.04,
+            "contribution_score": 300.98
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 12.35,
+            "contribution_score": 199.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-12T02:30:43.315Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": 12.35,
+      "move_30min": 12.35,
+      "label": "AKKU +12.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VIVA",
+            "change_pct": 25,
+            "contribution_score": 456.58
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 17.04,
+            "contribution_score": 300.98
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 12.35,
+            "contribution_score": 199.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-12T02:30:43.315Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
