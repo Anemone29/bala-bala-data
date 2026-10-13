@@ -1,12 +1,12 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T02:06:30.778Z",
+  "generated_at": "2026-10-13T02:15:38.921Z",
   "events": [
     {
       "type": "breadth_down",
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
-      "change_pct": -84,
+      "change_pct": -84.3,
       "label": "84% saham melemah",
       "drivers": {
         "sectors": [
@@ -22,25 +22,25 @@
         ],
         "tickers": [
           {
-            "ticker": "DSSA",
-            "change_pct": -14.6,
-            "contribution_score": -253.28
-          },
-          {
-            "ticker": "PTRO",
-            "change_pct": -14.95,
-            "contribution_score": -229.02
+            "ticker": "ASMI",
+            "change_pct": -25.64,
+            "contribution_score": -389.16
           },
           {
             "ticker": "TRIN",
-            "change_pct": -14.71,
-            "contribution_score": -215.97
+            "change_pct": -27.45,
+            "contribution_score": -326.71
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -15.49,
+            "contribution_score": -235
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-13T02:06:30.778Z",
+      "detected_at": "2026-10-13T02:15:38.921Z",
       "status": "active",
       "summary": null
     }
