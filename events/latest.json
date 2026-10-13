@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-10-13T06:45:38.872Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.3,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -25.64,
+            "contribution_score": -423.73
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -21.08,
+            "contribution_score": -329.06
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -15.49,
+            "contribution_score": -261.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T06:45:38.872Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -86,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -25.64,
+            "contribution_score": -423.62
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -19.61,
+            "contribution_score": -305.66
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -16.37,
+            "contribution_score": -274.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T04:30:39.650Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -13.33,
+      "move_30min": -3.7,
+      "label": "GOTO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -25.64,
+            "contribution_score": -423.68
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -18.63,
+            "contribution_score": -290.7
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -15.49,
+            "contribution_score": -261.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T06:30:39.944Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 7.69,
+      "label": "BTEK +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ZONE",
+            "change_pct": 25.38,
+            "contribution_score": 361.16
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.59,
+            "contribution_score": 211.91
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 18.18,
+            "contribution_score": 211.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T06:30:39.944Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": 3.19,
+      "move_30min": -6.73,
+      "label": "CTTH -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ZONE",
+            "change_pct": 25.38,
+            "contribution_score": 361.16
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.59,
+            "contribution_score": 211.91
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 18.18,
+            "contribution_score": 211.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T06:30:39.944Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:30:39.944Z",
+  "generated_at": "2026-10-13T06:45:38.872Z",
   "events": [
     {
       "type": "rapid_down",
@@ -5377,48 +5377,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -82.3,
-      "label": "82% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -25.64,
-            "contribution_score": -423.68
-          },
-          {
-            "ticker": "TRIN",
-            "change_pct": -18.63,
-            "contribution_score": -290.7
-          },
-          {
-            "ticker": "DSSA",
-            "change_pct": -15.49,
-            "contribution_score": -261.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-13T06:30:39.944Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GOTO",
       "name": "PT GoTo Gojek Tokopedia Tbk",
@@ -6017,6 +5975,48 @@
         "macro_active": null
       },
       "detected_at": "2026-10-13T06:30:39.944Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.3,
+      "label": "82% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -25.64,
+            "contribution_score": -423.73
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -21.08,
+            "contribution_score": -329.06
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -15.49,
+            "contribution_score": -261.84
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-13T06:45:38.872Z",
       "status": "active",
       "summary": null
     }
