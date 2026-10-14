@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T02:01:19.659Z",
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUVA",
+            "change_pct": 13.03,
+            "contribution_score": 212.68
+          },
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:01:19.659Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
+}
