@@ -1,13 +1,13 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T02:01:19.659Z",
+  "generated_at": "2026-10-14T02:31:16.008Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "72% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,20 +22,584 @@
         ],
         "tickers": [
           {
-            "ticker": "BUVA",
-            "change_pct": 13.03,
-            "contribution_score": 212.68
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
           },
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-14T02:01:19.659Z",
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": 22.47,
+      "move_30min": 10.1,
+      "label": "CTTH +10.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 7.24,
+      "move_30min": 7.24,
+      "label": "DOOH +7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "ASMI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": 0.57,
+      "move_30min": -11.02,
+      "label": "BUVA -11.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -4.64,
+      "move_30min": -4.64,
+      "label": "PICO -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AYLS",
+      "name": "Arkayana Lestari Grup Tbk.",
+      "change_pct": -3.77,
+      "move_30min": -3.77,
+      "label": "AYLS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 16.28,
+      "move_30min": 16.28,
+      "label": "SAFE +16.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": 20.8,
+      "move_30min": 20.8,
+      "label": "ROCK +20.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -3.21,
+      "move_30min": -3.21,
+      "label": "SHID -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": -5.33,
+      "move_30min": -5.33,
+      "label": "SOLA -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 24.65,
+      "move_30min": 24.65,
+      "label": "ARTA +24.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CTTH",
+            "change_pct": 22.47,
+            "contribution_score": 360.64
+          },
+          {
+            "ticker": "ARTA",
+            "change_pct": 24.65,
+            "contribution_score": 237.13
+          },
+          {
+            "ticker": "ROCK",
+            "change_pct": 20.8,
+            "contribution_score": 229.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": -5.43,
+      "move_30min": -5.43,
+      "label": "BPII -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": -5.8,
+      "move_30min": -5.8,
+      "label": "SONA -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PICO",
+            "change_pct": -4.64,
+            "contribution_score": -67.37
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.33,
+            "contribution_score": -55.97
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -3.45,
+            "contribution_score": -53.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-14T02:31:16.008Z",
       "status": "active",
       "summary": null
     }
