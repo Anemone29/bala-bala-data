@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-15T04:46:10.998Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "89% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.15
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -234.05
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:46:10.998Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T02:01:20.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -11.76,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.15
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -234.05
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:46:10.998Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": -1.45,
+      "move_30min": -4.9,
+      "label": "GOLD -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.15
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -234.05
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:46:10.998Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "SAMF -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.15
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -234.05
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:46:10.998Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
