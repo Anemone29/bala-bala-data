@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T04:16:10.789Z",
+  "generated_at": "2026-10-15T04:31:18.316Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5883,48 +5883,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -90.4,
-      "label": "90% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -14.81,
-            "contribution_score": -235.02
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": -14.85,
-            "contribution_score": -232.92
-          },
-          {
-            "ticker": "VIVA",
-            "change_pct": -12.5,
-            "contribution_score": -191.26
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-15T04:16:10.789Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MDIA",
       "name": "PT Intermedia Capital Tbk",
@@ -6484,49 +6442,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": 0,
-      "move_30min": 8.33,
-      "label": "BTEK +8.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 26.92,
-            "contribution_score": 486.18
-          },
-          {
-            "ticker": "ALDO",
-            "change_pct": 24.92,
-            "contribution_score": 322.17
-          },
-          {
-            "ticker": "BSWD",
-            "change_pct": 25,
-            "contribution_score": 210.12
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-15T04:16:10.789Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SMDR",
       "name": "PT Samudera Indonesia Tbk",
@@ -6576,92 +6491,6 @@
       "change_pct": -5.83,
       "move_30min": -3.42,
       "label": "MNCN -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -14.81,
-            "contribution_score": -235.02
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": -14.85,
-            "contribution_score": -232.92
-          },
-          {
-            "ticker": "VIVA",
-            "change_pct": -12.5,
-            "contribution_score": -191.26
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-15T04:16:10.789Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAUT",
-      "name": "PT Mitra Pinasthika Mustika Tbk",
-      "change_pct": -6.06,
-      "move_30min": -3.13,
-      "label": "BAUT -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -14.81,
-            "contribution_score": -235.02
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": -14.85,
-            "contribution_score": -232.92
-          },
-          {
-            "ticker": "VIVA",
-            "change_pct": -12.5,
-            "contribution_score": -191.26
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-15T04:16:10.789Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BABP",
-      "name": "PT Bank MNC Internasional Tbk",
-      "change_pct": -6.9,
-      "move_30min": -3.57,
-      "label": "BABP -3.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -6996,6 +6825,478 @@
         "macro_active": null
       },
       "detected_at": "2026-10-15T04:16:10.789Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "88% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.77,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 322.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 211.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -6.06,
+      "move_30min": -3.13,
+      "label": "BAUT -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -6.9,
+      "move_30min": -3.57,
+      "label": "BABP -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -11.76,
+      "move_30min": -6.25,
+      "label": "PPRO -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -7.14,
+      "move_30min": -3.7,
+      "label": "BCAP -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -7.89,
+      "move_30min": -5.41,
+      "label": "WEGE -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": 0.73,
+      "move_30min": -4.83,
+      "label": "GOLD -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.77,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 322.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 211.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "SAMF -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.06
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -233.89
+          },
+          {
+            "ticker": "AHAP",
+            "change_pct": -12.12,
+            "contribution_score": -185
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": 10.28,
+      "move_30min": 7.88,
+      "label": "CASA +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.77,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 322.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 211.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": 0,
+      "move_30min": -3.25,
+      "label": "PUDP -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.77,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 322.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 211.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:31:18.316Z",
       "status": "active",
       "summary": null
     }
