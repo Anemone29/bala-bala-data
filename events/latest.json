@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-15T07:01:19.891Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88.8,
+      "label": "89% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.27
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -13.86,
+            "contribution_score": -218.92
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.76,
+            "contribution_score": -177.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T07:01:19.891Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "89% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.15
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -234.05
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:46:10.998Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T02:01:20.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 5.95,
+      "move_30min": -4.3,
+      "label": "DEFI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.33,
+            "contribution_score": 612.07
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 20.13,
+            "contribution_score": 258.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 224.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T07:01:19.891Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": 12.12,
+      "move_30min": 13.85,
+      "label": "EMDE +13.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 33.33,
+            "contribution_score": 612.07
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 20.13,
+            "contribution_score": 258.69
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 25,
+            "contribution_score": 224.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T07:01:19.891Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
