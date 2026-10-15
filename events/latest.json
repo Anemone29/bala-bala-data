@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-15T04:16:10.789Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -90.4,
+      "label": "90% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.02
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -232.92
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:16:10.789Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T02:01:20.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": -7.94,
+      "move_30min": -3.33,
+      "label": "PSDN -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.02
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -232.92
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:16:10.789Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -11.57,
+      "move_30min": -3.6,
+      "label": "MDIA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.02
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -232.92
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:16:10.789Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": -8.85,
+      "move_30min": -4.02,
+      "label": "BUVA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -14.81,
+            "contribution_score": -235.02
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -14.85,
+            "contribution_score": -232.92
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": -12.5,
+            "contribution_score": -191.26
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T04:16:10.789Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
