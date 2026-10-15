@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-15T03:16:15.122Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -78.4,
+      "label": "78% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -12.87,
+            "contribution_score": -200.55
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -172.66
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.76,
+            "contribution_score": -158.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T03:16:15.122Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T02:01:20.468Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": 3.17,
+      "move_30min": -4.62,
+      "label": "PSDN -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": -12.87,
+            "contribution_score": -200.55
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": -11.11,
+            "contribution_score": -172.66
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -11.76,
+            "contribution_score": -158.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T03:16:15.122Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 7.69,
+      "move_30min": 7.69,
+      "label": "TAXI +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 25.64,
+            "contribution_score": 454.39
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 319.62
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 16.67,
+            "contribution_score": 284.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T03:16:15.122Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 25.64,
+            "contribution_score": 454.39
+          },
+          {
+            "ticker": "ALDO",
+            "change_pct": 24.92,
+            "contribution_score": 319.62
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 16.67,
+            "contribution_score": 284.96
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-15T03:16:15.122Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
