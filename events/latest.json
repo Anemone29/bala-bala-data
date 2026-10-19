@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-19T03:45:32.316Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -95.7,
+      "label": "96% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -495.58
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -285.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -222.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T03:45:32.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:00:32.052Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": 10.68,
+      "move_30min": -6.14,
+      "label": "PUDP -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 336.09
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 268.98
+          },
+          {
+            "ticker": "GOLD",
+            "change_pct": 18.8,
+            "contribution_score": 242.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T03:45:32.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASA",
+      "name": "Capital Financial Indonesia Tbk",
+      "change_pct": -2.22,
+      "move_30min": -11.11,
+      "label": "CASA -11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -495.58
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -285.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -222.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T03:45:32.316Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IDPR",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "change_pct": -4.5,
+      "move_30min": -4.5,
+      "label": "IDPR -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -495.58
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -285.97
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -222.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T03:45:32.316Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
