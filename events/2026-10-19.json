@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T02:30:34.860Z",
+  "generated_at": "2026-10-19T02:45:32.081Z",
   "events": [
     {
       "type": "breadth_up",
@@ -31,48 +31,6 @@
         "macro_active": null
       },
       "detected_at": "2026-10-19T02:00:32.052Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -94,
-      "label": "94% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
       "status": "active",
       "summary": null
     },
@@ -293,97 +251,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -16.67,
-      "move_30min": -16.67,
-      "label": "BTEK -16.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BBCA",
       "name": "PT Bank Central Asia Tbk",
       "change_pct": -6.86,
       "move_30min": -6.86,
       "label": "BBCA -6.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "TAXI",
-      "name": "PT Express Transindo Utama Tbk",
-      "change_pct": -30.77,
-      "move_30min": -25,
-      "label": "TAXI -25.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -470,49 +342,6 @@
       "change_pct": -6.72,
       "move_30min": -6.72,
       "label": "BUMI -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PPRO",
-      "name": "PT Pembangunan Perumahan Properti Tbk",
-      "change_pct": -14.29,
-      "move_30min": -14.29,
-      "label": "PPRO -14.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -766,49 +595,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TOWR",
-      "name": "PT Sarana Menara Nusantara Tbk.",
-      "change_pct": -4.64,
-      "move_30min": -4.64,
-      "label": "TOWR -4.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KIJA",
       "name": "PT Kawasan Industri Jababeka Tbk",
       "change_pct": -6.5,
@@ -1024,183 +810,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": -6.45,
-      "move_30min": -6.45,
-      "label": "BLTA -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "EMTK",
-      "name": "PT Elang Mahkota Teknologi Tbk",
-      "change_pct": -5.39,
-      "move_30min": -5.39,
-      "label": "EMTK -5.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BBKP",
-      "name": "PT Bank KB Indonesia Tbk",
-      "change_pct": -5.88,
-      "move_30min": -5.88,
-      "label": "BBKP -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KLBF",
       "name": "PT Kalbe Farma Tbk.",
       "change_pct": -5.93,
       "move_30min": -5.93,
       "label": "KLBF -5.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "CPRO",
-      "name": "PT Central Proteina Prima Tbk",
-      "change_pct": -6.06,
-      "move_30min": -6.06,
-      "label": "CPRO -6.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1798,49 +1412,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "GPRA",
-      "name": "GPRA",
-      "change_pct": -3.3,
-      "move_30min": -3.3,
-      "label": "GPRA -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SIDO",
       "name": "PT Industri Jamu dan Farmasi Sido Muncul Tbk",
       "change_pct": -4.91,
@@ -2099,49 +1670,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BCAP",
-      "name": "PT MNC Kapital Indonesia Tbk",
-      "change_pct": -4.35,
-      "move_30min": -4.35,
-      "label": "BCAP -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "CDIA",
       "name": "PT Chandra Daya Investasi Tbk",
       "change_pct": -6.93,
@@ -2319,49 +1847,6 @@
       "change_pct": -3.48,
       "move_30min": -3.48,
       "label": "ELSA -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "NISP",
-      "name": "PT Bank OCBC NISP Tbk",
-      "change_pct": -4.02,
-      "move_30min": -4.02,
-      "label": "NISP -4.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -7947,49 +7432,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PNIN",
-      "name": "PT Paninvest Tbk",
-      "change_pct": -6.78,
-      "move_30min": -6.78,
-      "label": "PNIN -6.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "PTRO",
       "name": "PT Petrosea Tbk",
       "change_pct": -6.89,
@@ -8108,49 +7550,6 @@
             "ticker": "PPRO",
             "change_pct": -14.29,
             "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "PNSE",
-      "name": "Pudjiadi & Sons Tbk.",
-      "change_pct": 25,
-      "move_30min": 25,
-      "label": "PNSE +25.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 24.84,
-            "contribution_score": 334.2
-          },
-          {
-            "ticker": "PNSE",
-            "change_pct": 25,
-            "contribution_score": 262
-          },
-          {
-            "ticker": "GOLD",
-            "change_pct": 19.66,
-            "contribution_score": 232.74
           }
         ],
         "foreign_flow": null,
@@ -9108,49 +8507,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BCIP",
-      "name": "PT Bumi Citra Permai Tbk",
-      "change_pct": -4.08,
-      "move_30min": -4.08,
-      "label": "BCIP -4.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MITI",
       "name": "PT Mitra Investindo Tbk",
       "change_pct": -6.52,
@@ -9538,92 +8894,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "GWSA",
-      "name": "GWSA",
-      "change_pct": -6.4,
-      "move_30min": -6.4,
-      "label": "GWSA -6.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WTON",
-      "name": "PT Wijaya Karya Beton Tbk",
-      "change_pct": -6.67,
-      "move_30min": -6.67,
-      "label": "WTON -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "FORE",
       "name": "FORE",
       "change_pct": -6.5,
@@ -9844,49 +9114,6 @@
       "change_pct": -6.51,
       "move_30min": -6.51,
       "label": "TOBA -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "IPCM",
-      "name": "PT Jasa Armada Indonesia Tbk",
-      "change_pct": -5.38,
-      "move_30min": -5.38,
-      "label": "IPCM -5.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -10269,49 +9496,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MSTI",
-      "name": "PT Metrodata Electronics Tbk",
-      "change_pct": -3.43,
-      "move_30min": -3.43,
-      "label": "MSTI -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ARII",
       "name": "PT Atlas Resources Tbk",
       "change_pct": -6,
@@ -10613,92 +9797,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "IRRA",
-      "name": "PT Itama Ranoraya Tbk",
-      "change_pct": -6.67,
-      "move_30min": -6.67,
-      "label": "IRRA -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "SMMT",
-      "name": "Golden Eagle Energy Tbk.",
-      "change_pct": -6.98,
-      "move_30min": -6.98,
-      "label": "SMMT -7.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BAPA",
       "name": "PT Bekasi Asri Pemula Tbk",
       "change_pct": -5.95,
@@ -10914,49 +10012,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TLDN",
-      "name": "PT Teladan Prima Agro Tbk",
-      "change_pct": -5.14,
-      "move_30min": -5.14,
-      "label": "TLDN -5.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "LUCK",
       "name": "PT Sentral Mitra Informatika Tbk",
       "change_pct": -5.95,
@@ -11086,140 +10141,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAME",
-      "name": "PT Sarana Meditama Metropolitan Tbk",
-      "change_pct": -6.3,
-      "move_30min": -6.3,
-      "label": "SAME -6.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BNBA",
       "name": "PT Bank Bumi Arta Tbk",
       "change_pct": -3.2,
       "move_30min": -3.2,
       "label": "BNBA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "NELY",
-      "name": "PT Pelayaran Nelly Dwi Putri Tbk",
-      "change_pct": -5.42,
-      "move_30min": -5.42,
-      "label": "NELY -5.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "RUIS",
-      "name": "PT Radiant Utama Interinsco Tbk",
-      "change_pct": -6.86,
-      "move_30min": -6.86,
-      "label": "RUIS -6.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -11349,49 +10275,6 @@
       "change_pct": -6.52,
       "move_30min": -6.52,
       "label": "CCSI -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "TYRE",
-      "name": "King Tire Indonesia Tbk.",
-      "change_pct": -3.3,
-      "move_30min": -3.3,
-      "label": "TYRE -3.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -11988,49 +10871,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "PUDP",
-      "name": "PUDP",
-      "change_pct": 22.33,
-      "move_30min": 22.33,
-      "label": "PUDP +22.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRUK",
-            "change_pct": 24.84,
-            "contribution_score": 334.2
-          },
-          {
-            "ticker": "PNSE",
-            "change_pct": 25,
-            "contribution_score": 262
-          },
-          {
-            "ticker": "GOLD",
-            "change_pct": 19.66,
-            "contribution_score": 232.74
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "SAMF",
       "name": "PT Saraswanti Anugerah Makmur, Tbk",
@@ -12166,49 +11006,6 @@
       "change_pct": -6.83,
       "move_30min": -6.83,
       "label": "AYLS -6.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAYU",
-      "name": "PT Bayu Buana Tbk",
-      "change_pct": -5,
-      "move_30min": -5,
-      "label": "BAYU -5.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -12505,49 +11302,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MYOH",
-      "name": "MYOH",
-      "change_pct": -4.95,
-      "move_30min": -4.95,
-      "label": "MYOH -4.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "KKES",
       "name": "Kusuma Kemindo Sentosa Tbk.",
       "change_pct": -6.06,
@@ -12634,97 +11388,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SDRA",
-      "name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
-      "change_pct": -6.67,
-      "move_30min": -6.67,
-      "label": "SDRA -6.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "MTLA",
       "name": "PT Metropolitan Land Tbk",
       "change_pct": -6.52,
       "move_30min": -6.52,
       "label": "MTLA -6.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ARTA",
-      "name": "PT Arthavest Tbk",
-      "change_pct": -6.41,
-      "move_30min": -6.41,
-      "label": "ARTA -6.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -13021,92 +11689,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "CEKA",
-      "name": "PT Wilmar Cahaya Indonesia Tbk.",
-      "change_pct": -4.77,
-      "move_30min": -4.77,
-      "label": "CEKA -4.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DART",
-      "name": "DART",
-      "change_pct": -4.07,
-      "move_30min": -4.07,
-      "label": "DART -4.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "CARE",
       "name": "CARE",
       "change_pct": -6.88,
@@ -13155,49 +11737,6 @@
       "change_pct": -5.36,
       "move_30min": -5.36,
       "label": "AMOR -5.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PSSI",
-      "name": "PSSI",
-      "change_pct": -6.96,
-      "move_30min": -6.96,
-      "label": "PSSI -7.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -13709,49 +12248,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "DMND",
-      "name": "PT Diamond Food Indonesia Tbk",
-      "change_pct": -6.36,
-      "move_30min": -6.36,
-      "label": "DMND -6.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "UNSP",
       "name": "PT Bakrie Sumatera Plantations Tbk",
       "change_pct": -6.62,
@@ -13881,97 +12377,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ADES",
-      "name": "PT Akasha Wira International Tbk",
-      "change_pct": -6.94,
-      "move_30min": -6.94,
-      "label": "ADES -6.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ASBI",
       "name": "ASBI",
       "change_pct": -6.98,
       "move_30min": -6.98,
       "label": "ASBI -7.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "LPGI",
-      "name": "PT Lippo General Insurance Tbk",
-      "change_pct": -4.76,
-      "move_30min": -4.76,
-      "label": "LPGI -4.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -14144,49 +12554,6 @@
       "change_pct": -3.23,
       "move_30min": -3.23,
       "label": "DLTA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "SKLT",
-      "name": "PT Sekar Laut Tbk",
-      "change_pct": -3.91,
-      "move_30min": -3.91,
-      "label": "SKLT -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -14526,49 +12893,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PORT",
-      "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": -3.03,
-      "move_30min": -3.03,
-      "label": "PORT -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "RIGS",
       "name": "PT Rig Tenders Indonesia Tbk",
       "change_pct": -5.36,
@@ -14784,49 +13108,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MEGA",
-      "name": "PT Bank Mega Tbk",
-      "change_pct": -4.75,
-      "move_30min": -4.75,
-      "label": "MEGA -4.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SONA",
       "name": "PT Sona Topas Tourism Industry Tbk",
       "change_pct": -6.97,
@@ -14875,49 +13156,6 @@
       "change_pct": -6.92,
       "move_30min": -6.92,
       "label": "IFSH -6.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BPII",
-      "name": "PT Batavia Prosperindo Internasional Tbk",
-      "change_pct": -3.94,
-      "move_30min": -3.94,
-      "label": "BPII -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -15128,49 +13366,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SHIP",
-      "name": "PT Sillo Maritime Perdana Tbk",
-      "change_pct": -6.78,
-      "move_30min": -6.78,
-      "label": "SHIP -6.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -30.77,
-            "contribution_score": -480.26
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -14.29,
-            "contribution_score": -214.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-19T02:30:34.860Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "IDPR",
       "name": "PT Indonesia Pondasi Raya Tbk",
       "change_pct": -6.31,
@@ -15256,6 +13451,1811 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -95,
+      "label": "95% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -30.77,
+      "move_30min": -10,
+      "label": "BTEK -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -30.77,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -14.29,
+      "move_30min": -14.29,
+      "label": "PPRO -14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOWR",
+      "name": "PT Sarana Menara Nusantara Tbk.",
+      "change_pct": -5.15,
+      "move_30min": -3.66,
+      "label": "TOWR -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -6.45,
+      "move_30min": -3.33,
+      "label": "BLTA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMTK",
+      "name": "PT Elang Mahkota Teknologi Tbk",
+      "change_pct": -6.59,
+      "move_30min": -4.88,
+      "label": "EMTK -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": -5.88,
+      "move_30min": -3.03,
+      "label": "BBKP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CPRO",
+      "name": "PT Central Proteina Prima Tbk",
+      "change_pct": -6.06,
+      "move_30min": -3.13,
+      "label": "CPRO -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GPRA",
+      "name": "GPRA",
+      "change_pct": -5.49,
+      "move_30min": -4.44,
+      "label": "GPRA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BCAP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NISP",
+      "name": "PT Bank OCBC NISP Tbk",
+      "change_pct": -4.91,
+      "move_30min": -3.18,
+      "label": "NISP -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNIN",
+      "name": "PT Paninvest Tbk",
+      "change_pct": -6.78,
+      "move_30min": -6.78,
+      "label": "PNIN -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": 25,
+      "move_30min": 25,
+      "label": "PNSE +25.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 335.51
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 267.15
+          },
+          {
+            "ticker": "PUDP",
+            "change_pct": 21.36,
+            "contribution_score": 245.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIP",
+      "name": "PT Bumi Citra Permai Tbk",
+      "change_pct": -6.12,
+      "move_30min": -4.17,
+      "label": "BCIP -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GWSA",
+      "name": "GWSA",
+      "change_pct": -6.4,
+      "move_30min": -4.1,
+      "label": "GWSA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WTON",
+      "name": "PT Wijaya Karya Beton Tbk",
+      "change_pct": -6.67,
+      "move_30min": -3.45,
+      "label": "WTON -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPCM",
+      "name": "PT Jasa Armada Indonesia Tbk",
+      "change_pct": -6.92,
+      "move_30min": -3.97,
+      "label": "IPCM -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSTI",
+      "name": "PT Metrodata Electronics Tbk",
+      "change_pct": -5.15,
+      "move_30min": -3.49,
+      "label": "MSTI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IRRA",
+      "name": "PT Itama Ranoraya Tbk",
+      "change_pct": -6.67,
+      "move_30min": -3.45,
+      "label": "IRRA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMMT",
+      "name": "Golden Eagle Energy Tbk.",
+      "change_pct": -6.98,
+      "move_30min": -3.45,
+      "label": "SMMT -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TLDN",
+      "name": "PT Teladan Prima Agro Tbk",
+      "change_pct": -5.9,
+      "move_30min": -4.08,
+      "label": "TLDN -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": -6.3,
+      "move_30min": -6.3,
+      "label": "SAME -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NELY",
+      "name": "PT Pelayaran Nelly Dwi Putri Tbk",
+      "change_pct": -6.63,
+      "move_30min": -3.13,
+      "label": "NELY -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": -6.86,
+      "move_30min": -3.55,
+      "label": "RUIS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -5.49,
+      "move_30min": -11.34,
+      "label": "TYRE -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": 22.33,
+      "move_30min": 20.19,
+      "label": "PUDP +20.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 335.51
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 267.15
+          },
+          {
+            "ticker": "PUDP",
+            "change_pct": 21.36,
+            "contribution_score": 245.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAYU",
+      "name": "PT Bayu Buana Tbk",
+      "change_pct": -5,
+      "move_30min": -3.8,
+      "label": "BAYU -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MYOH",
+      "name": "MYOH",
+      "change_pct": -6.04,
+      "move_30min": -3.93,
+      "label": "MYOH -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SDRA",
+      "name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "change_pct": -6.67,
+      "move_30min": -4.52,
+      "label": "SDRA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -6.84,
+      "move_30min": -10.29,
+      "label": "ARTA -10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CEKA",
+      "name": "PT Wilmar Cahaya Indonesia Tbk.",
+      "change_pct": -4.77,
+      "move_30min": -7.32,
+      "label": "CEKA -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": -5.69,
+      "move_30min": -4.92,
+      "label": "DART -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSSI",
+      "name": "PSSI",
+      "change_pct": -6.96,
+      "move_30min": -5.77,
+      "label": "PSSI -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -6.36,
+      "move_30min": -4.63,
+      "label": "DMND -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADES",
+      "name": "PT Akasha Wira International Tbk",
+      "change_pct": -6.94,
+      "move_30min": -4.42,
+      "label": "ADES -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -6.35,
+      "move_30min": -6.35,
+      "label": "LPGI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SKLT",
+      "name": "PT Sekar Laut Tbk",
+      "change_pct": -6.15,
+      "move_30min": -4.55,
+      "label": "SKLT -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": -6.67,
+      "move_30min": -3.75,
+      "label": "PORT -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MEGA",
+      "name": "PT Bank Mega Tbk",
+      "change_pct": -6.6,
+      "move_30min": -4.32,
+      "label": "MEGA -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": -4.43,
+      "move_30min": -4.43,
+      "label": "BPII -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -6.78,
+      "move_30min": -6.78,
+      "label": "SHIP -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "MASB",
       "name": "PT Bank Multiarta Sentosa Tbk",
@@ -15276,25 +15276,928 @@
         ],
         "tickers": [
           {
-            "ticker": "TAXI",
+            "ticker": "BTEK",
             "change_pct": -30.77,
-            "contribution_score": -480.26
+            "contribution_score": -509.12
           },
           {
-            "ticker": "BTEK",
-            "change_pct": -16.67,
-            "contribution_score": -272.65
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
           },
           {
             "ticker": "PPRO",
             "change_pct": -14.29,
-            "contribution_score": -214.46
+            "contribution_score": -216.68
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-19T02:30:34.860Z",
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AISA",
+      "name": "PT FKS Food Sejahtera Tbk",
+      "change_pct": -3.16,
+      "move_30min": -6.12,
+      "label": "AISA -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MARK",
+      "name": "MARK",
+      "change_pct": 5.61,
+      "move_30min": 8.13,
+      "label": "MARK +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 335.51
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 267.15
+          },
+          {
+            "ticker": "PUDP",
+            "change_pct": 21.36,
+            "contribution_score": 245.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TMAS",
+      "name": "TMAS",
+      "change_pct": 0.93,
+      "move_30min": -6.9,
+      "label": "TMAS -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 335.51
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 267.15
+          },
+          {
+            "ticker": "PUDP",
+            "change_pct": 21.36,
+            "contribution_score": 245.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CAMP",
+      "name": "PT Campina Ice Cream Industry, Tbk.",
+      "change_pct": -4.93,
+      "move_30min": -4.26,
+      "label": "CAMP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 10.32,
+      "move_30min": -7.33,
+      "label": "JECC -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 24.84,
+            "contribution_score": 335.51
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 267.15
+          },
+          {
+            "ticker": "PUDP",
+            "change_pct": 21.36,
+            "contribution_score": 245.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNII",
+      "name": "PT Bank Maybank Indonesia Tbk",
+      "change_pct": -5.17,
+      "move_30min": -4.07,
+      "label": "BNII -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": -6.49,
+      "move_30min": -5.46,
+      "label": "AMAN -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIS",
+      "name": "PT Trisula International Tbk",
+      "change_pct": -2.78,
+      "move_30min": -3.45,
+      "label": "TRIS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KEJU",
+      "name": "KEJU",
+      "change_pct": -5.56,
+      "move_30min": -8.93,
+      "label": "KEJU -8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PANS",
+      "name": "PT Panin Sekuritas Tbk",
+      "change_pct": -0.33,
+      "move_30min": -3.85,
+      "label": "PANS -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HERO",
+      "name": "PT DFI Retail Nusantara Tbk",
+      "change_pct": -5.41,
+      "move_30min": -3.45,
+      "label": "HERO -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": -5.13,
+      "move_30min": -5.13,
+      "label": "ATIC -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": -5.04,
+      "move_30min": -5.71,
+      "label": "INCI -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPFI",
+      "name": "BPFI",
+      "change_pct": -4.24,
+      "move_30min": -3.42,
+      "label": "BPFI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PANR",
+      "name": "PT Panorama Sentrawisata Tbk",
+      "change_pct": -5.52,
+      "move_30min": -8.56,
+      "label": "PANR -8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -5.95,
+      "move_30min": -10.23,
+      "label": "BUKK -10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -0.84,
+      "move_30min": -5.6,
+      "label": "LION -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTPN",
+      "name": "PT Bank SMBC Indonesia Tbk",
+      "change_pct": -5.83,
+      "move_30min": -6.22,
+      "label": "BTPN -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNGO",
+      "name": "PT Pinago Utama Tbk",
+      "change_pct": -6.98,
+      "move_30min": -6.98,
+      "label": "PNGO -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -5.38,
+      "move_30min": -4.95,
+      "label": "MAPB -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "OMRE -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -30.77,
+            "contribution_score": -509.12
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -484.2
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -216.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:45:32.081Z",
       "status": "active",
       "summary": null
     }
