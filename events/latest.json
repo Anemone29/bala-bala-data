@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-19T02:30:34.860Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -94,
+      "label": "94% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -480.26
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -272.65
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -214.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:30:34.860Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:00:32.052Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "GOTO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -480.26
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -272.65
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -214.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:30:34.860Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": -6.99,
+      "move_30min": -6.99,
+      "label": "DSSA -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -480.26
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -272.65
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -214.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:30:34.860Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBRI",
+      "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "change_pct": -6.82,
+      "move_30min": -6.82,
+      "label": "BBRI -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -30.77,
+            "contribution_score": -480.26
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -16.67,
+            "contribution_score": -272.65
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -14.29,
+            "contribution_score": -214.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-19T02:30:34.860Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
