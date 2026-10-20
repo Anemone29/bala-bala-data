@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-20T03:30:34.103Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 83.4,
+      "label": "83% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 323.18
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 23.33,
+            "contribution_score": 295.71
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 289.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T03:30:34.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:00:34.363Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "PPRO +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 323.18
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 23.33,
+            "contribution_score": 295.71
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 289.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T03:30:34.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": 24.44,
+      "move_30min": 11,
+      "label": "AKPI +11.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 323.18
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 23.33,
+            "contribution_score": 295.71
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 289.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T03:30:34.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 14.29,
+      "move_30min": 9.09,
+      "label": "WMUU +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 323.18
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 23.33,
+            "contribution_score": 295.71
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 289.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T03:30:34.103Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
