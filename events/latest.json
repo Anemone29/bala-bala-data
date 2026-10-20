@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-10-20T02:30:33.615Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:00:34.363Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEWA",
+      "name": "PT Darma Henwa Tbk",
+      "change_pct": -4.13,
+      "move_30min": -4.13,
+      "label": "DEWA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.91,
+            "contribution_score": -139.85
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -6.9,
+            "contribution_score": -114.97
+          },
+          {
+            "ticker": "PYFA",
+            "change_pct": -8.7,
+            "contribution_score": -114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:30:33.615Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TLKM",
+      "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+      "change_pct": 11.02,
+      "move_30min": 11.02,
+      "label": "TLKM +11.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRUK",
+            "change_pct": 25,
+            "contribution_score": 322.7
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": 25,
+            "contribution_score": 286.93
+          },
+          {
+            "ticker": "TLKM",
+            "change_pct": 11.02,
+            "contribution_score": 188.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:30:33.615Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -6.12,
+      "move_30min": -6.12,
+      "label": "BNBR -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.91,
+            "contribution_score": -139.85
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -6.9,
+            "contribution_score": -114.97
+          },
+          {
+            "ticker": "PYFA",
+            "change_pct": -8.7,
+            "contribution_score": -114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:30:33.615Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPI",
+      "name": "PT Astrindo Nusantara Infrastruktur Tbk",
+      "change_pct": -6.9,
+      "move_30min": -6.9,
+      "label": "BIPI -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.91,
+            "contribution_score": -139.85
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -6.9,
+            "contribution_score": -114.97
+          },
+          {
+            "ticker": "PYFA",
+            "change_pct": -8.7,
+            "contribution_score": -114.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-20T02:30:33.615Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
