@@ -1,4 +1,221 @@
 {
   "generated_at": "2026-10-21T08:00:52.869Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73.4,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "88% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "name": "Industrials",
+            "avg_change_pct": 4.04
+          },
+          {
+            "name": "Real Estate",
+            "avg_change_pct": 2.37
+          },
+          {
+            "name": "Consumer Cyclical",
+            "avg_change_pct": 2.24
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DMAS",
+            "change_pct": 17.98,
+            "contribution_score": 324.36
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 22.32,
+            "contribution_score": 305.63
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.75,
+            "contribution_score": 297.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T02:15:00.000Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 26.32,
+      "move_30min": 9.09,
+      "label": "IPTV +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 33.9,
+            "contribution_score": 588.64
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": 26.32,
+            "contribution_score": 437.6
+          },
+          {
+            "ticker": "CARE",
+            "change_pct": 22.82,
+            "contribution_score": 428.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T08:00:52.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOBA",
+      "name": "TOBA",
+      "change_pct": -2.96,
+      "move_30min": -4,
+      "label": "TOBA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.65
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.94,
+            "contribution_score": -118.69
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T08:00:52.869Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "OBAT -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.65
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.94,
+            "contribution_score": -118.69
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -7,
+            "contribution_score": -106.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T08:00:52.869Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
