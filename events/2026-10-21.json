@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T03:45:52.769Z",
+  "generated_at": "2026-10-21T04:00:53.255Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8433,91 +8433,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -73.4,
-      "label": "73% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -9.09,
-            "contribution_score": -136.32
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9,
-            "contribution_score": -133.99
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -9.84,
-            "contribution_score": -126.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-21T03:45:52.769Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "IFSH",
-      "name": "PT Ifishdeco Tbk",
-      "change_pct": 7.26,
-      "move_30min": -14.55,
-      "label": "IFSH -14.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SOLA",
-            "change_pct": 27.12,
-            "contribution_score": 448.02
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 22.22,
-            "contribution_score": 380.74
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": 22.22,
-            "contribution_score": 377.47
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-21T03:45:52.769Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "STAR",
       "name": "STAR",
@@ -9336,49 +9251,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ASPI",
-      "name": "PT Asuransi Sinar Mas",
-      "change_pct": -6.67,
-      "move_30min": -3.14,
-      "label": "ASPI -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ASMI",
-            "change_pct": -9.09,
-            "contribution_score": -136.32
-          },
-          {
-            "ticker": "LUCY",
-            "change_pct": -9,
-            "contribution_score": -133.99
-          },
-          {
-            "ticker": "BIPP",
-            "change_pct": -9.84,
-            "contribution_score": -126.32
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-21T03:45:52.769Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "GWSA",
       "name": "GWSA",
       "change_pct": -3.88,
@@ -9417,6 +9289,822 @@
         "macro_active": null
       },
       "detected_at": "2026-10-21T03:45:52.769Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -73.4,
+      "label": "71% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": 7.26,
+      "move_30min": -13.23,
+      "label": "IFSH -13.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -6.67,
+      "move_30min": -5.52,
+      "label": "ASPI -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "WMUU -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -6.52,
+      "move_30min": -4.44,
+      "label": "WIRG -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -6.25,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "BABP -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": 10.71,
+      "move_30min": -3.13,
+      "label": "AKPI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 449.22
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 22.22,
+            "contribution_score": 383.29
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": 14.61,
+            "contribution_score": 274.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNSP",
+      "name": "PT Bakrie Sumatera Plantations Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "UNSP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": 9.57,
+      "move_30min": 8.53,
+      "label": "SOHO +8.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 449.22
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 22.22,
+            "contribution_score": 383.29
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": 14.61,
+            "contribution_score": 274.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PAMG",
+      "name": "Bima Sakti Pertiwi Tbk.",
+      "change_pct": -2.27,
+      "move_30min": -4.44,
+      "label": "PAMG -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -5.07,
+      "move_30min": -4.38,
+      "label": "SIPD -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": 9.94,
+      "move_30min": -7.01,
+      "label": "YPAS -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 449.22
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 22.22,
+            "contribution_score": 383.29
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": 14.61,
+            "contribution_score": 274.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -6.55,
+      "move_30min": -5.9,
+      "label": "BLUE -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ITIC",
+      "name": "PT Indonesian Tobacco Tbk",
+      "change_pct": -1.18,
+      "move_30min": -3.47,
+      "label": "ITIC -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -4.55,
+      "move_30min": -3.82,
+      "label": "NIRO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBSI",
+      "name": "PT Bank Bisnis Internasional Tbk",
+      "change_pct": -1.37,
+      "move_30min": -3.23,
+      "label": "BBSI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VINS",
+      "name": "VINS",
+      "change_pct": 2.56,
+      "move_30min": -3.23,
+      "label": "VINS -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 449.22
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 22.22,
+            "contribution_score": 383.29
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": 14.61,
+            "contribution_score": 274.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": -4.98,
+      "move_30min": -3.23,
+      "label": "ATIC -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": -9.09,
+            "contribution_score": -136.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": -9,
+            "contribution_score": -134.14
+          },
+          {
+            "ticker": "BIPP",
+            "change_pct": -9.84,
+            "contribution_score": -126.46
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-21T04:00:53.255Z",
       "status": "active",
       "summary": null
     }
