@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-22T03:46:04.137Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 79.5,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.11
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 342.4
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 19.76,
+            "contribution_score": 337.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T03:46:04.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.1,
+      "label": "83% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SIPD",
+            "change_pct": -13.04,
+            "contribution_score": -101.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.21,
+            "contribution_score": -98.1
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -92.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:16:07.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:01:10.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 10,
+      "move_30min": -4.55,
+      "label": "ANDI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.11
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 342.4
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 19.76,
+            "contribution_score": 337.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T03:46:04.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 13.23,
+      "move_30min": 7,
+      "label": "BAJA +7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.11
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 342.4
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 19.76,
+            "contribution_score": 337.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T03:46:04.137Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
