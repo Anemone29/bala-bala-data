@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-22T02:31:06.748Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.1,
+      "label": "83% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SIPD",
+            "change_pct": -13.04,
+            "contribution_score": -101.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.21,
+            "contribution_score": -98.1
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -92.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:16:07.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:01:10.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 33.33,
+      "move_30min": 9.09,
+      "label": "TAXI +9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": 33.33,
+            "contribution_score": 546.25
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 25,
+            "contribution_score": 319.38
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 17.86,
+            "contribution_score": 284.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:31:06.748Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": -5.59,
+      "move_30min": -5.59,
+      "label": "BUVA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -98.53
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -5.59,
+            "contribution_score": -91.42
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -5.56,
+            "contribution_score": -73.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:31:06.748Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MEDS",
+      "name": "MEDS",
+      "change_pct": 7.94,
+      "move_30min": 7.94,
+      "label": "MEDS +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": 33.33,
+            "contribution_score": 546.25
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 25,
+            "contribution_score": 319.38
+          },
+          {
+            "ticker": "HALO",
+            "change_pct": 17.86,
+            "contribution_score": 284.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:31:06.748Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
