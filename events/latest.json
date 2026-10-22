@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-22T04:01:09.203Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 79.5,
+      "label": "77% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.71
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 343.9
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 25,
+            "contribution_score": 322.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T04:01:09.203Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.1,
+      "label": "83% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SIPD",
+            "change_pct": -13.04,
+            "contribution_score": -101.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.21,
+            "contribution_score": -98.1
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -92.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:16:07.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:01:10.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 11.11,
+      "move_30min": -4.17,
+      "label": "KKES -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.71
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 343.9
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 25,
+            "contribution_score": 322.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T04:01:09.203Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "PURA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 590.71
+          },
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 343.9
+          },
+          {
+            "ticker": "BUKK",
+            "change_pct": 25,
+            "contribution_score": 322.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T04:01:09.203Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
