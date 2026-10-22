@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-22T05:01:04.926Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 81.8,
+      "label": "82% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -83.1,
+      "label": "83% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SIPD",
+            "change_pct": -13.04,
+            "contribution_score": -101.16
+          },
+          {
+            "ticker": "BUVA",
+            "change_pct": -6.21,
+            "contribution_score": -98.1
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -92.03
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:16:07.137Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T02:01:10.733Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 15,
+      "move_30min": -4.17,
+      "label": "ASMI -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAYA",
+      "name": "PT Bank Mayapada Internasional Tbk",
+      "change_pct": -1.83,
+      "move_30min": -4.73,
+      "label": "MAYA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.26,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

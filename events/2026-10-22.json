@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T04:46:04.610Z",
+  "generated_at": "2026-10-22T05:01:04.926Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6140,91 +6140,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 80.8,
-      "label": "79% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": 33.33,
-            "contribution_score": 592.91
-          },
-          {
-            "ticker": "TOBA",
-            "change_pct": 20.36,
-            "contribution_score": 351.96
-          },
-          {
-            "ticker": "BUKK",
-            "change_pct": 25,
-            "contribution_score": 322.63
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-22T04:46:04.610Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ASMI",
-      "name": "ASMI",
-      "change_pct": 15,
-      "move_30min": -4.17,
-      "label": "ASMI -4.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": 33.33,
-            "contribution_score": 592.91
-          },
-          {
-            "ticker": "TOBA",
-            "change_pct": 20.36,
-            "contribution_score": 351.96
-          },
-          {
-            "ticker": "BUKK",
-            "change_pct": 25,
-            "contribution_score": 322.63
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-22T04:46:04.610Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ANDI",
       "name": "PT Andira Agro, Tbk",
@@ -6311,11 +6226,96 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 81.8,
+      "label": "82% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 15,
+      "move_30min": -4.17,
+      "label": "ASMI -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "MAYA",
       "name": "PT Bank Mayapada Internasional Tbk",
-      "change_pct": -1.22,
-      "move_30min": -4.71,
+      "change_pct": -1.83,
+      "move_30min": -4.73,
       "label": "MAYA -4.7% dalam 30 menit",
       "drivers": {
         "sectors": [
@@ -6333,23 +6333,23 @@
           {
             "ticker": "BAPA",
             "change_pct": -6.9,
-            "contribution_score": -100.42
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
           },
           {
             "ticker": "AKKU",
             "change_pct": -5.26,
-            "contribution_score": -77.37
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": -3.8,
-            "contribution_score": -58.27
+            "contribution_score": -77.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-22T04:46:04.610Z",
+      "detected_at": "2026-10-22T05:01:04.926Z",
       "status": "active",
       "summary": null
     },
@@ -6358,8 +6358,8 @@
       "ticker": "SHIP",
       "name": "PT Sillo Maritime Perdana Tbk",
       "change_pct": -4,
-      "move_30min": -4,
-      "label": "SHIP -4.0% dalam 30 menit",
+      "move_30min": -20.73,
+      "label": "SHIP -20.7% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -6376,23 +6376,23 @@
           {
             "ticker": "BAPA",
             "change_pct": -6.9,
-            "contribution_score": -100.42
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
           },
           {
             "ticker": "AKKU",
             "change_pct": -5.26,
-            "contribution_score": -77.37
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": -3.8,
-            "contribution_score": -58.27
+            "contribution_score": -77.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-22T04:46:04.610Z",
+      "detected_at": "2026-10-22T05:01:04.926Z",
       "status": "active",
       "summary": null
     },
@@ -6419,23 +6419,23 @@
           {
             "ticker": "BAPA",
             "change_pct": -6.9,
-            "contribution_score": -100.42
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
           },
           {
             "ticker": "AKKU",
             "change_pct": -5.26,
-            "contribution_score": -77.37
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": -3.8,
-            "contribution_score": -58.27
+            "contribution_score": -77.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-22T04:46:04.610Z",
+      "detected_at": "2026-10-22T05:01:04.926Z",
       "status": "active",
       "summary": null
     },
@@ -6462,23 +6462,281 @@
           {
             "ticker": "BTEK",
             "change_pct": 33.33,
-            "contribution_score": 592.91
+            "contribution_score": 593.47
           },
           {
             "ticker": "TOBA",
-            "change_pct": 20.36,
-            "contribution_score": 351.96
+            "change_pct": 21.56,
+            "contribution_score": 373.98
           },
           {
-            "ticker": "BUKK",
-            "change_pct": 25,
-            "contribution_score": 322.63
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-22T04:46:04.610Z",
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "WMUU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "IPTV -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.26,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 0,
+      "move_30min": -3.45,
+      "label": "NETV -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": 20.92,
+      "move_30min": -3.27,
+      "label": "BUKK -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTPN",
+      "name": "PT Bank SMBC Indonesia Tbk",
+      "change_pct": 0.88,
+      "move_30min": -3.38,
+      "label": "BTPN -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 33.33,
+            "contribution_score": 593.47
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 21.56,
+            "contribution_score": 373.98
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": 18.18,
+            "contribution_score": 314.3
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CEKA",
+      "name": "PT Wilmar Cahaya Indonesia Tbk.",
+      "change_pct": -1.41,
+      "move_30min": -3.67,
+      "label": "CEKA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.9,
+            "contribution_score": -100.43
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": -5.06,
+            "contribution_score": -77.65
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.26,
+            "contribution_score": -77.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-22T05:01:04.926Z",
       "status": "active",
       "summary": null
     }
