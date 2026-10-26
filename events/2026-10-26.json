@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T07:46:04.068Z",
+  "generated_at": "2026-10-26T08:01:06.919Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8934,91 +8934,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.5,
-      "label": "74% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.93,
-            "contribution_score": -96.94
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -5.36,
-            "contribution_score": -91.06
-          },
-          {
-            "ticker": "BUKA",
-            "change_pct": -5.5,
-            "contribution_score": -85.97
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T07:46:04.068Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": 8.33,
-      "move_30min": -7.14,
-      "label": "WMUU -7.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": 18.18,
-            "contribution_score": 338.49
-          },
-          {
-            "ticker": "ANDI",
-            "change_pct": 17.86,
-            "contribution_score": 335.5
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": 12.41,
-            "contribution_score": 220.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T07:46:04.068Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "BTEK",
       "name": "PT Bumi Teknokultura Unggul Tbk",
@@ -9052,49 +8967,6 @@
             "ticker": "TPIA",
             "change_pct": 12.41,
             "contribution_score": 220.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T07:46:04.068Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "MSIN",
-      "name": "PT MNC Digital Entertainment Tbk",
-      "change_pct": -4.46,
-      "move_30min": -5.31,
-      "label": "MSIN -5.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.93,
-            "contribution_score": -96.94
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -5.36,
-            "contribution_score": -91.06
-          },
-          {
-            "ticker": "BUKA",
-            "change_pct": -5.5,
-            "contribution_score": -85.97
           }
         ],
         "foreign_flow": null,
@@ -9148,12 +9020,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "YPAS",
-      "name": "PT Yanaprima Hastapersada Tbk",
-      "change_pct": -5.21,
-      "move_30min": -4.71,
-      "label": "YPAS -4.7% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.8,
+      "label": "77% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -9168,25 +9039,498 @@
         ],
         "tickers": [
           {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
             "ticker": "BAPA",
             "change_pct": -6.93,
-            "contribution_score": -96.94
+            "contribution_score": -97.58
           },
           {
-            "ticker": "BNBR",
-            "change_pct": -5.36,
-            "contribution_score": -91.06
-          },
-          {
-            "ticker": "BUKA",
-            "change_pct": -5.5,
-            "contribution_score": -85.97
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-26T07:46:04.068Z",
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 8.33,
+      "move_30min": -7.69,
+      "label": "WMUU -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 335.55
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 17.31,
+            "contribution_score": 213.74
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 193.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -6.25,
+      "move_30min": -10.26,
+      "label": "MSIN -10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -5.21,
+      "move_30min": -3.7,
+      "label": "YPAS -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 9.09,
+      "move_30min": -7.69,
+      "label": "BTEK -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 335.55
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 17.31,
+            "contribution_score": 213.74
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 193.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 0,
+      "move_30min": -5.56,
+      "label": "BAPI -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 335.55
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 17.31,
+            "contribution_score": 213.74
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 193.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -2.11,
+      "move_30min": -3.13,
+      "label": "TYRE -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMAR",
+      "name": "PT Sinar Mas Agro Resources and Technology Tbk",
+      "change_pct": -2.17,
+      "move_30min": -3.23,
+      "label": "SMAR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMTD",
+      "name": "PT Gowa Makassar Tourism Development Tbk",
+      "change_pct": -2.84,
+      "move_30min": -3.39,
+      "label": "GMTD -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -6.99,
+      "move_30min": -3.18,
+      "label": "POLU -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IDPR",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "change_pct": -2.61,
+      "move_30min": -3.45,
+      "label": "IDPR -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STTP",
+      "name": "PT Siantar Top Tbk",
+      "change_pct": -6.03,
+      "move_30min": -4.94,
+      "label": "STTP -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.74
+          },
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -97.58
+          },
+          {
+            "ticker": "OASA",
+            "change_pct": -6.6,
+            "contribution_score": -91.51
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:01:06.919Z",
       "status": "active",
       "summary": null
     }
