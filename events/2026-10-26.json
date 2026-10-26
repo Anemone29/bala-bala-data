@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T03:31:06.378Z",
+  "generated_at": "2026-10-26T03:46:07.197Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5667,49 +5667,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "INCI",
-      "name": "PT Intanwijaya Internasional Tbk",
-      "change_pct": 10.26,
-      "move_30min": 10.26,
-      "label": "INCI +10.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BIPP",
-            "change_pct": 14.29,
-            "contribution_score": 249.97
-          },
-          {
-            "ticker": "BUVA",
-            "change_pct": 8.99,
-            "contribution_score": 162.89
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 9.09,
-            "contribution_score": 162.35
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T03:31:06.378Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "LPIN",
       "name": "PT Multi Prima Sejahtera Tbk",
@@ -5839,12 +5796,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "OMRE",
-      "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": 1.18,
-      "move_30min": -6.56,
-      "label": "OMRE -6.6% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "INCI",
+      "name": "PT Intanwijaya Internasional Tbk",
+      "change_pct": 12.82,
+      "move_30min": 7.98,
+      "label": "INCI +8.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5859,25 +5816,154 @@
         ],
         "tickers": [
           {
-            "ticker": "BIPP",
-            "change_pct": 14.29,
-            "contribution_score": 249.97
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 324.8
           },
           {
-            "ticker": "BUVA",
-            "change_pct": 8.99,
-            "contribution_score": 162.89
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 186.99
           },
           {
-            "ticker": "BTEK",
-            "change_pct": 9.09,
-            "contribution_score": 162.35
+            "ticker": "SOLA",
+            "change_pct": 10.96,
+            "contribution_score": 166.21
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-26T03:31:06.378Z",
+      "detected_at": "2026-10-26T03:46:07.197Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 4.14,
+      "move_30min": -3.83,
+      "label": "OMRE -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 324.8
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 186.99
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 10.96,
+            "contribution_score": 166.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T03:46:07.197Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 17.86,
+      "move_30min": 17.86,
+      "label": "ANDI +17.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 324.8
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 186.99
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 10.96,
+            "contribution_score": 166.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T03:46:07.197Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 10.96,
+      "move_30min": 12.5,
+      "label": "SOLA +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 324.8
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 10.9,
+            "contribution_score": 186.99
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 10.96,
+            "contribution_score": 166.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T03:46:07.197Z",
       "status": "active",
       "summary": null
     }
