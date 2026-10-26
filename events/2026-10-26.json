@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T08:46:05.926Z",
+  "generated_at": "2026-10-26T09:01:09.131Z",
   "events": [
     {
       "type": "breadth_up",
@@ -10181,48 +10181,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -79.5,
-      "label": "79% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": -6.98,
-            "contribution_score": -112.06
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -6.82,
-            "contribution_score": -110.37
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -6.25,
-            "contribution_score": -104.76
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T08:46:05.926Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "MAPB",
       "name": "PT Map Boga Adiperkasa Tbk",
@@ -10352,92 +10310,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "NETV",
-      "name": "PT MDTV Media Technologies Tbk",
-      "change_pct": -3.45,
-      "move_30min": -3.45,
-      "label": "NETV -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": -6.98,
-            "contribution_score": -112.06
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -6.82,
-            "contribution_score": -110.37
-          },
-          {
-            "ticker": "MSIN",
-            "change_pct": -6.25,
-            "contribution_score": -104.76
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T08:46:05.926Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "AMAN",
-      "name": "Makmur Berkah Amanda Tbk.",
-      "change_pct": 3.91,
-      "move_30min": -3.63,
-      "label": "AMAN -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ANDI",
-            "change_pct": 25,
-            "contribution_score": 480.5
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 18.18,
-            "contribution_score": 339.15
-          },
-          {
-            "ticker": "INCI",
-            "change_pct": 16.67,
-            "contribution_score": 206.94
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T08:46:05.926Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "JIHD",
       "name": "JIHD",
@@ -10520,6 +10392,349 @@
         "macro_active": null
       },
       "detected_at": "2026-10-26T08:46:05.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -79.5,
+      "label": "77% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.77
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -6.9,
+      "move_30min": -6.9,
+      "label": "NETV -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.77
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": 3.91,
+      "move_30min": -3.13,
+      "label": "AMAN -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 28.57,
+            "contribution_score": 554.46
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 339.71
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 15.38,
+            "contribution_score": 190.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 18.18,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 28.57,
+            "contribution_score": 554.46
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 339.71
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 15.38,
+            "contribution_score": 190.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -3.57,
+      "label": "ASMI -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 28.57,
+            "contribution_score": 554.46
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 339.71
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 15.38,
+            "contribution_score": 190.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNSP",
+      "name": "PT Bakrie Sumatera Plantations Tbk",
+      "change_pct": 3.45,
+      "move_30min": -3.23,
+      "label": "UNSP -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": 28.57,
+            "contribution_score": 554.46
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 339.71
+          },
+          {
+            "ticker": "INCI",
+            "change_pct": 15.38,
+            "contribution_score": 190.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -5.71,
+      "move_30min": -8.33,
+      "label": "RODA -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.77
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDS",
+      "name": "PT Indospring Tbk",
+      "change_pct": -4.1,
+      "move_30min": -4.1,
+      "label": "INDS -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.09
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.77
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T09:01:09.131Z",
       "status": "active",
       "summary": null
     }
