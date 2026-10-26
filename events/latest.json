@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-10-26T02:31:04.853Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:01:04.838Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 18.18,
+      "move_30min": 18.18,
+      "label": "BTEK +18.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 318.06
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 11.54,
+            "contribution_score": 193.4
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.8,
+            "contribution_score": 135.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:31:04.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TOBA",
+      "name": "TOBA",
+      "change_pct": 11.54,
+      "move_30min": 11.54,
+      "label": "TOBA +11.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 318.06
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 11.54,
+            "contribution_score": 193.4
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.8,
+            "contribution_score": 135.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:31:04.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": 7.41,
+      "move_30min": 7.41,
+      "label": "BUVA +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 318.06
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 11.54,
+            "contribution_score": 193.4
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.8,
+            "contribution_score": 135.45
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:31:04.853Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MNCN",
+      "name": "PT. Media Nusantara Citra Tbk",
+      "change_pct": -4.4,
+      "move_30min": -4.4,
+      "label": "MNCN -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BCAP",
+            "change_pct": -4.55,
+            "contribution_score": -65.32
+          },
+          {
+            "ticker": "MNCN",
+            "change_pct": -4.4,
+            "contribution_score": -64.18
+          },
+          {
+            "ticker": "BMTR",
+            "change_pct": -4.76,
+            "contribution_score": -63.21
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:31:04.853Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
