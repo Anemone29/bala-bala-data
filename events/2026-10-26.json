@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T07:31:04.356Z",
+  "generated_at": "2026-10-26T07:46:04.068Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8590,48 +8590,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -76.5,
-      "label": "74% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BUKA",
-            "change_pct": -6.42,
-            "contribution_score": -100.32
-          },
-          {
-            "ticker": "BAPA",
-            "change_pct": -6.93,
-            "contribution_score": -96.74
-          },
-          {
-            "ticker": "BNBR",
-            "change_pct": -5.36,
-            "contribution_score": -91.05
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T07:31:04.356Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "CTTH",
       "name": "CTTH",
@@ -8794,49 +8752,6 @@
             "ticker": "BNBR",
             "change_pct": -5.36,
             "contribution_score": -91.05
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-26T07:31:04.356Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": 8.33,
-      "move_30min": -9.3,
-      "label": "WMUU -9.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": 18.18,
-            "contribution_score": 338.37
-          },
-          {
-            "ticker": "ANDI",
-            "change_pct": 17.86,
-            "contribution_score": 335.2
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": 12.03,
-            "contribution_score": 212.99
           }
         ],
         "foreign_flow": null,
@@ -9015,6 +8930,263 @@
         "macro_active": null
       },
       "detected_at": "2026-10-26T07:31:04.356Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.5,
+      "label": "74% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -96.94
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -91.06
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -85.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 8.33,
+      "move_30min": -7.14,
+      "label": "WMUU -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 338.49
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 335.5
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.41,
+            "contribution_score": 220.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 18.18,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": 18.18,
+            "contribution_score": 338.49
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 17.86,
+            "contribution_score": 335.5
+          },
+          {
+            "ticker": "TPIA",
+            "change_pct": 12.41,
+            "contribution_score": 220.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -4.46,
+      "move_30min": -5.31,
+      "label": "MSIN -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -96.94
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -91.06
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -85.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBAT",
+      "name": "PT Famon Awal Bros Sedaya Tbk",
+      "change_pct": -2.38,
+      "move_30min": -3.15,
+      "label": "OBAT -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -96.94
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -91.06
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -85.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -5.21,
+      "move_30min": -4.71,
+      "label": "YPAS -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPA",
+            "change_pct": -6.93,
+            "contribution_score": -96.94
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -91.06
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -85.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T07:46:04.068Z",
       "status": "active",
       "summary": null
     }
