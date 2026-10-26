@@ -1,4 +1,206 @@
 {
   "generated_at": "2026-10-26T08:46:05.926Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -79.5,
+      "label": "79% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.06
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.37
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:46:05.926Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.3,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKA",
+            "change_pct": -6.42,
+            "contribution_score": -100.03
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.88
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": -5.48,
+            "contribution_score": -80.22
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T05:01:05.798Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.6,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.66
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -82.57
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": -5.88,
+            "contribution_score": -81.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T03:16:05.317Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:01:04.838Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "MAPB -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.98,
+            "contribution_score": -112.06
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -6.82,
+            "contribution_score": -110.37
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -6.25,
+            "contribution_score": -104.76
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T08:46:05.926Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
