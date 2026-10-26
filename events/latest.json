@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-26T04:31:07.190Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -75.3,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKA",
+            "change_pct": -6.42,
+            "contribution_score": -99.43
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -90.5
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T04:31:07.190Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -74.6,
+      "label": "75% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.66
+          },
+          {
+            "ticker": "BUKA",
+            "change_pct": -5.5,
+            "contribution_score": -82.57
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": -5.88,
+            "contribution_score": -81.74
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T03:16:05.317Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T02:01:04.838Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "NETV -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKA",
+            "change_pct": -6.42,
+            "contribution_score": -99.43
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -90.5
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T04:31:07.190Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": -4.08,
+      "move_30min": -4.08,
+      "label": "LAND -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BUKA",
+            "change_pct": -6.42,
+            "contribution_score": -99.43
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.36,
+            "contribution_score": -90.5
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.56,
+            "contribution_score": -83.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-26T04:31:07.190Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
