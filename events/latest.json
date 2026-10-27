@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-10-27T07:16:04.004Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -71.6,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": -6.52,
+            "contribution_score": -105.42
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.67,
+            "contribution_score": -103.91
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.82,
+            "contribution_score": -103.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T07:16:04.004Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 22.22,
+            "contribution_score": 345.01
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 17.58,
+            "contribution_score": 221.07
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 11.43,
+            "contribution_score": 208.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T02:31:04.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -6.12,
+      "move_30min": -3.16,
+      "label": "COCO -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPI",
+            "change_pct": -6.52,
+            "contribution_score": -105.42
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -6.67,
+            "contribution_score": -103.91
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.82,
+            "contribution_score": -103.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T07:16:04.004Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLA",
+      "name": "POLA",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "POLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 241.91
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 8.57,
+            "contribution_score": 162.68
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 11.23,
+            "contribution_score": 149.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T07:16:04.004Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 3.57,
+      "move_30min": -3.33,
+      "label": "BAUT -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 241.91
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 8.57,
+            "contribution_score": 162.68
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 11.23,
+            "contribution_score": 149.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T07:16:04.004Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
