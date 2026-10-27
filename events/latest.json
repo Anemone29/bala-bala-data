@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-10-27T04:16:04.624Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 22.22,
+            "contribution_score": 345.01
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 17.58,
+            "contribution_score": 221.07
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 11.43,
+            "contribution_score": 208.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T02:31:04.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 14.81,
+      "move_30min": -3.13,
+      "label": "NETV -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 236.29
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 15.47,
+            "contribution_score": 206.56
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:16:04.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSFI",
+      "name": "PT Dharma Samudera Fishing Industries Tbk",
+      "change_pct": 2.67,
+      "move_30min": -12.5,
+      "label": "DSFI -12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 236.29
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 15.47,
+            "contribution_score": 206.56
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:16:04.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 8.33,
+      "label": "BTEK +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 236.29
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 15.47,
+            "contribution_score": 206.56
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:16:04.624Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRAM",
+      "name": "PT Indo Kordsa Tbk",
+      "change_pct": -4.43,
+      "move_30min": -6.51,
+      "label": "BRAM -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": -8.16,
+            "contribution_score": -95.77
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -88.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:16:04.624Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
