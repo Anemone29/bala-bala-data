@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T04:16:04.624Z",
+  "generated_at": "2026-10-27T04:31:04.476Z",
   "events": [
     {
       "type": "breadth_up",
@@ -4951,8 +4951,8 @@
       "ticker": "MMLP",
       "name": "PT Mega Manunggal Property Tbk",
       "change_pct": -4.13,
-      "move_30min": -5.69,
-      "label": "MMLP -5.7% dalam 30 menit",
+      "move_30min": -4.13,
+      "label": "MMLP -4.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -4969,23 +4969,23 @@
           {
             "ticker": "WIRG",
             "change_pct": -8.16,
-            "contribution_score": -110
-          },
-          {
-            "ticker": "LAND",
-            "change_pct": -8.16,
-            "contribution_score": -95.77
+            "contribution_score": -110.55
           },
           {
             "ticker": "BNBR",
             "change_pct": -5.66,
-            "contribution_score": -88.77
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-27T04:16:04.624Z",
+      "detected_at": "2026-10-27T04:31:04.476Z",
       "status": "active",
       "summary": null
     },
@@ -5012,23 +5012,324 @@
           {
             "ticker": "WIRG",
             "change_pct": -8.16,
-            "contribution_score": -110
-          },
-          {
-            "ticker": "LAND",
-            "change_pct": -8.16,
-            "contribution_score": -95.77
+            "contribution_score": -110.55
           },
           {
             "ticker": "BNBR",
             "change_pct": -5.66,
-            "contribution_score": -88.77
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-27T04:16:04.624Z",
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 0,
+      "move_30min": 8.33,
+      "label": "TAXI +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 18.52,
+            "contribution_score": 299.34
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 14.41,
+            "contribution_score": 191.8
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": -2.6,
+      "move_30min": -3.85,
+      "label": "VRNA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110.55
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": -0.72,
+      "move_30min": -4.83,
+      "label": "SAFE -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110.55
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 7.87,
+      "move_30min": 7.87,
+      "label": "DART +7.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 18.52,
+            "contribution_score": 299.34
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 14.41,
+            "contribution_score": 191.8
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -2.11,
+      "move_30min": -4.12,
+      "label": "TYRE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110.55
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ROCK",
+      "name": "PT Rockfields Properti Indonesia Tbk",
+      "change_pct": -5.69,
+      "move_30min": -3.54,
+      "label": "ROCK -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110.55
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -5.64,
+      "move_30min": -3.09,
+      "label": "ARTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -110.55
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -5.66,
+            "contribution_score": -91.21
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -5.83,
+            "contribution_score": -89.71
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:31:04.476Z",
       "status": "active",
       "summary": null
     }
