@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-10-27T04:01:18.648Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 22.22,
+            "contribution_score": 345.01
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 17.58,
+            "contribution_score": 221.07
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 11.43,
+            "contribution_score": 208.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T02:31:04.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RICY",
+      "name": "RICY",
+      "change_pct": 3.28,
+      "move_30min": -3.17,
+      "label": "RICY -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 235.91
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 14.41,
+            "contribution_score": 191.55
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:01:18.648Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCK",
+      "name": "PT Sentral Mitra Informatika Tbk",
+      "change_pct": 0,
+      "move_30min": -3.26,
+      "label": "LUCK -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 235.91
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 14.41,
+            "contribution_score": 191.55
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 144.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:01:18.648Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "BBLD -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": -9.3,
+            "contribution_score": -126.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -109.37
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -107.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:01:18.648Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": -2.16,
+      "move_30min": -4.23,
+      "label": "TRIM -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": -9.3,
+            "contribution_score": -126.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -109.37
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -7.69,
+            "contribution_score": -107.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T04:01:18.648Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
