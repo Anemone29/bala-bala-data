@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-10-27T03:16:07.802Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 22.22,
+            "contribution_score": 345.01
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 17.58,
+            "contribution_score": 221.07
+          },
+          {
+            "ticker": "ANDI",
+            "change_pct": 11.43,
+            "contribution_score": 208.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T02:31:04.461Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 5.56,
+      "move_30min": -5.26,
+      "label": "WMUU -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 233.38
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 16.53,
+            "contribution_score": 217.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 143.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T03:16:07.802Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAN",
+      "name": "Makmur Berkah Amanda Tbk.",
+      "change_pct": 1.62,
+      "move_30min": -4.08,
+      "label": "AMAN -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 233.38
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 16.53,
+            "contribution_score": 217.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 143.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T03:16:07.802Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "GMTD",
+      "name": "PT Gowa Makassar Tourism Development Tbk",
+      "change_pct": 3.51,
+      "move_30min": 9.26,
+      "label": "GMTD +9.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": 14.81,
+            "contribution_score": 233.38
+          },
+          {
+            "ticker": "ARII",
+            "change_pct": 16.53,
+            "contribution_score": 217.42
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.82,
+            "contribution_score": 143.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T03:16:07.802Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -4,
+      "move_30min": -7.69,
+      "label": "GOTO -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -8.08,
+            "contribution_score": -114.91
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -113.08
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": -8.16,
+            "contribution_score": -108.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-27T03:16:07.802Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
