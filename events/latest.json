@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-28T04:31:07.179Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.7,
+      "label": "77% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -15.38,
+            "contribution_score": -227.39
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -13.04,
+            "contribution_score": -217.23
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.24,
+            "contribution_score": -187.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-28T04:31:07.179Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-28T02:01:11.402Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": 18.91,
+      "move_30min": -10.13,
+      "label": "MAPB -10.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 12.07,
+            "contribution_score": 210.24
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": 14.69,
+            "contribution_score": 207.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.65,
+            "contribution_score": 137.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-28T04:31:07.179Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": 8.87,
+      "move_30min": -3.7,
+      "label": "DART -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BIPP",
+            "change_pct": 12.07,
+            "contribution_score": 210.24
+          },
+          {
+            "ticker": "ESTA",
+            "change_pct": 14.69,
+            "contribution_score": 207.7
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 8.65,
+            "contribution_score": 137.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-28T04:31:07.179Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -4.71,
+      "move_30min": -3.95,
+      "label": "ARTA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -15.38,
+            "contribution_score": -227.39
+          },
+          {
+            "ticker": "BIPI",
+            "change_pct": -13.04,
+            "contribution_score": -217.23
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.24,
+            "contribution_score": -187.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-28T04:31:07.179Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
