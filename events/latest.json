@@ -1,4 +1,207 @@
 {
   "generated_at": "2026-10-29T07:00:41.331Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88.1,
+      "label": "88% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.88
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -239.18
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:00:41.331Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88,
+      "label": "88% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.42
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T05:00:43.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T02:00:33.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CSRA",
+      "name": "CSRA",
+      "change_pct": 18.33,
+      "move_30min": 20.34,
+      "label": "CSRA +20.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 21.89,
+            "contribution_score": 267.47
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 18.33,
+            "contribution_score": 237.67
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 154.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:00:41.331Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -16.67,
+      "move_30min": -3.23,
+      "label": "WMUU -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.88
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -239.18
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.73
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:00:41.331Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
