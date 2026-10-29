@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T06:30:40.317Z",
+  "generated_at": "2026-10-29T06:45:40.277Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8204,91 +8204,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -87.5,
-      "label": "88% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.44
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -210.69
-          },
-          {
-            "ticker": "HRME",
-            "change_pct": -16.22,
-            "contribution_score": -190.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T06:30:40.317Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "IPTV",
-      "name": "PT MNC Vision Networks Tbk",
-      "change_pct": -5,
-      "move_30min": -5,
-      "label": "IPTV -5.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.44
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -210.69
-          },
-          {
-            "ticker": "HRME",
-            "change_pct": -16.22,
-            "contribution_score": -190.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T06:30:40.317Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PPRO",
       "name": "PT Pembangunan Perumahan Properti Tbk",
@@ -8322,49 +8237,6 @@
             "ticker": "TMAS",
             "change_pct": 7.27,
             "contribution_score": 117.37
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T06:30:40.317Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WOMF",
-      "name": "WOMF",
-      "change_pct": -2.17,
-      "move_30min": -4.26,
-      "label": "WOMF -4.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.44
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -210.69
-          },
-          {
-            "ticker": "HRME",
-            "change_pct": -16.22,
-            "contribution_score": -190.2
           }
         ],
         "foreign_flow": null,
@@ -8504,12 +8376,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "PUDP",
-      "name": "PUDP",
-      "change_pct": -1.94,
-      "move_30min": -4.72,
-      "label": "PUDP -4.7% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -87.8,
+      "label": "88% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -8526,23 +8397,152 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.44
+            "contribution_score": -278.81
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -210.69
+            "contribution_score": -210.71
           },
           {
             "ticker": "HRME",
             "change_pct": -16.22,
-            "contribution_score": -190.2
+            "contribution_score": -190.31
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T06:30:40.317Z",
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -5,
+      "move_30min": -5,
+      "label": "IPTV -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": -2.17,
+      "move_30min": -4.26,
+      "label": "WOMF -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -5.34,
+      "move_30min": -5.34,
+      "label": "PUDP -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
       "status": "active",
       "summary": null
     },
@@ -8551,8 +8551,8 @@
       "ticker": "SHIP",
       "name": "PT Sillo Maritime Perdana Tbk",
       "change_pct": -5.95,
-      "move_30min": -3.66,
-      "label": "SHIP -3.7% dalam 30 menit",
+      "move_30min": -3.41,
+      "label": "SHIP -3.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8569,23 +8569,195 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.44
+            "contribution_score": -278.81
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -210.69
+            "contribution_score": -210.71
           },
           {
             "ticker": "HRME",
             "change_pct": -16.22,
-            "contribution_score": -190.2
+            "contribution_score": -190.31
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T06:30:40.317Z",
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CSRA",
+      "name": "CSRA",
+      "change_pct": 15.83,
+      "move_30min": 17.8,
+      "label": "CSRA +17.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": 19.23,
+            "contribution_score": 317.68
+          },
+          {
+            "ticker": "YPAS",
+            "change_pct": 20.71,
+            "contribution_score": 251.56
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 15.83,
+            "contribution_score": 194.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WGSH",
+      "name": "WGSH",
+      "change_pct": -2.86,
+      "move_30min": -5.56,
+      "label": "WGSH -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DNAR",
+      "name": "PT Bank Oke Indonesia Tbk",
+      "change_pct": -3.92,
+      "move_30min": -4.85,
+      "label": "DNAR -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPCK",
+      "name": "PT Lippo Cikarang Tbk",
+      "change_pct": -2.06,
+      "move_30min": -4.03,
+      "label": "LPCK -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.81
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T06:45:40.277Z",
       "status": "active",
       "summary": null
     }
