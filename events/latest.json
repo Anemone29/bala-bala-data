@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-10-29T03:30:47.146Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -82.9,
+      "label": "83% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -277.45
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -230.9
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -208.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T03:30:47.146Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T02:00:33.720Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOBA",
+      "name": "TOBA",
+      "change_pct": -1.76,
+      "move_30min": -3.88,
+      "label": "TOBA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -277.45
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -230.9
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -208.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T03:30:47.146Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -16.67,
+      "move_30min": -3.23,
+      "label": "WMUU -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -277.45
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -230.9
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -208.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T03:30:47.146Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "PPRO -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -277.45
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -230.9
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -208.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T03:30:47.146Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
