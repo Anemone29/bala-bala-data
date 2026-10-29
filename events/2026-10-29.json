@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T04:45:43.896Z",
+  "generated_at": "2026-10-29T05:00:43.211Z",
   "events": [
     {
       "type": "breadth_up",
@@ -7560,48 +7560,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -87.8,
-      "label": "88% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.37
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -235.48
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -210.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T04:45:43.896Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "PURA",
       "name": "PT Surya Pertiwi Tbk",
@@ -7818,49 +7776,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "RODA",
-      "name": "PT Pikko Land Development Tbk",
-      "change_pct": -6.06,
-      "move_30min": -3.13,
-      "label": "RODA -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.37
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -235.48
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -210.66
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T04:45:43.896Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ARII",
       "name": "PT Atlas Resources Tbk",
       "change_pct": -6.8,
@@ -7989,12 +7904,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "OBMD",
-      "name": "OBM Drilchem Tbk.",
-      "change_pct": -6.75,
-      "move_30min": -7.88,
-      "label": "OBMD -7.9% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88,
+      "label": "88% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -8011,23 +7925,109 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.37
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -235.48
+            "contribution_score": -278.42
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -210.66
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T04:45:43.896Z",
+      "detected_at": "2026-10-29T05:00:43.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -6.06,
+      "move_30min": -3.13,
+      "label": "RODA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.42
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T05:00:43.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": -6.75,
+      "move_30min": -4.85,
+      "label": "OBMD -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.42
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T05:00:43.211Z",
       "status": "active",
       "summary": null
     },
@@ -8036,8 +8036,8 @@
       "ticker": "SPMA",
       "name": "PT Suparma Tbk",
       "change_pct": -5.84,
-      "move_30min": -3.33,
-      "label": "SPMA -3.3% dalam 30 menit",
+      "move_30min": -5.23,
+      "label": "SPMA -5.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8054,23 +8054,23 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.37
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -235.48
+            "contribution_score": -278.42
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -210.66
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T04:45:43.896Z",
+      "detected_at": "2026-10-29T05:00:43.211Z",
       "status": "active",
       "summary": null
     },
@@ -8079,8 +8079,8 @@
       "ticker": "SONA",
       "name": "PT Sona Topas Tourism Industry Tbk",
       "change_pct": -6.64,
-      "move_30min": -4.26,
-      "label": "SONA -4.3% dalam 30 menit",
+      "move_30min": -3.4,
+      "label": "SONA -3.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8097,23 +8097,109 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.37
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -235.48
+            "contribution_score": -278.42
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -210.66
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T04:45:43.896Z",
+      "detected_at": "2026-10-29T05:00:43.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "PPRO -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.42
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T05:00:43.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNLI",
+      "name": "PT Bank Permata Tbk",
+      "change_pct": -4.49,
+      "move_30min": -3.25,
+      "label": "BNLI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.42
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -210.69
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -16.22,
+            "contribution_score": -190.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T05:00:43.211Z",
       "status": "active",
       "summary": null
     }
