@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T07:00:41.331Z",
+  "generated_at": "2026-10-29T07:15:40.149Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8677,48 +8677,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -88.1,
-      "label": "88% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.88
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -239.18
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -212.73
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T07:00:41.331Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "CSRA",
       "name": "CSRA",
@@ -8752,49 +8710,6 @@
             "ticker": "LUCY",
             "change_pct": 9.65,
             "contribution_score": 154.82
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T07:00:41.331Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": -16.67,
-      "move_30min": -3.23,
-      "label": "WMUU -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.88
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -239.18
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -212.73
           }
         ],
         "foreign_flow": null,
@@ -8881,49 +8796,6 @@
             "ticker": "LUCY",
             "change_pct": 9.65,
             "contribution_score": 154.82
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T07:00:41.331Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "TARA",
-      "name": "TARA",
-      "change_pct": -6.06,
-      "move_30min": -3.13,
-      "label": "TARA -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.88
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -239.18
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -212.73
           }
         ],
         "foreign_flow": null,
@@ -9026,49 +8898,6 @@
       "change_pct": -1.44,
       "move_30min": -3.52,
       "label": "SAMF -3.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BNBR",
-            "change_pct": -16.98,
-            "contribution_score": -278.88
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.67,
-            "contribution_score": -239.18
-          },
-          {
-            "ticker": "ENRG",
-            "change_pct": -13.07,
-            "contribution_score": -212.73
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-10-29T07:00:41.331Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DMMX",
-      "name": "PT Digital Mediatama Maxima Tbk",
-      "change_pct": -5.56,
-      "move_30min": -5.56,
-      "label": "DMMX -5.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -9278,12 +9107,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "INDR",
-      "name": "INDR",
-      "change_pct": -4.24,
-      "move_30min": -4.24,
-      "label": "INDR -4.2% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -88.1,
+      "label": "87% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -9300,23 +9128,195 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.88
+            "contribution_score": -278.91
           },
           {
             "ticker": "WMUU",
             "change_pct": -16.67,
-            "contribution_score": -239.18
+            "contribution_score": -241.38
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -212.73
+            "contribution_score": -212.75
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T07:00:41.331Z",
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -16.67,
+      "move_30min": -3.23,
+      "label": "WMUU -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -6.06,
+      "move_30min": -3.13,
+      "label": "TARA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": -5.56,
+      "move_30min": -4.23,
+      "label": "DMMX -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -6.71,
+      "move_30min": -6.05,
+      "label": "INDR -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
       "status": "active",
       "summary": null
     },
@@ -9343,23 +9343,539 @@
           {
             "ticker": "BNBR",
             "change_pct": -16.98,
-            "contribution_score": -278.88
+            "contribution_score": -278.91
           },
           {
             "ticker": "WMUU",
             "change_pct": -16.67,
-            "contribution_score": -239.18
+            "contribution_score": -241.38
           },
           {
             "ticker": "ENRG",
             "change_pct": -13.07,
-            "contribution_score": -212.73
+            "contribution_score": -212.75
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-10-29T07:00:41.331Z",
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "GOTO -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 0,
+      "move_30min": 7.14,
+      "label": "PPRO +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.85,
+            "contribution_score": 308.07
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 16.67,
+            "contribution_score": 218.26
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 155.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -6.45,
+      "move_30min": -3.33,
+      "label": "VIVA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NICL",
+      "name": "PT PAM Mineral Tbk",
+      "change_pct": 3.45,
+      "move_30min": 8.11,
+      "label": "NICL +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.85,
+            "contribution_score": 308.07
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 16.67,
+            "contribution_score": 218.26
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 155.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": -1.95,
+      "move_30min": -3.21,
+      "label": "ESTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASBI",
+      "name": "ASBI",
+      "change_pct": 15,
+      "move_30min": 13.74,
+      "label": "ASBI +13.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.85,
+            "contribution_score": 308.07
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 16.67,
+            "contribution_score": 218.26
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 155.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NELY",
+      "name": "PT Pelayaran Nelly Dwi Putri Tbk",
+      "change_pct": -2.7,
+      "move_30min": -3.74,
+      "label": "NELY -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -6.88,
+      "move_30min": -9.7,
+      "label": "STAR -9.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SGRO",
+      "name": "PT Prime Agri Resources Tbk",
+      "change_pct": 2.87,
+      "move_30min": -3.37,
+      "label": "SGRO -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.85,
+            "contribution_score": 308.07
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 16.67,
+            "contribution_score": 218.26
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 155.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -2.44,
+      "move_30min": -3.23,
+      "label": "LPGI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BNBR",
+            "change_pct": -16.98,
+            "contribution_score": -278.91
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.67,
+            "contribution_score": -241.38
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -13.07,
+            "contribution_score": -212.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 3.35,
+      "move_30min": 8.82,
+      "label": "OMRE +8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "YPAS",
+            "change_pct": 24.85,
+            "contribution_score": 308.07
+          },
+          {
+            "ticker": "CSRA",
+            "change_pct": 16.67,
+            "contribution_score": 218.26
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 9.65,
+            "contribution_score": 155.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-10-29T07:15:40.149Z",
       "status": "active",
       "summary": null
     }
