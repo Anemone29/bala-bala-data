@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T02:15:12.229Z",
+  "generated_at": "2026-11-02T02:30:12.327Z",
   "events": [
     {
       "type": "breadth_up",
@@ -39,7 +39,7 @@
       "ticker": "BREADTH",
       "name": "Pelebaran penurunan pasar",
       "change_pct": -76.5,
-      "label": "77% saham melemah",
+      "label": "75% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -54,25 +54,5529 @@
         ],
         "tickers": [
           {
-            "ticker": "DMAS",
-            "change_pct": -6.56,
-            "contribution_score": -94.25
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
           },
           {
-            "ticker": "LUCY",
-            "change_pct": -7.41,
-            "contribution_score": -92.07
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
           },
           {
             "ticker": "IATA",
             "change_pct": -6.49,
-            "contribution_score": -91.52
+            "contribution_score": -94.7
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-02T02:15:12.229Z",
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 14.29,
+      "move_30min": 14.29,
+      "label": "BLTA +14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IATA",
+      "name": "PT MNC Energy Investments Tbk",
+      "change_pct": -6.49,
+      "move_30min": -6.49,
+      "label": "IATA -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "COCO",
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "change_pct": -3.8,
+      "move_30min": -3.8,
+      "label": "COCO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMAS",
+      "name": "PT Puradelta Lestari Tbk",
+      "change_pct": -6.56,
+      "move_30min": -6.56,
+      "label": "DMAS -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -4.88,
+      "move_30min": -4.88,
+      "label": "BNBR -4.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": -4.21,
+      "move_30min": -4.21,
+      "label": "BRPT -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PTRO",
+      "name": "PT Petrosea Tbk",
+      "change_pct": -5.17,
+      "move_30min": -5.17,
+      "label": "PTRO -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKA",
+      "name": "PT Bukalapak.com Tbk.",
+      "change_pct": -4.12,
+      "move_30min": -4.12,
+      "label": "BUKA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BREN",
+      "name": "BREN",
+      "change_pct": 8.08,
+      "move_30min": 8.08,
+      "label": "BREN +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SIMP",
+      "name": "PT Salim Ivomas Pratama Tbk",
+      "change_pct": 8,
+      "move_30min": 8,
+      "label": "SIMP +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MNCN",
+      "name": "PT. Media Nusantara Citra Tbk",
+      "change_pct": -3.66,
+      "move_30min": -3.66,
+      "label": "MNCN -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SMDR",
+      "name": "PT Samudera Indonesia Tbk",
+      "change_pct": -5.08,
+      "move_30min": -5.08,
+      "label": "SMDR -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AADI",
+      "name": "PT Adaro Andalan Indonesia Tbk",
+      "change_pct": -6.1,
+      "move_30min": -6.1,
+      "label": "AADI -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": -5.71,
+      "move_30min": -5.71,
+      "label": "BBKP -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOBA",
+      "name": "TOBA",
+      "change_pct": -6.06,
+      "move_30min": -6.06,
+      "label": "TOBA -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WIRG",
+      "name": "WIRG",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "WIRG -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": -6.37,
+      "move_30min": -6.37,
+      "label": "BUVA -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -6.76,
+      "move_30min": -6.76,
+      "label": "KOTA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMFI",
+      "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "GMFI -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -9.26,
+      "move_30min": -9.26,
+      "label": "LUCY -9.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARCI",
+      "name": "ARCI",
+      "change_pct": -3.47,
+      "move_30min": -3.47,
+      "label": "ARCI -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "NETV -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOWR",
+      "name": "PT Sarana Menara Nusantara Tbk.",
+      "change_pct": -3.28,
+      "move_30min": -3.28,
+      "label": "TOWR -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "BAUT -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AHAP",
+      "name": "AHAP",
+      "change_pct": -6.98,
+      "move_30min": -6.98,
+      "label": "AHAP -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PYFA",
+      "name": "PT Pyridam Farma Tbk",
+      "change_pct": -6.77,
+      "move_30min": -6.77,
+      "label": "PYFA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MLPL",
+      "name": "MLPL",
+      "change_pct": -5.17,
+      "move_30min": -5.17,
+      "label": "MLPL -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TMAS",
+      "name": "TMAS",
+      "change_pct": -3.36,
+      "move_30min": -3.36,
+      "label": "TMAS -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -6.9,
+      "move_30min": -6.9,
+      "label": "ANDI -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BEST",
+      "name": "PT Bekasi Fajar Industrial Estate Tbk",
+      "change_pct": -4.04,
+      "move_30min": -4.04,
+      "label": "BEST -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASLC",
+      "name": "PT Autopedia Sukses Lestari Tbk",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "ASLC -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -4.81,
+      "move_30min": -4.81,
+      "label": "TRIN -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPI",
+      "name": "PT. Mitra Adiperkasa Tbk",
+      "change_pct": -6.48,
+      "move_30min": -6.48,
+      "label": "MAPI -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 20.45,
+      "move_30min": 20.45,
+      "label": "SAFE +20.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IDPR",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "change_pct": 20.37,
+      "move_30min": 20.37,
+      "label": "IDPR +20.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "RODA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "LAPD -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTO",
+      "name": "PT Bank Jago Tbk",
+      "change_pct": -3.53,
+      "move_30min": -3.53,
+      "label": "ARTO -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": -6.15,
+      "move_30min": -6.15,
+      "label": "TRON -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "BAPI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "BABP -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": -5.77,
+      "move_30min": -5.77,
+      "label": "SLIS -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "KKES -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSNG",
+      "name": "PT Dharma Satya Nusantara Tbk",
+      "change_pct": -6.77,
+      "move_30min": -6.77,
+      "label": "DSNG -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IMPC",
+      "name": "PT Impack Pratama Industri Tbk",
+      "change_pct": -6.85,
+      "move_30min": -6.85,
+      "label": "IMPC -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HMSP",
+      "name": "PT Hanjaya Mandala Sampoerna Tbk",
+      "change_pct": -3.01,
+      "move_30min": -3.01,
+      "label": "HMSP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "LAND -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "BIPP -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "BAPA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRTA",
+      "name": "HRTA",
+      "change_pct": -3.5,
+      "move_30min": -3.5,
+      "label": "HRTA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MITI",
+      "name": "PT Mitra Investindo Tbk",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "MITI -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": -6.83,
+      "move_30min": -6.83,
+      "label": "OASA -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PIPA",
+      "name": "Oxala Energy International Tbk.",
+      "change_pct": -6.17,
+      "move_30min": -6.17,
+      "label": "PIPA -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "HRME -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HEAL",
+      "name": "PT Medikaloka Hermina Tbk",
+      "change_pct": -4.47,
+      "move_30min": -4.47,
+      "label": "HEAL -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "MSIN -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VICI",
+      "name": "PT Victoria Care Indonesia Tbk",
+      "change_pct": -6.6,
+      "move_30min": -6.6,
+      "label": "VICI -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "FILM",
+      "name": "PT.MD Entertainment Tbk",
+      "change_pct": -6.62,
+      "move_30min": -6.62,
+      "label": "FILM -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "WEGE -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -5.71,
+      "move_30min": -5.71,
+      "label": "JAST -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RSCH",
+      "name": "Charlie Hospital Semarang Tbk.",
+      "change_pct": -5.96,
+      "move_30min": -5.96,
+      "label": "RSCH -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": -6.37,
+      "move_30min": -6.37,
+      "label": "KICI -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": -5.71,
+      "move_30min": -5.71,
+      "label": "CTTH -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CCSI",
+      "name": "CCSI",
+      "change_pct": -5.98,
+      "move_30min": -5.98,
+      "label": "CCSI -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": 10.14,
+      "move_30min": 10.14,
+      "label": "VRNA +10.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KIOS",
+      "name": "PT Kioson Komersial Indonesia Tbk",
+      "change_pct": -5.08,
+      "move_30min": -5.08,
+      "label": "KIOS -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TPMA",
+      "name": "PT Trans Power Marine Tbk",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "TPMA -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CGAS",
+      "name": "Citra Nusantara Gemilang Tbk.",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "CGAS -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PAMG",
+      "name": "Bima Sakti Pertiwi Tbk.",
+      "change_pct": -9.09,
+      "move_30min": -6.98,
+      "label": "PAMG -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": -5.88,
+      "move_30min": -5.88,
+      "label": "AKKU -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": -6.38,
+      "move_30min": -6.38,
+      "label": "ASPI -6.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOID",
+      "name": "PT Buma Internasional Grup Tbk",
+      "change_pct": -4.67,
+      "move_30min": -4.67,
+      "label": "DOID -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TUGU",
+      "name": "TUGU",
+      "change_pct": -3.21,
+      "move_30min": -3.21,
+      "label": "TUGU -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "BAJA -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "ASMI -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MLPT",
+      "name": "PT Multipolar Technology Tbk",
+      "change_pct": -6.93,
+      "move_30min": -6.93,
+      "label": "MLPT -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": -6.98,
+      "move_30min": -6.98,
+      "label": "NICE -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AWAN",
+      "name": "Era Digital Media Tbk.",
+      "change_pct": -4.97,
+      "move_30min": -4.97,
+      "label": "AWAN -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BANK",
+      "name": "PT Bank Aladin Syariah Tbk",
+      "change_pct": -4.21,
+      "move_30min": -4.21,
+      "label": "BANK -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -6.92,
+      "move_30min": -6.92,
+      "label": "BRNA -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PRIM",
+      "name": "PRIM",
+      "change_pct": -3.25,
+      "move_30min": -3.25,
+      "label": "PRIM -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSDN",
+      "name": "PT Prasidha Aneka Niaga Tbk",
+      "change_pct": -6.1,
+      "move_30min": -6.1,
+      "label": "PSDN -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BISI",
+      "name": "PT BISI International Tbk",
+      "change_pct": -6.87,
+      "move_30min": -6.87,
+      "label": "BISI -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TOTL",
+      "name": "PT Total Bangun Persada Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "TOTL -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CARE",
+      "name": "CARE",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "CARE -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TSPC",
+      "name": "PT Tempo Scan Pacific Tbk",
+      "change_pct": -3.73,
+      "move_30min": -3.73,
+      "label": "TSPC -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BEEF",
+      "name": "PT Estika Tata Tiara Tbk",
+      "change_pct": -3.78,
+      "move_30min": -3.78,
+      "label": "BEEF -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -5.17,
+      "move_30min": -5.17,
+      "label": "PICO -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": -3.83,
+      "move_30min": -3.83,
+      "label": "BYAN -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GSMF",
+      "name": "PT Equity Development Investment Tbk",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "GSMF -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": -6.67,
+      "move_30min": -6.67,
+      "label": "ESTI -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MBAP",
+      "name": "PT Mitrabara Adiperdana Tbk",
+      "change_pct": -6.75,
+      "move_30min": -6.75,
+      "label": "MBAP -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": -3.41,
+      "move_30min": -3.41,
+      "label": "DIVA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -5.93,
+      "move_30min": -5.93,
+      "label": "BKDP -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": -5.67,
+      "move_30min": -5.67,
+      "label": "TFAS -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KAEF",
+      "name": "PT Kimia Farma Tbk",
+      "change_pct": -3.55,
+      "move_30min": -3.55,
+      "label": "KAEF -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -6.09,
+      "move_30min": -6.09,
+      "label": "YPAS -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -6.49,
+      "move_30min": -6.49,
+      "label": "IFSH -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "DMMX -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "EMDE",
+      "name": "EMDE",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "EMDE -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -6.72,
+      "move_30min": -6.72,
+      "label": "PNSE -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -6.85,
+      "move_30min": -6.85,
+      "label": "BLUE -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -5,
+      "move_30min": -5,
+      "label": "MCAS -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": -5.63,
+      "move_30min": -5.63,
+      "label": "ECII -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAME",
+      "name": "PT Sarana Meditama Metropolitan Tbk",
+      "change_pct": -6.2,
+      "move_30min": -6.2,
+      "label": "SAME -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PORT",
+      "name": "PT Nusantara Pelabuhan Handal Tbk",
+      "change_pct": 11.56,
+      "move_30min": 11.56,
+      "label": "PORT +11.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RIGS",
+      "name": "PT Rig Tenders Indonesia Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "RIGS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PALM",
+      "name": "PT Provident Investasi Bersama Tbk",
+      "change_pct": -5.5,
+      "move_30min": -5.5,
+      "label": "PALM -5.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LIFE",
+      "name": "LIFE",
+      "change_pct": 8.89,
+      "move_30min": 8.89,
+      "label": "LIFE +8.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAFE",
+            "change_pct": 20.45,
+            "contribution_score": 246.59
+          },
+          {
+            "ticker": "IDPR",
+            "change_pct": 20.37,
+            "contribution_score": 243.5
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 14.29,
+            "contribution_score": 229.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ADES",
+      "name": "PT Akasha Wira International Tbk",
+      "change_pct": -4.26,
+      "move_30min": -4.26,
+      "label": "ADES -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BPII",
+      "name": "PT Batavia Prosperindo Internasional Tbk",
+      "change_pct": -3.9,
+      "move_30min": -3.9,
+      "label": "BPII -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSML",
+      "name": "PT Bank Sahabat Sampoerna",
+      "change_pct": -6.7,
+      "move_30min": -6.7,
+      "label": "BSML -6.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": -4.33,
+      "move_30min": -4.33,
+      "label": "ALDO -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "STAR -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": -3.06,
+      "move_30min": -3.06,
+      "label": "BCIC -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -6.9,
+      "move_30min": -6.9,
+      "label": "MASB -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RANC",
+      "name": "RANC",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "RANC -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -4.13,
+      "move_30min": -4.13,
+      "label": "SIPD -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -4.58,
+      "move_30min": -4.58,
+      "label": "BSIM -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": -5.83,
+      "move_30min": -5.83,
+      "label": "MAPB -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -6.15,
+      "move_30min": -6.15,
+      "label": "SHID -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -6.54,
+      "move_30min": -6.54,
+      "label": "POLU -6.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DEPO",
+      "name": "PT Caturkarda Depo Bangunan Tbk",
+      "change_pct": -3.81,
+      "move_30min": -3.81,
+      "label": "DEPO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNGO",
+      "name": "PT Pinago Utama Tbk",
+      "change_pct": -5.92,
+      "move_30min": -5.92,
+      "label": "PNGO -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GDYR",
+      "name": "PT Goodyear Indonesia Tbk",
+      "change_pct": -6.57,
+      "move_30min": -6.57,
+      "label": "GDYR -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBSI",
+      "name": "PT Bank Bisnis Internasional Tbk",
+      "change_pct": -3.09,
+      "move_30min": -3.09,
+      "label": "BBSI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "BTON -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SGRO",
+      "name": "PT Prime Agri Resources Tbk",
+      "change_pct": -6.15,
+      "move_30min": -6.15,
+      "label": "SGRO -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LUCY",
+            "change_pct": -9.26,
+            "contribution_score": -118.87
+          },
+          {
+            "ticker": "DMAS",
+            "change_pct": -6.56,
+            "contribution_score": -95.15
+          },
+          {
+            "ticker": "IATA",
+            "change_pct": -6.49,
+            "contribution_score": -94.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-02T02:30:12.327Z",
       "status": "active",
       "summary": null
     }
