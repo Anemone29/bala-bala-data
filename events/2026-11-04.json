@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T03:45:12.404Z",
+  "generated_at": "2026-11-04T04:00:12.556Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9108,48 +9108,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -81.1,
-      "label": "78% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -18.18,
-            "contribution_score": -257.65
-          },
-          {
-            "ticker": "DOOH",
-            "change_pct": -13.08,
-            "contribution_score": -200.23
-          },
-          {
-            "ticker": "IATA",
-            "change_pct": -12.66,
-            "contribution_score": -195.33
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-04T03:45:12.404Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RODA",
       "name": "PT Pikko Land Development Tbk",
@@ -9795,49 +9753,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "ATIC",
-      "name": "ATIC",
-      "change_pct": 4.27,
-      "move_30min": 7.32,
-      "label": "ATIC +7.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "CITY",
-            "change_pct": 9.35,
-            "contribution_score": 110.64
-          },
-          {
-            "ticker": "AKPI",
-            "change_pct": 5.88,
-            "contribution_score": 76.09
-          },
-          {
-            "ticker": "CAMP",
-            "change_pct": 5.34,
-            "contribution_score": 66.72
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-04T03:45:12.404Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GMTD",
       "name": "PT Gowa Makassar Tourism Development Tbk",
@@ -9881,12 +9796,11 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MAPB",
-      "name": "PT Map Boga Adiperkasa Tbk",
-      "change_pct": 7.88,
-      "move_30min": 7.88,
-      "label": "MAPB +7.9% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -81.1,
+      "label": "75% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -9901,25 +9815,584 @@
         ],
         "tickers": [
           {
-            "ticker": "CITY",
-            "change_pct": 9.35,
-            "contribution_score": 110.64
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
           },
           {
-            "ticker": "AKPI",
-            "change_pct": 5.88,
-            "contribution_score": 76.09
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
           },
           {
-            "ticker": "CAMP",
-            "change_pct": 5.34,
-            "contribution_score": 66.72
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-04T03:45:12.404Z",
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": 4.27,
+      "move_30min": 10,
+      "label": "ATIC +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": 7.88,
+      "move_30min": 7.39,
+      "label": "MAPB +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CDIA",
+      "name": "PT Chandra Daya Investasi Tbk",
+      "change_pct": -5.06,
+      "move_30min": -3.43,
+      "label": "CDIA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "VIVA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": -11.76,
+      "move_30min": -3.23,
+      "label": "HOKI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASPI",
+      "name": "PT Asuransi Sinar Mas",
+      "change_pct": 6.5,
+      "move_30min": 9.17,
+      "label": "ASPI +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDLN",
+      "name": "PT Modernland Realty Tbk",
+      "change_pct": -6.25,
+      "move_30min": -3.23,
+      "label": "MDLN -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 7.58,
+      "move_30min": 9.23,
+      "label": "ECII +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BACA",
+      "name": "PT Bank Capital Indonesia Tbk",
+      "change_pct": 1.18,
+      "move_30min": -3.37,
+      "label": "BACA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCIC",
+      "name": "BCIC",
+      "change_pct": -1.1,
+      "move_30min": -3.23,
+      "label": "BCIC -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IFSH",
+      "name": "PT Ifishdeco Tbk",
+      "change_pct": -0.58,
+      "move_30min": -3.41,
+      "label": "IFSH -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.79
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -12.66,
+            "contribution_score": -186.87
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.99,
+            "contribution_score": -182.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "PEHA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKPI",
+            "change_pct": 7.56,
+            "contribution_score": 99.02
+          },
+          {
+            "ticker": "ECII",
+            "change_pct": 7.58,
+            "contribution_score": 79.31
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 77.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:00:12.556Z",
       "status": "active",
       "summary": null
     }
