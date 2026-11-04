@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T04:15:12.324Z",
+  "generated_at": "2026-11-04T04:30:12.565Z",
   "events": [
     {
       "type": "breadth_up",
@@ -10183,48 +10183,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -81.1,
-      "label": "79% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": -13.08,
-            "contribution_score": -203.89
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-04T04:15:12.324Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "HOKI",
       "name": "HOKI",
@@ -10527,92 +10485,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "WEGE",
-      "name": "WEGE",
-      "change_pct": -6.9,
-      "move_30min": -3.57,
-      "label": "WEGE -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": -13.08,
-            "contribution_score": -203.89
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-04T04:15:12.324Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "CASS",
-      "name": "PT Cahaya Aero Services Tbk",
-      "change_pct": -0.58,
-      "move_30min": -3.1,
-      "label": "CASS -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": -13.08,
-            "contribution_score": -203.89
-          },
-          {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-04T04:15:12.324Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "OBMD",
       "name": "OBM Drilchem Tbk.",
       "change_pct": -3.21,
@@ -10655,12 +10527,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "BUKK",
-      "name": "PT Bukaka Teknik Utama Tbk",
-      "change_pct": -3.77,
-      "move_30min": -3.77,
-      "label": "BUKK -3.8% dalam 30 menit",
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -81.1,
+      "label": "77% saham melemah",
       "drivers": {
         "sectors": [
           {
@@ -10675,25 +10546,154 @@
         ],
         "tickers": [
           {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
             "ticker": "DOOH",
             "change_pct": -13.08,
-            "contribution_score": -203.89
+            "contribution_score": -203.94
           },
           {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-04T04:15:12.324Z",
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -6.9,
+      "move_30min": -3.57,
+      "label": "WEGE -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CASS",
+      "name": "PT Cahaya Aero Services Tbk",
+      "change_pct": -0.58,
+      "move_30min": -3.1,
+      "label": "CASS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -3.77,
+      "move_30min": -4.32,
+      "label": "BUKK -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
       "status": "active",
       "summary": null
     },
@@ -10702,8 +10702,8 @@
       "ticker": "LION",
       "name": "PT Lion Metal Works Tbk",
       "change_pct": -11.2,
-      "move_30min": -6.72,
-      "label": "LION -6.7% dalam 30 menit",
+      "move_30min": -5.04,
+      "label": "LION -5.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -10718,25 +10718,25 @@
         ],
         "tickers": [
           {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
             "ticker": "DOOH",
             "change_pct": -13.08,
-            "contribution_score": -203.89
+            "contribution_score": -203.94
           },
           {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-04T04:15:12.324Z",
+      "detected_at": "2026-11-04T04:30:12.565Z",
       "status": "active",
       "summary": null
     },
@@ -10745,8 +10745,8 @@
       "ticker": "MYOH",
       "name": "MYOH",
       "change_pct": -6.63,
-      "move_30min": -7.58,
-      "label": "MYOH -7.6% dalam 30 menit",
+      "move_30min": -3.03,
+      "label": "MYOH -3.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -10761,25 +10761,541 @@
         ],
         "tickers": [
           {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
             "ticker": "DOOH",
             "change_pct": -13.08,
-            "contribution_score": -203.89
+            "contribution_score": -203.94
           },
           {
-            "ticker": "COCO",
-            "change_pct": -12.66,
-            "contribution_score": -187.06
-          },
-          {
-            "ticker": "MDIA",
-            "change_pct": -12.99,
-            "contribution_score": -183.46
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-04T04:15:12.324Z",
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -18.18,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 15.89,
+      "move_30min": 8.77,
+      "label": "CITY +8.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 15.89,
+            "contribution_score": 206.71
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 78.76
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 5.88,
+            "contribution_score": 76.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAST",
+      "name": "Jasnita Telekomindo Tbk.",
+      "change_pct": -4.48,
+      "move_30min": -4.48,
+      "label": "JAST -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ECII",
+      "name": "PT Electronic City Indonesia Tbk",
+      "change_pct": 3.03,
+      "move_30min": -4.23,
+      "label": "ECII -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 15.89,
+            "contribution_score": 206.71
+          },
+          {
+            "ticker": "ASPI",
+            "change_pct": 6.5,
+            "contribution_score": 78.76
+          },
+          {
+            "ticker": "AKPI",
+            "change_pct": 5.88,
+            "contribution_score": 76.52
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MBAP",
+      "name": "PT Mitrabara Adiperdana Tbk",
+      "change_pct": -0.29,
+      "move_30min": -3.12,
+      "label": "MBAP -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": -6.61,
+      "move_30min": -5.36,
+      "label": "SOHO -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DART",
+      "name": "DART",
+      "change_pct": -5.98,
+      "move_30min": -3.51,
+      "label": "DART -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": -5.1,
+      "move_30min": -4.12,
+      "label": "PUDP -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": -3.25,
+      "move_30min": -4.03,
+      "label": "NIRO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WOMF",
+      "name": "WOMF",
+      "change_pct": -3.65,
+      "move_30min": -3.65,
+      "label": "WOMF -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": -8.7,
+      "move_30min": -3.08,
+      "label": "BMAS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -18.18,
+            "contribution_score": -259.48
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": -13.08,
+            "contribution_score": -203.94
+          },
+          {
+            "ticker": "ENRG",
+            "change_pct": -12.8,
+            "contribution_score": -196.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-04T04:30:12.565Z",
       "status": "active",
       "summary": null
     }
