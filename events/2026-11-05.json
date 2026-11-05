@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:45:23.258Z",
+  "generated_at": "2026-11-05T07:00:23.344Z",
   "events": [
     {
       "type": "rapid_up",
@@ -10494,48 +10494,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 71.6,
-      "label": "72% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 23.66,
-            "contribution_score": 377.05
-          },
-          {
-            "ticker": "MDKA",
-            "change_pct": 14.67,
-            "contribution_score": 241.7
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": 11.49,
-            "contribution_score": 187.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-05T06:45:23.258Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "GWSA",
       "name": "GWSA",
@@ -10612,49 +10570,6 @@
             "ticker": "BAUT",
             "change_pct": -12,
             "contribution_score": -159.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-05T06:45:23.258Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "GOTO",
-      "name": "PT GoTo Gojek Tokopedia Tbk",
-      "change_pct": 0,
-      "move_30min": -4,
-      "label": "GOTO -4.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 23.66,
-            "contribution_score": 377.05
-          },
-          {
-            "ticker": "MDKA",
-            "change_pct": 14.67,
-            "contribution_score": 241.7
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": 11.49,
-            "contribution_score": 187.77
           }
         ],
         "foreign_flow": null,
@@ -10924,49 +10839,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "GOLD",
-      "name": "GOLD",
-      "change_pct": 3.23,
-      "move_30min": -3.03,
-      "label": "GOLD -3.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 23.66,
-            "contribution_score": 377.05
-          },
-          {
-            "ticker": "MDKA",
-            "change_pct": 14.67,
-            "contribution_score": 241.7
-          },
-          {
-            "ticker": "ARCI",
-            "change_pct": 11.49,
-            "contribution_score": 187.77
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-05T06:45:23.258Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "POLU",
       "name": "POLU",
       "change_pct": 7.26,
@@ -11009,12 +10881,140 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72.4,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 0,
+      "move_30min": -4,
+      "label": "GOTO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOLD",
+      "name": "GOLD",
+      "change_pct": 3.23,
+      "move_30min": -3.03,
+      "label": "GOLD -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "POLI",
       "name": "POLI",
       "change_pct": -6.71,
-      "move_30min": -5.44,
-      "label": "POLI -5.4% dalam 30 menit",
+      "move_30min": -4.08,
+      "label": "POLI -4.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -11031,23 +11031,23 @@
           {
             "ticker": "IPTV",
             "change_pct": -16.67,
-            "contribution_score": -241.95
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
           },
           {
             "ticker": "LAPD",
             "change_pct": -16.67,
             "contribution_score": -179.87
-          },
-          {
-            "ticker": "BAUT",
-            "change_pct": -12,
-            "contribution_score": -159.61
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-05T06:45:23.258Z",
+      "detected_at": "2026-11-05T07:00:23.344Z",
       "status": "active",
       "summary": null
     },
@@ -11074,23 +11074,496 @@
           {
             "ticker": "IPTV",
             "change_pct": -16.67,
-            "contribution_score": -241.95
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
           },
           {
             "ticker": "LAPD",
             "change_pct": -16.67,
             "contribution_score": -179.87
-          },
-          {
-            "ticker": "BAUT",
-            "change_pct": -12,
-            "contribution_score": -159.61
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-05T06:45:23.258Z",
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 0,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 0,
+      "move_30min": -9.09,
+      "label": "TAXI -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 3.7,
+      "move_30min": -3.45,
+      "label": "ANDI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 0,
+      "move_30min": 8.33,
+      "label": "PPRO +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "WMUU -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 0,
+      "move_30min": -4.08,
+      "label": "KKES -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 3.7,
+      "move_30min": 7.69,
+      "label": "HRME +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 359.99
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 232.58
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": -0.63,
+      "move_30min": -3.09,
+      "label": "OBMD -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": -1.06,
+      "move_30min": -4.12,
+      "label": "TRJA -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AMAG",
+      "name": "PT Asuransi Multi Artha Guna Tbk",
+      "change_pct": -3.72,
+      "move_30min": -4.23,
+      "label": "AMAG -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SGRO",
+      "name": "PT Prime Agri Resources Tbk",
+      "change_pct": -1.23,
+      "move_30min": -3.61,
+      "label": "SGRO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -242.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -200.13
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:00:23.344Z",
       "status": "active",
       "summary": null
     }
