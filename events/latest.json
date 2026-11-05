@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-11-05T07:45:23.118Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 73.3,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 34.72,
+            "contribution_score": 540.56
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 362.77
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 14.29,
+            "contribution_score": 260.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:45:23.118Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 18.28,
+            "contribution_score": 286.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 14.13,
+            "contribution_score": 231.68
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 205.35
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T05:00:19.705Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -243.97
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -201.64
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:45:23.118Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 5.26,
+      "move_30min": -4.76,
+      "label": "BABP -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 34.72,
+            "contribution_score": 540.56
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 22.58,
+            "contribution_score": 362.77
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 14.29,
+            "contribution_score": 260.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:45:23.118Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHID",
+      "name": "SHID",
+      "change_pct": -5.04,
+      "move_30min": -3.42,
+      "label": "SHID -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -243.97
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.76,
+            "contribution_score": -201.64
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -179.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T07:45:23.118Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
