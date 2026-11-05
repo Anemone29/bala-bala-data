@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-05T03:30:19.640Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 27.96,
+            "contribution_score": 436.9
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 13.04,
+            "contribution_score": 209.71
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 9.77,
+            "contribution_score": 151.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T03:30:19.640Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NIRO",
+      "name": "NIRO",
+      "change_pct": 9.48,
+      "move_30min": -4.72,
+      "label": "NIRO -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 27.96,
+            "contribution_score": 436.9
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 13.04,
+            "contribution_score": 209.71
+          },
+          {
+            "ticker": "ARCI",
+            "change_pct": 9.77,
+            "contribution_score": 151.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T03:30:19.640Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -14.29,
+      "move_30min": -5.26,
+      "label": "BABP -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -240.23
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -14.29,
+            "contribution_score": -179.93
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -161.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T03:30:19.640Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -18.18,
+      "label": "TAXI -18.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -240.23
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -14.29,
+            "contribution_score": -179.93
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -161.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T03:30:19.640Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -16.67,
+      "move_30min": -11.76,
+      "label": "IPTV -11.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -240.23
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": -14.29,
+            "contribution_score": -179.93
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -161.82
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T03:30:19.640Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
