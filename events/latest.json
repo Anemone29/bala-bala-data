@@ -1,4 +1,47 @@
 {
   "generated_at": "2026-11-05T02:15:19.612Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "86% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 21.51,
+            "contribution_score": 299.66
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 20.25,
+            "contribution_score": 244.9
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 9.68,
+            "contribution_score": 142.55
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T02:15:19.612Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

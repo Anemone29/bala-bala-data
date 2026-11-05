@@ -1,13 +1,13 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T02:00:19.700Z",
+  "generated_at": "2026-11-05T02:15:19.612Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "100% saham menguat",
+      "label": "86% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,15 +22,25 @@
         ],
         "tickers": [
           {
-            "ticker": "FASW",
-            "change_pct": 2.59,
-            "contribution_score": 5.57
+            "ticker": "ESTI",
+            "change_pct": 21.51,
+            "contribution_score": 299.66
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 20.25,
+            "contribution_score": 244.9
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 9.68,
+            "contribution_score": 142.55
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-05T02:00:19.700Z",
+      "detected_at": "2026-11-05T02:15:19.612Z",
       "status": "active",
       "summary": null
     }
