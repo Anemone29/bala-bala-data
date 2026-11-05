@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T04:15:19.964Z",
+  "generated_at": "2026-11-05T04:30:19.588Z",
   "events": [
     {
       "type": "rapid_up",
@@ -7485,91 +7485,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "76% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 22.58,
-            "contribution_score": 353.44
-          },
-          {
-            "ticker": "MDKA",
-            "change_pct": 14.13,
-            "contribution_score": 229.27
-          },
-          {
-            "ticker": "WIRG",
-            "change_pct": 11.43,
-            "contribution_score": 203.12
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-05T04:15:19.964Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ASBI",
-      "name": "ASBI",
-      "change_pct": -5.53,
-      "move_30min": -6.93,
-      "label": "ASBI -6.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "IPTV",
-            "change_pct": -16.67,
-            "contribution_score": -241.38
-          },
-          {
-            "ticker": "LAPD",
-            "change_pct": -16.67,
-            "contribution_score": -177.39
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -141.76
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-05T04:15:19.964Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "ESTI",
       "name": "Ever Shine Tex Tbk.",
@@ -8258,6 +8173,91 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASBI",
+      "name": "ASBI",
+      "change_pct": -5.53,
+      "move_30min": -3.09,
+      "label": "ASBI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "JECC",
       "name": "JECC",
@@ -8279,24 +8279,712 @@
         "tickers": [
           {
             "ticker": "ESTI",
-            "change_pct": 22.58,
-            "contribution_score": 353.44
+            "change_pct": 20.43,
+            "contribution_score": 319.14
           },
           {
             "ticker": "MDKA",
-            "change_pct": 14.13,
-            "contribution_score": 229.27
+            "change_pct": 15.22,
+            "contribution_score": 249.82
           },
           {
             "ticker": "WIRG",
             "change_pct": 11.43,
-            "contribution_score": 203.12
+            "contribution_score": 203.17
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-05T04:15:19.964Z",
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": -3.73,
+      "move_30min": -4.44,
+      "label": "BUVA -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CPRO",
+      "name": "PT Central Proteina Prima Tbk",
+      "change_pct": 0,
+      "move_30min": -3.13,
+      "label": "CPRO -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -4.17,
+      "label": "BAUT -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": 1.64,
+      "move_30min": -3.13,
+      "label": "CTTH -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "TARA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PICO",
+      "name": "PT Pelangi Indah Canindo Tbk",
+      "change_pct": -1.85,
+      "move_30min": -5.36,
+      "label": "PICO -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTA",
+      "name": "Esta Multi Usaha Tbk.",
+      "change_pct": 2.13,
+      "move_30min": -3.36,
+      "label": "ESTA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "YPAS",
+      "name": "PT Yanaprima Hastapersada Tbk",
+      "change_pct": -0.62,
+      "move_30min": -3.64,
+      "label": "YPAS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IDPR",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "change_pct": 1.53,
+      "move_30min": -4.33,
+      "label": "IDPR -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAYU",
+      "name": "PT Bayu Buana Tbk",
+      "change_pct": 2.25,
+      "move_30min": -3.4,
+      "label": "BAYU -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": 2.48,
+      "move_30min": -5.34,
+      "label": "TFAS -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PEHA",
+      "name": "PT Phapros Tbk",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "PEHA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMND",
+      "name": "PT Diamond Food Indonesia Tbk",
+      "change_pct": -2.83,
+      "move_30min": -7.21,
+      "label": "DMND -7.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "IPTV",
+            "change_pct": -16.67,
+            "contribution_score": -241.56
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": -16.67,
+            "contribution_score": -177.32
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -153.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAPB",
+      "name": "PT Map Boga Adiperkasa Tbk",
+      "change_pct": 0.5,
+      "move_30min": -3.35,
+      "label": "MAPB -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 20.43,
+            "contribution_score": 319.14
+          },
+          {
+            "ticker": "MDKA",
+            "change_pct": 15.22,
+            "contribution_score": 249.82
+          },
+          {
+            "ticker": "WIRG",
+            "change_pct": 11.43,
+            "contribution_score": 203.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-05T04:30:19.588Z",
       "status": "active",
       "summary": null
     }
