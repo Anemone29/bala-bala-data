@@ -1,4 +1,217 @@
 {
   "generated_at": "2026-11-09T07:00:31.356Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.7,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 18.03,
+            "contribution_score": 325.41
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.39
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 13.29,
+            "contribution_score": 250.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T06:45:31.159Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76.6,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 283.85
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.7
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 13.29,
+            "contribution_score": 249.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:30:31.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 254.75
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 163.81
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 130.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:15:31.083Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 305.39
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.37
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 15.22,
+            "contribution_score": 242.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T07:00:31.356Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "WMUU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.36,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -4.71,
+            "contribution_score": -72.98
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.77
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T07:00:31.356Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
