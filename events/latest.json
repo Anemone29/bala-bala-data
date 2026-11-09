@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-11-09T03:30:30.971Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76.6,
+      "label": "77% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 302.35
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 282.67
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 275.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T03:30:30.971Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 254.75
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 163.81
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 130.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:15:31.083Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSIM",
+      "name": "PT Bank Sinarmas Tbk",
+      "change_pct": -1.32,
+      "move_30min": -3.87,
+      "label": "BSIM -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.36,
+            "contribution_score": -90.02
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -63.13
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.92,
+            "contribution_score": -59.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T03:30:30.971Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 0,
+      "move_30min": -3.82,
+      "label": "JECC -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 302.35
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 282.67
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 275.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T03:30:30.971Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DAYA",
+      "name": "PT Duta Intidaya Tbk",
+      "change_pct": 2.5,
+      "move_30min": -3.53,
+      "label": "DAYA -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 302.35
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 282.67
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 275.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T03:30:30.971Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
