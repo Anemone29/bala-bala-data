@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-11-09T04:00:31.284Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76.6,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 303.56
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 282.89
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 277.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:00:31.284Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 254.75
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 163.81
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 130.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:15:31.083Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -7.69,
+      "move_30min": -7.69,
+      "label": "PPRO -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -105.07
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.57,
+            "contribution_score": -61.09
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:00:31.284Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SDPC",
+      "name": "SDPC",
+      "change_pct": -2.19,
+      "move_30min": -4.28,
+      "label": "SDPC -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -105.07
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.17
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.57,
+            "contribution_score": -61.09
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:00:31.284Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": 15.94,
+      "move_30min": 14.29,
+      "label": "STAR +14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DOOH",
+            "change_pct": 16.94,
+            "contribution_score": 303.56
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 282.89
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 277.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:00:31.284Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
