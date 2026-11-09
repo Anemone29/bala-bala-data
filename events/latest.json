@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-09T02:30:31.033Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 254.75
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 163.81
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 130.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:15:31.083Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DOOH",
+      "name": "PT Bersama Zatta Jaya Tbk",
+      "change_pct": 10.38,
+      "move_30min": 10.38,
+      "label": "DOOH +10.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.74,
+            "contribution_score": 339.01
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 278.4
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 172.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:30:31.033Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAJA",
+      "name": "PT Saranacentral Bajatama Tbk",
+      "change_pct": 21.74,
+      "move_30min": 21.74,
+      "label": "BAJA +21.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 21.74,
+            "contribution_score": 339.01
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 278.4
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 172.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:30:31.033Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": -3.53,
+      "move_30min": -3.53,
+      "label": "BRPT -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.88,
+            "contribution_score": -78.22
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -6.25,
+            "contribution_score": -74.52
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.36,
+            "contribution_score": -73.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:30:31.033Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DSSA",
+      "name": "PT Dian Swastatika Sentosa Tbk",
+      "change_pct": -4.17,
+      "move_30min": -4.17,
+      "label": "DSSA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.88,
+            "contribution_score": -78.22
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -6.25,
+            "contribution_score": -74.52
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.36,
+            "contribution_score": -73.88
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:30:31.033Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
