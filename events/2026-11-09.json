@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T04:45:31.206Z",
+  "generated_at": "2026-11-09T05:00:31.097Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6495,49 +6495,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BABP",
-      "name": "PT Bank MNC Internasional Tbk",
-      "change_pct": 0,
-      "move_30min": -4.76,
-      "label": "BABP -4.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "DOOH",
-            "change_pct": 16.94,
-            "contribution_score": 304.11
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 24.55,
-            "contribution_score": 284.51
-          },
-          {
-            "ticker": "INET",
-            "change_pct": 12.66,
-            "contribution_score": 237.26
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-09T04:45:31.206Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BLTA",
       "name": "PT Berlian Laju Tanker Tbk",
       "change_pct": 0,
@@ -6839,6 +6796,49 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "BABP -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.98
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 12.66,
+            "contribution_score": 237.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T05:00:31.097Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "SIPD",
       "name": "PT Sreeya Sewu Indonesia Tbk",
       "change_pct": 0.83,
@@ -6858,25 +6858,25 @@
         ],
         "tickers": [
           {
-            "ticker": "DOOH",
-            "change_pct": 16.94,
-            "contribution_score": 304.11
-          },
-          {
             "ticker": "AKSI",
             "change_pct": 24.55,
-            "contribution_score": 284.51
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.98
           },
           {
             "ticker": "INET",
             "change_pct": 12.66,
-            "contribution_score": 237.26
+            "contribution_score": 237.43
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-09T04:45:31.206Z",
+      "detected_at": "2026-11-09T05:00:31.097Z",
       "status": "active",
       "summary": null
     },
@@ -6884,9 +6884,9 @@
       "type": "rapid_down",
       "ticker": "INDR",
       "name": "INDR",
-      "change_pct": -0.81,
-      "move_30min": -3.53,
-      "label": "INDR -3.5% dalam 30 menit",
+      "change_pct": -1.21,
+      "move_30min": -3.92,
+      "label": "INDR -3.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -6901,25 +6901,197 @@
         ],
         "tickers": [
           {
-            "ticker": "KOTA",
-            "change_pct": -5.36,
-            "contribution_score": -92.28
+            "ticker": "LAPD",
+            "change_pct": -5.56,
+            "contribution_score": -74.3
           },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.73
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.57,
+            "contribution_score": -61.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T05:00:31.097Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 0,
+      "move_30min": -4,
+      "label": "GOTO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.98
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 12.66,
+            "contribution_score": 237.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T05:00:31.097Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 3.17,
+      "move_30min": -3.94,
+      "label": "BMAS -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.98
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 12.66,
+            "contribution_score": 237.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T05:00:31.097Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IDPR",
+      "name": "PT Indonesia Pondasi Raya Tbk",
+      "change_pct": -5,
+      "move_30min": -4.52,
+      "label": "IDPR -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
           {
             "ticker": "LAPD",
             "change_pct": -5.56,
             "contribution_score": -74.3
           },
           {
-            "ticker": "ASMI",
-            "change_pct": -4.76,
-            "contribution_score": -64.75
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.73
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.57,
+            "contribution_score": -61.48
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-09T04:45:31.206Z",
+      "detected_at": "2026-11-09T05:00:31.097Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TGKA",
+      "name": "PT Tigaraksa Satria Tbk",
+      "change_pct": -0.42,
+      "move_30min": -4.47,
+      "label": "TGKA -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -5.56,
+            "contribution_score": -74.3
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.73
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -3.57,
+            "contribution_score": -61.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T05:00:31.097Z",
       "status": "active",
       "summary": null
     }
