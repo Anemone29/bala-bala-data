@@ -1,4 +1,217 @@
 {
   "generated_at": "2026-11-09T06:30:31.098Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 71.7,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 284
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 15.22,
+            "contribution_score": 242.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T06:30:31.098Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 76.6,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 283.85
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 283.7
+          },
+          {
+            "ticker": "INET",
+            "change_pct": 13.29,
+            "contribution_score": 249.47
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T04:30:31.026Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAJA",
+            "change_pct": 17.39,
+            "contribution_score": 254.75
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 10.38,
+            "contribution_score": 163.81
+          },
+          {
+            "ticker": "POLU",
+            "change_pct": 20,
+            "contribution_score": 130.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T02:15:31.083Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "BAPI +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 24.55,
+            "contribution_score": 285.27
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 15.85,
+            "contribution_score": 284
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": 15.22,
+            "contribution_score": 242.23
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T06:30:31.098Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "VIVA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -106.71
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": -6.84,
+            "contribution_score": -64.76
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -4.12,
+            "contribution_score": -63.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-09T06:30:31.098Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
