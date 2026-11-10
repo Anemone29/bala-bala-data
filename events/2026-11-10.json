@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T03:00:31.242Z",
+  "generated_at": "2026-11-10T03:15:30.995Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1422,97 +1422,12 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "77% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 30.61,
-            "contribution_score": 512.44
-          },
-          {
-            "ticker": "PTRO",
-            "change_pct": 15.79,
-            "contribution_score": 249.45
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 13.14,
-            "contribution_score": 177.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T03:00:31.242Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "VIVA",
       "name": "PT Visi Media Asia Tbk",
       "change_pct": 0,
       "move_30min": -3.85,
       "label": "VIVA -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 30.61,
-            "contribution_score": 512.44
-          },
-          {
-            "ticker": "PTRO",
-            "change_pct": 15.79,
-            "contribution_score": 249.45
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 13.14,
-            "contribution_score": 177.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T03:00:31.242Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "HRME",
-      "name": "Menteng Heritage Realty Tbk.",
-      "change_pct": 2.56,
-      "move_30min": -6.98,
-      "label": "HRME -7.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1642,49 +1557,6 @@
       "change_pct": 0,
       "move_30min": -3.85,
       "label": "KKES -3.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "AKKU",
-            "change_pct": 30.61,
-            "contribution_score": 512.44
-          },
-          {
-            "ticker": "PTRO",
-            "change_pct": 15.79,
-            "contribution_score": 249.45
-          },
-          {
-            "ticker": "AKSI",
-            "change_pct": 13.14,
-            "contribution_score": 177.17
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T03:00:31.242Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAPI",
-      "name": "BAPI",
-      "change_pct": 0,
-      "move_30min": -6.25,
-      "label": "BAPI -6.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -1981,49 +1853,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ZONE",
-      "name": "Mega Perintis Tbk.",
-      "change_pct": -3.2,
-      "move_30min": -3.2,
-      "label": "ZONE -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "KOTA",
-            "change_pct": -5.66,
-            "contribution_score": -92.82
-          },
-          {
-            "ticker": "RSCH",
-            "change_pct": -4.86,
-            "contribution_score": -62.57
-          },
-          {
-            "ticker": "BSML",
-            "change_pct": -6.76,
-            "contribution_score": -55.61
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T03:00:31.242Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "LION",
       "name": "PT Lion Metal Works Tbk",
       "change_pct": 0,
@@ -2066,12 +1895,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "TGKA",
-      "name": "PT Tigaraksa Satria Tbk",
-      "change_pct": 0.64,
-      "move_30min": -3.47,
-      "label": "TGKA -3.5% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -2087,24 +1915,540 @@
         "tickers": [
           {
             "ticker": "AKKU",
-            "change_pct": 30.61,
-            "contribution_score": 512.44
+            "change_pct": 28.57,
+            "contribution_score": 481.32
           },
           {
             "ticker": "PTRO",
             "change_pct": 15.79,
-            "contribution_score": 249.45
+            "contribution_score": 250.45
           },
           {
             "ticker": "AKSI",
-            "change_pct": 13.14,
-            "contribution_score": 177.17
+            "change_pct": 14.6,
+            "contribution_score": 198.38
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-10T03:00:31.242Z",
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 5.13,
+      "move_30min": -4.65,
+      "label": "HRME -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 0,
+      "move_30min": -6.25,
+      "label": "BAPI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": -3.2,
+      "move_30min": -3.2,
+      "label": "ZONE -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -11.11,
+            "contribution_score": -131.4
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.9
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TGKA",
+      "name": "PT Tigaraksa Satria Tbk",
+      "change_pct": 0.64,
+      "move_30min": -3.27,
+      "label": "TGKA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "GOTO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -11.11,
+            "contribution_score": -131.4
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.9
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "WMUU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "JAYA",
+      "name": "JAYA",
+      "change_pct": 0.85,
+      "move_30min": -3.25,
+      "label": "JAYA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": -11.11,
+      "move_30min": -3.03,
+      "label": "LAPD -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -11.11,
+            "contribution_score": -131.4
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.9
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 0,
+      "move_30min": -5.56,
+      "label": "LAND -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": 3.45,
+      "move_30min": 7.14,
+      "label": "WEGE +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RUIS",
+      "name": "PT Radiant Utama Interinsco Tbk",
+      "change_pct": 0,
+      "move_30min": -3.93,
+      "label": "RUIS -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 28.57,
+            "contribution_score": 481.32
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 15.79,
+            "contribution_score": 250.45
+          },
+          {
+            "ticker": "AKSI",
+            "change_pct": 14.6,
+            "contribution_score": 198.38
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "INDR",
+      "name": "INDR",
+      "change_pct": -3.14,
+      "move_30min": -3.14,
+      "label": "INDR -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -11.11,
+            "contribution_score": -131.4
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.9
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.6
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T03:15:30.995Z",
       "status": "active",
       "summary": null
     }
