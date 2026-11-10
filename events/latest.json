@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-10T04:45:31.055Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "74% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.61,
+            "contribution_score": 522.54
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.02
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 16.75,
+            "contribution_score": 278.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T04:45:31.055Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": 24.83,
+      "move_30min": 17.05,
+      "label": "BLUE +17.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.61,
+            "contribution_score": 522.54
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.02
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 16.75,
+            "contribution_score": 278.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T04:45:31.055Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "GOTO -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "LAPD",
+            "change_pct": -11.11,
+            "contribution_score": -135.88
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -93.16
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -66.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T04:45:31.055Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 12.82,
+      "move_30min": -4.35,
+      "label": "HRME -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.61,
+            "contribution_score": 522.54
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.02
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 16.75,
+            "contribution_score": 278.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T04:45:31.055Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "TAXI +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 30.61,
+            "contribution_score": 522.54
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.02
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 16.75,
+            "contribution_score": 278.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T04:45:31.055Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
