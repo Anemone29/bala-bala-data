@@ -1,4 +1,47 @@
 {
   "generated_at": "2026-11-10T02:15:31.215Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKSI",
+            "change_pct": 19.71,
+            "contribution_score": 256.03
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 15.87,
+            "contribution_score": 225.93
+          },
+          {
+            "ticker": "DOOH",
+            "change_pct": 12.26,
+            "contribution_score": 204.99
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:15:31.215Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
