@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T07:45:34.383Z",
+  "generated_at": "2026-11-10T08:00:34.486Z",
   "events": [
     {
       "type": "rapid_up",
@@ -6667,49 +6667,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "HRME",
-      "name": "Menteng Heritage Realty Tbk.",
-      "change_pct": 40,
-      "move_30min": -4.55,
-      "label": "HRME -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HRME",
-            "change_pct": 40,
-            "contribution_score": 711.8
-          },
-          {
-            "ticker": "AKKU",
-            "change_pct": 34.69,
-            "contribution_score": 601.7
-          },
-          {
-            "ticker": "BLUE",
-            "change_pct": 24.83,
-            "contribution_score": 301.98
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T07:45:34.383Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ANDI",
       "name": "PT Andira Agro, Tbk",
       "change_pct": -6.67,
@@ -7053,49 +7010,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": 0,
-      "move_30min": -3.23,
-      "label": "BLTA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "HRME",
-            "change_pct": 40,
-            "contribution_score": 711.8
-          },
-          {
-            "ticker": "AKKU",
-            "change_pct": 34.69,
-            "contribution_score": 601.7
-          },
-          {
-            "ticker": "BLUE",
-            "change_pct": 24.83,
-            "contribution_score": 301.98
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-10T07:45:34.383Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "NETV",
       "name": "PT MDTV Media Technologies Tbk",
@@ -7269,6 +7183,92 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 40,
+      "move_30min": -4.55,
+      "label": "HRME -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "STAR",
       "name": "STAR",
       "change_pct": -3.33,
@@ -7290,23 +7290,281 @@
           {
             "ticker": "TAXI",
             "change_pct": -10,
-            "contribution_score": -151.35
+            "contribution_score": -151.38
           },
           {
-            "ticker": "KOTA",
-            "change_pct": -7.14,
-            "contribution_score": -119.86
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -60.95
           },
           {
-            "ticker": "ANDI",
-            "change_pct": -6.67,
-            "contribution_score": -97.38
+            "ticker": "MEDC",
+            "change_pct": -3.39,
+            "contribution_score": -50.33
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-10T07:45:34.383Z",
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 1.89,
+      "move_30min": 8,
+      "label": "KOTA +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 0,
+      "move_30min": -4.55,
+      "label": "BABP -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -4.17,
+      "label": "BAUT -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 0,
+      "move_30min": -3.57,
+      "label": "PURA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SILO",
+      "name": "PT Siloam International Hospitals Tbk",
+      "change_pct": -3.27,
+      "move_30min": -3.01,
+      "label": "SILO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -151.38
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -60.95
+          },
+          {
+            "ticker": "MEDC",
+            "change_pct": -3.39,
+            "contribution_score": -50.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 2.29,
+      "move_30min": 7.83,
+      "label": "OMRE +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 40,
+            "contribution_score": 713.24
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:00:34.486Z",
       "status": "active",
       "summary": null
     }
