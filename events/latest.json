@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-10T02:30:31.143Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "80% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": 7.55,
+      "move_30min": 7.55,
+      "label": "BRPT +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -5.66,
+      "move_30min": -5.66,
+      "label": "KOTA -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": 24.49,
+      "move_30min": 24.49,
+      "label": "AKKU +24.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PTRO",
+      "name": "PT Petrosea Tbk",
+      "change_pct": 13.4,
+      "move_30min": 13.4,
+      "label": "PTRO +13.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }

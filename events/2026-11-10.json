@@ -1,13 +1,13 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T02:15:31.215Z",
+  "generated_at": "2026-11-10T02:30:31.143Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "73% saham menguat",
+      "label": "80% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,25 +22,928 @@
         ],
         "tickers": [
           {
-            "ticker": "AKSI",
-            "change_pct": 19.71,
-            "contribution_score": 256.03
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
           },
           {
             "ticker": "CTTH",
-            "change_pct": 15.87,
-            "contribution_score": 225.93
+            "change_pct": 14.29,
+            "contribution_score": 208.22
           },
           {
-            "ticker": "DOOH",
-            "change_pct": 12.26,
-            "contribution_score": 204.99
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-10T02:15:31.215Z",
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": 7.55,
+      "move_30min": 7.55,
+      "label": "BRPT +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -5.66,
+      "move_30min": -5.66,
+      "label": "KOTA -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": 24.49,
+      "move_30min": 24.49,
+      "label": "AKKU +24.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PTRO",
+      "name": "PT Petrosea Tbk",
+      "change_pct": 13.4,
+      "move_30min": 13.4,
+      "label": "PTRO +13.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CTTH",
+      "name": "CTTH",
+      "change_pct": 14.29,
+      "move_30min": 14.29,
+      "label": "CTTH +14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 10.26,
+      "move_30min": 10.26,
+      "label": "HRME +10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 13.87,
+      "move_30min": 13.87,
+      "label": "AKSI +13.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "ANDI -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 10.71,
+      "move_30min": 10.71,
+      "label": "TRON +10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 8.33,
+      "move_30min": 8.33,
+      "label": "NETV +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KICI",
+      "name": "PT Kedaung Indah Can Tbk",
+      "change_pct": 7.45,
+      "move_30min": 7.45,
+      "label": "KICI +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RSCH",
+      "name": "Charlie Hospital Semarang Tbk.",
+      "change_pct": -6.94,
+      "move_30min": -6.94,
+      "label": "RSCH -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DNAR",
+      "name": "PT Bank Oke Indonesia Tbk",
+      "change_pct": 8.08,
+      "move_30min": 8.08,
+      "label": "DNAR +8.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 24.49,
+            "contribution_score": 389.2
+          },
+          {
+            "ticker": "CTTH",
+            "change_pct": 14.29,
+            "contribution_score": 208.22
+          },
+          {
+            "ticker": "PTRO",
+            "change_pct": 13.4,
+            "contribution_score": 202.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSML",
+      "name": "PT Bank Sahabat Sampoerna",
+      "change_pct": -6.76,
+      "move_30min": -6.76,
+      "label": "BSML -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLUE",
+      "name": "Berkah Prima Perkasa Tbk.",
+      "change_pct": -6.29,
+      "move_30min": -6.29,
+      "label": "BLUE -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -6.81,
+      "move_30min": -6.81,
+      "label": "POLU -6.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OBMD",
+      "name": "OBM Drilchem Tbk.",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "OBMD -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -5.56,
+      "move_30min": -5.56,
+      "label": "TYRE -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TFAS",
+      "name": "PT Telefast Indonesia Tbk",
+      "change_pct": -6.06,
+      "move_30min": -6.06,
+      "label": "TFAS -6.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSWD",
+      "name": "PT Bank Of India Indonesia Tbk",
+      "change_pct": -6.87,
+      "move_30min": -6.87,
+      "label": "BSWD -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "KOTA",
+            "change_pct": -5.66,
+            "contribution_score": -92.54
+          },
+          {
+            "ticker": "RSCH",
+            "change_pct": -6.94,
+            "contribution_score": -68.02
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -55.24
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T02:30:31.143Z",
       "status": "active",
       "summary": null
     }
