@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-11-10T08:15:34.406Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.52
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 16.4,
+            "contribution_score": 285.06
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 23.08,
+            "contribution_score": 275.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T07:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 32.65,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 17.95,
+            "contribution_score": 297.81
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T05:00:31.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": 40,
+      "move_30min": -4.76,
+      "label": "HRME -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 16.4,
+            "contribution_score": 288.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:15:34.406Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 2.29,
+      "move_30min": 7.83,
+      "label": "OMRE +7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 16.4,
+            "contribution_score": 288.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:15:34.406Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 5.36,
+      "move_30min": -3.28,
+      "label": "SOLA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.7
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 16.4,
+            "contribution_score": 288.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:15:34.406Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
