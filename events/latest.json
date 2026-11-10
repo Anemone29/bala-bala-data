@@ -1,4 +1,218 @@
 {
   "generated_at": "2026-11-10T08:30:34.594Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 72,
+      "label": "72% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.52
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 16.4,
+            "contribution_score": 285.06
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 23.08,
+            "contribution_score": 275.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T07:00:34.486Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 32.65,
+            "contribution_score": 560.14
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 17.95,
+            "contribution_score": 297.81
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 285.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T05:00:31.211Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 0,
+      "move_30min": 11.11,
+      "label": "TAXI +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.8
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.34,
+            "contribution_score": 269.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:30:34.594Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -5.71,
+      "label": "BBKP -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "AKKU",
+            "change_pct": 34.69,
+            "contribution_score": 601.8
+          },
+          {
+            "ticker": "BLUE",
+            "change_pct": 24.83,
+            "contribution_score": 302.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.34,
+            "contribution_score": 269.17
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:30:34.594Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -6.67,
+      "move_30min": -3.45,
+      "label": "ANDI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ANDI",
+            "change_pct": -6.67,
+            "contribution_score": -97.57
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -4.71,
+            "contribution_score": -68.31
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -6.76,
+            "contribution_score": -61.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-10T08:30:34.594Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
