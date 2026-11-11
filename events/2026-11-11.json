@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T04:45:34.330Z",
+  "generated_at": "2026-11-11T05:00:34.287Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6274,13 +6274,13 @@
           },
           {
             "ticker": "RAJA",
-            "change_pct": 18.03,
-            "contribution_score": 333.68
+            "change_pct": 15.88,
+            "contribution_score": 292.43
           },
           {
             "ticker": "LUCY",
             "change_pct": 17.72,
-            "contribution_score": 278.29
+            "contribution_score": 278.36
           }
         ],
         "foreign_flow": null,
@@ -6289,7 +6289,7 @@
           "label": "BESOK: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-11T04:45:34.330Z",
+      "detected_at": "2026-11-11T05:00:34.287Z",
       "status": "active",
       "summary": null
     },
@@ -6314,19 +6314,19 @@
         ],
         "tickers": [
           {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.31
+          },
+          {
             "ticker": "TAXI",
             "change_pct": -10,
-            "contribution_score": -125.24
+            "contribution_score": -125.59
           },
           {
-            "ticker": "UNIQ",
-            "change_pct": -5.77,
-            "contribution_score": -84.73
-          },
-          {
-            "ticker": "RAAM",
-            "change_pct": -6.5,
-            "contribution_score": -76.52
+            "ticker": "BRPT",
+            "change_pct": -6.1,
+            "contribution_score": -96.39
           }
         ],
         "foreign_flow": null,
@@ -6335,7 +6335,7 @@
           "label": "BESOK: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-11T04:45:34.330Z",
+      "detected_at": "2026-11-11T05:00:34.287Z",
       "status": "active",
       "summary": null
     },
@@ -6360,19 +6360,19 @@
         ],
         "tickers": [
           {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.31
+          },
+          {
             "ticker": "TAXI",
             "change_pct": -10,
-            "contribution_score": -125.24
+            "contribution_score": -125.59
           },
           {
-            "ticker": "UNIQ",
-            "change_pct": -5.77,
-            "contribution_score": -84.73
-          },
-          {
-            "ticker": "RAAM",
-            "change_pct": -6.5,
-            "contribution_score": -76.52
+            "ticker": "BRPT",
+            "change_pct": -6.1,
+            "contribution_score": -96.39
           }
         ],
         "foreign_flow": null,
@@ -6381,7 +6381,237 @@
           "label": "BESOK: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-11T04:45:34.330Z",
+      "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 8,
+      "move_30min": -3.57,
+      "label": "VIVA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 608.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.88,
+            "contribution_score": 292.43
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 17.72,
+            "contribution_score": 278.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -9.09,
+      "move_30min": -9.09,
+      "label": "BTEK -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.31
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -125.59
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.1,
+            "contribution_score": -96.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MLPL",
+      "name": "MLPL",
+      "change_pct": 5.66,
+      "move_30min": -5.08,
+      "label": "MLPL -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 608.01
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.88,
+            "contribution_score": 292.43
+          },
+          {
+            "ticker": "LUCY",
+            "change_pct": 17.72,
+            "contribution_score": 278.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.31
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -125.59
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.1,
+            "contribution_score": -96.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VINS",
+      "name": "VINS",
+      "change_pct": -0.94,
+      "move_30min": -4.55,
+      "label": "VINS -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -129.31
+          },
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -125.59
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.1,
+            "contribution_score": -96.39
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T05:00:34.287Z",
       "status": "active",
       "summary": null
     }
