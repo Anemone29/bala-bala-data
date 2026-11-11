@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T05:00:34.287Z",
+  "generated_at": "2026-11-11T06:30:34.409Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6612,6 +6612,98 @@
         }
       },
       "detected_at": "2026-11-11T05:00:34.287Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -4.17,
+      "label": "BAUT -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 608.14
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.88,
+            "contribution_score": 292.54
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 16.67,
+            "contribution_score": 243.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T06:30:34.409Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 2.75,
+      "move_30min": -3.45,
+      "label": "CITY -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 608.14
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 15.88,
+            "contribution_score": 292.54
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 16.67,
+            "contribution_score": 243.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T06:30:34.409Z",
       "status": "active",
       "summary": null
     }
