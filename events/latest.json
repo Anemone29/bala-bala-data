@@ -2,14 +2,223 @@
   "generated_at": "2026-11-11T03:15:34.606Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Nov 2026 Index Review",
-      "change_pct": 0,
-      "label": "BESOK: MSCI Nov 2026 Index Review",
-      "detail": "MSCI quarterly rebalance. Annual review utk MSCI All Country World Index — saham IDX bisa di-promote/demote ke index lebih tinggi.",
-      "impact": "high",
-      "event_date": "2026-11-12"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:00:34.708Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": 11.33,
+      "move_30min": -3.55,
+      "label": "BUVA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 606.61
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 18.03,
+            "contribution_score": 330.45
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 21.97,
+            "contribution_score": 323.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T03:15:34.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RAJA",
+      "name": "PT Rukun Raharja Tbk",
+      "change_pct": 20.17,
+      "move_30min": -5.17,
+      "label": "RAJA -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 606.61
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 18.03,
+            "contribution_score": 330.45
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 21.97,
+            "contribution_score": 323.11
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T03:15:34.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNIQ",
+      "name": "UNIQ",
+      "change_pct": -6.41,
+      "move_30min": -7.59,
+      "label": "UNIQ -7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.87
+          },
+          {
+            "ticker": "UNIQ",
+            "change_pct": -6.41,
+            "contribution_score": -91.45
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -4.55,
+            "contribution_score": -73.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T03:15:34.606Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -126.87
+          },
+          {
+            "ticker": "UNIQ",
+            "change_pct": -6.41,
+            "contribution_score": -91.45
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -4.55,
+            "contribution_score": -73.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T03:15:34.606Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
