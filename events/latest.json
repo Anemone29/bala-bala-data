@@ -2,14 +2,39 @@
   "generated_at": "2026-11-11T02:00:34.708Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Nov 2026 Index Review",
-      "change_pct": 0,
-      "label": "BESOK: MSCI Nov 2026 Index Review",
-      "detail": "MSCI quarterly rebalance. Annual review utk MSCI All Country World Index — saham IDX bisa di-promote/demote ke index lebih tinggi.",
-      "impact": "high",
-      "event_date": "2026-11-12"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:00:34.708Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
