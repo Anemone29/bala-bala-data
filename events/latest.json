@@ -2,14 +2,223 @@
   "generated_at": "2026-11-11T02:45:34.604Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Nov 2026 Index Review",
-      "change_pct": 0,
-      "label": "BESOK: MSCI Nov 2026 Index Review",
-      "detail": "MSCI quarterly rebalance. Annual review utk MSCI All Country World Index — saham IDX bisa di-promote/demote ke index lebih tinggi.",
-      "impact": "high",
-      "event_date": "2026-11-12"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:00:34.708Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BUVA",
+      "name": "PT Bukit Uluwatu Villa Tbk",
+      "change_pct": 19.33,
+      "move_30min": 9.03,
+      "label": "BUVA +9.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 606.3
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 24.46,
+            "contribution_score": 447.3
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 18.18,
+            "contribution_score": 262.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:45:34.604Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKKU",
+      "name": "PT Anugerah Kagum Karya Utama Tbk",
+      "change_pct": -3.03,
+      "move_30min": -9.86,
+      "label": "AKKU -9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -110.62
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.05
+          },
+          {
+            "ticker": "SSMS",
+            "change_pct": -5.7,
+            "contribution_score": -59.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:45:34.604Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": 9.3,
+      "move_30min": 8.05,
+      "label": "LUCY +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 34.15,
+            "contribution_score": 606.3
+          },
+          {
+            "ticker": "RAJA",
+            "change_pct": 24.46,
+            "contribution_score": 447.3
+          },
+          {
+            "ticker": "TFAS",
+            "change_pct": 18.18,
+            "contribution_score": 262.86
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:45:34.604Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SILO",
+      "name": "PT Siloam International Hospitals Tbk",
+      "change_pct": -4.31,
+      "move_30min": -3.48,
+      "label": "SILO -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -110.62
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": -4,
+            "contribution_score": -65.05
+          },
+          {
+            "ticker": "SSMS",
+            "change_pct": -5.7,
+            "contribution_score": -59.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "BESOK: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-11T02:45:34.604Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
