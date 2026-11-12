@@ -2,14 +2,49 @@
   "generated_at": "2026-11-12T02:15:11.570Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Nov 2026 Index Review",
-      "change_pct": 0,
-      "label": "HARI INI: MSCI Nov 2026 Index Review",
-      "detail": "MSCI quarterly rebalance. Annual review utk MSCI All Country World Index — saham IDX bisa di-promote/demote ke index lebih tinggi.",
-      "impact": "high",
-      "event_date": "2026-11-12"
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "HRME",
+            "change_pct": 12.73,
+            "contribution_score": 210.29
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 11.11,
+            "contribution_score": 168.45
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 146.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T02:15:11.570Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
