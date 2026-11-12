@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T08:15:11.847Z",
+  "generated_at": "2026-11-12T08:30:12.188Z",
   "events": [
     {
       "type": "rapid_up",
@@ -7914,103 +7914,12 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 83.7,
-      "label": "79% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 363.01
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 319.82
-          },
-          {
-            "ticker": "RODA",
-            "change_pct": 18.52,
-            "contribution_score": 302.49
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T08:15:11.847Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "VIVA",
       "name": "PT Visi Media Asia Tbk",
       "change_pct": 12,
       "move_30min": -3.45,
       "label": "VIVA -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 363.01
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 319.82
-          },
-          {
-            "ticker": "RODA",
-            "change_pct": 18.52,
-            "contribution_score": 302.49
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T08:15:11.847Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PPRO",
-      "name": "PT Pembangunan Perumahan Properti Tbk",
-      "change_pct": 0,
-      "move_30min": -7.14,
-      "label": "PPRO -7.1% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8235,6 +8144,97 @@
       "summary": null
     },
     {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 83.7,
+      "label": "78% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.69,
+            "contribution_score": 363.11
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 319.82
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 18.52,
+            "contribution_score": 302.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "PPRO -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.69,
+            "contribution_score": 363.11
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 319.82
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 18.52,
+            "contribution_score": 302.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BCAP",
       "name": "PT MNC Kapital Indonesia Tbk",
@@ -8257,7 +8257,7 @@
           {
             "ticker": "TRON",
             "change_pct": 20.69,
-            "contribution_score": 363.01
+            "contribution_score": 363.11
           },
           {
             "ticker": "GIAA",
@@ -8267,7 +8267,7 @@
           {
             "ticker": "RODA",
             "change_pct": 18.52,
-            "contribution_score": 302.49
+            "contribution_score": 302.56
           }
         ],
         "foreign_flow": null,
@@ -8276,7 +8276,7 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T08:15:11.847Z",
+      "detected_at": "2026-11-12T08:30:12.188Z",
       "status": "active",
       "summary": null
     },
@@ -8284,9 +8284,9 @@
       "type": "rapid_down",
       "ticker": "CGAS",
       "name": "Citra Nusantara Gemilang Tbk.",
-      "change_pct": 0,
-      "move_30min": -4.76,
-      "label": "CGAS -4.8% dalam 30 menit",
+      "change_pct": 0.83,
+      "move_30min": -3.97,
+      "label": "CGAS -4.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8303,7 +8303,7 @@
           {
             "ticker": "TRON",
             "change_pct": 20.69,
-            "contribution_score": 363.01
+            "contribution_score": 363.11
           },
           {
             "ticker": "GIAA",
@@ -8313,7 +8313,7 @@
           {
             "ticker": "RODA",
             "change_pct": 18.52,
-            "contribution_score": 302.49
+            "contribution_score": 302.56
           }
         ],
         "foreign_flow": null,
@@ -8322,7 +8322,7 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T08:15:11.847Z",
+      "detected_at": "2026-11-12T08:30:12.188Z",
       "status": "active",
       "summary": null
     },
@@ -8331,8 +8331,8 @@
       "ticker": "MLBI",
       "name": "PT Multi Bintang Indonesia Tbk",
       "change_pct": 5.65,
-      "move_30min": -3.68,
-      "label": "MLBI -3.7% dalam 30 menit",
+      "move_30min": -5.9,
+      "label": "MLBI -5.9% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8349,7 +8349,7 @@
           {
             "ticker": "TRON",
             "change_pct": 20.69,
-            "contribution_score": 363.01
+            "contribution_score": 363.11
           },
           {
             "ticker": "GIAA",
@@ -8359,7 +8359,7 @@
           {
             "ticker": "RODA",
             "change_pct": 18.52,
-            "contribution_score": 302.49
+            "contribution_score": 302.56
           }
         ],
         "foreign_flow": null,
@@ -8368,7 +8368,237 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T08:15:11.847Z",
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 2.86,
+      "move_30min": -5.26,
+      "label": "WMUU -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.69,
+            "contribution_score": 363.11
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 319.82
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 18.52,
+            "contribution_score": 302.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.69,
+            "contribution_score": 363.11
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 319.82
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 18.52,
+            "contribution_score": 302.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "NETV -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 20.69,
+            "contribution_score": 363.11
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 319.82
+          },
+          {
+            "ticker": "RODA",
+            "change_pct": 18.52,
+            "contribution_score": 302.56
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNGO",
+      "name": "PT Pinago Utama Tbk",
+      "change_pct": -5.85,
+      "move_30min": -5.85,
+      "label": "PNGO -5.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -127.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -90.53
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -6.13,
+            "contribution_score": -89.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBSI",
+      "name": "PT Bank Bisnis Internasional Tbk",
+      "change_pct": -3.38,
+      "move_30min": -3.7,
+      "label": "BBSI -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -127.71
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -90.53
+          },
+          {
+            "ticker": "MTEL",
+            "change_pct": -6.13,
+            "contribution_score": -89.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T08:30:12.188Z",
       "status": "active",
       "summary": null
     }
