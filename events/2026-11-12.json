@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T04:15:11.185Z",
+  "generated_at": "2026-11-12T04:30:11.942Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4005,51 +4005,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "79% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.2
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 314.46
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 17.69,
-            "contribution_score": 270.41
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T04:15:11.185Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "DNAR",
       "name": "PT Bank Oke Indonesia Tbk",
@@ -4464,12 +4419,11 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "ARTA",
-      "name": "PT Arthavest Tbk",
-      "change_pct": 1.91,
-      "move_30min": -4.05,
-      "label": "ARTA -4.1% dalam 30 menit",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "79% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -4485,8 +4439,8 @@
         "tickers": [
           {
             "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.2
+            "change_pct": 18.97,
+            "contribution_score": 328.47
           },
           {
             "ticker": "GIAA",
@@ -4496,7 +4450,7 @@
           {
             "ticker": "BKDP",
             "change_pct": 17.69,
-            "contribution_score": 270.41
+            "contribution_score": 271.19
           }
         ],
         "foreign_flow": null,
@@ -4505,7 +4459,53 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T04:15:11.185Z",
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": 1.91,
+      "move_30min": -6.22,
+      "label": "ARTA -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
       "status": "active",
       "summary": null
     },
@@ -4532,17 +4532,17 @@
           {
             "ticker": "TAXI",
             "change_pct": -10,
-            "contribution_score": -142.5
+            "contribution_score": -142.68
           },
           {
             "ticker": "BSML",
             "change_pct": -13.04,
-            "contribution_score": -121.72
+            "contribution_score": -121.68
           },
           {
-            "ticker": "TRUS",
-            "change_pct": -6.73,
-            "contribution_score": -68.07
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -89.95
           }
         ],
         "foreign_flow": null,
@@ -4551,7 +4551,7 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T04:15:11.185Z",
+      "detected_at": "2026-11-12T04:30:11.942Z",
       "status": "active",
       "summary": null
     },
@@ -4577,8 +4577,8 @@
         "tickers": [
           {
             "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.2
+            "change_pct": 18.97,
+            "contribution_score": 328.47
           },
           {
             "ticker": "GIAA",
@@ -4588,7 +4588,7 @@
           {
             "ticker": "BKDP",
             "change_pct": 17.69,
-            "contribution_score": 270.41
+            "contribution_score": 271.19
           }
         ],
         "foreign_flow": null,
@@ -4597,7 +4597,7 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T04:15:11.185Z",
+      "detected_at": "2026-11-12T04:30:11.942Z",
       "status": "active",
       "summary": null
     },
@@ -4624,17 +4624,17 @@
           {
             "ticker": "TAXI",
             "change_pct": -10,
-            "contribution_score": -142.5
+            "contribution_score": -142.68
           },
           {
             "ticker": "BSML",
             "change_pct": -13.04,
-            "contribution_score": -121.72
+            "contribution_score": -121.68
           },
           {
-            "ticker": "TRUS",
-            "change_pct": -6.73,
-            "contribution_score": -68.07
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -89.95
           }
         ],
         "foreign_flow": null,
@@ -4643,7 +4643,375 @@
           "label": "HARI INI: MSCI Nov 2026 Index Review"
         }
       },
-      "detected_at": "2026-11-12T04:15:11.185Z",
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 14.81,
+      "move_30min": -3.13,
+      "label": "RODA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BIPP",
+      "name": "PT Bhuwanatala Indah Permai Tbk",
+      "change_pct": 6.82,
+      "move_30min": -6,
+      "label": "BIPP -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 0,
+      "move_30min": -3.33,
+      "label": "ANDI -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -5.26,
+      "move_30min": -5.26,
+      "label": "IPTV -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -142.68
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -89.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 5.41,
+      "move_30min": -4.1,
+      "label": "CITY -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": -2.8,
+      "move_30min": -3.76,
+      "label": "BRNA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -142.68
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -121.68
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -5.45,
+            "contribution_score": -89.95
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SONA",
+      "name": "PT Sona Topas Tourism Industry Tbk",
+      "change_pct": 0.45,
+      "move_30min": -4.27,
+      "label": "SONA -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 328.47
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 17.69,
+            "contribution_score": 271.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T04:30:11.942Z",
       "status": "active",
       "summary": null
     }
