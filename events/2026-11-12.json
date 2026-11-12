@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T03:15:11.596Z",
+  "generated_at": "2026-11-12T03:30:11.589Z",
   "events": [
     {
       "type": "rapid_up",
@@ -1843,51 +1843,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "84% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 339.94
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": 19.7,
-            "contribution_score": 240.64
-          },
-          {
-            "ticker": "LAPD",
-            "change_pct": 18.18,
-            "contribution_score": 230.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "AWAN",
       "name": "Era Digital Media Tbk.",
@@ -2211,190 +2166,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "TAXI",
-      "name": "PT Express Transindo Utama Tbk",
-      "change_pct": -10,
-      "move_30min": -10,
-      "label": "TAXI -10.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -10,
-            "contribution_score": -136.66
-          },
-          {
-            "ticker": "BSML",
-            "change_pct": -13.04,
-            "contribution_score": -117.14
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -7.69,
-            "contribution_score": -103.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PPRO",
-      "name": "PT Pembangunan Perumahan Properti Tbk",
-      "change_pct": -7.69,
-      "move_30min": -7.69,
-      "label": "PPRO -7.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TAXI",
-            "change_pct": -10,
-            "contribution_score": -136.66
-          },
-          {
-            "ticker": "BSML",
-            "change_pct": -13.04,
-            "contribution_score": -117.14
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -7.69,
-            "contribution_score": -103.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "LAND",
-      "name": "LAND",
-      "change_pct": 5.88,
-      "move_30min": -5.26,
-      "label": "LAND -5.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 339.94
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": 19.7,
-            "contribution_score": 240.64
-          },
-          {
-            "ticker": "LAPD",
-            "change_pct": 18.18,
-            "contribution_score": 230.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "LAPD",
-      "name": "PT Leyand International Tbk",
-      "change_pct": 18.18,
-      "move_30min": 8.33,
-      "label": "LAPD +8.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 339.94
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": 19.7,
-            "contribution_score": 240.64
-          },
-          {
-            "ticker": "LAPD",
-            "change_pct": 18.18,
-            "contribution_score": 230.67
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "IPTV",
       "name": "PT MNC Vision Networks Tbk",
       "change_pct": -5.26,
@@ -2427,52 +2198,6 @@
             "ticker": "PPRO",
             "change_pct": -7.69,
             "contribution_score": -103.16
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T03:15:11.596Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BCAP",
-      "name": "PT MNC Kapital Indonesia Tbk",
-      "change_pct": 0,
-      "move_30min": -5,
-      "label": "BCAP -5.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 339.94
-          },
-          {
-            "ticker": "AWAN",
-            "change_pct": 19.7,
-            "contribution_score": 240.64
-          },
-          {
-            "ticker": "LAPD",
-            "change_pct": 18.18,
-            "contribution_score": 230.67
           }
         ],
         "foreign_flow": null,
@@ -2666,6 +2391,787 @@
         }
       },
       "detected_at": "2026-11-12T03:15:11.596Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "82% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -136.78
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -119.22
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -107.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -7.69,
+      "move_30min": -7.69,
+      "label": "PPRO -7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -136.78
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -119.22
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -107.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 8.82,
+      "move_30min": -5.13,
+      "label": "LAND -5.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAPD",
+      "name": "PT Leyand International Tbk",
+      "change_pct": 18.18,
+      "move_30min": 8.33,
+      "label": "LAPD +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -5,
+      "label": "BCAP -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 7.25,
+      "move_30min": -3.9,
+      "label": "MDIA -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": -1.31,
+      "move_30min": -5.03,
+      "label": "BRPT -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -136.78
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -119.22
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.69,
+            "contribution_score": -107.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 18.46,
+      "move_30min": 12.41,
+      "label": "BKDP +12.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 0,
+      "move_30min": -6.25,
+      "label": "BAPI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 8,
+      "move_30min": 8,
+      "label": "NETV +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 0,
+      "move_30min": -3.33,
+      "label": "ANDI -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DOID",
+      "name": "PT Buma Internasional Grup Tbk",
+      "change_pct": 2.31,
+      "move_30min": -3.62,
+      "label": "DOID -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 3.45,
+      "move_30min": -3.23,
+      "label": "SOLA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIS",
+      "name": "PT Trisula International Tbk",
+      "change_pct": 0.69,
+      "move_30min": -3.97,
+      "label": "TRIS -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PUDP",
+      "name": "PUDP",
+      "change_pct": 8.42,
+      "move_30min": 9.57,
+      "label": "PUDP +9.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 24.14,
+            "contribution_score": 405.89
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 271.58
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:30:11.589Z",
       "status": "active",
       "summary": null
     }
