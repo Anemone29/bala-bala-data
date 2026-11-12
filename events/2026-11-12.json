@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T04:45:11.534Z",
+  "generated_at": "2026-11-12T05:00:11.713Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4925,51 +4925,6 @@
       "summary": null
     },
     {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "82% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.84
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 314.46
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 18.46,
-            "contribution_score": 283.9
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T04:45:11.534Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "RODA",
       "name": "PT Pikko Land Development Tbk",
@@ -5063,103 +5018,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BLTA",
-      "name": "PT Berlian Laju Tanker Tbk",
-      "change_pct": 0,
-      "move_30min": -3.23,
-      "label": "BLTA -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.84
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 314.46
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 18.46,
-            "contribution_score": 283.9
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T04:45:11.534Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BACA",
       "name": "PT Bank Capital Indonesia Tbk",
       "change_pct": 2.3,
       "move_30min": -3.26,
       "label": "BACA -3.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 20.69,
-            "contribution_score": 359.84
-          },
-          {
-            "ticker": "GIAA",
-            "change_pct": 20,
-            "contribution_score": 314.46
-          },
-          {
-            "ticker": "BKDP",
-            "change_pct": 18.46,
-            "contribution_score": 283.9
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": {
-          "type": "macro_msci",
-          "label": "HARI INI: MSCI Nov 2026 Index Review"
-        }
-      },
-      "detected_at": "2026-11-12T04:45:11.534Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "JECC",
-      "name": "JECC",
-      "change_pct": 20,
-      "move_30min": 22.83,
-      "label": "JECC +22.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5242,6 +5105,373 @@
         }
       },
       "detected_at": "2026-11-12T04:45:11.534Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "82% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JECC",
+      "name": "JECC",
+      "change_pct": 20,
+      "move_30min": 18.11,
+      "label": "JECC +18.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "PPRO -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": 9.68,
+      "move_30min": -5.56,
+      "label": "TARA -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": 0,
+      "move_30min": -3.13,
+      "label": "HOKI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": 1.57,
+      "move_30min": -3,
+      "label": "BMAS -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": 0.85,
+      "move_30min": -4.84,
+      "label": "LION -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 22.41,
+            "contribution_score": 391.48
+          },
+          {
+            "ticker": "GIAA",
+            "change_pct": 20,
+            "contribution_score": 314.46
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 284.12
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T05:00:11.713Z",
       "status": "active",
       "summary": null
     }
