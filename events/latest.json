@@ -2,14 +2,233 @@
   "generated_at": "2026-11-12T03:45:11.549Z",
   "events": [
     {
-      "type": "macro_msci",
-      "ticker": "MSCI",
-      "name": "MSCI Nov 2026 Index Review",
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "81% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 325.83
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 273.89
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:45:11.549Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": 7.25,
+      "move_30min": -5.26,
+      "label": "MDIA -5.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 325.83
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 273.89
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:45:11.549Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": -2.61,
+      "move_30min": -3.87,
+      "label": "BRPT -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -137.35
+          },
+          {
+            "ticker": "BSML",
+            "change_pct": -13.04,
+            "contribution_score": -119.68
+          },
+          {
+            "ticker": "TRUS",
+            "change_pct": -6.73,
+            "contribution_score": -68.05
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:45:11.549Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": 18.46,
+      "move_30min": 9.22,
+      "label": "BKDP +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 325.83
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 273.89
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:45:11.549Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BLTA",
+      "name": "PT Berlian Laju Tanker Tbk",
       "change_pct": 0,
-      "label": "HARI INI: MSCI Nov 2026 Index Review",
-      "detail": "MSCI quarterly rebalance. Annual review utk MSCI All Country World Index — saham IDX bisa di-promote/demote ke index lebih tinggi.",
-      "impact": "high",
-      "event_date": "2026-11-12"
+      "move_30min": -3.23,
+      "label": "BLTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRON",
+            "change_pct": 18.97,
+            "contribution_score": 325.83
+          },
+          {
+            "ticker": "BKDP",
+            "change_pct": 18.46,
+            "contribution_score": 273.89
+          },
+          {
+            "ticker": "LAPD",
+            "change_pct": 18.18,
+            "contribution_score": 230.67
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": {
+          "type": "macro_msci",
+          "label": "HARI INI: MSCI Nov 2026 Index Review"
+        }
+      },
+      "detected_at": "2026-11-12T03:45:11.549Z",
+      "status": "active",
+      "summary": null
     }
   ]
 }
