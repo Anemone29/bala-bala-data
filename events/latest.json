@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-11-16T07:00:22.205Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -72.8,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -123.56
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -6.32,
+            "contribution_score": -109.18
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -6.74,
+            "contribution_score": -105.49
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-16T04:30:21.761Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-16T02:00:26.472Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "PPRO +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 31.31,
+            "contribution_score": 584.56
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 27.78,
+            "contribution_score": 493.51
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 24.6,
+            "contribution_score": 356.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-16T07:00:22.205Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "RODA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -7.69,
+            "contribution_score": -127.48
+          },
+          {
+            "ticker": "BRMS",
+            "change_pct": -6.32,
+            "contribution_score": -109.81
+          },
+          {
+            "ticker": "BNBR",
+            "change_pct": -6.12,
+            "contribution_score": -103.33
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-16T07:00:22.205Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRIM",
+      "name": "PT Trimegah Karya Pratama Tbk",
+      "change_pct": 8.03,
+      "move_30min": 8.03,
+      "label": "TRIM +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 31.31,
+            "contribution_score": 584.56
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": 27.78,
+            "contribution_score": 493.51
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 24.6,
+            "contribution_score": 356.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-16T07:00:22.205Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
