@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-17T07:30:57.811Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 7.14,
+      "move_30min": 15.38,
+      "label": "PPRO +15.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 33.83,
+            "contribution_score": 647.84
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 231.92
+          },
+          {
+            "ticker": "UNIQ",
+            "change_pct": 13.29,
+            "contribution_score": 213.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T07:30:57.811Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 33.83,
+            "contribution_score": 647.84
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 231.92
+          },
+          {
+            "ticker": "UNIQ",
+            "change_pct": 13.29,
+            "contribution_score": 213.93
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T07:30:57.811Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "BAUT -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -137.35
+          },
+          {
+            "ticker": "NICL",
+            "change_pct": -9.3,
+            "contribution_score": -117.49
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.33,
+            "contribution_score": -103.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T07:30:57.811Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BKDP",
+      "name": "Bukit Darmo Property Tbk",
+      "change_pct": -6.92,
+      "move_30min": -3.9,
+      "label": "BKDP -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -137.35
+          },
+          {
+            "ticker": "NICL",
+            "change_pct": -9.3,
+            "contribution_score": -117.49
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.33,
+            "contribution_score": -103.01
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T07:30:57.811Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
