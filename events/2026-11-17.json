@@ -1,49 +1,7 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T02:30:57.261Z",
+  "generated_at": "2026-11-17T02:45:57.334Z",
   "events": [
-    {
-      "type": "breadth_up",
-      "ticker": "BREADTH",
-      "name": "Pelebaran kenaikan pasar",
-      "change_pct": 100,
-      "label": "71% saham menguat",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 18.8,
-            "contribution_score": 319.75
-          },
-          {
-            "ticker": "BABP",
-            "change_pct": 18.18,
-            "contribution_score": 212.4
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": 13.89,
-            "contribution_score": 208.63
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:17:09.794Z",
-      "status": "active",
-      "summary": null
-    },
     {
       "type": "rapid_up",
       "ticker": "TRIN",
@@ -164,178 +122,6 @@
             "ticker": "DEFI",
             "change_pct": 12.5,
             "contribution_score": 193.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "WMUU",
-      "name": "Widodo Makmur Unggas Tbk.",
-      "change_pct": -3.57,
-      "move_30min": -3.57,
-      "label": "WMUU -3.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BCAP",
-      "name": "PT MNC Kapital Indonesia Tbk",
-      "change_pct": -4.55,
-      "move_30min": -4.55,
-      "label": "BCAP -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BTEK",
-      "name": "PT Bumi Teknokultura Unggul Tbk",
-      "change_pct": -8.33,
-      "move_30min": -8.33,
-      "label": "BTEK -8.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "ANDI",
-      "name": "PT Andira Agro, Tbk",
-      "change_pct": -3.23,
-      "move_30min": -3.23,
-      "label": "ANDI -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
           }
         ],
         "foreign_flow": null,
@@ -481,49 +267,6 @@
       "change_pct": -3.14,
       "move_30min": -3.14,
       "label": "BKDP -3.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BISI",
-      "name": "PT BISI International Tbk",
-      "change_pct": -5.45,
-      "move_30min": -5.45,
-      "label": "BISI -5.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -820,49 +563,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "OMRE",
-      "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": 8.2,
-      "move_30min": 8.2,
-      "label": "OMRE +8.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 20.3,
-            "contribution_score": 359.63
-          },
-          {
-            "ticker": "BABP",
-            "change_pct": 18.18,
-            "contribution_score": 223.29
-          },
-          {
-            "ticker": "DEFI",
-            "change_pct": 12.5,
-            "contribution_score": 193.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "KEJU",
       "name": "KEJU",
       "change_pct": 7.27,
@@ -895,49 +595,6 @@
             "ticker": "DEFI",
             "change_pct": 12.5,
             "contribution_score": 193.2
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T02:30:57.261Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "HERO",
-      "name": "PT DFI Retail Nusantara Tbk",
-      "change_pct": -3.23,
-      "move_30min": -3.23,
-      "label": "HERO -3.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -113.9
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": -6.37,
-            "contribution_score": -65.38
-          },
-          {
-            "ticker": "BCAP",
-            "change_pct": -4.55,
-            "contribution_score": -63.02
           }
         ],
         "foreign_flow": null,
@@ -1030,6 +687,1080 @@
         "macro_active": null
       },
       "detected_at": "2026-11-17T02:30:57.261Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -5.36,
+      "move_30min": -7.02,
+      "label": "WMUU -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "BCAP -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -8.33,
+      "move_30min": -8.33,
+      "label": "BTEK -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.13,
+      "label": "ANDI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BISI",
+      "name": "PT BISI International Tbk",
+      "change_pct": -5.45,
+      "move_30min": -4.5,
+      "label": "BISI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 8.2,
+      "move_30min": 7.1,
+      "label": "OMRE +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HERO",
+      "name": "PT DFI Retail Nusantara Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.85,
+      "label": "HERO -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 5.8,
+      "move_30min": 7.35,
+      "label": "KOTA +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": 10,
+      "move_30min": 13.79,
+      "label": "VIVA +13.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -3.54,
+      "move_30min": -4.39,
+      "label": "MSIN -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": 0,
+      "move_30min": -3.57,
+      "label": "NETV -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ARII",
+      "name": "PT Atlas Resources Tbk",
+      "change_pct": 6.09,
+      "move_30min": 9.91,
+      "label": "ARII +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -4.76,
+      "label": "ASMI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "BABP -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": 10.43,
+      "move_30min": 10.43,
+      "label": "BUKK +10.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MAIN",
+      "name": "PT Malindo Feedmill Tbk",
+      "change_pct": -2.65,
+      "move_30min": -3.51,
+      "label": "MAIN -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "RODA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "WEGE -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -2.52,
+      "move_30min": -9.38,
+      "label": "BBLD -9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRJA",
+      "name": "TRJA",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "TRJA -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PSSI",
+      "name": "PSSI",
+      "change_pct": -3.07,
+      "move_30min": -4.82,
+      "label": "PSSI -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -3.03,
+      "move_30min": -5.19,
+      "label": "STAR -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -114.45
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -8.16,
+            "contribution_score": -112.64
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -83.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KEJU",
+      "name": "KEJU",
+      "change_pct": 0.91,
+      "move_30min": -7.5,
+      "label": "KEJU -7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ABDA",
+      "name": "PT Asuransi Bina Dana Arta Tbk",
+      "change_pct": 0.42,
+      "move_30min": -8.63,
+      "label": "ABDA -8.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
       "status": "active",
       "summary": null
     }
