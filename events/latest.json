@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-17T03:45:56.976Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "70% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 21.05,
+            "contribution_score": 376.02
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 219.96
+          },
+          {
+            "ticker": "VIVA",
+            "change_pct": 10,
+            "contribution_score": 157.87
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:45:57.334Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": 6.75,
+      "move_30min": -4.6,
+      "label": "BUKK -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 26.32,
+            "contribution_score": 484.13
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 18.06,
+            "contribution_score": 299.13
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": 12.65,
+            "contribution_score": 211.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T03:45:56.976Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SHIP",
+      "name": "PT Sillo Maritime Perdana Tbk",
+      "change_pct": -5.96,
+      "move_30min": -4.72,
+      "label": "SHIP -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "RAJA",
+            "change_pct": -9.06,
+            "contribution_score": -133.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.18
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T03:45:56.976Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "HRME -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "RAJA",
+            "change_pct": -9.06,
+            "contribution_score": -133.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.18
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T03:45:56.976Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": -3.23,
+      "move_30min": -3.23,
+      "label": "ANDI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "RAJA",
+            "change_pct": -9.06,
+            "contribution_score": -133.63
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.18
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T03:45:56.976Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
