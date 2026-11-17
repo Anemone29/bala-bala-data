@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T03:45:56.976Z",
+  "generated_at": "2026-11-17T04:00:57.326Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3056,49 +3056,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SOHO",
-      "name": "PT Soho Global Health Tbk",
-      "change_pct": -6.99,
-      "move_30min": -4.48,
-      "label": "SOHO -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "RAJA",
-            "change_pct": -9.06,
-            "contribution_score": -133.63
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -8.33,
-            "contribution_score": -116.18
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -5.36,
-            "contribution_score": -85.81
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-17T03:45:56.976Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "SMMT",
       "name": "Golden Eagle Energy Tbk.",
       "change_pct": -3.07,
@@ -3142,11 +3099,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "MASB",
-      "name": "PT Bank Multiarta Sentosa Tbk",
-      "change_pct": -4.31,
-      "move_30min": -4.31,
-      "label": "MASB -4.3% dalam 30 menit",
+      "ticker": "SOHO",
+      "name": "PT Soho Global Health Tbk",
+      "change_pct": -6.99,
+      "move_30min": -3.59,
+      "label": "SOHO -3.6% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3161,25 +3118,283 @@
         ],
         "tickers": [
           {
-            "ticker": "RAJA",
-            "change_pct": -9.06,
-            "contribution_score": -133.63
-          },
-          {
             "ticker": "BTEK",
             "change_pct": -8.33,
-            "contribution_score": -116.18
+            "contribution_score": -116.51
           },
           {
             "ticker": "WMUU",
             "change_pct": -5.36,
-            "contribution_score": -85.81
+            "contribution_score": -85.84
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -5.31,
+            "contribution_score": -77.7
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-17T03:45:56.976Z",
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -6.9,
+      "move_30min": -6.9,
+      "label": "MASB -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.51
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.84
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -5.31,
+            "contribution_score": -77.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 3.85,
+      "move_30min": -3.57,
+      "label": "GOTO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 26.32,
+            "contribution_score": 485.66
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 18.06,
+            "contribution_score": 299.85
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": 11.45,
+            "contribution_score": 191.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "TAXI +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 26.32,
+            "contribution_score": 485.66
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 18.06,
+            "contribution_score": 299.85
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": 11.45,
+            "contribution_score": 191.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": -8.33,
+      "move_30min": -8.33,
+      "label": "BTEK -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.51
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.84
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -5.31,
+            "contribution_score": -77.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.45,
+      "move_30min": -3.45,
+      "label": "PURA -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -116.51
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -5.36,
+            "contribution_score": -85.84
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -5.31,
+            "contribution_score": -77.7
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "BABP -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 26.32,
+            "contribution_score": 485.66
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 18.06,
+            "contribution_score": 299.85
+          },
+          {
+            "ticker": "PNLF",
+            "change_pct": 11.45,
+            "contribution_score": 191.81
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T04:00:57.326Z",
       "status": "active",
       "summary": null
     }
