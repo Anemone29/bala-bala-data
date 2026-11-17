@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-17T02:30:57.261Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "71% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 18.8,
+            "contribution_score": 319.75
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": 18.18,
+            "contribution_score": 212.4
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 13.89,
+            "contribution_score": 208.63
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:17:09.794Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": 20.3,
+      "move_30min": 20.3,
+      "label": "TRIN +20.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 20.3,
+            "contribution_score": 359.63
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": 18.18,
+            "contribution_score": 223.29
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 12.5,
+            "contribution_score": 193.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:30:57.261Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRMS",
+      "name": "BRMS",
+      "change_pct": -3.09,
+      "move_30min": -3.09,
+      "label": "BRMS -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -113.9
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -6.37,
+            "contribution_score": -65.38
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -4.55,
+            "contribution_score": -63.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:30:57.261Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DEFI",
+      "name": "Danasupra Erapacific Tbk.",
+      "change_pct": 12.5,
+      "move_30min": 12.5,
+      "label": "DEFI +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 20.3,
+            "contribution_score": 359.63
+          },
+          {
+            "ticker": "BABP",
+            "change_pct": 18.18,
+            "contribution_score": 223.29
+          },
+          {
+            "ticker": "DEFI",
+            "change_pct": 12.5,
+            "contribution_score": 193.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:30:57.261Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "WMUU -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -8.33,
+            "contribution_score": -113.9
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -6.37,
+            "contribution_score": -65.38
+          },
+          {
+            "ticker": "BCAP",
+            "change_pct": -4.55,
+            "contribution_score": -63.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-17T02:30:57.261Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
