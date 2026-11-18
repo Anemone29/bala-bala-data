@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-18T03:31:04.090Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:01:04.288Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 7.14,
+      "move_30min": 7.14,
+      "label": "PURA +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 460.47
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 14.67,
+            "contribution_score": 246.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 13.33,
+            "contribution_score": 199.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:31:04.090Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -3.64,
+      "move_30min": -3.64,
+      "label": "MASB -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.66,
+            "contribution_score": -194.61
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -144.32
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:31:04.090Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "ANDI -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 27.12,
+            "contribution_score": 460.47
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 14.67,
+            "contribution_score": 246.65
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": 13.33,
+            "contribution_score": 199.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:31:04.090Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -9.09,
+      "move_30min": -4.76,
+      "label": "BCAP -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.66,
+            "contribution_score": -194.61
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -144.32
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:31:04.090Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
