@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-18T07:01:04.422Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:01:04.288Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 30.67,
+      "move_30min": 15.29,
+      "label": "TRON +15.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 32.2,
+            "contribution_score": 562.63
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 30.67,
+            "contribution_score": 556.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": 7.69,
+            "contribution_score": 140.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T07:01:04.422Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.66,
+            "contribution_score": -197.41
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -12.39,
+            "contribution_score": -175.21
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -11.24,
+            "contribution_score": -158.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T07:01:04.422Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": -1.67,
+      "move_30min": -4.07,
+      "label": "LPGI -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.66,
+            "contribution_score": -197.41
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -12.39,
+            "contribution_score": -175.21
+          },
+          {
+            "ticker": "COCO",
+            "change_pct": -11.24,
+            "contribution_score": -158.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T07:01:04.422Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": 3.57,
+      "move_30min": -3.33,
+      "label": "PURA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 32.2,
+            "contribution_score": 562.63
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 30.67,
+            "contribution_score": 556.72
+          },
+          {
+            "ticker": "GOTO",
+            "change_pct": 7.69,
+            "contribution_score": 140.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T07:01:04.422Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
