@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-18T03:16:03.753Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:01:04.288Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -6.45,
+      "move_30min": -9.38,
+      "label": "VIVA -9.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -11.24,
+            "contribution_score": -152.86
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -144.18
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:16:03.753Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": -5,
+      "move_30min": -5,
+      "label": "IPTV -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -11.24,
+            "contribution_score": -152.86
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -144.18
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:16:03.753Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -8.33,
+      "label": "ASMI -8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SOLA",
+            "change_pct": 23.73,
+            "contribution_score": 396.93
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 15.69,
+            "contribution_score": 255.92
+          },
+          {
+            "ticker": "BLTA",
+            "change_pct": 13.33,
+            "contribution_score": 221.29
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:16:03.753Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BNBR",
+      "name": "PT Bakrie & Brothers Tbk",
+      "change_pct": -2.17,
+      "move_30min": -4.26,
+      "label": "BNBR -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "COCO",
+            "change_pct": -11.24,
+            "contribution_score": -152.86
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -144.18
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.54
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T03:16:03.753Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
