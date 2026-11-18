@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T07:31:04.491Z",
+  "generated_at": "2026-11-18T07:46:04.176Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5755,49 +5755,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BCAP",
-      "name": "PT MNC Kapital Indonesia Tbk",
-      "change_pct": 0,
-      "move_30min": -4.55,
-      "label": "BCAP -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRON",
-            "change_pct": 30.67,
-            "contribution_score": 561.17
-          },
-          {
-            "ticker": "SOLA",
-            "change_pct": 30.51,
-            "contribution_score": 534.23
-          },
-          {
-            "ticker": "BAPI",
-            "change_pct": 13.33,
-            "contribution_score": 205.18
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-18T07:31:04.491Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "RODA",
       "name": "PT Pikko Land Development Tbk",
       "change_pct": -3.12,
@@ -5965,6 +5922,49 @@
         "macro_active": null
       },
       "detected_at": "2026-11-18T07:31:04.491Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BCAP",
+      "name": "PT MNC Kapital Indonesia Tbk",
+      "change_pct": -9.09,
+      "move_30min": -4.76,
+      "label": "BCAP -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MDIA",
+            "change_pct": -12.66,
+            "contribution_score": -197.57
+          },
+          {
+            "ticker": "KOTA",
+            "change_pct": -11.59,
+            "contribution_score": -194.28
+          },
+          {
+            "ticker": "MSIN",
+            "change_pct": -12.39,
+            "contribution_score": -175.5
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T07:46:04.176Z",
       "status": "active",
       "summary": null
     }
