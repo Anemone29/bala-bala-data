@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-18T02:46:03.886Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:01:04.288Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "SOLA",
+      "name": "SOLA",
+      "change_pct": 20.34,
+      "move_30min": 11.11,
+      "label": "SOLA +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 344.66
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 18.64,
+            "contribution_score": 297.68
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 14.67,
+            "contribution_score": 239.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:46:03.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 14.67,
+      "move_30min": 13.16,
+      "label": "TRON +13.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ASMI",
+            "change_pct": 20,
+            "contribution_score": 344.66
+          },
+          {
+            "ticker": "SOLA",
+            "change_pct": 18.64,
+            "contribution_score": 297.68
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 14.67,
+            "contribution_score": 239.65
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:46:03.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "UNIQ",
+      "name": "UNIQ",
+      "change_pct": -5.13,
+      "move_30min": -3.9,
+      "label": "UNIQ -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -12.39,
+            "contribution_score": -169.41
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -142.71
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:46:03.886Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MSIN",
+      "name": "PT MNC Digital Entertainment Tbk",
+      "change_pct": -12.39,
+      "move_30min": -3.88,
+      "label": "MSIN -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "MSIN",
+            "change_pct": -12.39,
+            "contribution_score": -169.41
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -10.71,
+            "contribution_score": -142.71
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": -12.74,
+            "contribution_score": -123.41
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-18T02:46:03.886Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
