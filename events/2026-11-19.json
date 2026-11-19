@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:01:04.365Z",
+  "generated_at": "2026-11-19T07:16:04.245Z",
   "events": [
     {
       "type": "breadth_up",
@@ -6571,49 +6571,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "ESTI",
-      "name": "Ever Shine Tex Tbk.",
-      "change_pct": 28.7,
-      "move_30min": 11.2,
-      "label": "ESTI +11.2% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "ESTI",
-            "change_pct": 28.7,
-            "contribution_score": 480.78
-          },
-          {
-            "ticker": "JAST",
-            "change_pct": 22.06,
-            "contribution_score": 372.06
-          },
-          {
-            "ticker": "IFSH",
-            "change_pct": 24.66,
-            "contribution_score": 305.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-19T07:01:04.365Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "BLTA",
       "name": "PT Berlian Laju Tanker Tbk",
@@ -6690,49 +6647,6 @@
             "ticker": "IFSH",
             "change_pct": 24.66,
             "contribution_score": 305.34
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-19T07:01:04.365Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "PNSE",
-      "name": "Pudjiadi & Sons Tbk.",
-      "change_pct": -2.67,
-      "move_30min": -13.74,
-      "label": "PNSE -13.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "WMUU",
-            "change_pct": -16.07,
-            "contribution_score": -253.97
-          },
-          {
-            "ticker": "MLPT",
-            "change_pct": -12.94,
-            "contribution_score": -156.11
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -134.6
           }
         ],
         "foreign_flow": null,
@@ -6829,12 +6743,12 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "ALDO",
-      "name": "PT Alkindo Naratama Tbk",
-      "change_pct": 7.4,
-      "move_30min": -4.84,
-      "label": "ALDO -4.8% dalam 30 menit",
+      "type": "rapid_up",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 28.7,
+      "move_30min": 8,
+      "label": "ESTI +8.0% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -6850,24 +6764,454 @@
         "tickers": [
           {
             "ticker": "ESTI",
-            "change_pct": 28.7,
-            "contribution_score": 480.78
+            "change_pct": 25,
+            "contribution_score": 418.65
           },
           {
             "ticker": "JAST",
             "change_pct": 22.06,
-            "contribution_score": 372.06
+            "contribution_score": 372.17
           },
           {
             "ticker": "IFSH",
             "change_pct": 24.66,
-            "contribution_score": 305.34
+            "contribution_score": 305.36
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-19T07:01:04.365Z",
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -6.95,
+      "move_30min": -11.22,
+      "label": "PNSE -11.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ALDO",
+      "name": "PT Alkindo Naratama Tbk",
+      "change_pct": 7.4,
+      "move_30min": -7.43,
+      "label": "ALDO -7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 25,
+            "contribution_score": 418.65
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 22.06,
+            "contribution_score": 372.17
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBYB",
+      "name": "PT Bank Neo Commerce Tbk",
+      "change_pct": -4.95,
+      "move_30min": -3.35,
+      "label": "BBYB -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -7.14,
+      "move_30min": -7.14,
+      "label": "PPRO -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -8,
+      "move_30min": -4.17,
+      "label": "BABP -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": 0,
+      "move_30min": -3.85,
+      "label": "BAUT -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "ESTI",
+            "change_pct": 25,
+            "contribution_score": 418.65
+          },
+          {
+            "ticker": "JAST",
+            "change_pct": 22.06,
+            "contribution_score": 372.17
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -1.61,
+      "move_30min": -4.69,
+      "label": "LION -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NICE",
+      "name": "NICE",
+      "change_pct": -1.67,
+      "move_30min": -4.07,
+      "label": "NICE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": -1.82,
+      "move_30min": -3.57,
+      "label": "BMAS -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.97
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.29,
+            "contribution_score": -190.38
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -151.98
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:16:04.245Z",
       "status": "active",
       "summary": null
     }
