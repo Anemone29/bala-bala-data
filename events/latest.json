@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-19T06:46:04.267Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T02:01:04.127Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": 0,
+      "move_30min": -4.35,
+      "label": "ASMI -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 20.59,
+            "contribution_score": 345.73
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.24
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 15.74,
+            "contribution_score": 248.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T06:46:04.267Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": 12.83,
+      "move_30min": 8.29,
+      "label": "PNSE +8.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 20.59,
+            "contribution_score": 345.73
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.24
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 15.74,
+            "contribution_score": 248.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T06:46:04.267Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BTON",
+      "name": "BTON",
+      "change_pct": -4.65,
+      "move_30min": -4.07,
+      "label": "BTON -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -253.95
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -130.23
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -10,
+            "contribution_score": -117.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T06:46:04.267Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 1.64,
+      "move_30min": -3.13,
+      "label": "KOTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 20.59,
+            "contribution_score": 345.73
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.24
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 15.74,
+            "contribution_score": 248.61
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T06:46:04.267Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
