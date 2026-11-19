@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-19T07:46:07.149Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T02:01:04.127Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ESTI",
+      "name": "Ever Shine Tex Tbk.",
+      "change_pct": 19.44,
+      "move_30min": -5.19,
+      "label": "ESTI -5.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 23.53,
+            "contribution_score": 400.48
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 18.52,
+            "contribution_score": 309.91
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:46:07.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VRNA",
+      "name": "PT Verena Multi Finance Tbk",
+      "change_pct": 0,
+      "move_30min": -8.22,
+      "label": "VRNA -8.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 23.53,
+            "contribution_score": 400.48
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 18.52,
+            "contribution_score": 309.91
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:46:07.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 0,
+      "move_30min": -3.23,
+      "label": "RODA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "JAST",
+            "change_pct": 23.53,
+            "contribution_score": 400.48
+          },
+          {
+            "ticker": "ESTI",
+            "change_pct": 18.52,
+            "contribution_score": 309.91
+          },
+          {
+            "ticker": "IFSH",
+            "change_pct": 24.66,
+            "contribution_score": 305.36
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:46:07.149Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NFCX",
+      "name": "PT NFC Indonesia Tbk",
+      "change_pct": -3.41,
+      "move_30min": -3.41,
+      "label": "NFCX -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -16.07,
+            "contribution_score": -254
+          },
+          {
+            "ticker": "MLPT",
+            "change_pct": -12.94,
+            "contribution_score": -160.07
+          },
+          {
+            "ticker": "BAJA",
+            "change_pct": -13.08,
+            "contribution_score": -154.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-19T07:46:07.149Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
