@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:15:10.098Z",
+  "generated_at": "2026-11-23T08:30:10.611Z",
   "events": [
     {
       "type": "breadth_up",
@@ -9643,25 +9643,154 @@
         ],
         "tickers": [
           {
-            "ticker": "TAXI",
-            "change_pct": -10,
-            "contribution_score": -148.59
+            "ticker": "WMUU",
+            "change_pct": -6.82,
+            "contribution_score": -116.43
           },
           {
             "ticker": "PPRO",
             "change_pct": -7.14,
-            "contribution_score": -95.66
+            "contribution_score": -95.67
           },
           {
-            "ticker": "ASPI",
-            "change_pct": -6.41,
-            "contribution_score": -71.98
+            "ticker": "TRON",
+            "change_pct": -5.95,
+            "contribution_score": -89.2
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-23T08:15:10.098Z",
+      "detected_at": "2026-11-23T08:30:10.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": -6.82,
+      "move_30min": -4.65,
+      "label": "WMUU -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -6.82,
+            "contribution_score": -116.43
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.67
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -5.95,
+            "contribution_score": -89.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T08:30:10.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SLIS",
+      "name": "Gaya Abadi Sempurna Tbk.",
+      "change_pct": 7.27,
+      "move_30min": -3.28,
+      "label": "SLIS -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 33.33,
+            "contribution_score": 611.54
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 24.52,
+            "contribution_score": 433.71
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 20.8,
+            "contribution_score": 391.25
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T08:30:10.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GMTD",
+      "name": "PT Gowa Makassar Tourism Development Tbk",
+      "change_pct": -8.05,
+      "move_30min": -6.16,
+      "label": "GMTD -6.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": -6.82,
+            "contribution_score": -116.43
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.67
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -5.95,
+            "contribution_score": -89.2
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T08:30:10.611Z",
       "status": "active",
       "summary": null
     }
