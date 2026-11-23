@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T07:30:10.401Z",
+  "generated_at": "2026-11-23T07:45:09.995Z",
   "events": [
     {
       "type": "breadth_up",
@@ -8720,49 +8720,6 @@
       "summary": null
     },
     {
-      "type": "rapid_down",
-      "ticker": "LUCY",
-      "name": "PT Lima Dua Lima Tiga Tbk",
-      "change_pct": 0,
-      "move_30min": -3.41,
-      "label": "LUCY -3.4% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": 26.53,
-            "contribution_score": 472.1
-          },
-          {
-            "ticker": "CDIA",
-            "change_pct": 24.52,
-            "contribution_score": 433.61
-          },
-          {
-            "ticker": "BRPT",
-            "change_pct": 18.4,
-            "contribution_score": 340.93
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-23T07:30:10.401Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "PPRO",
       "name": "PT Pembangunan Perumahan Properti Tbk",
@@ -8893,11 +8850,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "LION",
-      "name": "PT Lion Metal Works Tbk",
-      "change_pct": -1.54,
-      "move_30min": -3.03,
-      "label": "LION -3.0% dalam 30 menit",
+      "ticker": "LUCY",
+      "name": "PT Lima Dua Lima Tiga Tbk",
+      "change_pct": -1.18,
+      "move_30min": -3.45,
+      "label": "LUCY -3.4% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -8912,25 +8869,68 @@
         ],
         "tickers": [
           {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
             "ticker": "IPTV",
             "change_pct": -5.88,
-            "contribution_score": -82.75
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -4.55,
-            "contribution_score": -77.55
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": -4.76,
-            "contribution_score": -69.85
+            "contribution_score": -82.68
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-23T07:30:10.401Z",
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -2.31,
+      "move_30min": -3.79,
+      "label": "LION -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -5.88,
+            "contribution_score": -82.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
       "status": "active",
       "summary": null
     },
@@ -8956,24 +8956,24 @@
         "tickers": [
           {
             "ticker": "TRIN",
-            "change_pct": 26.53,
-            "contribution_score": 472.1
+            "change_pct": 25.17,
+            "contribution_score": 450.17
           },
           {
             "ticker": "CDIA",
             "change_pct": 24.52,
-            "contribution_score": 433.61
+            "contribution_score": 433.64
           },
           {
             "ticker": "BRPT",
-            "change_pct": 18.4,
-            "contribution_score": 340.93
+            "change_pct": 19.2,
+            "contribution_score": 356.97
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-23T07:30:10.401Z",
+      "detected_at": "2026-11-23T07:45:09.995Z",
       "status": "active",
       "summary": null
     },
@@ -8998,25 +8998,283 @@
         ],
         "tickers": [
           {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
             "ticker": "IPTV",
             "change_pct": -5.88,
-            "contribution_score": -82.75
-          },
-          {
-            "ticker": "WMUU",
-            "change_pct": -4.55,
-            "contribution_score": -77.55
-          },
-          {
-            "ticker": "TRON",
-            "change_pct": -4.76,
-            "contribution_score": -69.85
+            "contribution_score": -82.68
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-23T07:30:10.401Z",
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": 4.3,
+      "move_30min": -3.96,
+      "label": "DIVA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 25.17,
+            "contribution_score": 450.17
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 24.52,
+            "contribution_score": 433.64
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 19.2,
+            "contribution_score": 356.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VIVA",
+      "name": "PT Visi Media Asia Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "VIVA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -5.88,
+            "contribution_score": -82.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": 6.67,
+      "move_30min": -5.88,
+      "label": "BAPI -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": 25.17,
+            "contribution_score": 450.17
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 24.52,
+            "contribution_score": 433.64
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 19.2,
+            "contribution_score": 356.97
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -3.85,
+      "move_30min": -3.85,
+      "label": "BAUT -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -5.88,
+            "contribution_score": -82.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HOKI",
+      "name": "HOKI",
+      "change_pct": -3.12,
+      "move_30min": -3.13,
+      "label": "HOKI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -5.88,
+            "contribution_score": -82.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "NETV -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -148.55
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -95.3
+          },
+          {
+            "ticker": "IPTV",
+            "change_pct": -5.88,
+            "contribution_score": -82.68
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T07:45:09.995Z",
       "status": "active",
       "summary": null
     }
