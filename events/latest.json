@@ -1,4 +1,208 @@
 {
   "generated_at": "2026-11-23T02:30:09.611Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -76.4,
+      "label": "76% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -115.12
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.56,
+            "contribution_score": -88.34
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -85.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T02:30:09.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T02:00:09.881Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": 22.58,
+      "move_30min": 22.58,
+      "label": "DIVA +22.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DIVA",
+            "change_pct": 22.58,
+            "contribution_score": 363.92
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 17.34,
+            "contribution_score": 144.67
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 7.55,
+            "contribution_score": 115
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T02:30:09.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 7.55,
+      "move_30min": 7.55,
+      "label": "KKES +7.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "DIVA",
+            "change_pct": 22.58,
+            "contribution_score": 363.92
+          },
+          {
+            "ticker": "BSWD",
+            "change_pct": 17.34,
+            "contribution_score": 144.67
+          },
+          {
+            "ticker": "KKES",
+            "change_pct": 7.55,
+            "contribution_score": 115
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T02:30:09.611Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "HRME",
+      "name": "Menteng Heritage Realty Tbk.",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "HRME -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -115.12
+          },
+          {
+            "ticker": "MDIA",
+            "change_pct": -6.56,
+            "contribution_score": -88.34
+          },
+          {
+            "ticker": "PPRO",
+            "change_pct": -7.14,
+            "contribution_score": -85.92
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-23T02:30:09.611Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
