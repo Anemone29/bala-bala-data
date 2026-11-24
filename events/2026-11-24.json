@@ -1,13 +1,13 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T02:15:09.581Z",
+  "generated_at": "2026-11-24T02:30:10.265Z",
   "events": [
     {
       "type": "breadth_up",
       "ticker": "BREADTH",
       "name": "Pelebaran kenaikan pasar",
       "change_pct": 100,
-      "label": "83% saham menguat",
+      "label": "78% saham menguat",
       "drivers": {
         "sectors": [
           {
@@ -22,25 +22,1143 @@
         ],
         "tickers": [
           {
-            "ticker": "BYAN",
-            "change_pct": 18.73,
-            "contribution_score": 236.99
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
           },
           {
-            "ticker": "WMUU",
-            "change_pct": 12.2,
-            "contribution_score": 199.46
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
           },
           {
-            "ticker": "CDIA",
-            "change_pct": 11.92,
-            "contribution_score": 199.29
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-24T02:15:09.581Z",
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CDIA",
+      "name": "PT Chandra Daya Investasi Tbk",
+      "change_pct": 11.92,
+      "move_30min": 11.92,
+      "label": "CDIA +11.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 9.76,
+      "move_30min": 9.76,
+      "label": "WMUU +9.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TRON",
+      "name": "TRON",
+      "change_pct": 17.72,
+      "move_30min": 17.72,
+      "label": "TRON +17.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIN",
+      "name": "TRIN",
+      "change_pct": -6.57,
+      "move_30min": -6.57,
+      "label": "TRIN -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": 24.58,
+      "move_30min": 24.58,
+      "label": "BBHI +24.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ISAT",
+      "name": "PT Indosat Ooredoo Hutchison Tbk",
+      "change_pct": 7.35,
+      "move_30min": 7.35,
+      "label": "ISAT +7.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "JARR",
+      "name": "Jhonlin Agro Raya Tbk.",
+      "change_pct": 7.56,
+      "move_30min": 7.56,
+      "label": "JARR +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "FAST",
+      "name": "PT Fast Food Indonesia Tbk",
+      "change_pct": 9.21,
+      "move_30min": 9.21,
+      "label": "FAST +9.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": -10,
+      "move_30min": -10,
+      "label": "TAXI -10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BYAN",
+      "name": "PT Bayan Resources Tbk.",
+      "change_pct": 15.85,
+      "move_30min": 15.85,
+      "label": "BYAN +15.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DIVA",
+      "name": "PT Distribusi Voucher Nusantara Tbk",
+      "change_pct": -4,
+      "move_30min": -4,
+      "label": "DIVA -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "VOKS",
+      "name": "VOKS",
+      "change_pct": -5.91,
+      "move_30min": -5.91,
+      "label": "VOKS -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "PURA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNSE",
+      "name": "Pudjiadi & Sons Tbk.",
+      "change_pct": -6.62,
+      "move_30min": -6.62,
+      "label": "PNSE -6.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BABP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKPI",
+      "name": "PT Argha Karya Prima Industry Tbk",
+      "change_pct": -3.42,
+      "move_30min": -3.42,
+      "label": "AKPI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": -4.63,
+      "move_30min": -7.01,
+      "label": "BMAS -7.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUKK",
+      "name": "PT Bukaka Teknik Utama Tbk",
+      "change_pct": -4.97,
+      "move_30min": -4.97,
+      "label": "BUKK -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLI",
+      "name": "POLI",
+      "change_pct": -5.43,
+      "move_30min": -5.43,
+      "label": "POLI -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LPGI",
+      "name": "PT Lippo General Insurance Tbk",
+      "change_pct": 10.34,
+      "move_30min": 10.34,
+      "label": "LPGI +10.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.23
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 17.72,
+            "contribution_score": 295.36
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": 14.81,
+            "contribution_score": 241.94
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MICE",
+      "name": "Multi Indocitra Tbk",
+      "change_pct": -3.93,
+      "move_30min": -3.93,
+      "label": "MICE -3.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ARTA",
+      "name": "PT Arthavest Tbk",
+      "change_pct": -5.98,
+      "move_30min": -5.98,
+      "label": "ARTA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -3.61,
+      "move_30min": -3.61,
+      "label": "MASB -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -4.66,
+      "move_30min": -4.66,
+      "label": "POLU -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -3.98,
+      "move_30min": -3.98,
+      "label": "OMRE -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -4.46,
+      "move_30min": -4.46,
+      "label": "BBLD -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -132.9
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -102.89
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -68.42
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T02:30:10.265Z",
       "status": "active",
       "summary": null
     }
