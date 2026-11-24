@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-24T08:00:11.848Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 34.19,
+            "contribution_score": 486.93
+          },
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.63
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 306.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T04:00:10.703Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDLN",
+      "name": "PT Modernland Realty Tbk",
+      "change_pct": 8.57,
+      "move_30min": -7.32,
+      "label": "MDLN -7.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 20.34,
+            "contribution_score": 311.77
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 17.95,
+            "contribution_score": 266.22
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 17.06,
+            "contribution_score": 258.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:00:11.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 4.88,
+      "move_30min": -14.29,
+      "label": "LAND -14.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 20.34,
+            "contribution_score": 311.77
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 17.95,
+            "contribution_score": 266.22
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 17.06,
+            "contribution_score": 258.08
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:00:11.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "RODA -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -137.89
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.5
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:00:11.848Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "BBKP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TAXI",
+            "change_pct": -10,
+            "contribution_score": -137.89
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.5
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:00:11.848Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
