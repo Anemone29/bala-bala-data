@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T07:00:11.043Z",
+  "generated_at": "2026-11-24T07:15:10.905Z",
   "events": [
     {
       "type": "rapid_up",
@@ -7054,49 +7054,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "MDLN",
-      "name": "PT Modernland Realty Tbk",
-      "change_pct": 11.43,
-      "move_30min": 14.71,
-      "label": "MDLN +14.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BBHI",
-            "change_pct": 23.73,
-            "contribution_score": 365.54
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": 20.51,
-            "contribution_score": 304.86
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": 18.32,
-            "contribution_score": 241.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-24T07:00:11.043Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "PURA",
       "name": "PT Surya Pertiwi Tbk",
@@ -7442,92 +7399,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "RAAM",
-      "name": "Tripar Multivision Plus Tbk.",
-      "change_pct": -4.76,
-      "move_30min": -4.76,
-      "label": "RAAM -4.8% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRPT",
-            "change_pct": -6.85,
-            "contribution_score": -113.44
-          },
-          {
-            "ticker": "TRIN",
-            "change_pct": -6.57,
-            "contribution_score": -103.09
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": -6.18,
-            "contribution_score": -97.03
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-24T07:00:11.043Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BRNA",
-      "name": "PT Berlina Tbk",
-      "change_pct": 0.4,
-      "move_30min": -6.92,
-      "label": "BRNA -6.9% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BBHI",
-            "change_pct": 23.73,
-            "contribution_score": 365.54
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": 20.51,
-            "contribution_score": 304.86
-          },
-          {
-            "ticker": "STAR",
-            "change_pct": 18.32,
-            "contribution_score": 241.88
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-24T07:00:11.043Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "TRJA",
       "name": "TRJA",
       "change_pct": -1.02,
@@ -7570,12 +7441,55 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "MDLN",
+      "name": "PT Modernland Realty Tbk",
+      "change_pct": 20,
+      "move_30min": 20,
+      "label": "MDLN +20.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 22.03,
+            "contribution_score": 338.4
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": 20,
+            "contribution_score": 319.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.07,
+            "contribution_score": 265.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
-      "ticker": "PNGO",
-      "name": "PT Pinago Utama Tbk",
-      "change_pct": -3.56,
-      "move_30min": -3.27,
-      "label": "PNGO -3.3% dalam 30 menit",
+      "ticker": "RAAM",
+      "name": "Tripar Multivision Plus Tbk.",
+      "change_pct": -4.76,
+      "move_30min": -4.76,
+      "label": "RAAM -4.8% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -7592,23 +7506,109 @@
           {
             "ticker": "BRPT",
             "change_pct": -6.85,
-            "contribution_score": -113.44
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
           },
           {
             "ticker": "TRIN",
             "change_pct": -6.57,
-            "contribution_score": -103.09
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": -6.18,
-            "contribution_score": -97.03
+            "contribution_score": -103.1
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-24T07:00:11.043Z",
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BRNA",
+      "name": "PT Berlina Tbk",
+      "change_pct": 0.4,
+      "move_30min": -6.04,
+      "label": "BRNA -6.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 22.03,
+            "contribution_score": 338.4
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": 20,
+            "contribution_score": 319.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.07,
+            "contribution_score": 265.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNGO",
+      "name": "PT Pinago Utama Tbk",
+      "change_pct": -3.56,
+      "move_30min": -3.56,
+      "label": "PNGO -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
       "status": "active",
       "summary": null
     },
@@ -7635,23 +7635,539 @@
           {
             "ticker": "BRPT",
             "change_pct": -6.85,
-            "contribution_score": -113.44
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
           },
           {
             "ticker": "TRIN",
             "change_pct": -6.57,
-            "contribution_score": -103.09
-          },
-          {
-            "ticker": "TPIA",
-            "change_pct": -6.18,
-            "contribution_score": -97.03
+            "contribution_score": -103.1
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-24T07:00:11.043Z",
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "LAND",
+      "name": "LAND",
+      "change_pct": 17.07,
+      "move_30min": 17.07,
+      "label": "LAND +17.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 22.03,
+            "contribution_score": 338.4
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": 20,
+            "contribution_score": 319.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.07,
+            "contribution_score": 265.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -4.84,
+      "move_30min": -3.28,
+      "label": "MDIA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": 11.11,
+      "move_30min": -7.8,
+      "label": "CITY -7.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 22.03,
+            "contribution_score": 338.4
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": 20,
+            "contribution_score": 319.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.07,
+            "contribution_score": 265.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -0.76,
+      "move_30min": -9.09,
+      "label": "STAR -9.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": -7.14,
+      "move_30min": -7.14,
+      "label": "PPRO -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BABP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ASDM",
+      "name": "ASDM",
+      "change_pct": 14.41,
+      "move_30min": 11.57,
+      "label": "ASDM +11.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 22.03,
+            "contribution_score": 338.4
+          },
+          {
+            "ticker": "MDLN",
+            "change_pct": 20,
+            "contribution_score": 319.74
+          },
+          {
+            "ticker": "LAND",
+            "change_pct": 17.07,
+            "contribution_score": 265.32
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -1.55,
+      "move_30min": -4.04,
+      "label": "MCAS -4.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BMAS",
+      "name": "PT Bank Maspion Indonesia Tbk",
+      "change_pct": -4.15,
+      "move_30min": -4.76,
+      "label": "BMAS -4.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "LION",
+      "name": "PT Lion Metal Works Tbk",
+      "change_pct": -0.77,
+      "move_30min": -3.73,
+      "label": "LION -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MASB",
+      "name": "PT Bank Multiarta Sentosa Tbk",
+      "change_pct": -6.83,
+      "move_30min": -4.13,
+      "label": "MASB -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": -3.28,
+      "move_30min": -5.6,
+      "label": "SIPD -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.46
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.01
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.1
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T07:15:10.905Z",
       "status": "active",
       "summary": null
     }
