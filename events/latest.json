@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-24T08:30:10.689Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 34.19,
+            "contribution_score": 486.93
+          },
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.63
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 306.58
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T04:00:10.703Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": -6.06,
+      "move_30min": -3.13,
+      "label": "RODA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.99
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.59
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:30:10.689Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "WMUU",
+      "name": "Widodo Makmur Unggas Tbk.",
+      "change_pct": 24.39,
+      "move_30min": 15.91,
+      "label": "WMUU +15.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 24.39,
+            "contribution_score": 467.73
+          },
+          {
+            "ticker": "BBHI",
+            "change_pct": 19.49,
+            "contribution_score": 298.41
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 16.24,
+            "contribution_score": 239.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:30:10.689Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GIAA",
+      "name": "PT. Garuda Indonesia (Persero) Tbk",
+      "change_pct": -6.12,
+      "move_30min": -4.17,
+      "label": "GIAA -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BTEK",
+            "change_pct": -9.09,
+            "contribution_score": -132.99
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.59
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.16
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:30:10.689Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": 2.27,
+      "move_30min": -3.74,
+      "label": "OMRE -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 24.39,
+            "contribution_score": 467.73
+          },
+          {
+            "ticker": "BBHI",
+            "change_pct": 19.49,
+            "contribution_score": 298.41
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 16.24,
+            "contribution_score": 239.9
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:30:10.689Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
