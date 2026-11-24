@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T08:30:10.689Z",
+  "generated_at": "2026-11-24T08:45:11.103Z",
   "events": [
     {
       "type": "rapid_up",
@@ -9764,49 +9764,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "OMRE",
-      "name": "PT Indonesia Prima Property Tbk",
-      "change_pct": 2.27,
-      "move_30min": -3.74,
-      "label": "OMRE -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "WMUU",
-            "change_pct": 24.39,
-            "contribution_score": 467.73
-          },
-          {
-            "ticker": "BBHI",
-            "change_pct": 19.49,
-            "contribution_score": 298.41
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": 16.24,
-            "contribution_score": 239.9
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-24T08:30:10.689Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "NELY",
       "name": "PT Pelayaran Nelly Dwi Putri Tbk",
       "change_pct": 12.35,
@@ -9892,6 +9849,49 @@
       "summary": null
     },
     {
+      "type": "rapid_down",
+      "ticker": "OMRE",
+      "name": "PT Indonesia Prima Property Tbk",
+      "change_pct": -2.84,
+      "move_30min": -5,
+      "label": "OMRE -5.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.66
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.28
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -104.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_up",
       "ticker": "TAXI",
       "name": "PT Express Transindo Utama Tbk",
@@ -9913,24 +9913,24 @@
         "tickers": [
           {
             "ticker": "WMUU",
-            "change_pct": 24.39,
-            "contribution_score": 467.73
-          },
-          {
-            "ticker": "BBHI",
-            "change_pct": 19.49,
-            "contribution_score": 298.41
+            "change_pct": 21.95,
+            "contribution_score": 424.45
           },
           {
             "ticker": "CITY",
-            "change_pct": 16.24,
-            "contribution_score": 239.9
+            "change_pct": 15.38,
+            "contribution_score": 226.87
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 12.94,
+            "contribution_score": 194.19
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-24T08:30:10.689Z",
+      "detected_at": "2026-11-24T08:45:11.103Z",
       "status": "active",
       "summary": null
     },
@@ -9955,25 +9955,240 @@
         ],
         "tickers": [
           {
-            "ticker": "BTEK",
-            "change_pct": -9.09,
-            "contribution_score": -132.99
-          },
-          {
             "ticker": "BRPT",
             "change_pct": -6.85,
-            "contribution_score": -113.59
+            "contribution_score": -113.66
           },
           {
             "ticker": "HRME",
             "change_pct": -6.67,
-            "contribution_score": -112.16
+            "contribution_score": -112.28
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -104.34
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-24T08:30:10.689Z",
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": -3.7,
+      "move_30min": -3.7,
+      "label": "GOTO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.66
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.28
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -104.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBHI",
+      "name": "PT Allo Bank Indonesia Tbk",
+      "change_pct": 6.78,
+      "move_30min": -11.27,
+      "label": "BBHI -11.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 21.95,
+            "contribution_score": 424.45
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 15.38,
+            "contribution_score": 226.87
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 12.94,
+            "contribution_score": 194.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "PURA -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.66
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.28
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -104.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TARA",
+      "name": "TARA",
+      "change_pct": -5.41,
+      "move_30min": -5.41,
+      "label": "TARA -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.85,
+            "contribution_score": -113.66
+          },
+          {
+            "ticker": "HRME",
+            "change_pct": -6.67,
+            "contribution_score": -112.28
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -104.34
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "ATIC",
+      "name": "ATIC",
+      "change_pct": 10.94,
+      "move_30min": 7.58,
+      "label": "ATIC +7.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "WMUU",
+            "change_pct": 21.95,
+            "contribution_score": 424.45
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": 15.38,
+            "contribution_score": 226.87
+          },
+          {
+            "ticker": "NELY",
+            "change_pct": 12.94,
+            "contribution_score": 194.19
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T08:45:11.103Z",
       "status": "active",
       "summary": null
     }
