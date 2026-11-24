@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-24T03:30:10.583Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "76% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.6
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 305.55
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.46,
+            "contribution_score": 289.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T03:30:10.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "INPS",
+      "name": "Indah Prakasa Sentosa Tbk.",
+      "change_pct": 9.86,
+      "move_30min": 9.86,
+      "label": "INPS +9.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.6
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 305.55
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.46,
+            "contribution_score": 289.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T03:30:10.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BOGA",
+      "name": "Apollo Global Interactive Tbk.",
+      "change_pct": 0,
+      "move_30min": -5.66,
+      "label": "BOGA -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.6
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 305.55
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.46,
+            "contribution_score": 289.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T03:30:10.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": 3.57,
+      "move_30min": 8.41,
+      "label": "BBLD +8.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BBHI",
+            "change_pct": 24.58,
+            "contribution_score": 371.6
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": 17.07,
+            "contribution_score": 305.55
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": 16.46,
+            "contribution_score": 289.28
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T03:30:10.583Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": -1.61,
+      "move_30min": -3.17,
+      "label": "KOTA -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.57,
+            "contribution_score": -103.02
+          },
+          {
+            "ticker": "AMRT",
+            "change_pct": -6.79,
+            "contribution_score": -96.81
+          },
+          {
+            "ticker": "PNSE",
+            "change_pct": -6.62,
+            "contribution_score": -69.83
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-24T03:30:10.583Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
