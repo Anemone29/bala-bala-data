@@ -1,4 +1,209 @@
 {
   "generated_at": "2026-11-25T07:15:05.849Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "100% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "FASW",
+            "change_pct": 2.59,
+            "contribution_score": 5.57
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T02:00:45.338Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MICE",
+      "name": "Multi Indocitra Tbk",
+      "change_pct": 1.76,
+      "move_30min": -4.15,
+      "label": "MICE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 28.8,
+            "contribution_score": 444.1
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.88
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 19.27,
+            "contribution_score": 223.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:15:05.849Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BUMI",
+      "name": "PT Bumi Resources Tbk",
+      "change_pct": -3.88,
+      "move_30min": -3.13,
+      "label": "BUMI -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.46,
+            "contribution_score": -175.32
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -134.78
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -9.02,
+            "contribution_score": -130.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:15:05.849Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 1.89,
+      "move_30min": -6.9,
+      "label": "KKES -6.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 28.8,
+            "contribution_score": 444.1
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.88
+          },
+          {
+            "ticker": "SHID",
+            "change_pct": 19.27,
+            "contribution_score": 223.4
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:15:05.849Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPA",
+      "name": "PT Bekasi Asri Pemula Tbk",
+      "change_pct": -1.2,
+      "move_30min": -4.65,
+      "label": "BAPA -4.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRMS",
+            "change_pct": -10.46,
+            "contribution_score": -175.32
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -134.78
+          },
+          {
+            "ticker": "DSSA",
+            "change_pct": -9.02,
+            "contribution_score": -130.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:15:05.849Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
