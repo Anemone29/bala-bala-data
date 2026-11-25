@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:45:06.113Z",
+  "generated_at": "2026-11-25T07:00:06.272Z",
   "events": [
     {
       "type": "breadth_up",
@@ -5668,49 +5668,6 @@
       "summary": null
     },
     {
-      "type": "rapid_up",
-      "ticker": "TAXI",
-      "name": "PT Express Transindo Utama Tbk",
-      "change_pct": 11.11,
-      "move_30min": 11.11,
-      "label": "TAXI +11.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "CITY",
-            "change_pct": 30.4,
-            "contribution_score": 466.7
-          },
-          {
-            "ticker": "VOKS",
-            "change_pct": 25,
-            "contribution_score": 347.27
-          },
-          {
-            "ticker": "TAXI",
-            "change_pct": 11.11,
-            "contribution_score": 175.12
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-25T06:45:06.113Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_down",
       "ticker": "VIVA",
       "name": "PT Visi Media Asia Tbk",
@@ -5798,49 +5755,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ASMI",
-      "name": "ASMI",
-      "change_pct": -4.55,
-      "move_30min": -4.55,
-      "label": "ASMI -4.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BAPI",
-            "change_pct": -11.76,
-            "contribution_score": -134.31
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -7.14,
-            "contribution_score": -106.05
-          },
-          {
-            "ticker": "AKKU",
-            "change_pct": -6.85,
-            "contribution_score": -101.72
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-25T06:45:06.113Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "IPTV",
       "name": "PT MNC Vision Networks Tbk",
       "change_pct": -5.88,
@@ -5883,6 +5797,92 @@
       "summary": null
     },
     {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 11.11,
+      "move_30min": 11.11,
+      "label": "TAXI +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "ASMI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -134.31
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -6,
+            "contribution_score": -100.9
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -6.9,
+            "contribution_score": -98.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "BAPI",
       "name": "BAPI",
@@ -5908,20 +5908,20 @@
             "contribution_score": -134.31
           },
           {
-            "ticker": "PPRO",
-            "change_pct": -7.14,
-            "contribution_score": -106.05
+            "ticker": "WMUU",
+            "change_pct": -6,
+            "contribution_score": -100.9
           },
           {
-            "ticker": "AKKU",
-            "change_pct": -6.85,
-            "contribution_score": -101.72
+            "ticker": "TRON",
+            "change_pct": -6.9,
+            "contribution_score": -98.48
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-25T06:45:06.113Z",
+      "detected_at": "2026-11-25T07:00:06.272Z",
       "status": "active",
       "summary": null
     },
@@ -5930,8 +5930,8 @@
       "ticker": "POLU",
       "name": "POLU",
       "change_pct": 13,
-      "move_30min": -3.95,
-      "label": "POLU -3.9% dalam 30 menit",
+      "move_30min": -5.28,
+      "label": "POLU -5.3% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -5948,23 +5948,23 @@
           {
             "ticker": "CITY",
             "change_pct": 30.4,
-            "contribution_score": 466.7
+            "contribution_score": 468.19
           },
           {
             "ticker": "VOKS",
             "change_pct": 25,
-            "contribution_score": 347.27
+            "contribution_score": 347.63
           },
           {
-            "ticker": "TAXI",
-            "change_pct": 11.11,
-            "contribution_score": 175.12
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-25T06:45:06.113Z",
+      "detected_at": "2026-11-25T07:00:06.272Z",
       "status": "active",
       "summary": null
     },
@@ -5991,23 +5991,324 @@
           {
             "ticker": "CITY",
             "change_pct": 30.4,
-            "contribution_score": 466.7
+            "contribution_score": 468.19
           },
           {
             "ticker": "VOKS",
             "change_pct": 25,
-            "contribution_score": 347.27
+            "contribution_score": 347.63
           },
           {
-            "ticker": "TAXI",
-            "change_pct": 11.11,
-            "contribution_score": 175.12
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-25T06:45:06.113Z",
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "KOTA",
+      "name": "KOTA",
+      "change_pct": 5.08,
+      "move_30min": -3.13,
+      "label": "KOTA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "GOTO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "KKES",
+      "name": "Kusuma Kemindo Sentosa Tbk.",
+      "change_pct": 13.21,
+      "move_30min": 7.14,
+      "label": "KKES +7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "PPRO",
+      "name": "PT Pembangunan Perumahan Properti Tbk",
+      "change_pct": 0,
+      "move_30min": 7.69,
+      "label": "PPRO +7.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": -3.33,
+      "move_30min": -3.33,
+      "label": "WEGE -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -134.31
+          },
+          {
+            "ticker": "WMUU",
+            "change_pct": -6,
+            "contribution_score": -100.9
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -6.9,
+            "contribution_score": -98.48
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MICE",
+      "name": "Multi Indocitra Tbk",
+      "change_pct": 1.76,
+      "move_30min": -4.15,
+      "label": "MICE -4.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 30.4,
+            "contribution_score": 468.19
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 25,
+            "contribution_score": 347.63
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 16.24,
+            "contribution_score": 234.31
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T07:00:06.272Z",
       "status": "active",
       "summary": null
     }
