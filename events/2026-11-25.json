@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:15:05.785Z",
+  "generated_at": "2026-11-25T08:30:05.851Z",
   "events": [
     {
       "type": "breadth_up",
@@ -7732,48 +7732,6 @@
       "summary": null
     },
     {
-      "type": "breadth_down",
-      "ticker": "BREADTH",
-      "name": "Pelebaran penurunan pasar",
-      "change_pct": -72.8,
-      "label": "72% saham melemah",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "BRMS",
-            "change_pct": -6.9,
-            "contribution_score": -117.45
-          },
-          {
-            "ticker": "PPRO",
-            "change_pct": -7.14,
-            "contribution_score": -106.96
-          },
-          {
-            "ticker": "AKKU",
-            "change_pct": -6.85,
-            "contribution_score": -102.22
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-25T08:15:05.785Z",
-      "status": "active",
-      "summary": null
-    },
-    {
       "type": "rapid_up",
       "ticker": "DART",
       "name": "DART",
@@ -8161,6 +8119,48 @@
       "summary": null
     },
     {
+      "type": "breadth_down",
+      "ticker": "BREADTH",
+      "name": "Pelebaran penurunan pasar",
+      "change_pct": -72.8,
+      "label": "72% saham melemah",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
       "type": "rapid_down",
       "ticker": "PUDP",
       "name": "PUDP",
@@ -8183,23 +8183,367 @@
           {
             "ticker": "CITY",
             "change_pct": 34.4,
-            "contribution_score": 541.87
+            "contribution_score": 542.08
           },
           {
             "ticker": "DART",
-            "change_pct": 26.5,
-            "contribution_score": 415.55
+            "change_pct": 31.62,
+            "contribution_score": 504.66
           },
           {
             "ticker": "VOKS",
-            "change_pct": 25,
-            "contribution_score": 350.02
+            "change_pct": 24.44,
+            "contribution_score": 343.02
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-25T08:15:05.785Z",
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "TAXI",
+      "name": "PT Express Transindo Utama Tbk",
+      "change_pct": 11.11,
+      "move_30min": 11.11,
+      "label": "TAXI +11.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 34.4,
+            "contribution_score": 542.08
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 31.62,
+            "contribution_score": 504.66
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 24.44,
+            "contribution_score": 343.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CDIA",
+      "name": "PT Chandra Daya Investasi Tbk",
+      "change_pct": -5.35,
+      "move_30min": -3.28,
+      "label": "CDIA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -11.76,
+      "move_30min": -6.25,
+      "label": "BAPI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RODA",
+      "name": "PT Pikko Land Development Tbk",
+      "change_pct": 0,
+      "move_30min": -3.13,
+      "label": "RODA -3.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 34.4,
+            "contribution_score": 542.08
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 31.62,
+            "contribution_score": 504.66
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 24.44,
+            "contribution_score": 343.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -2.17,
+      "move_30min": -3.23,
+      "label": "TYRE -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "AKSI",
+      "name": "AKSI",
+      "change_pct": 0,
+      "move_30min": -4.58,
+      "label": "AKSI -4.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "CITY",
+            "change_pct": 34.4,
+            "contribution_score": 542.08
+          },
+          {
+            "ticker": "DART",
+            "change_pct": 31.62,
+            "contribution_score": 504.66
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 24.44,
+            "contribution_score": 343.02
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SAMF",
+      "name": "PT Saraswanti Anugerah Makmur, Tbk",
+      "change_pct": -4.48,
+      "move_30min": -3.03,
+      "label": "SAMF -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BSWD",
+      "name": "PT Bank Of India Indonesia Tbk",
+      "change_pct": -6.26,
+      "move_30min": -4.49,
+      "label": "BSWD -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAPI",
+            "change_pct": -11.76,
+            "contribution_score": -147.05
+          },
+          {
+            "ticker": "SNLK",
+            "change_pct": -9.41,
+            "contribution_score": -110.04
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": -6.62,
+            "contribution_score": -107.8
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-25T08:30:05.851Z",
       "status": "active",
       "summary": null
     }
