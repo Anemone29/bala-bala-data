@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-26T02:30:06.030Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "75% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.24,
+            "contribution_score": 175.05
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 145.25
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 7.98,
+            "contribution_score": 130.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T02:30:06.030Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BRPT",
+      "name": "PT Barito Pacific Tbk",
+      "change_pct": 10.24,
+      "move_30min": 10.24,
+      "label": "BRPT +10.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.24,
+            "contribution_score": 175.05
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 145.25
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 7.98,
+            "contribution_score": 130.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T02:30:06.030Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "CDIA",
+      "name": "PT Chandra Daya Investasi Tbk",
+      "change_pct": 7.98,
+      "move_30min": 7.98,
+      "label": "CDIA +8.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.24,
+            "contribution_score": 175.05
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 145.25
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 7.98,
+            "contribution_score": 130.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T02:30:06.030Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "BTEK",
+      "name": "PT Bumi Teknokultura Unggul Tbk",
+      "change_pct": 10,
+      "move_30min": 10,
+      "label": "BTEK +10.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": 10.24,
+            "contribution_score": 175.05
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 145.25
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 7.98,
+            "contribution_score": 130.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T02:30:06.030Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CITY",
+      "name": "CITY",
+      "change_pct": -3.57,
+      "move_30min": -3.57,
+      "label": "CITY -3.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -83.59
+          },
+          {
+            "ticker": "AKKU",
+            "change_pct": -5.88,
+            "contribution_score": -76.43
+          },
+          {
+            "ticker": "BAPI",
+            "change_pct": -6.25,
+            "contribution_score": -61.85
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T02:30:06.030Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
