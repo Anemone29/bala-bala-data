@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T07:15:05.741Z",
+  "generated_at": "2026-11-26T07:30:05.859Z",
   "events": [
     {
       "type": "rapid_up",
@@ -4991,49 +4991,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "PURA",
-      "name": "PT Surya Pertiwi Tbk",
-      "change_pct": -7.14,
-      "move_30min": -3.7,
-      "label": "PURA -3.7% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -12.97,
-            "contribution_score": -200.49
-          },
-          {
-            "ticker": "ISAT",
-            "change_pct": -6.41,
-            "contribution_score": -95.23
-          },
-          {
-            "ticker": "NETV",
-            "change_pct": -7.41,
-            "contribution_score": -91.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T07:15:05.741Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ISAT",
       "name": "PT Indosat Ooredoo Hutchison Tbk",
       "change_pct": -6.41,
@@ -5066,49 +5023,6 @@
             "ticker": "NETV",
             "change_pct": -7.41,
             "contribution_score": -91.14
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T07:15:05.741Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
-      "ticker": "IPTV",
-      "name": "PT MNC Vision Networks Tbk",
-      "change_pct": 25,
-      "move_30min": 17.65,
-      "label": "IPTV +17.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "IPTV",
-            "change_pct": 25,
-            "contribution_score": 394.18
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 24.8,
-            "contribution_score": 369.84
-          },
-          {
-            "ticker": "SAFE",
-            "change_pct": 19.35,
-            "contribution_score": 252.46
           }
         ],
         "foreign_flow": null,
@@ -5330,6 +5244,393 @@
         "macro_active": null
       },
       "detected_at": "2026-11-26T07:15:05.741Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -7.14,
+      "move_30min": -3.7,
+      "label": "PURA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -118.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -98.33
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -91.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 25,
+      "move_30min": 12.5,
+      "label": "IPTV +12.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 370.93
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 14.44,
+            "contribution_score": 214.32
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 16.13,
+            "contribution_score": 210.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "GOTO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 370.93
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 14.44,
+            "contribution_score": 214.32
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 16.13,
+            "contribution_score": 210.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -8,
+      "move_30min": -4.17,
+      "label": "BAUT -4.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -118.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -98.33
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -91.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBKP",
+      "name": "PT Bank KB Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.03,
+      "label": "BBKP -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 370.93
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 14.44,
+            "contribution_score": 214.32
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 16.13,
+            "contribution_score": 210.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "WEGE",
+      "name": "WEGE",
+      "change_pct": 0,
+      "move_30min": -3.33,
+      "label": "WEGE -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 370.93
+          },
+          {
+            "ticker": "VOKS",
+            "change_pct": 14.44,
+            "contribution_score": 214.32
+          },
+          {
+            "ticker": "SAFE",
+            "change_pct": 16.13,
+            "contribution_score": 210.43
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PNBS",
+      "name": "PT Bank Panin Dubai Syariah Tbk",
+      "change_pct": -5.41,
+      "move_30min": -5.41,
+      "label": "PNBS -5.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -118.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -98.33
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -91.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "RDTX",
+      "name": "PT Roda Vivatex Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "RDTX -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -118.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -98.33
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -91.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BBLD",
+      "name": "BBLD",
+      "change_pct": -0.89,
+      "move_30min": -3.48,
+      "label": "BBLD -3.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -118.4
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -98.33
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -91.15
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T07:30:05.859Z",
       "status": "active",
       "summary": null
     }
