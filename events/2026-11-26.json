@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T04:15:05.908Z",
+  "generated_at": "2026-11-26T04:30:05.970Z",
   "events": [
     {
       "type": "rapid_up",
@@ -3314,92 +3314,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "BAUT",
-      "name": "PT Mitra Pinasthika Mustika Tbk",
-      "change_pct": 0,
-      "move_30min": -4,
-      "label": "BAUT -4.0% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "VOKS",
-            "change_pct": 14.44,
-            "contribution_score": 210.54
-          },
-          {
-            "ticker": "TRIS",
-            "change_pct": 12.59,
-            "contribution_score": 170.52
-          },
-          {
-            "ticker": "BTEK",
-            "change_pct": 10,
-            "contribution_score": 152.71
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T04:15:05.908Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "DMMX",
-      "name": "PT Digital Mediatama Maxima Tbk",
-      "change_pct": -3.28,
-      "move_30min": -4.07,
-      "label": "DMMX -4.1% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -6.36,
-            "contribution_score": -97.77
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": -6.55,
-            "contribution_score": -88.09
-          },
-          {
-            "ticker": "PURA",
-            "change_pct": -7.14,
-            "contribution_score": -87.09
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T04:15:05.908Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "ARTA",
       "name": "PT Arthavest Tbk",
       "change_pct": -6.85,
@@ -3443,11 +3357,11 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "ZONE",
-      "name": "Mega Perintis Tbk.",
-      "change_pct": -6.56,
-      "move_30min": -6.56,
-      "label": "ZONE -6.6% dalam 30 menit",
+      "ticker": "BAUT",
+      "name": "PT Mitra Pinasthika Mustika Tbk",
+      "change_pct": -8,
+      "move_30min": -4.17,
+      "label": "BAUT -4.2% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -3462,25 +3376,326 @@
         ],
         "tickers": [
           {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
             "ticker": "TRIN",
             "change_pct": -6.36,
-            "contribution_score": -97.77
+            "contribution_score": -97.84
           },
           {
-            "ticker": "CITY",
-            "change_pct": -6.55,
-            "contribution_score": -88.09
-          },
-          {
-            "ticker": "PURA",
-            "change_pct": -7.14,
-            "contribution_score": -87.09
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-26T04:15:05.908Z",
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "DMMX",
+      "name": "PT Digital Mediatama Maxima Tbk",
+      "change_pct": -3.28,
+      "move_30min": -6.25,
+      "label": "DMMX -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VOKS",
+            "change_pct": 18.89,
+            "contribution_score": 280.57
+          },
+          {
+            "ticker": "RAAM",
+            "change_pct": 10.71,
+            "contribution_score": 153.28
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 152.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ZONE",
+      "name": "Mega Perintis Tbk.",
+      "change_pct": -6.56,
+      "move_30min": -5.74,
+      "label": "ZONE -5.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.84
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -1.04,
+      "move_30min": -12.04,
+      "label": "MCAS -12.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.84
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "NETV",
+      "name": "PT MDTV Media Technologies Tbk",
+      "change_pct": -7.41,
+      "move_30min": -3.85,
+      "label": "NETV -3.8% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.84
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "STAR",
+      "name": "STAR",
+      "change_pct": -1.61,
+      "move_30min": -3.17,
+      "label": "STAR -3.2% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.84
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "SIPD -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VOKS",
+            "change_pct": 18.89,
+            "contribution_score": 280.57
+          },
+          {
+            "ticker": "RAAM",
+            "change_pct": 10.71,
+            "contribution_score": 153.28
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 152.75
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "POLU",
+      "name": "POLU",
+      "change_pct": -2.57,
+      "move_30min": -3.67,
+      "label": "POLU -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BAUT",
+            "change_pct": -8,
+            "contribution_score": -105.85
+          },
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.84
+          },
+          {
+            "ticker": "NETV",
+            "change_pct": -7.41,
+            "contribution_score": -89.59
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:30:05.970Z",
       "status": "active",
       "summary": null
     }
