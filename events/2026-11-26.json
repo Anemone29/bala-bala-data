@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:30:05.910Z",
+  "generated_at": "2026-11-26T08:45:05.653Z",
   "events": [
     {
       "type": "rapid_up",
@@ -6367,49 +6367,6 @@
     },
     {
       "type": "rapid_down",
-      "ticker": "SAFE",
-      "name": "SAFE",
-      "change_pct": 9.68,
-      "move_30min": -5.56,
-      "label": "SAFE -5.6% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "SAPX",
-            "change_pct": 24.8,
-            "contribution_score": 371.08
-          },
-          {
-            "ticker": "TOBA",
-            "change_pct": 17.58,
-            "contribution_score": 279.05
-          },
-          {
-            "ticker": "IPTV",
-            "change_pct": 12.5,
-            "contribution_score": 201.38
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T08:15:11.356Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
       "ticker": "BBSI",
       "name": "PT Bank Bisnis Internasional Tbk",
       "change_pct": -2.35,
@@ -6711,49 +6668,6 @@
     },
     {
       "type": "rapid_up",
-      "ticker": "OASA",
-      "name": "PT Maharaksa Biru Energi Tbk",
-      "change_pct": 30.77,
-      "move_30min": 27.5,
-      "label": "OASA +27.5% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "OASA",
-            "change_pct": 30.77,
-            "contribution_score": 519.03
-          },
-          {
-            "ticker": "TOBA",
-            "change_pct": 24.85,
-            "contribution_score": 421.06
-          },
-          {
-            "ticker": "SAPX",
-            "change_pct": 24.8,
-            "contribution_score": 371.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T08:30:05.910Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_up",
       "ticker": "PSDN",
       "name": "PT Prasidha Aneka Niaga Tbk",
       "change_pct": 8,
@@ -6829,49 +6743,6 @@
             "ticker": "SAPX",
             "change_pct": 24.8,
             "contribution_score": 371.11
-          }
-        ],
-        "foreign_flow": null,
-        "macro_active": null
-      },
-      "detected_at": "2026-11-26T08:30:05.910Z",
-      "status": "active",
-      "summary": null
-    },
-    {
-      "type": "rapid_down",
-      "ticker": "BAPI",
-      "name": "BAPI",
-      "change_pct": -6.25,
-      "move_30min": -6.25,
-      "label": "BAPI -6.3% dalam 30 menit",
-      "drivers": {
-        "sectors": [
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          },
-          {
-            "avg_change_pct": 0
-          }
-        ],
-        "tickers": [
-          {
-            "ticker": "TRIN",
-            "change_pct": -12.97,
-            "contribution_score": -200.97
-          },
-          {
-            "ticker": "ISAT",
-            "change_pct": -6.76,
-            "contribution_score": -103.66
-          },
-          {
-            "ticker": "CITY",
-            "change_pct": -6.55,
-            "contribution_score": -88.19
           }
         ],
         "foreign_flow": null,
@@ -6969,6 +6840,135 @@
     },
     {
       "type": "rapid_down",
+      "ticker": "SAFE",
+      "name": "SAFE",
+      "change_pct": 9.68,
+      "move_30min": -5.88,
+      "label": "SAFE -5.9% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OASA",
+            "change_pct": 27.56,
+            "contribution_score": 471.41
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 24.85,
+            "contribution_score": 422.82
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 371.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_up",
+      "ticker": "OASA",
+      "name": "PT Maharaksa Biru Energi Tbk",
+      "change_pct": 30.77,
+      "move_30min": 18.45,
+      "label": "OASA +18.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OASA",
+            "change_pct": 27.56,
+            "contribution_score": 471.41
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 24.85,
+            "contribution_score": 422.82
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 371.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BAPI",
+      "name": "BAPI",
+      "change_pct": -6.25,
+      "move_30min": -6.25,
+      "label": "BAPI -6.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
       "ticker": "TRUS",
       "name": "Trust Finance Indonesia Tbk",
       "change_pct": 0.57,
@@ -6989,24 +6989,24 @@
         "tickers": [
           {
             "ticker": "OASA",
-            "change_pct": 30.77,
-            "contribution_score": 519.03
+            "change_pct": 27.56,
+            "contribution_score": 471.41
           },
           {
             "ticker": "TOBA",
             "change_pct": 24.85,
-            "contribution_score": 421.06
+            "contribution_score": 422.82
           },
           {
             "ticker": "SAPX",
             "change_pct": 24.8,
-            "contribution_score": 371.11
+            "contribution_score": 371.13
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-26T08:30:05.910Z",
+      "detected_at": "2026-11-26T08:45:05.653Z",
       "status": "active",
       "summary": null
     },
@@ -7014,9 +7014,9 @@
       "type": "rapid_down",
       "ticker": "PORT",
       "name": "PT Nusantara Pelabuhan Handal Tbk",
-      "change_pct": -3.37,
-      "move_30min": -3.37,
-      "label": "PORT -3.4% dalam 30 menit",
+      "change_pct": -4.49,
+      "move_30min": -4.49,
+      "label": "PORT -4.5% dalam 30 menit",
       "drivers": {
         "sectors": [
           {
@@ -7033,23 +7033,367 @@
           {
             "ticker": "TRIN",
             "change_pct": -12.97,
-            "contribution_score": -200.97
+            "contribution_score": -201.02
           },
           {
             "ticker": "ISAT",
             "change_pct": -6.76,
-            "contribution_score": -103.66
+            "contribution_score": -104.02
           },
           {
-            "ticker": "CITY",
-            "change_pct": -6.55,
-            "contribution_score": -88.19
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
           }
         ],
         "foreign_flow": null,
         "macro_active": null
       },
-      "detected_at": "2026-11-26T08:30:05.910Z",
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "GOTO",
+      "name": "PT GoTo Gojek Tokopedia Tbk",
+      "change_pct": 0,
+      "move_30min": -3.7,
+      "label": "GOTO -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OASA",
+            "change_pct": 27.56,
+            "contribution_score": 471.41
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 24.85,
+            "contribution_score": 422.82
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 371.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "IPTV",
+      "name": "PT MNC Vision Networks Tbk",
+      "change_pct": 6.25,
+      "move_30min": -5.56,
+      "label": "IPTV -5.6% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OASA",
+            "change_pct": 27.56,
+            "contribution_score": 471.41
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 24.85,
+            "contribution_score": 422.82
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 371.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "PURA",
+      "name": "PT Surya Pertiwi Tbk",
+      "change_pct": -7.14,
+      "move_30min": -3.7,
+      "label": "PURA -3.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ANDI",
+      "name": "PT Andira Agro, Tbk",
+      "change_pct": 0,
+      "move_30min": -3.45,
+      "label": "ANDI -3.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "OASA",
+            "change_pct": 27.56,
+            "contribution_score": 471.41
+          },
+          {
+            "ticker": "TOBA",
+            "change_pct": 24.85,
+            "contribution_score": 422.82
+          },
+          {
+            "ticker": "SAPX",
+            "change_pct": 24.8,
+            "contribution_score": 371.13
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "ASMI",
+      "name": "ASMI",
+      "change_pct": -4.55,
+      "move_30min": -4.55,
+      "label": "ASMI -4.5% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "CPRO",
+      "name": "PT Central Proteina Prima Tbk",
+      "change_pct": -3.03,
+      "move_30min": -3.03,
+      "label": "CPRO -3.0% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "BABP",
+      "name": "PT Bank MNC Internasional Tbk",
+      "change_pct": -4.35,
+      "move_30min": -4.35,
+      "label": "BABP -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TYRE",
+      "name": "King Tire Indonesia Tbk.",
+      "change_pct": -5.43,
+      "move_30min": -4.4,
+      "label": "TYRE -4.4% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -12.97,
+            "contribution_score": -201.02
+          },
+          {
+            "ticker": "ISAT",
+            "change_pct": -6.76,
+            "contribution_score": -104.02
+          },
+          {
+            "ticker": "PURA",
+            "change_pct": -7.14,
+            "contribution_score": -96.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T08:45:05.653Z",
       "status": "active",
       "summary": null
     }
