@@ -1,4 +1,219 @@
 {
   "generated_at": "2026-11-26T04:45:05.897Z",
-  "events": []
+  "events": [
+    {
+      "type": "breadth_up",
+      "ticker": "BREADTH",
+      "name": "Pelebaran kenaikan pasar",
+      "change_pct": 100,
+      "label": "73% saham menguat",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "BRPT",
+            "change_pct": 13.39,
+            "contribution_score": 237.98
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 148.11
+          },
+          {
+            "ticker": "CDIA",
+            "change_pct": 8.51,
+            "contribution_score": 142.62
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T03:00:06.180Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MCAS",
+      "name": "PT M Cash Integrasi Tbk",
+      "change_pct": -4.17,
+      "move_30min": -10.68,
+      "label": "MCAS -10.7% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.87
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": -6.55,
+            "contribution_score": -88.1
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -6.17,
+            "contribution_score": -86.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:45:05.897Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "SIPD",
+      "name": "PT Sreeya Sewu Indonesia Tbk",
+      "change_pct": 0,
+      "move_30min": -7.14,
+      "label": "SIPD -7.1% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VOKS",
+            "change_pct": 15.56,
+            "contribution_score": 230.16
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 152.98
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 6.3,
+            "contribution_score": 111.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:45:05.897Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "MDIA",
+      "name": "PT Intermedia Capital Tbk",
+      "change_pct": -4.84,
+      "move_30min": -3.28,
+      "label": "MDIA -3.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "TRIN",
+            "change_pct": -6.36,
+            "contribution_score": -97.87
+          },
+          {
+            "ticker": "CITY",
+            "change_pct": -6.55,
+            "contribution_score": -88.1
+          },
+          {
+            "ticker": "TRON",
+            "change_pct": -6.17,
+            "contribution_score": -86.14
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:45:05.897Z",
+      "status": "active",
+      "summary": null
+    },
+    {
+      "type": "rapid_down",
+      "ticker": "TRIS",
+      "name": "PT Trisula International Tbk",
+      "change_pct": 7.69,
+      "move_30min": -4.35,
+      "label": "TRIS -4.3% dalam 30 menit",
+      "drivers": {
+        "sectors": [
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          },
+          {
+            "avg_change_pct": 0
+          }
+        ],
+        "tickers": [
+          {
+            "ticker": "VOKS",
+            "change_pct": 15.56,
+            "contribution_score": 230.16
+          },
+          {
+            "ticker": "BTEK",
+            "change_pct": 10,
+            "contribution_score": 152.98
+          },
+          {
+            "ticker": "BRPT",
+            "change_pct": 6.3,
+            "contribution_score": 111.37
+          }
+        ],
+        "foreign_flow": null,
+        "macro_active": null
+      },
+      "detected_at": "2026-11-26T04:45:05.897Z",
+      "status": "active",
+      "summary": null
+    }
+  ]
 }
